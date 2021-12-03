@@ -1,4 +1,4 @@
-Carson Davis
+# Carson Davis
 
 👋 Heyyo, I'm Carson Davis!
 
@@ -9,12 +9,12 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨 When I'm not working, I like banjo.
 
-Favorite quote
+## Favorite quote
 
 "If you build a man a fire, he will be warm for a day...
 If you set a man on fire, he will be warm for the rest of his life" --Terry Pratchet
 
-Countries visited
+## Countries visited
 
 Austalia
 The Kingdom Tonga
