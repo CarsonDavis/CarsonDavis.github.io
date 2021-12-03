@@ -11,9 +11,16 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 Favorite quote
 
-Quote
+"If you build a man a fire, he will be warm for a day...
+If you set a man on fire, he will be warm for the rest of his life" --Terry Pratchet
 
 Countries visited
 
-Austailaia
-Tonga
+Austalia
+The Kingdom Tonga
+Latvia
+Costa Rica
+Haiti
+Caymen Islands
+Jamaica
+Germany
