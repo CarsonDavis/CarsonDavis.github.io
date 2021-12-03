@@ -8,3 +8,12 @@ Carson Davis
 At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨 When I'm not working, I like banjo.
+
+Favorite quote
+
+Quote
+
+Countries visited
+
+Austailaia
+Tonga
