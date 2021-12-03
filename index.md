@@ -14,7 +14,13 @@ Favorite quote
 "If you build a man a fire, he will be warm for a day...
 If you set a man on fire, he will be warm for the rest of his life" --Terry Pratchet
 
-States visited
+Countries visited
 
-Tennessee
-Alabama
+Austalia
+The Kingdom Tonga
+Latvia
+Costa Rica
+Haiti
+Caymen Islands
+Jamaica
+Germany
