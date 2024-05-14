@@ -91,7 +91,7 @@ theme_mode: dark # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://made-by-carson-images.s3.amazonaws.com
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://made-by-carson-images.s3.amazonaws.com/slack-image-download-low-res.jpeg
