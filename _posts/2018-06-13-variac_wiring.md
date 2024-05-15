@@ -4,7 +4,7 @@ date: 2018-06-13
 categories: [electronics, variacs]
 tags: [electronics, tools, multimeter, antiques, variacs]
 media_subpath: /variacs/
-description: I analyze the specs and capabilies of my variacs.
+description: I analyze the specs and capabilities of my variacs.
 ---
 
 I've managed to gather a few variacs, including some about which I know very little. In this post I'll go over some of my findings.
