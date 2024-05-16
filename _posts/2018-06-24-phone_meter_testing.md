@@ -6,14 +6,23 @@ tags: [electronics, antiques, repair, multimeter]
 media_subpath: /phone-meter-testing/
 description: Testing an antique Northeast Electronics Corp. Model TTS-28.
 ---
+I wrote some more information about this process on the EEVBlog, and you can find that post here:
 https://www.eevblog.com/forum/repair/northeast-electronics-tts-28-telephone-multimeter-repair-testing-pictures/
 
-![i2zlZjU](i2zlZjU.jpeg)
-Testing a 1K resistor in the x1 range. Meter reads dead on
 
-![oBkWdU1](oBkWdU1.jpeg)
-Testing a 1K resistor in the x100 range. Still very good accuracy.
-A 100K resistor also tested dead on in this range.
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <div>
+    <img src="i2zlZjU.jpeg" alt="i2zlZjU" style="height: auto;">
+    <p style="text-align: center;">Testing a 1K resistor in the x1 range. Meter reads dead on</p>    
+  </div>
+  <div>
+    <img src="oBkWdU1.jpeg" alt="oBkWdU1" style="height: auto;">
+    <p style="text-align: center;">Testing a 1K resistor in the x100 range. Still very good accuracy.
+A 100K resistor also tested dead on in this range.</p>
+  </div>
+</div>
+
 
 ![XjCAFCn](XjCAFCn.jpeg)
 30 volts in the 150 volt range
