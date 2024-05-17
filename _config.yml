@@ -36,10 +36,15 @@ social:
   name: Carson Davis
   # email: example@domain.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/CarsonDavis
-    - https://instagram.com/carsons_cooking
-    - https://goodreads.com/random-programmer
+    - title: GitHub
+      url: https://github.com/CarsonDavis
+      icon: "fab fa-github"
+    - title: Instagram
+      url: https://instagram.com/carsons_cooking
+      icon: "fa-brands fa-instagram"
+    - title: Goodreads
+      url: https://www.goodreads.com/review/list/142587487-random-programmer?shelf=read
+      icon: "fa-brands fa-goodreads"
 
 # Site Verification Settings
 webmaster_verifications:

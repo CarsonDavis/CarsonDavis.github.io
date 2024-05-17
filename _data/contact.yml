@@ -2,9 +2,16 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/CarsonDavis"
 
 - type: instagram
   icon: "fa-brands fa-instagram"
+  url: "https://instagram.com/carsons_cooking"
+
+- title: Goodreads
+  url: https://www.goodreads.com/review/list/142587487-random-programmer?shelf=read
+  icon: "fa-brands fa-goodreads"
+
 
 
 # Uncomment and complete the url below to enable more contact options
