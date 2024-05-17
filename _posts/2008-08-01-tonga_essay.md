@@ -4,7 +4,6 @@ date: 2008-08-01
 last_modified_at: 2024-05-17
 categories: [writing, ancient]
 tags: [essay, tonga, high school]
-media_subpath: /plane-hanger/
 description: Draft of an essay I wrote at some point in high school
 ---
 
