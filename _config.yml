@@ -18,8 +18,7 @@ title: Carson's Crap # the main title
 
 tagline: stuff i learned. stuff i made. # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  I use this site as a way to keep track of my projects and what I learned doing them.
+description: I use this site as a way to keep track of my projects and what I learned doing them.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
