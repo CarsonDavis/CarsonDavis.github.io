@@ -14,9 +14,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Made by Carson # the main title
+title: Carson's Crap # the main title
 
-tagline: ...stuff i made # it will display as the sub-title
+tagline: stuff i learned. stuff i made. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   I use this site as a way to keep track of my projects and what I learned doing them.
@@ -28,7 +28,7 @@ url: "https://carsondavis.github.io"
 github:
   username: CarsonDavis
 
-instagram:
+instagram:a lllll
   username: carsons_cooking
 
 social:
