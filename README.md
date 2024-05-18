@@ -38,6 +38,9 @@ image: 20200213_002700.jpg
 
 ## Running and Debugging
 
+`bundle exec jekyll serve --unpublished`
+
+
 ## Getting Started on a New Computer
 
 ## Prerequisites
