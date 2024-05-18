@@ -2,7 +2,7 @@
 title: Random High School Essay
 date: 2008-08-01
 last_modified_at: 2024-05-17
-categories: [writing, ancient]
+categories: [random, old essays]
 tags: [essay, tonga, high school]
 description: Draft of an essay I wrote at some point in high school
 ---

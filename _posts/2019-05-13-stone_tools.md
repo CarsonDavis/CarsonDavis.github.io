@@ -2,7 +2,7 @@
 title: Stone Tools
 date: 2019-05-13
 last_modified_at: 2024-05-18
-categories: []
+categories: [natural sciences, artifacts]
 tags: []
 media_subpath: /Stone+Tools/
 description: Details on my small collection of old stone tools.

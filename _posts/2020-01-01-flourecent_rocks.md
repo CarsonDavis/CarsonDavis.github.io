@@ -2,7 +2,7 @@
 title: Fluorescent Rocks
 date: 2020-01-02
 last_modified_at: 2024-05-18
-categories: []
+categories: [natural sciences, rocks]
 tags: []
 media_subpath: /Fluorescent+Rocks/
 description: Details on my small collection of fluorescent rocks.

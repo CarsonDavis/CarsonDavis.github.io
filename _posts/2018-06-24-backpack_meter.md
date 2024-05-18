@@ -1,7 +1,7 @@
 ---
 title: Weston Model 772 Analyzer - Backpack Meter
 date: 2018-06-24
-categories: [woodworking, antiques]
+categories: [electronics, antiques]
 tags: [electronics, tools, multimeter, antiques]
 media_subpath: /backpack-meter/
 description: Trying to find a good backpack multi-meter.
