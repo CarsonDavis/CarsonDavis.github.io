@@ -90,5 +90,4 @@ It should be noted that my claim to status of 'knife guy' is not unwarranted. Co
 
 As promised, here is that one minute video that walks through the various designs I made and their pitfalls. Please watch it; I recorded like 5 versions before I got one this concise.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-k7FPJBvV5o?si=bwcfli5QmCW9ONHV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include embed/youtube.html id='-k7FPJBvV5o' %}
