@@ -86,7 +86,7 @@ Here's some pictures me with the perfect human baby and some woman I've never se
 
 Anyway, here's the money shot. Look at how excited he is about his new toy!
 
-It should be noted that my claim to status of 'knife guy' is not unwarranted. Completely unplanned, my sister also conspired to get <i>me</i> a knife, engraved with "Only the best Uncles get promoted to Godfather!" And no, I absolutely did not make a huge deal out of being named [the Godfather]({% link _posts/2023-12-21-godfather.md %}) &#x1F605;. 
+It should be noted that my claim to status of 'knife guy' is not unwarranted. Completely unplanned, my sister also conspired to get <i>me</i> a knife, engraved with "Only the best Uncles get promoted to Godfather!" And no, I absolutely did not make a huge deal out of being named the Godfather &#x1F605;. 
 
 As promised, here is that one minute video that walks through the various designs I made and their pitfalls. Please watch it; I recorded like 5 versions before I got one this concise.
 
