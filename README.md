@@ -1,29 +1,44 @@
-# Chirpy Starter
+# Writing Guide
+I've put together a quick guide to the most common things I need to do on the blog.
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## Post Header
+Each post needs to have some stuff at the top. Not all of it is required. 
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+```
+---
+title: Fluorescent Rocks
+date: 2020-01-02
+last_modified_at: 2024-05-18
+categories: []
+tags: []
+media_subpath: /Fluorescent+Rocks/
+description: Details on my small collection of fluorescent rocks.
+image: 20200213_002700.jpg
+---
+```
+## Links
+### Internal Links
+`[Phone Meter Repair]({% link _posts/2018-06-24-phone_meter.md %})`
+### Simple image links
+`![20240516_225034](Fluorecent+Rocks.jpg)`
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+### Images Side by Side
+```
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <div>
+    <img src="20200206_214655.jpg" alt="white light" style="height: auto;">  
+    <p style="text-align: center;">white light</p>   
+  </div>
+  <div>
+    <img src="20200206_214647.jpg" alt="shortwave" style="height: auto;">
+    <p style="text-align: center;">shortwave</p>   
+  </div>
+</div>
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Running and Debugging
+
+## Getting Started on a New Computer
 
 ## Prerequisites
 
@@ -44,18 +59,3 @@ $ bundle
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
