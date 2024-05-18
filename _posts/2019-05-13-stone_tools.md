@@ -10,7 +10,7 @@ description: Details on my small collection of old stone tools.
 
 ![20240516_225034](20240516_225034.jpg)
 
-Stone tools have always been fascinating to me, and in mid 2019 I came across an estate sale that had a few stones from various archeological digs. My collection comes from 4 total sources, the estate sale, a stone I found myself, a somewhat suspicious ebay seller, and a friend who collected one in the american west. Some of these stones are quite old, and are little more than flaked scrapers, while others are nicely formed points.
+Stone tools are awesome, and I had always wanted a few nice examples but never really pursued it. Then in 2019 I can across an estate sale that had a few stones from various archeological digs, and grabbed a couple from various localities in a few styles. Since then, I've also picked up a couple other random stone tools. Some tools in my collection are quite old and are little more than flaked scrapers, while others are nicely formed points.
 
 Unless otherwise noted, these tools came from the estate of Phillip C. Schupp (1870-1967) Chicago, and were aquired in expeditions prior to 1949.
 
