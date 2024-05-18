@@ -5,7 +5,7 @@ last_modified_at: 2024-05-19
 categories: [crafting, 3d printing]
 tags: []
 media_subpath: /babys_first_cleaver/
-description: Build process for a fun gift for my nephew.
+description: A totally-not-dangerous gift for a newborn infant child.
 image: signal-2023-12-22-224833_002.jpg
 published: true
 ---
