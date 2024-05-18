@@ -10,9 +10,9 @@ description: Details on my small collection of old stone tools.
 
 ![20240516_225034](20240516_225034.jpg)
 
-Stone tools are awesome, and I had always wanted a few nice examples but never really pursued it. Then in 2019 I can across an estate sale that had a few stones from various archeological digs, and grabbed a couple from various localities in a few styles. Since then, I've also picked up a couple other random stone tools. Some tools in my collection are quite old and are little more than flaked scrapers, while others are nicely formed points.
+Stone tools are awesome, and I had always wanted a few nice examples but never really pursued it. Then in 2019 I came across an estate sale that had a few stones from various archeological digs, and grabbed a couple from various localities in a few styles. Since then, I've also picked up a couple other random stone tools. Some tools in my collection are quite old and are little more than flaked scrapers, while others are nicely formed points.
 
-Unless otherwise noted, these tools came from the estate of Phillip C. Schupp (1870-1967) Chicago, and were aquired in expeditions prior to 1949.
+Unless otherwise noted, these tools came from the estate of Phillip C. Schupp (1870-1967) Chicago, and were acquired in expeditions prior to 1949.
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
@@ -114,7 +114,7 @@ Given to me by a friend, this stone came from the American west.
   </div>
 </div>
 
-From the Dordogne Valley in France, a Neolithic blade. Unfortuneatly, I lost my notes on the dates for this stone. Others from the same region from this seller date to 22,000-15,000, however I wonder if this particular example is more recent.
+From the Dordogne Valley in France, a Neolithic blade. Unfortunately, I lost my notes on the dates for this stone. Others from the same region from this seller date to 22,000-15,000, however I wonder if this particular example is more recent.
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
