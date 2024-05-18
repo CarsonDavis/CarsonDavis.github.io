@@ -5,6 +5,7 @@ categories: [woodworking, antiques]
 tags: [woodworking, antiques, tools, hand planes]
 media_subpath: /plane-hanger/
 description: Making a hanging storage solution for my hand planes.
+image: 20240512_210549.jpg
 ---
 To put it simply, I have a ton of hand planes. And they are taking up my whole damn workbench.
 

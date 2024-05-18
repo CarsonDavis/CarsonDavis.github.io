@@ -6,9 +6,12 @@ categories: []
 tags: []
 media_subpath: /Fluorescent+Rocks/
 description: Details on my small collection of fluorescent rocks.
+image: 20200213_002700.jpg
 ---
 
-![20240516_225034](20200213_002700.jpg)
+This post isn't finished; I need to add details about each rock. However, for now, you can look at the pretty pictures.
+
+Reminder that you can click on the photos to see them full size..
 
 
 ![20240516_225034](Fluorecent+Rocks.jpg)

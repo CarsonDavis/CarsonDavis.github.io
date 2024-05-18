@@ -6,6 +6,7 @@ categories: []
 tags: []
 media_subpath: /Stone+Tools/
 description: Details on my small collection of old stone tools.
+image: 20240516_225034.jpg
 ---
 
 ![20240516_225034](20240516_225034.jpg)
@@ -115,6 +116,8 @@ Given to me by a friend, this stone came from the American west.
 </div>
 
 From the Dordogne Valley in France, a Neolithic blade. Unfortunately, I lost my notes on the dates for this stone. Others from the same region from this seller date to 22,000-15,000, however I wonder if this particular example is more recent.
+
+
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
