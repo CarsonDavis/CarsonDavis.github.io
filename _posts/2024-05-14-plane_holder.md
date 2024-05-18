@@ -24,11 +24,11 @@ So, once they are hanging on the wall, how do we keep them from falling off? The
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
-    <img src="20240513_083716.jpg" style="height: auto;">
+    <img src="20240513_083716.jpg" alt="left" style="height: auto;">
     <p style="text-align: center;">Holding the wooden plane by the edges.</p>    
   </div>
   <div>
-    <img src="20240513_083825.jpg" style="height: auto;">
+    <img src="20240513_083825.jpg"  alt="right" style="height: auto;">
     <p style="text-align: center;">Holding the metal plane by the entire front.</p>
   </div>
 </div>
