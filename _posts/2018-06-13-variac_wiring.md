@@ -5,10 +5,11 @@ categories: [electronics, variacs]
 tags: [electronics, tools, multimeter, antiques, variacs]
 media_subpath: /variacs/
 description: I analyze the specs and capabilities of my variacs.
+image: Kve7Pwl.jpeg
 ---
 
 I've managed to gather a few variacs, including some about which I know very little. In this post I'll go over some of my findings.
-![Kve7Pwl](Kve7Pwl.jpeg)
+
 ![8u6wINV](8u6wINV.jpeg)
 
 Powerstat Type 1226, input 230/115V, output 0-270V, 2.5KVA

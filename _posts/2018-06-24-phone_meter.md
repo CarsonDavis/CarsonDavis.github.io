@@ -5,12 +5,11 @@ categories: [electronics, repair]
 tags: [electronics, antiques, repair, multimeter]
 media_subpath: /phone-meter/
 description: Repairing an antique Northeast Electronics Corp. Model TTS-28.
+image: h9AYitI.jpg
 ---
 
 I originally repaired this while talking to the folk at the EEVBlog. There's a post about that [here](https://www.eevblog.com/forum/repair/northeast-electronics-tts-28-telephone-multimeter-repair-testing-pictures/).
 
-
-![h9AYitI](h9AYitI.jpg)
 
 Just got a new multimeter. There is extremely little information about it online. So I will be doing this repair mostly blind.
 

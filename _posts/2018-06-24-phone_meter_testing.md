@@ -5,6 +5,7 @@ categories: [electronics, repair]
 tags: [electronics, antiques, repair, multimeter]
 media_subpath: /phone-meter-testing/
 description: Testing an antique Northeast Electronics Corp. Model TTS-28.
+image: XjCAFCn.jpeg
 ---
 
 See the previous post, [Phone Meter Repair]({% link _posts/2018-06-24-phone_meter.md %}), where I did some minor repairs to this meter.
