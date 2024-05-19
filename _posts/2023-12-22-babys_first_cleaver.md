@@ -34,7 +34,7 @@ Anyway, I started looking for these tiny knives within a month of finding out my
 
 ![blah](signal-2023-12-22-224833_002.jpg)
 
-However, clearly it is not enough to just give the baby a cleaver. It needs to be <i>sharpened</i>, honed to the perfect...sorry, I mean put in on a cute stand for display. So, we hop into tinkercad for a quick 3d model. The idea is simple. Thin base with funny text, small center post with magnet so you can take off the cleaver for use. 
+However, clearly it is not enough to just give the baby a cleaver. It needs to be <i>sharpened</i>, honed to the perfect...sorry, I mean put on a cute stand for display. So, we hop into tinkercad for a quick 3d model. The idea is simple. Thin base with funny text, small center post with magnet so you can take off the cleaver for use. 
 
 Text is sometimes a problem with these models, but after slicing, the text looks like it will come out fine.
 
@@ -84,9 +84,9 @@ Here's some pictures me with the perfect human baby and some woman I've never se
 
 ![signal-2023-12-27-15-06-33-014.jpg](signal-2023-12-27-15-06-33-014.jpg)
 
-Anyway, here's the money shot. Look at how excited he is about his new toy!
+aaand here it is! Look at how excited he is about his new weap...toy!
 
-It should be noted that my claim to status of 'knife guy' is not unwarranted. Completely unplanned, my sister also conspired to get <i>me</i> a knife, engraved with "Only the best Uncles get promoted to Godfather!" And no, I absolutely did not make a huge deal out of being named the Godfather &#x1F605;. 
+It should be noted that my claim to status of 'knife guy' is not unwarranted. Completely unplanned, my sister also conspired to get <i>me</i> a knife, engraved with "Only the best Uncles get promoted to Godfather!" And no, I absolutely did not make a huge deal out of being named the Godfather &#x1F605; (post coming soon). 
 
 As promised, here is that one minute video that walks through the various designs I made and their pitfalls. Please watch it; I recorded like 5 versions before I got one this concise.
 
