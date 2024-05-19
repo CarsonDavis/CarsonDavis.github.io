@@ -80,7 +80,7 @@ There's a 1 minute video at the bottom of the page that actually shows the itera
 
 Here's some pictures me with the perfect human baby and some woman I've never seen before. 
 
-Are they relevant to this post? No. But I like these pictures, so you get to look at them.
+Are they strictly relevant to this post? No. But I like these pictures, so you get to look at them.
 
 ![signal-2023-12-27-15-06-33-014.jpg](signal-2023-12-27-15-06-33-014.jpg)
 
@@ -88,6 +88,6 @@ aaand here it is! Look at how excited he is about his new weap...toy!
 
 It should be noted that my claim to status of 'knife guy' is not unwarranted. Completely unplanned, my sister also conspired to get <i>me</i> a knife, engraved with "Only the best Uncles get promoted to Godfather!" And no, I absolutely did not make a huge deal out of being named the Godfather &#x1F605; (post coming soon). 
 
-As promised, here is that one minute video that walks through the various designs I made and their pitfalls. Please watch it; I recorded like 5 versions before I got one this concise.
+And as promised, here is that one minute video that walks through the various designs I made and their pitfalls. Please watch it; I recorded like 5 versions before I got one this concise.
 
 {% include embed/youtube.html id='-k7FPJBvV5o' %}
