@@ -78,7 +78,7 @@ There's a 1 minute video at the bottom of the page that actually shows the itera
   </div>
 </div>
 
-Here's some of pictures me with the perfect human baby and some woman I've never seen before. 
+Here's some pictures of me with the perfect human baby and some woman I've never seen before. 
 
 Are they strictly relevant to this post? No. But I like these pictures, so you get to look at them.
 
