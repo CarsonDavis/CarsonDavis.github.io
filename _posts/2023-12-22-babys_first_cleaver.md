@@ -12,7 +12,7 @@ published: true
 
 I've always been the knife guy. You know that one uncle you turn to at Christmas when you need to open a package? Or the 10 year old that inexplicably has a machete at the family picnic? That's me. 
 
-I probably emerged form womb as a knife guy. I mean, as a kid, you have this sort of idealized image of a man's man, who can go out in the woods with his hunting knife and build a log cabin before noon, spear a rabbit at 50 paces for lunch, and then carve a full chess set before bed. You hear about Davy Crocket and Daniel Boone, and holy shit, what about samurai and two-handed great swords, and the crusades, and throwing stars! Before you know it, you're a 15 year old with a full on collection of mall ninja gear and a maybe couple of genuinely nice blades here and there.
+I probably emerged from the womb as a knife guy. I mean, as a kid, you have this sort of idealized image of a man's man, who can go out in the woods with his hunting knife and build a log cabin before noon, spear a rabbit at 50 paces for lunch, and then carve a full chess set before bed. You hear about Davy Crocket and Daniel Boone, and holy shit, what about samurai and two-handed great swords, and the crusades, and throwing stars! Before you know it, you're a 15 year old with a full on collection of mall ninja gear and a maybe couple of genuinely nice blades here and there.
 
 Then you go to engineering school and you start following the EDC subreddit and now you're struggling to hold your pants up while you lug around a Benchmade, a Sebenza, two Leathermans, and that flashlight you need for some reason. 
 
