@@ -12,11 +12,11 @@ published: true
 
 I've always been the knife guy. You know that one uncle you turn to at Christmas when you need to open a package? Or the 10 year old that inexplicably has a machete at the family picnic? That's me. 
 
-I've always liked knives. I mean, as a kid, you have this sort of idealized image of a man's man, who can go out in the woods with his hunting knife and build a log cabin before noon, then spear a rabbit at 50 paces for lunch, before carving a full chess set before bed. You hear about Davy Crocket and Daniel Boone, and holy shit, what about samurai and two-handed great swords, and the crusades, and throwing stars! Before you know it, you're a 15 year old with a full on collection of mall ninja gear and a couple of genuinely nice blades here and there.
+I probably emerged form womb as a knife guy. I mean, as a kid, you have this sort of idealized image of a man's man, who can go out in the woods with his hunting knife and build a log cabin before noon, spear a rabbit at 50 paces for lunch, and then carve a full chess set before bed. You hear about Davy Crocket and Daniel Boone, and holy shit, what about samurai and two-handed great swords, and the crusades, and throwing stars! Before you know it, you're a 15 year old with a full on collection of mall ninja gear and a maybe couple of genuinely nice blades here and there.
 
 Then you go to engineering school and you start following the EDC subreddit and now you're struggling to hold your pants up while you lug around a Benchmade, a Sebenza, two Leathermans, and that flashlight you need for some reason. 
 
-And when you get to be a real adult, you discover that, for once, it is completely socially acceptable, even enviable, to have nice kitchen knives. Maybe you never got that samurai sword you wanted, but by god no one will stop you if you want a hand forged Matsubara Aogami Nashiji Kiri Cleaver in 190mm. Or like, a whole wall of them...who's counting?
+And when you get to be a real adult, you discover that, for once, it is completely socially acceptable, even enviable, to have nice kitchen knives. Maybe you never got that samurai sword you wanted, but by god no one will stop you if you want a hand forged Matsubara Aogami Nashiji Kiri Cleaver in 190mm. Or like, a whole wall of them...but who's counting &#x1F605;
 
 So anyway, I say all this to make one simple point. When my sister had her first baby, there was only one thought on everyone's mind...When would Carson be giving that innocent child his first knife.
 
