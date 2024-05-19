@@ -9,6 +9,40 @@ description: Details on my small collection of fluorescent rocks.
 image: 20200213_002700.jpg
 ---
 
+<style>
+    .grid-2x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 20px;
+        justify-items: center;
+    }
+    .grid-3x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 20px;
+        justify-items: center;
+    }
+    .grid-container {
+        justify-items: center;
+    }
+    .grid-container img {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        object-fit: cover;
+        display: block;
+    }
+    .grid-container .caption {
+        text-align: center;
+        align-self: start; /* Align captions to the top */
+    }
+</style>
+
+
+
+
 This post isn't finished; I need to add details about each rock. However, for now, you can look at the pretty pictures.
 
 Reminder that you can click on the photos to see them full size..
@@ -152,16 +186,22 @@ Quebec, Canada
 </div>
 
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="LRM_EXPORT_4564210905285_20200111_232630685.jpg" alt="white light" style="height: auto;">  
-    <p style="text-align: center;">white light</p>   
-  </div>
-  <div>
-    <img src="LRM_EXPORT_4724045426004_20200111_232909882.jpg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">shortwave</p>   
-  </div>
+
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="LRM_EXPORT_4564210905285_20200111_232630685.jpg" alt="image1">
+    </div>
+    <div>
+        <img src="LRM_EXPORT_4724045426004_20200111_232909882.jpg" alt="image2">
+    </div>
+    <div class="caption">
+        <p>white light</p>
+    </div>
+    <div class="caption">
+        <p>short wave</p>
+    </div>
 </div>
+
 
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
@@ -179,19 +219,25 @@ Quebec, Canada
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="rock.PNG" alt="white light" style="height: auto;">  
-    <p style="text-align: center;">white light</p>   
-  </div>
-  <div>
-    <img src="20200213_002157.jpg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">shortwave</p>   
-  </div>
-  <div>
-    <img src="20200213_003144.jpg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">shortwave</p>   
-  </div>
+<div class="grid-container grid-3x2">
+    <div>
+        <img src="rock.PNG" alt="white light">
+    </div>
+    <div>
+        <img src="20200213_002157.jpg" alt="shortwave">
+    </div>
+    <div>
+        <img src="20200213_003144.jpg" alt="shortwave">
+    </div>
+    <div class="caption">
+        <p>white light</p>
+    </div>
+    <div class="caption">
+        <p>shortwave</p>
+    </div>
+    <div class="caption">
+        <p>shortwave</p>
+    </div>
 </div>
 
 

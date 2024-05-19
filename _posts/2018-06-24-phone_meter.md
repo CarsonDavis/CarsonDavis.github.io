@@ -62,17 +62,40 @@ So we will plug it up a different way for the moment and modify those leads late
 
  Maybe all it needed was a few new batteries. However the current setup won't work long term. The battery leads need to be modernized. 
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="nfJkU0J.jpg" alt="i2zlZjU" style="height: auto;">
-    <p style="text-align: center;">Time to butcher a perfectly good 9 volt adapter.</p>    
-  </div>
-  <div>
-    <img src="LvoRLdx.jpg" alt="oBkWdU1" style="height: auto;">
-    <p style="text-align: center;">You can see the slight size difference in the plugs that was giving me trouble.</p>
-  </div>
-</div>
+<style>
+    .custom-grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 20px;
+        align-items: center;
+        justify-items: center;
+    }
+    .custom-grid-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .custom-grid-container .caption {
+        text-align: center;
+        align-self: start;
+    }
+</style>
 
+<div class="custom-grid-container">
+    <div>
+        <img src="nfJkU0J.jpg" alt="white light">
+    </div>
+    <div>
+        <img src="LvoRLdx.jpg" alt="shortwave">
+    </div>
+    <div class="caption">
+        <p>Time to butcher a perfectly good 9 volt adapter.</p>
+    </div>
+    <div class="caption">
+        <p>You can see the slight size difference in the plugs that was giving me trouble.</p>
+    </div>
+</div>
 
 
 ![RwxpWSQ](RwxpWSQ.jpg)

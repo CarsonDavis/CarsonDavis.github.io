@@ -38,16 +38,41 @@ However, clearly it is not enough to just give the baby a cleaver. It needs to b
 
 Text is sometimes a problem with these models, but after slicing, the text looks like it will come out fine.
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="Screenshot+2024-05-18+170707.png" alt="white light" style="height: auto;">  
-    <p style="text-align: center;">anemic post</p>   
-  </div>
-  <div>
-    <img src="20231223_111252.jpg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">miserable text</p>   
-  </div>
+<style>
+    .custom-grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 20px;
+        align-items: center;
+        justify-items: center;
+    }
+    .custom-grid-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .custom-grid-container .caption {
+        text-align: center;
+        align-self: start;
+    }
+</style>
+
+<div class="custom-grid-container">
+    <div>
+        <img src="Screenshot+2024-05-18+170707.png" alt="white light">
+    </div>
+    <div>
+        <img src="20231223_111252.jpg" alt="shortwave">
+    </div>
+    <div class="caption">
+        <p>anemic post</p>
+    </div>
+    <div class="caption">
+        <p>miserable text</p>
+    </div>
 </div>
+
 
 Spoiler, the text came out awful. Thanks for nothing, PrusaSlicer. And the center staff is so anemic it barely supports itself. (P.S. click on the pictures if you wanna see them in all their glory) 
 
