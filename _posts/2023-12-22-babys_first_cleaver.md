@@ -28,13 +28,13 @@ The first step is obviously to find a menacing, baby-sized cleaver. Why a cleave
 
 Have you ever thought to yourself, "Jee Wiz! I sure wish I could use a cleaver for literally every kitchen task!" Well, I've got good news for you.
 
-Anyway, I started looking for these tiny knives within a month of finding out my sister was pregnant. It took literally a year and a god awful number of purchases from novelty stores, alibaba, and amazon before finally settling on the set you see here, sitting atop what I am sure you will now recognize as a Chan Chi Kee KF1302 Cai Dao in 219mm.
+Anyway, I started looking for tiny baby-sized knives within a month of finding out my sister was pregnant. It may surprise you to learn that there is not an abundance of high quality infant cleavers on the market. It took literally a year and a god awful number of purchases from novelty stores, alibaba, and amazon before finally settling on the set you see here, sitting atop what I am sure you will now recognize as a Chan Chi Kee KF1302 Cai Dao in 219mm.
 
 <!-- https://www.amazon.com/gp/product/B0C2PD4GSG -->
 
 ![blah](signal-2023-12-22-224833_002.jpg)
 
-However, clearly it is not enough to just give the baby a cleaver. It needs to be <i>sharpened</i>, honed to the perfect...sorry, I mean put on a cute stand for display. So, we hop into tinkercad for a quick 3d model. The idea is simple. Thin base with funny text, small center post with magnet so you can take off the cleaver for use. 
+However, clearly it is not enough to just give the baby a cleaver. It needs to be <i>sharpened</i>, honed to the perfect...sorry, I mean put on a cute stand for display. So, we hop into tinkercad for a quick 3d model. The idea is simple: thin base with funny text and a small center post with a magnet so you can take off the cleaver for cooking. 
 
 Text is sometimes a problem with these models, but after slicing, the text looks like it will come out fine.
 
@@ -49,11 +49,9 @@ Text is sometimes a problem with these models, but after slicing, the text looks
   </div>
 </div>
 
+Spoiler, the text came out awful. Thanks for nothing, PrusaSlicer. And the center staff is so anemic it barely supports itself. (P.S. click on the pictures if you wanna see them in all their glory) 
 
-
-Spoiler, the text came out awful. Thanks for nothing, PrusaSlicer. And the center staff is so anemic it barely supports itself. 
-
-There's a 1 minute video at the bottom of the page that actually shows the iterations I made, but basically I enlarged the center staff and then did a lot of work on the text. I thought I could simply increase the size of the font, but that just looked ugly. Ultimately, I hand drew each letter with polygons so they would print better, and then carved out each one with a japanese craft knife under a microscope before finally painting.
+There's a 1 minute video at the bottom of the page that actually shows the iterations I made, but basically I enlarged the center staff and then did a lot of work on the text. I thought I could simply increase the size of the font, but that just looked ugly. Ultimately, I hand drew half the letters with polygons so they would print better, and then carved out each one with a japanese craft knife under a microscope before finally painting.
 
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
@@ -80,7 +78,9 @@ There's a 1 minute video at the bottom of the page that actually shows the itera
   </div>
 </div>
 
-Here's some pictures me with the perfect human baby and some woman I've never seen before. Are they relevant to this post? No. But I like these pictures, so you get to look at them.
+Here's some pictures me with the perfect human baby and some woman I've never seen before. 
+
+Are they relevant to this post? No. But I like these pictures, so you get to look at them.
 
 ![signal-2023-12-27-15-06-33-014.jpg](signal-2023-12-27-15-06-33-014.jpg)
 
