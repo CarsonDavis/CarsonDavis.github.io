@@ -55,3 +55,13 @@ When I left the island ten days later, I was amazed at what I had experienced. C
 
 
 Now, two years later, I know that those weeks in Tonga were the most incredible weeks of my life. I still love my TV and cell phone and all the other trappings of a modern life, but every time I flip on a light switch or turn on the water, I remember the friends I made back in Tonga, and I can appreciate the things I have. I’m far more willing now to take pleasure in the little things of life, and to be happy just because. When I agreed to go on a mission trip to the Kingdom of Tonga, I may not have known what I was getting into, but I’m sure glad I did.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9BCF32DQ6R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9BCF32DQ6R');
+</script>
