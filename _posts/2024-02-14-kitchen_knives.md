@@ -10,6 +10,26 @@ image: LRM_EXPORT_1686150517891832_20221115_085254983.jpeg
 published: False
 ---
 
+<style>
+    .custom-image-container {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        align-items: center;
+    }
+    .custom-image-container img {
+        height: 100%;
+        object-fit: cover;
+        flex: 1;
+    }
+    .custom-image-wrapper {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        overflow: hidden;
+    }
+</style>
+
 - why do i have so many 
 ![signal-2024-05-19-165002_003](signal-2024-05-19-165002_003.jpeg)
 ![signal-2024-05-19-165002_002](signal-2024-05-19-165002_002.jpeg)
@@ -29,10 +49,10 @@ published: False
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
-    <img src="LRM_EXPORT_66345912765575_20221227_144857584.jpeg" alt="white light" style="height: auto;">
+    <img src="signal-2024-05-19-171048_003.jpeg" alt="white light" style="height: auto;">
   </div>
   <div>
-    <img src="LRM_EXPORT_67186620493952_20221227_150258528.jpeg" alt="shortwave" style="height: auto;">
+    <img src="signal-2024-05-19-171048_002.jpeg" alt="shortwave" style="height: auto;">
   </div>
 </div>
 - gifts
@@ -41,14 +61,13 @@ published: False
 - kiwis
 
 ![signal-2024-05-19-165557_002](signal-2024-05-19-165557_002.jpeg)
-![signal-2024-05-19-154722_004](signal-2024-05-19-154722_004.jpeg)
 ![signal-2024-05-19-154722_008](signal-2024-05-19-154722_008.jpeg)
 - chinese cleavers
 
 ![signal-2024-05-19-154722_005](signal-2024-05-19-154722_005.jpeg)
 - kiri cleavers
 
-![signal-2024-05-19-154722_007](signal-2024-05-19-154722_007.jpeg)
+![signal-2024-05-19-154722_007](signal-2024-05-19-171659_002.jpeg)
 - specialty knives 
 
 ![signal-2024-05-19-165557_003](signal-2024-05-19-165557_003.jpeg)
@@ -62,6 +81,18 @@ Looking at this picture, you may be wondering, do I have enough cleavers?
 No. Don't be ridiculous. You can never have too many cleavers.
 
 
+
+<div class="custom-image-container">
+    <div class="custom-image-wrapper">
+        <img src="275857597_944769002858953_1784451587630553281_n.jpg" alt="white light">
+    </div>
+    <div class="custom-image-wrapper">
+        <img src="275774713_565519117784448_5539873317008427621_n.jpg" alt="shortwave">
+    </div>
+    <div class="custom-image-wrapper">
+        <img src="275779156_5916647128385340_3931154671392974919_n.jpg" alt="shortwave">
+    </div>
+</div>
 
 I've you've puttered around on my site long enough, you'll know that I'm a [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). 
 
@@ -103,25 +134,3 @@ Gyuto
     <p style="text-align: center;">shortwave</p>   
   </div>
 </div>
-
-cleavers
-
-picture of a shitload of cleavers
-
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="LRM_EXPORT_264775157115401_20240314_180047966.jpeg" alt="white light" style="height: auto;">  
-    <p style="text-align: center;">white light</p>   
-  </div>
-  <div>
-    <img src="LRM_EXPORT_264748779325098_20240314_180021588.jpeg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">shortwave</p>   
-  </div>
-</div>
-
-
-
-
-
-kiri
