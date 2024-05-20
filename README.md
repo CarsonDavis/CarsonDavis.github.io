@@ -95,9 +95,22 @@ image: 20200213_002700.jpg
 
 
 ## Running and Debugging
+The basic command I've been running is:
+```
+bundle exec jekyll serve --unpublished
+```
 
-`bundle exec jekyll serve --unpublished`
+However, if weird stuff is happening with the build, sometimes I'll burn the old site down and rebuild it.
+```
+rm -rf .jekyll-cache _site
+bundle exec jekyll build --trace
+```
 
+And then I'll replicate the tests run on github actions.
+
+```
+ bundle exec htmlproofer ./_site --disable-external
+```
 
 ## Getting Started on a New Computer
 
