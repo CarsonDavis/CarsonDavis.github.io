@@ -1,13 +1,13 @@
 ---
 title: Kitchen Knives
 date: 2024-02-14
-last_modified_at: 2024-05-18
-categories: []
+last_modified_at: 2024-05-19
+categories: [knives]
 tags: []
 media_subpath: /kitchen-knives/
 description: Details on my small collection of kitchen knives.
 image: LRM_EXPORT_1686150517891832_20221115_085254983.jpeg
-published: False
+published: True
 ---
 
 <style>
@@ -41,10 +41,18 @@ published: False
     }
 </style>
 
+this post is a draft, and will be getting more edits
+
 If you've been keeping up to date with this blog, then you'll know that I'm a [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). You may even suspect that I have my fair share of kitchen knifes.
 
 ![LRM_EXPORT_1686150517891832_20221115_085254983.jpeg](20240216_190750-crop.jpg)
+
 I think this is about half of them. 
+
+<!-- 
+Looking at this picture, you may be wondering, do I have enough knives?
+
+Don't be ridiculous. You can never have too many knives. -->
 
 But let's start at the beginning. In college, I didn't know any better, and I had some very mediocre ceramic knives. They were supposed to never need sharpening but the sad truth was that they were never all that sharp to begin with.
 
@@ -65,6 +73,7 @@ This is called a choil shot, and it shows the cross-sectional geometry of the bl
 You could literally rub the edge of that knife on the left across a brick and it would still cut onions better than when that damascus monstrosity is sharp enough to shave. 
 
 ![signal-2024-05-19-154722_002](signal-2024-05-19-154722_002.jpeg)
+
 Anyway, I think I used that knife-shaped paper weight exactly one time before realizing the horrible mistake I had made and put it in the drawer of shame. 
 
 That's when my dad stepped in and gave me my first actually good cooking tool, a Shun 8in chef knife. Now, a lot of knife people on the internet like to hate on Shun, presumably because soccer moms can buy them in Home Goods instead of needing to hike into the Japanese wilderness to offer their first born child to a 100 year old bladesmith, but frankly they are perfectly good knives.
@@ -74,6 +83,7 @@ They are easy to care for, have reasonably thin geometries, and they come in fam
 That 8in Shun will set you back $170, but I have a literal drawer full of handmade Japanese knives that cost less. Know that if you are in the market for a knife in the $75-$175 price range, there are a LOT of other options you should consider. But if you already own a Shun, know that they take wicked edge and that I still happily use both of mine when the mood strikes me.
 
 ![signal-2024-05-19-154722_003](signal-2024-05-19-154722_003.jpeg)
+
 In the summer of 2020, I began to look longingly at a the exotic Japanese blade style called the Nakiri. It's short and square, and designed specifically for cutting vegetables. 
 
 I settled on the maker Miyabi, which is like a high-class Shun. They're made of SG2 (a better steel) and feature an overall better fit and finish, with nicer design choices and many of the final steps done by hand.
@@ -81,7 +91,6 @@ I settled on the maker Miyabi, which is like a high-class Shun. They're made of 
 This is a wonderful knife that got me started on Japanese blade profiles, and an upcoming birthday quickly gave me a chance to round out my collection with a utility knife and bread knife. (thanks mom and little sis!)
 
 Let me take a moment to say that I fucking <i>love</i> having a good bread knife. They get no credit in the knife corners of the internet, and I simply do not understand why. To be fair, I don't actually use mine for bread -- my normal knives are plenty sharp for this -- but there are absolutely tasks where sawing with serrations is the best approach. For example, when cutting a chilled steak lengthwise to get two thinner steaks.
-
 
 ![LRM_EXPORT_1686150517891832_20221115_085254983](LRM_EXPORT_1686150517891832_20221115_085254983.jpeg)
 
@@ -119,6 +128,7 @@ I lasted almost an entire year before discovering my new passion: chinese vegeta
 This particular knife is the Chan Chi Kee KF1302 Cai Dao in 219mm. Take notes, because it remains one of my favorite knives to use. They come in a smaller variant as well as stainless variants, but don't bother, the 1302 is perfection. It's as thin as a Shibata, easy to handle as a bunka, can double as a food scoop, and only costs $75. I <i>love</i> this knife.
 
 ![signal-2024-05-19-165557_002](signal-2024-05-19-165557_002.jpeg)
+
 But oh, dear reader...I wanted more. Surely the very first cai doa I purchased wouldn't be the best on the market? Surely there was something with a nicer steel, a more premium handle, a thinner blade? 
 
 Twenty cleavers later, I can assure you there was not. Oh, sure there's some nice stuff out there. If you are willing to sacrifice some blade thickness for a more premium steel and nicer fit and finish, or if you like rock chopping, I'd recommend the very affordable Chopper King White #2 Cleaver. And if you want to crush some cow bones, I might point you towards my trusty F-Dick No84, 8x53. 
@@ -129,11 +139,11 @@ People on the internet will sing the praises of the Sugimotos, Migotos, or Gessh
 
 It's appropriate at this point draw your attention to the massive variation in cleaver profiles. Unlike in the earlier example, I'm not disparaging the right two cleavers, which are for bones not vegetables. The gracile beauty on the left is obviously my 1302, which would break in half if you used it on a bone. But the Daways in the middle is perfect for chicken bones while being passable on veggies, and the rustic chinatown find on the right was marketed for fish but will also do well on everything up to chicken.
 
-
 ![signal-2024-05-19-154722_007](signal-2024-05-19-171659_002.jpeg)
+
 But lets back up. Long before I had 20 cleavers, within days of buying my 1302, I also rounded out my specialty knives collection.
 
-We've seen the middle yanagiba before, but allow me to introduce the Tojiro Molybdenum Vanadium Steel Soba Kiri in 240mm and the Tojiro Shirogami #2 Usuba in 165mm. These are both highly specialized Japanese knives, one for making soba and the other for carving vegetable art. They are both very neat knives, and my only regret is not spending the extra money to buy the soba knife in 300mm.
+We've seen the middle yanagiba before, but allow me to introduce the Tojiro Molybdenum Vanadium Soba Kiri in 240mm and the Tojiro Shirogami #2 Usuba in 165mm. These are both highly specialized Japanese knives, one for making soba and the other for carving vegetable art. They are both delightful knives, and my only regret is not spending the extra money to buy the soba kiri in 300mm.
 
 <div class="grid-container grid-3x2">
     <div>
@@ -158,7 +168,6 @@ We've seen the middle yanagiba before, but allow me to introduce the Tojiro Moly
 
 You can see me using both knifes for their intended purpose above. And it's probably a good time to mention that you can click on the images to enlarge them.
 
-
 <div class="grid-container grid-2x2">
     <div>
         <img src="LRM_EXPORT_1964793818726163_20221120_183444127.jpeg" alt="white light">
@@ -176,8 +185,11 @@ The cherry sheath it is wearing was handmade by yours truly (more on that later)
 
 This knife is an absolute dream. If you have the budget for it, do not hesitate. Everyone online likes to casually throw around the word 'laser' when describing how knives cut, but seriously, it glides through food like a god damn light saber. It's a tough race, but in some foods I feel like it even out performs my 1302. 
 
-![signal-2024-05-19-165704_002](signal-2024-05-19-165704_002.jpeg)
-- hand made japanese
+![signal-2024-05-19-165704_002](signal-2024-05-19-212849_002.jpeg)
+
+At this point, I was ruined for factory knives. The five you see here were all handmade by Japanese blacksmiths. The left two are by Kyohei Shindo in Aogami #2. These are excellent knives at ridiculously low prices, though I now make a habit of replacing the lackluster handles. They have a lovely finish, a dramatic thickness change from spine to tip, and while I find the bunka too short, the gyuto and the nakiri are excellent buys.
+
+In the middle are two Matsubara's, the bunka in Shirogami #1, and the kiri in Aogami #2. I'm a huge fan of the Matsubara knives. My dad gifted me the incredible kiri cleaver, and I eventually couldn't resist and picked up the tall bunka in the dead center. More on the cleaver later, but the bunka really is an excellent height, and the fit and finish are immaculate. When I reach for a smaller knife, it is almost always the Matsubara bunka that I grab.
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
@@ -187,43 +199,28 @@ This knife is an absolute dream. If you have the budget for it, do not hesitate.
     <img src="signal-2024-05-19-171048_002.jpeg" alt="shortwave" style="height: auto;">
   </div>
 </div>
-- gifts
 
-![signal-2024-05-19-154722_006](signal-2024-05-19-154722_006.jpeg)
-- kiwis
+I've been casually mentioning handles and sheathes that I've made and installed, and while it certainly used to be a real chore, at this point I've retro fitted around 10 knives, and I've worked out a nice process. Above you can see 3 handmade sheathes, or sayas, out of walnut (thanks Samyam!) along with some handles in rosewood. I do the sheathes from scratch, but I actually buy unfinished handles from China and do the final shaping and polishing before installing them. 
 
-
+Doing three knives like this is a good weekend project, and it's an awesome way to spruce up an affordable knife like the Kyohei.
 
 ![signal-2024-05-19-154722_005](signal-2024-05-19-154722_005.jpeg)
-- kiri cleavers
+So, we've been over my fixation with Chinese Vegetable Cleavers, and I briefly showcased this Matsubara kiri cleaver earlier, so what is the difference. Well, I've yet to meet a cleaver that can best the thinness of the 1302, but there is something wonderful about the kiri shape. Aithough it is a little smaller and therefore worse at scooping, the pointy tip is perfect for tasks like mincing garlic or through-slicing, and the reduced size makes them that much more manageable. 
 
+I've tried out a few of these kiri cleavers, and although my favorite is absolutely the Matsubara, if you'd like to try out the design Daovua makes a couple affordable choices. I'd recommend looking for their model in 52100 steel, as the entire knife is said to be of higher quality than the spring steel variants 
+
+![signal-2024-05-19-154722_006](signal-2024-05-19-154722_006.jpeg)
+
+Speaking of affordable knives, although I certainly seem to be drowning in handmade Japanese stuff these days, I still do have a place in my heart for the humble $10 Kiwi. True, the steel they are made of will get dull after only a few weeks of regular use, but they are wicked thin and they sharpen like a dream. 
+
+I keep them around as beater knives, for guests who don't want to risk a real knife, and for teaching people how to use a whetstone.
 
 
 ![signal-2024-05-19-165557_003](signal-2024-05-19-165557_003.jpeg)
-- actual use
 
+So, when the onion hits the cutting board, what do I actually find myself reaching for, day after day?
 
-How do I actually store all of them...?
+Well, there are certainly a few honorable mentions, like the Kyohei gyuto, the Matsubara bunka, the Miyabi nakiri, or even the Shun chef knife, but ultimately, these are my three favorite knives. 
 
-Looking at this picture, you may be wondering, do I have enough cleavers?
+If my place burned down and I had to start over from scratch, I'd be immediately putting myself on the wait list for a Matsubara Kiri, a Shibata Gyuto, and, of course, a Chan Chi Kee KF1302 Cai Dao in 219mm
 
-No. Don't be ridiculous. You can never have too many cleavers.
-
-
-
-
-
-
-premium shun
-Gyuto
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="LRM_EXPORT_1751150598674224_20221116_192545504.jpeg" alt="white light" style="height: auto;">  
-    <p style="text-align: center;">white light</p>   
-  </div>
-  <div>
-    <img src="LRM_EXPORT_251402066953626_20220206_122142282.jpeg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">shortwave</p>   
-  </div>
-</div>
