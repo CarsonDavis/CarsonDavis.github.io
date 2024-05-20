@@ -23,18 +23,76 @@ image: 20200213_002700.jpg
 `![20240516_225034](Fluorecent+Rocks.jpg)`
 
 ### Images Side by Side
+
 ```
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <div>
-    <img src="20200206_214655.jpg" alt="white light" style="height: auto;">  
-    <p style="text-align: center;">white light</p>   
-  </div>
-  <div>
-    <img src="20200206_214647.jpg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">shortwave</p>   
-  </div>
+<style>
+    .grid-2x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 20px;
+        justify-items: center;
+    }
+    .grid-3x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 20px;
+        justify-items: center;
+    }
+    .grid-container {
+        justify-items: center;
+    }
+    .grid-container img {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        object-fit: cover;
+        display: block;
+    }
+    .grid-container .caption {
+        text-align: center;
+        align-self: start;
+    }
+</style>
+
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="image1.jpg" alt="image1">
+    </div>
+    <div>
+        <img src="image2.jpg" alt="image2">
+    </div>
+    <div class="caption">
+        <p>Caption 1</p>
+    </div>
+    <div class="caption">
+        <p>Caption 2</p>
+    </div>
+</div>
+
+<div class="grid-container grid-3x2">
+    <div>
+        <img src="rock.PNG" alt="white light">
+    </div>
+    <div>
+        <img src="20200213_002157.jpg" alt="shortwave">
+    </div>
+    <div>
+        <img src="20200213_003144.jpg" alt="shortwave">
+    </div>
+    <div class="caption">
+        <p>white light</p>
+    </div>
+    <div class="caption">
+        <p>shortwave</p>
+    </div>
+    <div class="caption">
+        <p>shortwave</p>
+    </div>
 </div>
 ```
+
 
 ## Running and Debugging
 
