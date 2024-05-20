@@ -66,9 +66,9 @@ Let me explain. There are only a couple things that actually matter in a knife. 
 
 ![signal-2024-05-19-165002_002](signal-2024-05-19-165002_002.jpeg)
 
-This is called a choil shot, and it's an easy way to approximate the cross-sectional geometry of the blade. Examining a knife from this angle will be the single largest indicator of how well it will perform. There are a few specifics that affect food release, handling, etc, but the purposes of this explanation, let me clarify that thinner is almost always better. 
+This is called a choil shot, and it's an easy way to approximate the cross-sectional geometry of the blade. Often, the profile of the knife from this angle will be the single largest indicator of how well it will perform. There are a few specifics that affect food release, handling, etc, but the purposes of this explanation, let me clarify that thinner is almost always better, especially in the centimeter closest to the cutting edge. 
 
-You could literally rub the edge of the thin knife in the photo on a brick and it would still cut onions better than when that damascus monstrosity is sharp enough to shave. 
+Cross-sectional blade geometry is so important that a knife can be dull enough to not cut your skin, but it will cut vegetables in the kitchen. You could literally rub the edge of the thin knife in the photo on a brick and it would still cut onions better than when the damascus monstrosity is sharp enough to shave. 
 
 ![signal-2024-05-19-154722_002](signal-2024-05-19-154722_002.jpeg)
 
@@ -84,23 +84,25 @@ The big problem is that 8in Shun will set you back $170. Meanwhile, I have a lit
 
 In the summer of 2020, I began to look longingly at the exotic Japanese blade style called the Nakiri. It's short and square, and designed specifically for cutting vegetables. 
 
-I ultimately settled on Miyabi, which is like a high-class Shun. They're made of SG2 (a better steel) and feature an overall better fit and finish, with nicer design choices and many of the final steps done by hand.
+I looked at a few brands and ultimately settled on Miyabi, which is like a high-class Shun. They're made of SG2 (a better steel) and feature an overall better fit and finish, with nicer design choices and many of the final steps done by hand. 
 
-The Miyabi Nakiri was a wonderful knife that got me started on Japanese blade profiles, and an upcoming birthday quickly gave me the chance to round out my collection with a utility knife and bread knife (thanks mom and little sis!)
+I'll try not to spend too much time in this post on steels, but SG2 is a powder metallurgy steel known for its hardness, wear resistance, and toughness, and the manufacturing process is fascinating. Instead of mixing the alloyed components in the molten state and hoping for the best with mixing and grain formation, PM steels are atomized to create a fine powder. After sintering, the steel will be perfectly mixed, and the powder will put an upper limit on grain formation. Powder metallurgy is a revolutionary advancement adopted by many high-end knife steels, as it guarantees consistent properties and a fine grain structure, which in turn leads to knives that get sharper and stay sharp longer.
 
-Let me take a moment to say that I <i>love</i> having a good bread knife. They get no credit in the knife corners of the internet, and I simply do not understand why. To be fair, I don't actually use mine for bread -- my normal knives are plenty sharp for this -- but there are absolutely tasks where sawing with serrations is the best approach. For example, when cutting a chilled steak lengthwise to get two thinner steaks.
+Ultimately, the Miyabi Nakiri was a wonderful knife that got me started on Japanese blade profiles, and an upcoming birthday quickly gave me the chance to round out my collection with a utility knife and bread knife (thanks mom and little sis!)
+
+Bread knives don't get enough love, so let me take a moment to say that I adore having a good bread knife. They receive no attention in the knife corners of the internet, and I simply do not understand why. To be fair, I don't actually use mine for bread -- my normal knives are plenty sharp for this -- but there are absolutely tasks where sawing with serrations is the best approach. For example, when cutting a chilled steak lengthwise to get two thinner steaks.
 
 Anyway, these Miyabis are beautiful stainless knives with good geometries that are a safe choice for that person in your life who knows not to put a knife in the dishwasher but still might leave it sitting on the cutting board in lemon juice for 15 minutes.
 
 ![LRM_EXPORT_1686150517891832_20221115_085254983](LRM_EXPORT_1686150517891832_20221115_085254983.jpeg)
 
-However, I was not long for the world of stainless. As I'm sure you've experienced, the blade demons whispered to me in the night of the dark steel that was too hard for normal people to take care of. The mystical material used by the ancients. Sharper, harder, purer, and somehow less expensive than stainless. Carbon steel. 
+But me? I was not long for the world of stainless. As I'm sure you've experienced, the blade demons whispered to me in the night of the dark steel that was too temperamental for normal people to take care of. The mystical material used by the ancients. Sharper, harder, purer, and somehow less expensive than stainless. Carbon steel. 
 
-In the cold winter of 2020 I bought three Tojiro Shirogami blades in rapid succession. A nakiri, kiritsuke, and yanagiba. These are on the budget end of Japanese knives, costing only $60, $100, and $144 respectively. You've already met the nakiri style, but a kiritsuke is 9.5in executive chef knife and the yanagiba is a whopping 12 inch sushi knife. In retrospect, I basically never use these styles, but they look cool as shit on my knife magnet.
+Shirogami, Aogami, Aogami Super...they called to me. So in the cold winter of 2020 I bought three Tojiro Shirogami blades in rapid succession. A nakiri, kiritsuke, and yanagiba. These are on the budget end of Japanese knives, costing only $60, $100, and $144 respectively. $60 for a Japanese knife is basically free, and though $144 might sound like a lot, knives this big in a quality steel are typically double that price, so I basically <i>made</i> money, right? Right??
 
-If you consider buying a Tojiro in shirogami, remember that they are budget minded, and occasionally have quality problems. All of mine were fine, but you still need to do sanding on the choil, and the handles they come with are less than awesome. 
+You've already met the nakiri style, but a kiritsuke is 9.5in executive chef knife and the yanagiba is a whopping 12 inch sushi knife. In retrospect, I basically never use these styles, but they look cool as shit on my knife magnet. If you consider buying a Tojiro in shirogami, remember that they are budget minded, and occasionally have quality problems. All of mine were fine, but you still need to do sanding on the choil, and the handles they come with are less than awesome. 
 
-The four gorgeous handles you see are stabilized burl maple, and I bought them from sharpedgeshop and installed them myself, a process which can be difficult if you do it wrong. I'll add a post on this soon.
+The four gorgeous handles you see in the photo are stabilized burl maple, and I bought them from sharpedgeshop and installed them myself, a process which can be difficult if you do it wrong. I'll add a post on this soon.
 
 <div class="grid-container grid-3x2">
     <div>
