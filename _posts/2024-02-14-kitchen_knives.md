@@ -43,7 +43,7 @@ published: True
 
 If you've been keeping up to date with this blog, then you'll know that I'm a [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). You may even suspect that I have my fair share of kitchen knifes.
 
-![LRM_EXPORT_1686150517891832_20221115_085254983.jpeg](20240216_190750-crop.jpg)
+![LRM_EXPORT_1686150517891832_20221115_085254983.jpeg](signal-2024-05-20-183535_002.jpeg)
 
 I think this is about half of them. 
 
