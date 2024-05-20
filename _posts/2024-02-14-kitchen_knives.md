@@ -76,7 +76,7 @@ Anyway, I think I used that knife-shaped paper weight exactly one time before re
 
 That's when my dad stepped in and gave me my first actually good cooking tool, a Shun 8in chef knife. Now, a lot of knife people on the internet like to hate on Shun, presumably because soccer moms can buy them in Home Goods instead of needing to hike into the Japanese wilderness to offer their first born child to a 100 year old bladesmith...but frankly they are perfectly good knives.
 
-They are easy to care for, have reasonably thin geometries, and they come in familiar profiles, such as the western chef knife shown here. The only real downsides are that they are on the expensive side and that their VG-10 MAX formulation easily microchips when compared with other manufacturers' VG-10. 
+They are easy to care for, have reasonably thin geometries, and they come in familiar profiles, such as the western chef knife shown here. The only real downsides are that they are on the expensive side and that their VG-10 MAX formulation easily microchips when compared with other manufacturers' VG-10 steel. 
 
 The big problem is that 8in Shun will set you back $170. Meanwhile, I have a literal drawer full of handmade Japanese knives that cost less. Know that if you are in the market for a knife in the $75-$175 price range, there are a LOT of other options you should consider. But if you already own a Shun, also know that they take a wicked edge and that I still happily use both of mine when the mood strikes me.
 
@@ -98,7 +98,7 @@ However, I was not long for the world of stainless. As I'm sure you've experienc
 
 In the cold winter of 2020 I bought three Tojiro Shirogami blades in rapid succession. A nakiri, kiritsuke, and yanagiba. These are on the budget end of Japanese knives, costing only $60, $100, and $144 respectively. You've already met the nakiri style, but a kiritsuke is 9.5in executive chef knife and the yanagiba is a whopping 12 inch sushi knife. In retrospect, I basically never use these styles, but they look cool as shit on my knife magnet.
 
-If you consider buying a Tojiro in Shirogami, remember that they are budget minded, and occasionally have quality problems. All of mine were fine, but you still need to do sanding on the choil, and the handles they come with are less than awesome. 
+If you consider buying a Tojiro in shirogami, remember that they are budget minded, and occasionally have quality problems. All of mine were fine, but you still need to do sanding on the choil, and the handles they come with are less than awesome. 
 
 The four gorgeous handles you see are stabilized burl maple, and I bought them from sharpedgeshop and installed them myself, a process which can be difficult if you do it wrong. I'll add a post on this soon.
 
@@ -177,9 +177,9 @@ You can see me using both knifes for their intended purpose above. And it's prob
     </div>
 </div>
 
-Up til now I had been buying reasonably priced knives that had seen the inside of a factory at some point in their lives. But I was starting to believe those knife snobs that hated on Shun. The forums were whispering to me of lonely blacksmiths, hammering iron in the hidden depths of the Japanese mountains. 
+Up til now I had been buying reasonably priced knives that had seen the inside of a factory at some point in their lives. But I was starting to believe those knife snobs that hated on Shun. The forums were tempting me with tales of lonely blacksmiths, hammering iron in the hidden depths of the Japanese mountains. 
 
-Which is how I spent $300 on a Shibata Koutetsu R2 Migaki Gyuto in 210mm. The gyuto is every snob's favorite knife, and if you want a true laser, there are only a handful of choices. I considered some others, but they were all in this price range, and I loved the aggressive tip on the Koutetsu, so when one came in stock I grabbed it.
+...which is how I spent $300 on a Shibata Koutetsu R2 Migaki Gyuto in 210mm. The gyuto is every snob's favorite knife, and if you want a true laser, there are only a handful of choices. I considered some others, but they were all in this price range, and I loved the aggressive tip on the Koutetsu, so when one came in stock I grabbed it.
 
 The cherry sheath it's wearing was handmade by yours truly (more on that later), but the rest is original. At this price point, the knives you get are perfect and need no extra finishing or replacement handles. 
 
@@ -200,18 +200,18 @@ In the middle are two Matsubara's, the bunka in Shirogami #1, and the kiri in Ao
   </div>
 </div>
 
-I've been casually mentioning handles and sheathes that I've made and installed, and while it certainly used to be a real chore, at this point I've retro fitted around 10 knives, and I've worked out a nice process. Above you can see 3 handmade sheathes, or sayas, out of walnut (thanks Samyam!) along with some handles in rosewood. I do the sheathes from scratch, but I for the handles I actually buy them unfinished from China and do the final shaping and polishing before installing them. 
+I've been casually mentioning handles and sheathes that I've made and installed, and while it certainly used to be a real chore, at this point I've retrofitted around 10 knives, and I've worked out a nice process. Above you can see 3 handmade sheathes, or sayas, out of walnut (thanks Samyam!) along with some handles in rosewood. I do the sheathes from scratch, but I for the handles I actually buy them unfinished from China and do the final shaping and polishing before installing them. 
 
 Doing three knives like this is a good weekend project, and it's an awesome way to spruce up an affordable knife like the Kyohei.
 
 ![signal-2024-05-19-154722_005](signal-2024-05-19-154722_005.jpeg)
 So, we've been over my fixation with Chinese Vegetable Cleavers, and I briefly showcased this Matsubara kiri cleaver earlier...so what is the difference? Well, I've yet to meet a cleaver that can best the thinness of the 1302, but there is something wonderful about the kiri shape. Aithough it is a little smaller and therefore worse at scooping, the pointy tip is perfect for tasks like mincing garlic or through-slicing, and the reduced size makes it wonderfully manageable in the hand. 
 
-I've tried out a few of these kiri cleavers, and although my favorite is absolutely the Matsubara, if you'd like to try out the design, Daovua makes a couple affordable choices. I'd recommend looking for their model in 52100 steel, as the entire knife is said to be of higher quality than the spring steel variants 
+I've tried out a few of these kiri cleavers, and my favorite is absolutely the Matsubara. The blade geometry and the fit and finish are noticably better. Even the shape of the blade is superior, with a more acute tip and a backsweep underneath the choil. However if you'd like to try out the design, Daovua makes some affordable options. I'd recommend looking for their model in 52100 steel, as the entire knife is said to be of higher quality than the spring steel variants.
 
 ![signal-2024-05-19-154722_006](signal-2024-05-19-154722_006.jpeg)
 
-Speaking of affordable knives, although I certainly seem to be drowning in handmade Japanese stuff these days, I still do have a place in my heart for the humble $10 Kiwi. True, the steel they are made of will get dull after only a few weeks of regular use, but they are wicked thin and they sharpen like a dream. 
+Speaking of affordable knives, although I certainly seem to be drowning in handmade Japanese stuff these days, I do still have a place in my heart for the humble $10 Kiwi. True, the steel they are made of will get dull after only a few weeks of regular use, but they are wicked thin and they sharpen like a dream. 
 
 I keep them around as beater knives, for guests who don't want to risk a real knife, and for teaching people how to use a whetstone.
 
