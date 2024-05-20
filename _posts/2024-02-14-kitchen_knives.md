@@ -30,15 +30,47 @@ published: False
     }
 </style>
 
+If you've been keeping up to date with this blog, then you'll know that I'm a [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). You may even suspect that I have my fair share of kitchen knifes.
+
+
+...that would grossly undersell it. 
+
+In college, I didn't know any better, and I had some very mediocre ceramic knives. They were supposed to never need sharpening but the sad truth was that they were never all that sharp to begin with.
+
+But when I graduated and got my own place, I knew what was up. I went to a local gun an knife show and met a local guy who forged hand made chef knives out of Birmingham damascus steel. Please take a moment to bask in its beauty.
 - why do i have so many 
 ![signal-2024-05-19-165002_003](signal-2024-05-19-165002_003.jpeg)
+
+Yea, turns out it's a piece of literal garbage. Just because it is local, hand made, and damascus does not mean it will cut well.
+
+This would have been around 2016, and the whole camping/wilderness community had this unreasonable penchant for thick full tang blades that could weather a nuclear winter and be used afterwards to quarry enough iron to rebuild civilization. What they apparently did <i>not</i> care about, was how well the knives cut. This rubbed off onto me, hence this absolute monster of a chef knife.
+
+Let me explain. There are only a couple things that actually matter about a knife. The shape of the knife and the profile of the blade. The steel used, the handle material, how pretty it is...that stuff matters a little, but if you want a knife that will glide through an onion like a shark through a public beach, then you should be looking at shape and profile.
+
 ![signal-2024-05-19-165002_002](signal-2024-05-19-165002_002.jpeg)
-- how to choose a knife (blade shape and profile)
+
+This is called a choil shot, and it shows the cross-sectional geometry of the blade at the, you guessed it, choil. Examining a knife from this angle will be the single largest indicator of how well it will perform. There are a few specifics that affect food release, handling, etc, but the purposes of this demo, let me clarify that thinner is almost always better. 
+
+You could literally rub the edge of that knife on the left across a brick and it would still cut onions better than when that damascus monstrosity is sharp enough to shave. 
 
 ![signal-2024-05-19-154722_002](signal-2024-05-19-154722_002.jpeg)
-- shuns, common knives
+Anyway, I think I used that knife-shaped paper weight exactly one time before realizing the horrible mistake I had made and put it in the drawer of shame. 
+
+That's when my dad stepped in and gave me my first actually good cooking tool, a Shun 8in chef knife. Now, a lot of knife people on the internet like to hate on Shun, presumably because soccer moms can buy them in Home Goods instead of needing to hike into the Japanese wilderness to offer their first born child to a 100 year old bladesmith, but frankly they are perfectly good knives.
+
+They are easy to care for, have reasonably thin geometries, and they come in familiar profiles, such as the western chef knife shown here. The only real downsides are that they are on the expensive side and that their VG-10 MAX formulation easily microchips when compared with other manufacturers VG-10. 
+
+That 8in Shun will set you back $170, but I have a literal drawer full of handmade Japanese knives that cost less. Know that if you are in the market for a knife in the $75-$175 price range, there are a LOT of other options you should consider. But if you already own a Shun, know that they take wicked edge and that I still happily use both of mine when the mood strikes me.
 
 ![signal-2024-05-19-154722_003](signal-2024-05-19-154722_003.jpeg)
+In the summer of 2020, I began to look longingly at a the exotic Japanese blade style called the Nakiri. It's short and square, and designed specifically for cutting vegetables. 
+
+I settled on the maker Miyabi, which is like a high-class Shun. They're made of SG2 (a better steel) and feature an overall better fit and finish, with nicer design choices and many of the final steps done by hand.
+
+This is a wonderful knife that got me started on Japanese blade profiles, and birthdays and christmas quickly gave me a chance to round out my collection with a utility knife and bread knife. (thanks mom and little sis!)
+
+Let me take a moment to say that I fucking <i>love</i> having a good bread knife. They get no credit in the knife corners of the internet, and I simply do not understand why. To be fair, I don't actually use mine for bread -- my normal knives are plenty sharp for this -- but there are absolutely tasks where sawing with serrations is the best approach. For example, when cutting a chilled steak lengthwise to get two thinner steaks.
+
 - miyabis, nicer shuns
 
 ![LRM_EXPORT_1686150517891832_20221115_085254983](LRM_EXPORT_1686150517891832_20221115_085254983.jpeg)
@@ -94,11 +126,9 @@ No. Don't be ridiculous. You can never have too many cleavers.
     </div>
 </div>
 
-I've you've puttered around on my site long enough, you'll know that I'm a [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). 
+I've you've puttered around on my site long enough, 
 
-I think I took a pretty normal route of getting into nice kitchen knives. I started with a god-awful, damascus, western-style chef's knife. The whole camping/wilderness community at the time had this penchant for thick full tang blades that could weather a nuclear winter and be used afterwards to quarry enough iron to rebuild civilization. What they apparently did <i>not</i> care about, was how well the knives cut. 
-
-You see, there are only a couple things that actually matter about a knife. The shape of the knife and the profile of the blade. The steel used, the handle material, how pretty it is...that stuff matters a little, but if you want a knife that will glide through an onion like a shark through a public beach, then you should be looking at shape and profile.
+I think I took a pretty normal route of getting into nice kitchen knives. I started with a god-awful, damascus, western-style chef's knife. 
 
 <!-- ![shun photo]() -->
 
