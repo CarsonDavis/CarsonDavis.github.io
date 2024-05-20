@@ -41,7 +41,7 @@ published: True
     }
 </style>
 
-If you've been keeping up to date with this blog, then you'll know that I'm a [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). You may even suspect that I have my fair share of kitchen knifes.
+If you've been keeping up to date with this blog, then you'll know that I'm [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). You may even suspect that I have my fair share of kitchen knives.
 
 ![LRM_EXPORT_1686150517891832_20221115_085254983.jpeg](signal-2024-05-20-183535_002.jpeg)
 
@@ -60,7 +60,7 @@ When I finally graduated and got my own place, I knew what was up. I went to a l
 
 Yea, turns out it's a piece of literal garbage. Just because it is local, hand made, and damascus does not mean it will cut well.
 
-This would have been around 2016, and the whole camping/wilderness community had this unreasonable penchant for thick, full tang blades that could weather a nuclear winter and still be used afterwards to quarry enough iron to rebuild civilization. What they apparently did <i>not</i> care about was how well the knives cut. This rubbed off onto me, hence this absolute monster of a chef knife.
+This would have been around 2016, when the whole camping/wilderness community had this unreasonable penchant for thick, full-tang blades that could weather a nuclear winter and still be used afterwards to quarry enough iron to rebuild civilization. What they apparently did <i>not</i> care about was how well the knives cut. This rubbed off onto me, hence this absolute monster of a chef knife.
 
 Let me explain. There are only a couple things that actually matter in a knife. The shape of the knife and the profile of the blade. The steel used, the handle material, how pretty it is...that stuff matters a little, but if you want a knife that will glide through an onion like a shark through a public beach, then you should be looking at shape and profile.
 
