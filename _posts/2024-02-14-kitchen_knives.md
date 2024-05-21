@@ -43,7 +43,8 @@ published: True
 
 If you've been keeping up to date with this blog, then you'll know that I'm [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). You may even suspect that I have my fair share of kitchen knives.
 
-![LRM_EXPORT_1686150517891832_20221115_085254983.jpeg](signal-2024-05-20-183535_002.jpeg)
+![img-description](signal-2024-05-20-183535_002.jpeg)
+_knives!_
 
 I think this is about half of them. 
 
@@ -56,7 +57,9 @@ But let's start at the beginning. In college, I didn't know any better, and I ha
 
 When I finally graduated and got my own place, I knew what was up. I went to a local gun and knife show and met a local guy who forged hand made chef knives out of Birmingham damascus steel. Please take a moment to bask in its beauty.
 
-![signal-2024-05-19-165002_003](signal-2024-05-19-165002_003.jpeg)
+
+![img-description](signal-2024-05-19-165002_003.jpeg)
+_literal garbage_
 
 Yea, turns out it's a piece of literal garbage. Just because it is local, hand made, and damascus does not mean it will cut well.
 
@@ -64,13 +67,16 @@ This would have been around 2016, when the whole camping/wilderness community ha
 
 Let me explain. There are only a couple things that actually matter in a knife. The shape of the knife and the profile of the blade. The steel used, the handle material, how pretty it is...that stuff matters a little, but if you want a knife that will glide through an onion like a shark through a public beach, then you should be looking at shape and profile.
 
-![signal-2024-05-19-165002_002](signal-2024-05-19-165002_002.jpeg)
+![img-description](signal-2024-05-19-165002_002.jpeg)
+_Shibata Koutetsu, literal garbage_
 
 This is called a choil shot, and it's an easy way to approximate the cross-sectional geometry of the blade. Often, the profile of the knife from this angle will be the single largest indicator of how well it will perform. There are a few specifics that affect food release, handling, etc, but the purposes of this explanation, let me clarify that thinner is almost always better, especially in the centimeter closest to the cutting edge. 
 
 Cross-sectional blade geometry is so important that a knife can be dull enough to not cut your skin, but it will cut vegetables in the kitchen. You could literally rub the edge of the thin knife in the photo on a brick and it would still cut onions better than when the damascus monstrosity is sharp enough to shave. 
 
-![signal-2024-05-19-154722_002](signal-2024-05-19-154722_002.jpeg)
+![img-description](signal-2024-05-19-154722_002.jpeg)
+_Shun in VG-10 MAX: 8in chef knife and 7in gyuto_
+
 
 Anyway, I think I used that knife-shaped paper weight exactly one time before realizing the horrible mistake I had made and put it in the drawer of shame. 
 
@@ -80,7 +86,8 @@ They are easy to care for, have reasonably thin geometries, and they come in fam
 
 The big problem is that 8in Shun will set you back $170. Meanwhile, I have a literal drawer full of handmade Japanese knives that cost less. Know that if you are in the market for a knife in the $75-$175 price range, there are a LOT of other options you should consider. But if you already own a Shun, also know that they take a wicked edge and that I still happily use both of mine when the mood strikes me.
 
-![signal-2024-05-19-154722_003](signal-2024-05-19-154722_003.jpeg)
+![img-description](signal-2024-05-19-154722_003.jpeg)
+_Miyabi Mizu in SG2: 5in utility, 6.5in nakiri, 9in bread_
 
 In the summer of 2020, I began to look longingly at the exotic Japanese blade style called the Nakiri. It's short and square, and designed specifically for cutting vegetables. 
 
@@ -94,7 +101,8 @@ Bread knives don't get enough love, so let me take a moment to say that I adore 
 
 Anyway, these Miyabis are beautiful stainless knives with good geometries that are a safe choice for that person in your life who knows not to put a knife in the dishwasher but still might leave it sitting on the cutting board in lemon juice for 15 minutes.
 
-![LRM_EXPORT_1686150517891832_20221115_085254983](LRM_EXPORT_1686150517891832_20221115_085254983.jpeg)
+![img-description](LRM_EXPORT_1686150517891832_20221115_085254983.jpeg)
+_Tojiro in Shirogami #2: 240mm Kiritsuke, 165mm Usuba, 300mm Yanagiba, 165mm Nakiri_
 
 But me? I was not long for the world of stainless. As I'm sure you've experienced, the blade demons whispered to me in the night of the dark steel that was too temperamental for normal people to take care of. The mystical material used by the ancients. Sharper, harder, purer, and somehow less expensive than stainless. Carbon steel. 
 
@@ -129,7 +137,8 @@ I lasted almost an entire year before discovering my new passion: chinese vegeta
 
 This particular knife is the Chan Chi Kee KF1302 Cai Dao in 219mm. Take notes, because it remains one of my favorite knives to use. They come in a smaller variant as well as stainless variants, but don't bother, the 1302 is perfection. It's as thin as a Shibata, easy to handle as a bunka, can double as a food scoop, and only costs $75. I <i>love</i> this knife.
 
-![signal-2024-05-19-165557_002](signal-2024-05-19-165557_002.jpeg)
+![img-description](signal-2024-05-19-165557_002.jpeg)
+_cleaver, cleaver, cleaver, cleaver, cleaver ... cleaver, cleaver, cleaver, cleaver, cleaver_
 
 But oh, dear reader...I wanted more. Surely the very first cai doa I purchased wouldn't be the best on the market? Surely there was something with a nicer steel, a more premium handle, a thinner blade? 
 
@@ -137,11 +146,13 @@ Twenty cleavers later, I can assure you there was not. Oh, sure there's some nic
 
 People on the internet will sing the praises of the Sugimotos, the Migotos, or the Gesshins, but I've seen the choil shots and done a [comprehensive mass analysis](https://docs.google.com/spreadsheets/d/1IfRf8wQMZD4Cd0bC3cuiMN6z-7NmGrMTgxKAvLZW_Kg) and as far as I know, there is nothing short of the unobtainable Takeda that is even in the ballpark of the laser-like profile of my CCK 1302.
 
-![signal-2024-05-19-154722_008](signal-2024-05-19-154722_008.jpeg)
+![img-description](signal-2024-05-19-154722_008.jpeg)
+_thin, thicc, gyatt_
 
 It's appropriate at this point draw your attention to the massive variation in cleaver profiles. Unlike in the earlier example, I'm not disparaging the right two cleavers, which are for bones not vegetables. The gracile beauty on the left is obviously my 1302, which would break in half if you used it on a bone. But the Daways in the middle is perfect for chicken bones while being passable on veggies, and the rustic chinatown find on the right was marketed for fish but will do well on everything up to chicken.
 
-![signal-2024-05-19-154722_007](signal-2024-05-19-171659_002-cropped.jpeg)
+![img-description](signal-2024-05-19-171659_002-cropped.jpeg)
+_Tojiro: 240mm Soba Kiri, 300mm Yanagiba, 165mm Usuba_
 
 But lets back up. Long before I had 20 cleavers, in fact, within days of buying my 1302, I also rounded out my specialty knives collection.
 
@@ -187,9 +198,10 @@ The cherry sheath it's wearing was handmade by yours truly (more on that later),
 
 And let me tell you, this knife is an absolute dream. If you have the budget for it, do not hesitate. Everyone online likes to casually throw around the word 'laser' when describing how knives cut, but seriously, it glides through food like a god damn light saber. It's a tough race, but in some foods I feel like it even out performs my 1302. 
 
-![signal-2024-05-19-165704_002](signal-2024-05-19-212849_002.jpeg)
+![img-description](signal-2024-05-19-212849_002.jpeg)
+_Kyohei 170mm Bunka and 210mm Gyuto, Matsubara 170mm Bunka and 190mm Kiri, Shibata Koutetsu 210mm Gyuto_
 
-At this point, I was ruined for factory knives. I mean, who needs money? The five you see here were all handmade by Japanese blacksmiths. The left two are by Kyohei Shindo in Aogami #2. These are excellent knives at ridiculously low prices, though I now make a habit of replacing the lackluster handles. They have a lovely finish, a dramatic thickness change from spine to tip, and while I find the bunka too short, the gyuto and the nakiri are excellent buys.
+At this point, I was ruined for factory knives. I mean, who needs money? The five you see here were all handmade by Japanese blacksmiths. The left two are by Kyohei Shindo in Aogami #2. These are excellent knives at ridiculously low prices, though I now make a habit of replacing the lackluster handles. They have a lovely finish, a dramatic thickness change from spine to tip, and while I find the bunka too short, the gyuto and the nakiri (unpictured) are excellent buys.
 
 In the middle are two Matsubara's, the bunka in Shirogami #1, and the kiri in Aogami #2. I'm a huge fan of Matsubara knives. My dad gifted me the incredible kiri cleaver, and I eventually couldn't resist and picked up the tall bunka in the center. More on the cleaver later, but the bunka really is an excellent height, and the fit and finish are immaculate. When I reach for a smaller knife, it is almost always the Matsubara bunka that I grab.
 
@@ -202,14 +214,16 @@ In the middle are two Matsubara's, the bunka in Shirogami #1, and the kiri in Ao
   </div>
 </div>
 
-I've been casually mentioning handles and sheathes that I've made and installed, and while it certainly used to be a real chore, at this point I've retrofitted around 10 knives, and I've worked out a nice process. Above you can see 3 handmade sheathes, or sayas, out of walnut (thanks Samyam!) along with some handles in rosewood. I do the sheathes from scratch, but I for the handles I actually buy them unfinished from China and do the final shaping and polishing before installing them. 
+I've been casually mentioning handles and sheathes that I've made and installed, and while it certainly used to be a real chore, at this point I've retrofitted around 10 knives, and I've worked out a nice process. Above you can see 3 handmade sheathes, or sayas, out of walnut (thanks Samyam!) along with some handles in rosewood. I do the sheathes from scratch, but for the handles I actually buy them unfinished from China and do the final shaping and polishing before installing them. 
 
 Doing three knives like this is a good weekend project, and it's an awesome way to spruce up an affordable knife like the Kyohei.
 
-![signal-2024-05-19-154722_005](signal-2024-05-19-154722_005.jpeg)
-So, we've been over my fixation with Chinese Vegetable Cleavers, and I briefly showcased this Matsubara kiri cleaver earlier...so what is the difference? Well, I've yet to meet a cleaver that can best the thinness of the 1302, but there is something wonderful about the kiri shape. Aithough it is a little smaller and therefore worse at scooping, the pointy tip is perfect for tasks like mincing garlic or through-slicing, and the reduced size makes it wonderfully manageable in the hand. 
+![img-description](signal-2024-05-19-154722_005.jpeg)
+_Kuaiben, Daovua 52100 180mm Kiri, Matsubara 190mm Kiri_
 
-I've tried out a few of these kiri cleavers, and my favorite is absolutely the Matsubara. The blade geometry and the fit and finish are noticably better. Even the shape of the blade is superior, with a more acute tip and a backsweep underneath the choil. However if you'd like to try out the design, Daovua makes some affordable options. I'd recommend looking for their model in 52100 steel, as the entire knife is said to be of higher quality than the spring steel variants.
+So, we've been over my fixation with Chinese Vegetable Cleavers, and I briefly showcased this Matsubara kiri cleaver earlier...but what is the difference? Well, I've yet to meet a cleaver that can best the thinness of the 1302, but there is something wonderful about the kiri shape. Although it is a little smaller and therefore worse at scooping, the pointy tip is perfect for tasks like mincing garlic or through-slicing, and the reduced size makes it wonderfully manageable in the hand. 
+
+I've tried out a few of these kiri cleavers, and my favorite is absolutely the Matsubara. The blade geometry and the fit and finish are noticeably better. Even the shape of the blade is superior, with a more acute tip and a backsweep underneath the choil. However if you'd like to try out the design, Daovua makes some affordable options. I'd recommend looking for their model in 52100 steel, as the entire knife is said to be of higher quality than the spring steel variants.
 
 ![signal-2024-05-19-154722_006](signal-2024-05-19-154722_006.jpeg)
 
@@ -217,8 +231,8 @@ Speaking of affordable knives, although I certainly seem to be drowning in handm
 
 I keep them around as beater knives, for guests who don't want to risk a real knife, and for teaching people how to use a whetstone.
 
-
-![signal-2024-05-19-165557_003](signal-2024-05-19-165557_003.jpeg)
+![img-description](signal-2024-05-19-165557_003.jpeg)
+_Matsubara Kiri, Shibata Gyuto, CCK 1302_
 
 So, when the onion hits the cutting board, what do I actually find myself reaching for, day after day?
 
