@@ -11,22 +11,18 @@ published: True
 ---
 
 <style>
-    .grid-2x2 {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: auto auto;
-        gap: 20px;
-        justify-items: center;
-    }
-    .grid-3x2 {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: auto auto;
-        gap: 20px;
-        justify-items: center;
-    }
     .grid-container {
-        justify-items: center;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px; /* Adjust the gap as needed */
+        justify-content: center; /* Center the grid items horizontally */
+    }
+    .grid-container > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100%; /* Ensure the div takes full height of the grid cell */
+        justify-content: flex-end; /* Align items to the bottom */
     }
     .grid-container img {
         width: auto;
@@ -34,12 +30,19 @@ published: True
         height: auto;
         object-fit: cover;
         display: block;
+        margin-bottom: 0px; /* Reduce margin to make gap smaller */
     }
-    .grid-container .caption {
+    .grid-container .caption em {
+        display: block;
         text-align: center;
-        align-self: start;
+        font-style: normal;
+        font-size: 80%;
+        padding: 0;
+        margin-top: 0px; /* Reduce margin to make gap smaller */
+        color: #6d6c6c;
     }
 </style>
+
 
 If you've been keeping up to date with this blog, then you'll know that I'm [pretty serious about my knives]({% link _posts/2023-12-22-babys_first_cleaver.md %}). You may even suspect that I have my fair share of kitchen knives.
 
@@ -112,26 +115,21 @@ You've already met the nakiri style, but a kiritsuke is 9.5in executive chef kni
 
 The four gorgeous handles you see in the photo are stabilized burl maple, and I bought them from sharpedgeshop and installed them myself, a process which can be difficult if you do it wrong. I'll add a post on this soon.
 
-<div class="grid-container grid-3x2">
+<div class="grid-container">
     <div>
         <img src="LRM_EXPORT_20804102984562_20220224_001216584.jpeg" alt="white light">
+        <div class="caption"><em>so</em></div>
     </div>
     <div>
         <img src="LRM_EXPORT_227735294808905_20220213_120213481.jpeg" alt="shortwave">
+        <div class="caption"><em>many</em></div>
     </div>
     <div>
         <img src="LRM_EXPORT_19352088136366_20220223_234804569.jpeg" alt="shortwave">
-    </div>
-    <div class="caption">
-        <p>so.</p>
-    </div>
-    <div class="caption">
-        <p>many.</p>
-    </div>
-    <div class="caption">
-        <p>vegetables.</p>
+        <div class="caption"><em>vegetables</em></div>
     </div>
 </div>
+
 
 I lasted almost an entire year before discovering my new passion: chinese vegetable cleavers, or cai doas. It was around this time that I started getting serious about cooking, and as you can see, I really, <i>really</i> liked taking pictures of the veggies I cut. I think I was half proud of the knife, and half proud that I had finally learned what a vegetable was.
 
@@ -158,7 +156,7 @@ But lets back up. Long before I had 20 cleavers, in fact, within days of buying 
 
 We've seen the middle yanagiba before, but allow me to introduce the Tojiro Molybdenum Vanadium Soba Kiri in 240mm and the Tojiro Shirogami #2 Usuba in 165mm. These are both highly specialized Japanese knives, one for making soba and the other for carving vegetable art. They are both delightful knives, and my only regret is not spending the extra money to buy the soba kiri in 300mm.
 
-<div class="grid-container grid-3x2">
+<div class="grid-container">
     <div>
         <img src="275857597_944769002858953_1784451587630553281_n.jpg" alt="white light">
     </div>
@@ -170,7 +168,7 @@ We've seen the middle yanagiba before, but allow me to introduce the Tojiro Moly
     </div>
 </div>
 
-<div class="grid-container grid-2x2">
+<div class="grid-container">
     <div>
         <img src="275475376_176165898068782_8990111245946525805_n.jpg" alt="white light">
     </div>
@@ -181,7 +179,7 @@ We've seen the middle yanagiba before, but allow me to introduce the Tojiro Moly
 
 You can see me using both knifes for their intended purpose above. And it's probably a good time to mention that you can click on the images to enlarge them.
 
-<div class="grid-container grid-2x2">
+<div class="grid-container">
     <div>
         <img src="LRM_EXPORT_1964793818726163_20221120_183444127.jpeg" alt="white light">
     </div>
