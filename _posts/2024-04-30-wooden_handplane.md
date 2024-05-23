@@ -15,18 +15,25 @@ published: False
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto auto;
-        gap: 20px;
+        column-gap: 20px; /* Keep horizontal gap */
         justify-items: center;
     }
     .grid-3x2 {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: auto auto;
-        gap: 20px;
+        column-gap: 20px; /* Keep horizontal gap */
         justify-items: center;
     }
     .grid-container {
         justify-items: center;
+    }
+    .grid-container > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100%; /* Ensure the div takes full height of the grid cell */
+        justify-content: flex-end; /* Align items to the bottom */
     }
     .grid-container img {
         width: auto;
@@ -34,12 +41,18 @@ published: False
         height: auto;
         object-fit: cover;
         display: block;
+        margin-bottom: 5px; /* Small margin to separate the image and caption */
     }
-    .grid-container .caption {
+    .grid-container .caption em {
+        display: block;
         text-align: center;
-        align-self: start;
+        font-style: normal;
+        font-size: 80%;
+        padding: 0;
+        color: #6d6c6c;
     }
 </style>
+
 
 <div class="grid-container grid-2x2">
     <div>
@@ -49,16 +62,16 @@ published: False
         <img src="20240430_185813.jpg" alt="shortwave">
     </div>
     <div class="caption">
-        <p>plane.</p>
+        <em>plane.</em>
     </div>
     <div class="caption">
-        <p>broken.</p>
+        <em>broken.</em>
     </div>
 </div>
 
 
 ![img-description](signal-2024-05-20-193343_002.jpeg)
-blade date
+_blade date_
 
 
 ![img-description](20240420_194523.jpg)
