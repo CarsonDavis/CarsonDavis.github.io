@@ -11,7 +11,7 @@ To put it simply, I have a ton of hand planes. And they are taking up my whole d
 
 I've seen a bunch of YouTube videos where people have their planes hanging on the wall, and not only does it look sick, it also looks easy to build.
 
-![20240514_205613](20240514_205613.jpg)
+![20240514_205613](20240514_205613_background.jpg)
 
 Here's the current collection. Soon I'll add a post going through each plane, their uses and history.
 
