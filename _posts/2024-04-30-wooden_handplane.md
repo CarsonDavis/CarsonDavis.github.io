@@ -2,7 +2,7 @@
 title: Wooden Handplane
 date: 2024-04-30
 last_modified_at: 2024-05-22
-categories: [knives]
+categories: [woodworking projects]
 tags: []
 media_subpath: /wooden-handplane/
 description: Making a handplane from oak and mahogany.
