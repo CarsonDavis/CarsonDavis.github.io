@@ -7,7 +7,7 @@ tags: []
 media_subpath: /wooden-handplane/
 description: Making a handplane from oak and mahogany.
 image: signal-2024-05-22-172558_004.jpeg
-published: False
+published: True
 ---
 
 <style>
