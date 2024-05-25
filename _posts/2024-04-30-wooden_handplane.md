@@ -81,7 +81,7 @@ But let's take a step back. How do I know how old this thing is? Well, turns out
 
 This particular plane is one of the easiest to identify, as it has three patents cast into the body and features a one inch brass adjustment knob, making it a Type 11 made between 1910 and 1918...which is decidedly NOT the date range I told you earlier.
 
-Turns out if you are lucky, there are also 20 distinct [Stanley trademarks](https://virginiatoolworks.com/2015/02/16/stanley-trademark-stamps/) used between 1872 and 1935. And although that information won't help you out if you plane is more recent, mine is old af and we are able to narrow it down to a type T Trademark, used between 1909-1912. This gives us a very tight window of 1910-1912 for the plane as a whole.
+As it happens, there are also 20 distinct [Stanley trademarks](https://virginiatoolworks.com/2015/02/16/stanley-trademark-stamps/) used between 1872 and 1935. And although that information won't help you out if you plane is more recent, mine is old af and we are able to narrow it down to a type T Trademark, used between 1909-1912. This gives us a very tight window of 1910-1912 for the plane as a whole.
 
 
 ![img-description](20240420_194523.jpg)
@@ -189,6 +189,9 @@ Ultimately, I will close in on the tenon with a saw and chisel, but to make sure
     </div>
 </div>
 
+This can then be finished out with a fine saw. I started off by trying to chisel the mortise out fully by hand. However, if you zoom in on the photo, you should be able to see that I ended up routing out the bulk of the slot before finishing it out with a chisel. 
+
+This was my first mortise and tenon joint, and it worked out far more nicely than I expected.
 
 <div class="grid-container grid-3x2">
     <div>
@@ -211,11 +214,13 @@ Ultimately, I will close in on the tenon with a saw and chisel, but to make sure
     </div>
 </div>
 
-The saw wandered a bit during the cut
+For the design of this plane body, I'm following along with some [Rex Kruger plans](https://www.rexkrueger.com/store/p/plans-adjustable-jointer-plane). I've deviated noticeably from his design in some sections, however I wanted to remove the tongue of the frog like he did. Because of the uneven shape of the rear mounting surface, I believe this will give better support to the blade.
+
+The saw wandered a bit during the cut, so we needed to do some filing and then stoning to bring the bottom of the frog down to a flat and square surface. This is the sort of thing that I feel gets glossed over in YouTube videos, but can take a _long_ time when you are doing a project on your own.
 
 ![img-description](20240421_145921.jpg)
 
-frog attachment
+Here you can see a rough assembly of the frog and blade with the oak base. The blade protrudes too far, but that is easily fixed with a thin wooden spacer, which you should be able to see if you look closely at the photo of the gap further down the page.
 
 
 <div class="grid-container grid-2x2">
@@ -233,19 +238,61 @@ frog attachment
     </div>
 </div>
 
+I really didn't like the grip that Rex used in his plans, and I had originally decided to carve a traditional knob directly out of the mahogany. However, as I did my test grips, I actually ended up preferring larger shape that lacked radial symmetry.  
 
 ![img-description](signal-2024-05-20-193356_002.jpeg)
-spacing
+
+We're skipping ahead a little bit in the build process because I forgot to take pictures, but it is important to note that when everything is glued together, you need to take care with the gap left for the blade. It's better to have too narrow of a gap, because you can easily enlarge it later with a file.
 
 
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="20240430_165539.jpg" alt="shortwave">
+    </div>
+    <div>
+        <img src="20240430_170340.jpg" alt="shortwave">
+    </div>
+    <div>
+        <img src="20240430_165611.jpg" alt="shortwave">
+    </div>
+    <div class="caption">
+        <em>height discrepancy</em>
+    </div>
+    <div class="caption">
+        <em>rough rasping</em>
+    </div>
+    <div class="caption">
+        <em>notice the rasp</em>
+    </div>
+</div>
 
-![img-description](20240430_165611.jpg)
+Because I had originally planned to carve out an entire knob, I took the base down further than my side cutouts. To give the plane a streamlined look, I brought this down with a rasp and sanding. You can also see me streamlining the back, and we've finally got a photo of the rasp I've been using.
 
-back finishing
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="20240430_171640.jpg" alt="shortwave">
+    </div>
+    <div>
+        <img src="20240430_183719.jpg" alt="shortwave">
+    </div>
+    <div class="caption">
+        <em>uneven lip</em>
+    </div>
+    <div class="caption">
+        <em>equalized</em>
+    </div>
+</div>
+
+Bringing down the lip was one of the trickier parts, and required some careful filing with a small triangle file.
+
+![img-description](20240430_181845.jpg)
+
+I finished it off with some tung oil and left it to dry. 
 
 
 ![img-description](20240420_204527.jpg)
-test shavings
+
+And here are the first test shavings. Looking pretty good!
 
 
 <div class="grid-container grid-2x2">
@@ -262,7 +309,7 @@ test shavings
         <em>ahhhh</em>
     </div>
 </div>
-
+<!-- 
 <div class="grid-container grid-2x2">
     <div>
         <img src="signal-2024-05-22-172558_004.jpeg" alt="shortwave">
@@ -276,4 +323,4 @@ test shavings
     <div class="caption">
         <em>prettty</em>
     </div>
-</div>
+</div> -->
