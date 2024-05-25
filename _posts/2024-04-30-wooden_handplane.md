@@ -74,8 +74,21 @@ Which is how I found myself in my local antique store looking specifically for a
 
 You can see that they tried to repair it with that metal plate on the side, but they weren't able to get the sole flat, rendering it less than useful without some significant restoration work. And to top it off, the even helpfully broke off part of the handle, which gives me the perfect excuse to remake the whole thing from scratch.
 
-![img-description](signal-2024-05-20-193343_002.jpeg)
-_my Type T Trademark_
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="signal-2024-05-24-212738_002.jpeg" alt="shortwave">
+    </div>
+    <div>
+        <img src="signal-2024-05-20-193343_002.jpeg" alt="white light">
+    </div>
+    <div class="caption">
+        <em>three patents behind the frog</em>
+    </div>
+    <div class="caption">
+        <em>my Type T Trademark</em>
+    </div>
+</div>
+
 
 But let's take a step back. How do I know how old this thing is? Well, turns out there are a bunch of old dudes on the internet that are _really_ serious about antique woodworking tools. You can download [helpful flowcharts](https://woodandshop.com/wp-content/uploads/2021/01/stanley-bailey-handplane-type-study-flow-chart-2021.pdf) that will guide you through the various features of a plane to identify which of the 19 primary types of antique Stanley hand planes you have, dating anywhere from 1867-1961. 
 
@@ -142,7 +155,7 @@ I had a big chunk of mahogany laying around from an old ukulele project, and I w
 
 <div class="grid-container grid-2x2">
     <div>
-        <img src="20240421_124346.jpg" alt="white light">
+        <img src="cropped.jpg" alt="white light">
     </div>
     <div>
         <img src="20240421_151630.jpg" alt="shortwave">
@@ -245,7 +258,7 @@ I really didn't like the grip that Rex used in his plans, and I had originally d
 We're skipping ahead a little bit in the build process because I forgot to take pictures, but it is important to note that when everything is glued together, you need to take care with the gap left for the blade. It's better to have too narrow of a gap, because you can easily enlarge it later with a file.
 
 
-<div class="grid-container grid-2x2">
+<div class="grid-container grid-3x2">
     <div>
         <img src="20240430_165539.jpg" alt="shortwave">
     </div>
