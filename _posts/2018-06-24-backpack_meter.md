@@ -5,8 +5,13 @@ categories: [electronics, antiques]
 tags: [electronics, tools, multimeter, antiques]
 media_subpath: /backpack-meter/
 description: Trying to find a good backpack multi-meter.
+image: u9ctgIN.jpeg
 ---
-You should probably read this forum post for context: https://www.eevblog.com/forum/testgear/best-most-expensive-pocket-multimeter/
+You should probably read this forum post for context: https://www.eevblog.com/forum/testgear/best-most-expensive-pocket-multimeter/.
+
+I made a bunch of posts of varying quality on the EEVBlog and imgur back and 2018, and I am mostly just moving them over to this site so I don't lose them, as some of my imgur albums were deleted and the eevblog is pretty difficult to search.
+
+---------
 
 ![vBfz8Ocu](vBfz8Oc.jpeg)
 Maybe I need a bigger backpack?
