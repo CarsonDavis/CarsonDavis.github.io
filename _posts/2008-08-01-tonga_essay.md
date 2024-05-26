@@ -5,7 +5,51 @@ last_modified_at: 2024-05-17
 categories: [random, old essays]
 tags: [essay, tonga, high school]
 description: Draft of an essay I wrote at some point in high school
+media_subpath: /tonga/
+image: IMG_1269.jpg
 ---
+<style>
+    .grid-2x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px; /* Keep horizontal gap */
+        justify-items: center;
+    }
+    .grid-3x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px; /* Keep horizontal gap */
+        justify-items: center;
+    }
+    .grid-container {
+        justify-items: center;
+    }
+    .grid-container > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100%; /* Ensure the div takes full height of the grid cell */
+        justify-content: flex-end; /* Align items to the bottom */
+    }
+    .grid-container img {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        object-fit: cover;
+        display: block;
+        margin-bottom: 5px; /* Small margin to separate the image and caption */
+    }
+    .grid-container .caption em {
+        display: block;
+        text-align: center;
+        font-style: normal;
+        font-size: 80%;
+        padding: 0;
+        color: #6d6c6c;
+    }
+</style>
 
 I was thumbing through an old flash drive looking at ancient files when I found this one called 'Kingdom of Tonga Essay Draft'. As a grown-ass 32 year old, I don't know if I want to make a habit of sharing my cringy teenage writings on the internet, but I thought this one was about an interesting event in my life, so here we go. Although I'm sure that I wrote this for a class and that would have affected how I presented the events, I also know that looking back, I really was kinda like this. 
 
@@ -14,6 +58,7 @@ When I went on the original mission trip, I would have been an extremely devoted
 Memory is a weird thing, and maybe I've belabored this with too much context, but anyway, here's the draft of the essay, complete with the original spelling errors... (though for the reader's benefit I have removed the jarring double spaces that everyone seemed to use between sentences back then...you're welcome.)
 
 -------
+
 
 In the summer of my sophomore year in high school, my dad asked me if I would like to go on a mission trip to the Kingdom of Tonga. I had always wanted to see the world, and I figured that any place with the word kingdom in its name has to be interesting, so I agreed without hesitation. I had no idea what I was getting into.
 
@@ -55,3 +100,48 @@ When I left the island ten days later, I was amazed at what I had experienced. C
 
 
 Now, two years later, I know that those weeks in Tonga were the most incredible weeks of my life. I still love my TV and cell phone and all the other trappings of a modern life, but every time I flip on a light switch or turn on the water, I remember the friends I made back in Tonga, and I can appreciate the things I have. I’m far more willing now to take pleasure in the little things of life, and to be happy just because. When I agreed to go on a mission trip to the Kingdom of Tonga, I may not have known what I was getting into, but I’m sure glad I did.
+
+------
+
+I had just gotten my first real camera before going on this mission trip, a point and shoot cannon. I won't give too much commentary, but I've smattered this post with photos I took during the trip, including the cover photo.
+
+![img_description](IMG_3711.jpg)
+_children in Tonga, one of my favorite photos_
+
+
+![img_description](IMG_3649.jpg)
+_the whole ocean around the island was scattered with these impossible chunks of stone_
+
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="IMG_4363.JPG" alt="white light">
+    </div>
+    <div>
+        <img src="IMG_3160.JPG" alt="shortwave">
+    </div>
+    <div class="caption">
+        <em>ancient</em>
+    </div>
+    <div class="caption">
+        <em>modern?</em>
+    </div>
+</div>
+Boats were an essential part of life, both old and new.
+
+
+<div class="grid-container grid-3x2">
+    <div>
+        <img src="tonga2.JPG" alt="white light">
+    </div>
+    <div>
+        <img src="tonga1.jpg" alt="shortwave">
+    </div>
+    <div>
+        <img src="tonga3.JPG" alt="shortwave">
+    </div>
+</div>
+Me with the kids of the island
+
+
+![img_description](IMG_3197.jpg)
+_sunset in Nuku'alofa_
