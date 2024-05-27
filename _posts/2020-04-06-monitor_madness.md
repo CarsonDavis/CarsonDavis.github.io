@@ -50,7 +50,7 @@ Let's go through each of the configurations
     <thead>
       <tr>
         <th>Configuration</th>
-        <th>Worth it?</th>
+        <th style="text-align: center">Worth it?</th>
       </tr>
     </thead>
     <tbody>
@@ -113,7 +113,7 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
       <th>Width</th>
       <th>Height</th>
       <th>MegaPixels</th>
-      <th>Norm</th>
+      <th>Normalized</th>
     </tr>
   </thead>
   <tbody>
