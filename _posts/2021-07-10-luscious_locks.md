@@ -5,7 +5,7 @@ last_modified_at: 2024-05-26
 categories: [random]
 tags: []
 media_subpath: /luscious-locks/
-description: The fantastic folly of fabulous follicles.
+description: The fantastic fable of fabulous follicles.
 image: signal-2018-06-02-193710.jpg
 published: True
 ---
