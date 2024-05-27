@@ -93,3 +93,9 @@ These are some photos I took while we made steel. I recommend clicking on the ph
         <img src="Blast11.png" alt="shortwave">
     </div>
 </div>
+
+-----
+
+![img-desc](signal-2018-08-22-141139.jpg)
+
+A friend and I wearing our blast suits.
