@@ -123,7 +123,7 @@ _the whole ocean around the island was scattered with these impossible chunks of
         <em>ancient</em>
     </div>
     <div class="caption">
-        <em>modern?</em>
+        <em>"modern"</em>
     </div>
 </div>
 Boats were an essential part of life, both old and new.
