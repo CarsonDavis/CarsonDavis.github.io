@@ -1,7 +1,7 @@
 ---
 title: Hand Plane Storage
 date: 2024-05-13 17:22:00 -0600
-categories: [woodworking]
+categories: [woodworking, organization]
 tags: [woodworking, antiques, tools, hand planes]
 media_subpath: /plane-hanger/
 description: Making a hanging storage solution for my hand planes.

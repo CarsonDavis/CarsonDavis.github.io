@@ -2,7 +2,7 @@
 title: Plane Collection
 date: 2024-05-01
 last_modified_at: 2024-05-24
-categories: [woodworking]
+categories: [woodworking, tools]
 tags: []
 media_subpath: /plane-collection/
 description: Details on my small handplane collection.

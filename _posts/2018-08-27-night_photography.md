@@ -2,7 +2,7 @@
 title: Night Photography
 date: 2018-08-27
 last_modified_at: 2024-05-25
-categories: [photography]
+categories: [photography, night]
 tags: []
 media_subpath: /night-photography/
 description: Dabbling in the dark arts

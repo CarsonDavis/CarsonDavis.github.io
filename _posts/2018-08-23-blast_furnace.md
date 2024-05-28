@@ -2,7 +2,7 @@
 title: Blast Furnace
 date: 2018-08-23
 last_modified_at: 2024-05-25
-categories: [random]
+categories: [random, blast furnace]
 tags: []
 media_subpath: /blast-furnace/
 description: Operating a miniature blast furnace

@@ -2,7 +2,7 @@
 title: Kitchen Knives
 date: 2024-02-14
 last_modified_at: 2024-05-19
-categories: [knives]
+categories: [knives, overview]
 tags: []
 media_subpath: /kitchen-knives/
 description: Details on my small collection of kitchen knives.

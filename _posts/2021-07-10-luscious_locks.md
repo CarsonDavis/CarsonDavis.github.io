@@ -2,7 +2,7 @@
 title: Living with Luscious Locks
 date: 2021-07-10
 last_modified_at: 2024-05-26
-categories: [random]
+categories: [random, hair]
 tags: []
 media_subpath: /luscious-locks/
 description: The fantastic fable of fabulous follicles.

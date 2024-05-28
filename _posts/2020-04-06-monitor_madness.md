@@ -2,7 +2,7 @@
 title: Monitor Madness
 date: 2020-04-06
 last_modified_at: 2024-05-26
-categories: [random]
+categories: [productivity, monitors]
 tags: []
 media_subpath: /monitors/
 description: How many monitors do you really need?

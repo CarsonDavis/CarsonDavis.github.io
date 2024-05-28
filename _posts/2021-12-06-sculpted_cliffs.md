@@ -2,7 +2,7 @@
 title: Sculpted Cliffs
 date: 2021-12-06
 last_modified_at: 2024-05-25
-categories: [crafting]
+categories: [crafting, dioramas]
 tags: []
 media_subpath: /sculpted-cliffs/
 description: Crafting an oceanside cliff.
