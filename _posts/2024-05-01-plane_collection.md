@@ -70,10 +70,12 @@ _Stanley #5 blade and frog in a #6 handmade wooden body, 1910-1912_
         <em>T Trademark</em>
     </div>
 </div>
-
 - Type 11, 1910-1918
 - T Trademark, 1909-1912
 - combined date, 1910-1912
+
+
+I have an [entire post]({% link _posts/2024-04-30-wooden_handplane.md %}) on how I made the wooden body for this handplane.
 
 
 ![img-desc](signal-2024-05-24-143415_002.jpeg)
@@ -160,11 +162,12 @@ _Stanley #4, Type 16, 1933-1941_
     </div>
 </div>
 
-- Robbie's Plane
 - Type 16, 1933-1941
 - BB Trademark, 1935-now
 - Combined Date, 1935-1941
 
+
+This is actually Robbie's handplane, but it's worth including as a contrast to my wartime #4.
 
 ![img-desc](signal-2024-05-24-143415_010.jpeg)
 _Stanley #4, Type 17, 1942-1945_
