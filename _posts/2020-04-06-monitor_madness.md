@@ -110,8 +110,8 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
     <tr>
       <th>Name</th>
       <th>Ratio</th>
-      <th>Width</th>
-      <th>Height</th>
+      <th>W</th>
+      <th>H</th>
       <th>MP</th>
       <th>Norm</th>
     </tr>
@@ -122,7 +122,7 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
       <td align="center">360x1</td>
       <td align="center">640</td>
       <td align="center">360</td>
-      <td align="center">0.2 MP</td>
+      <td align="center">0.2</td>
       <td align="center">0.11</td>
     </tr>
     <tr>
@@ -130,7 +130,7 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
       <td align="center">360x2</td>
       <td align="center">1280</td>
       <td align="center">720</td>
-      <td align="center">0.9 MP</td>
+      <td align="center">0.9</td>
       <td align="center">0.44</td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
       <td align="center">360x3</td>
       <td align="center">1920</td>
       <td align="center">1080</td>
-      <td align="center">2.1 MP</td>
+      <td align="center">2.1</td>
       <td align="center">1.00</td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
       <td align="center">360x4</td>
       <td align="center">2560</td>
       <td align="center">1440</td>
-      <td align="center">3.7 MP</td>
+      <td align="center">3.7</td>
       <td align="center">1.78</td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
       <td align="center">360x5</td>
       <td align="center">3200</td>
       <td align="center">1800</td>
-      <td align="center">5.8 MP</td>
+      <td align="center">5.8</td>
       <td align="center">2.78</td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
       <td align="center">360x6</td>
       <td align="center">3840</td>
       <td align="center">2160</td>
-      <td align="center">8.3 MP</td>
+      <td align="center">8.3</td>
       <td align="center">4.00</td>
     </tr>
   </tbody>
