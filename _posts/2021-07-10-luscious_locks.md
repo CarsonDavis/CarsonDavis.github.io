@@ -53,9 +53,9 @@ published: True
     }
 </style>
 
-I hated haircuts, but it was the second to last day of school and my dad told me I could have any hair cut I wanted...4th grade me thought indians were _awesome_...so obviously I got a mohawk. 
+I hated haircuts, but it was the second to last day of school and my dad told me I could have any hair cut I wanted, and 4th grade me thought indians were _awesome_...so obviously I got a mohawk. 
 
-Months passed, and I still hated hair cuts, and with this deep precedent of follicular autonomy set, I proceeded to go the next four year without seeing the inside of a barber shop. It started off as a joke, but then long hair became kinda my thing, and then I found out you could donate it to kids with cancer, and so clearly I couldn't cut it with that knowledge in hand. 
+Months passed, and I still hated hair cuts, so with this deep precedent of follicular autonomy set, I proceeded to go the next four years without seeing the inside of a barber shop. It started off as a joke, but then long hair became kinda my thing, and then I found out you could donate it to kids with cancer, and so clearly I couldn't cut it with that knowledge in hand. 
 
 <div class="grid-container grid-2x2">
     <div>
@@ -65,7 +65,7 @@ Months passed, and I still hated hair cuts, and with this deep precedent of foll
         <img src="03.jpg" alt="shortwave">
     </div>
     <div class="caption">
-        <em>~2004</em>
+        <em>~2004. I was the prettiest girl in my class &#x1F62D;</em>
     </div>
     <div class="caption">
         <em>5/18/2006</em>
@@ -110,16 +110,16 @@ Interestingly, sometime in high school, 2008 or 9, I started wearing a tight buz
 
 <div class="grid-container grid-2x2">
     <div>
-        <img src="Screenshot_20201015-220403_Photos.jpg" alt="white light">
+        <img src="signal-2020-10-11-142954.jpg" alt="shortwave">
     </div>
     <div>
-        <img src="signal-2020-10-11-142954.jpg" alt="shortwave">
+        <img src="Screenshot_20201015-220403_Photos.jpg" alt="white light">
+    </div>
+    <div class="caption">
+        <em>Oct 2020...the years were not kind to me</em>
     </div>
     <div class="caption">
         <em>beard of glory</em>
-    </div>
-    <div class="caption">
-        <em>the years were not kind to me</em>
     </div>
 </div>
 
@@ -141,15 +141,16 @@ I went through a few different styles in the intervening years, and I unfortunat
     </div>
 </div>
 
-Thankfully as my hair got longer I cut off the beard.
+Thankfully as my hair got longer I cut off the beard. It's crazy how keeping it shorter makes you look so much younger.
 
 
 ![img-desc](20210710_181304.jpg)
 
-I think I've had this particular hair cut at 5 distinct times in my life, and it's probably my favorite length. On a good hair day it falls down in loose curls, and it's just long enough to easily keep out of my face. 
+This is my favorite length. On a good hair day it falls down in loose curls, and it's just long enough to easily keep out of my face. I think I've had this perfect length 5 distinct times in my life.
 
-Unfortunately it only stays at this perfect length for a couple months. Any shorter and it's always in your face, and any longer and the weight starts to pull the curls out. Plus, this length can be somewhat temperamental, on good hairdays it looks amazing, but on bad hairdays I look like soggy Jesus. 
+Unfortunately it only stays at this length for a couple months. Any shorter and it's always in your face, and any longer and the weight starts to pull the curls out. Plus, this length can be somewhat temperamental -- on good hairdays it looks amazing, but on bad hairdays I look like soggy Jesus. 
 
 ![img-desc](frogs.jpg)
+_I couldn't make a whole post about hair and not include this photo_
 
-I couldn't make a whole post about hair and not include this photo. Anyway, thank you for joining me on this captivating chronicle of my curious curls.
+Anyway, thank you for joining me on this captivating chronicle of my curious curls.
