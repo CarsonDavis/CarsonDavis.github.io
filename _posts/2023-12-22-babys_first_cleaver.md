@@ -28,7 +28,7 @@ The first step is obviously to find a menacing, baby-sized cleaver. Why a cleave
 
 Have you ever thought to yourself, "Jee Wiz! I sure wish I could use a cleaver for literally every kitchen task!" Well, I've got good news for you.
 
-Anyway, I started looking for tiny baby-sized knives within a month of finding out my sister was pregnant. It may surprise you to learn that there is not an abundance of high quality infant cleavers on the market. It took literally a year and a god awful number of purchases from novelty stores, alibaba, and amazon before finally settling on the set you see here, sitting atop what I am sure you will now recognize as a Chan Chi Kee KF1302 Cai Dao in 219mm.
+Anyway, I started looking for tiny baby-sized knives within a month of finding out my sister was pregnant. It may surprise you to learn that there is not an abundance of high quality infant cleavers on the market. It took literally a year, and a god awful number of purchases from novelty stores, alibaba, and amazon before finally settling on the set you see here, sitting atop what I am sure you will now recognize as a Chan Chi Kee KF1302 Cai Dao in 219mm.
 
 <!-- https://www.amazon.com/gp/product/B0C2PD4GSG -->
 
