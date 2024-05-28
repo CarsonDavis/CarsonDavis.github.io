@@ -107,8 +107,8 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
 
 <table>
   <thead>
-    <tr>
-      <th>Name</th>
+    <tr align="center">
+      <th>Res</th>
       <th>Ratio</th>
       <th>W</th>
       <th>H</th>
