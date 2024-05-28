@@ -54,37 +54,21 @@ published: True
     }
 </style>
 
+This is a stub post that I will eventually add more content to.
+
 I used to do a lot of night photography. At some point, I need to go back though my old hard drives and actually find all the good images, but for how, here are a couple that I ran across on an old flash drive.
 
 Click on the photos and they will enlarge.
 
-<div class="grid-container grid-2x2">
-    <div>
-        <img src="20506988_10155041253548795_4672899111366627623_o.jpg" alt="white light">
-    </div>
-    <div>
-        <img src="LRM_EXPORT_20170526_002240.jpg" alt="shortwave">
-    </div>
-    <div class="caption">
-        <em>Huntsville at night</em>
-    </div>
-    <div class="caption">
-        <em>Seattle at night</em>
-    </div>
-</div>
 
+![img_desc](20506988_10155041253548795_4672899111366627623_o.jpg)
+_Huntsville at night_
 
-<div class="grid-container grid-2x2">
-    <div>
-        <img src="LRM_EXPORT_20170702_122621.jpg" alt="white light">
-    </div>
-    <div>
-        <img src="19702093_10154974182558795_908610629918399615_n.jpg" alt="shortwave">
-    </div>
-    <div class="caption">
-        <em>Somewhere in California</em>
-    </div>
-    <div class="caption">
-        <em>Huntsville at night</em>
-    </div>
-</div>
+![img_desc](19702093_10154974182558795_908610629918399615_n.jpg)
+_Fireworks behind the Saturn V_
+
+![img_desc](LRM_EXPORT_20170526_002240.jpg)
+_Seattle at night_
+
+![img_desc](LRM_EXPORT_20170702_122621.jpg)
+_Somewhere in California_
