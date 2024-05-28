@@ -47,12 +47,12 @@ Let's go through each of the configurations
 
 <div class="center-content">
   <table>
-    <thead>
+    <!-- <thead>
       <tr>
-        <th>Configuration</th>
+        <th></th>
         <th style="text-align: center">Worth it?</th>
       </tr>
-    </thead>
+    </thead> -->
     <tbody>
       <tr>
         <td><strong>One</strong></td>
@@ -109,11 +109,11 @@ Anyway I think 1440p is a waste of money when 4k monitors are so cheap, and at l
   <thead>
     <tr>
       <th>Name</th>
-      <th>Multiple</th>
+      <th>Ratio</th>
       <th>Width</th>
       <th>Height</th>
-      <th>MegaPixels</th>
-      <th>Normalized</th>
+      <th>MP</th>
+      <th>Norm</th>
     </tr>
   </thead>
   <tbody>
