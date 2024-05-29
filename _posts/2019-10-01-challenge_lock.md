@@ -55,6 +55,8 @@ published: True
 
 In the locksport community on reddit, one requirement of moving to Blue belt is submitting a challenge lock. This is sleeper lock that you have modified to be harder than normal to pick. For mine I choose a common and easy lock often seen on American residential homes, the Kwikset.
 
+I did my first one using the pins that were already in the lock with a standard drill, and it was hellish. Made my second using brass stock from Amazon and a dremel and it was a dream.
+
 Click on the images to enlarge them.
 
 ![img-desc](idq2cDP.jpg)
