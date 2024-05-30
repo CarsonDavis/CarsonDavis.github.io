@@ -9,6 +9,10 @@ description: Details on my small collection of fluorescent rocks.
 image: 20200213_002700.jpg
 ---
 
+
+> This is a unfinished post that will receive additional content and editing in the future. I'll add details about the minerals in each rock, their localities, and add additional rocks from my collection. However, for now you can look at the pretty pictures.
+{: .prompt-danger }
+
 <style>
     .grid-2x2 {
         display: grid;
@@ -40,10 +44,6 @@ image: 20200213_002700.jpg
     }
 </style>
 
-
-
-
-This post isn't finished; I need to add details about each rock. However, for now, you can look at the pretty pictures.
 
 Reminder that you can click on the photos to see them full size..
 
