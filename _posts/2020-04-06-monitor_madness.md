@@ -76,7 +76,7 @@ Let's go through each of the configurations
       </tr>
       <tr>
         <td><strong>Eight</strong></td>
-        <td style="word-wrap: break-word; white-space: normal;">Literal insanity. Please don't tell anyone, but I honestly can't remember the last time I used 8 monitors to their full capacity. They do look fucking awesome on my desk tho.</td>
+        <td style="word-wrap: break-word; white-space: normal;">Literal insanity. Please don't tell anyone, but I honestly can't remember the last time I used my 8 monitors to their full capacity. They do look fucking awesome on my desk tho.</td>
       </tr>
     </tbody>
   </table>

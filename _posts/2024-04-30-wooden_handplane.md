@@ -53,7 +53,7 @@ published: True
     }
 </style>
 
-I've always liked the idea of making a wooden handplane, but have never quite gotten around to it. You see, making all the metal parts seems like a royal pain in the ass, so reasonable people tend to steal the important metal bits from antique plane bodies. And although I love the glimmer of oil on freshly shaped mahogany as much as the next guy, it's always seemed a shame to cannibalize a antique like that.
+I've always liked the idea of making a wooden handplane, but have never quite gotten around to it. You see, making all the metal parts seems like a royal pain in the ass, so reasonable people tend to steal the important metal bits from antique plane bodies. And although I love the glimmer of oil on freshly shaped mahogany as much as the next guy, it's always seemed a shame to cannibalize an antique like that.
 
 <div class="grid-container grid-2x2">
     <div>
@@ -72,7 +72,7 @@ I've always liked the idea of making a wooden handplane, but have never quite go
 
 Which is how I found myself in my local antique store looking specifically for a broken plane. I think I went to three stores before stumbling across this beauty. It's a 112 year old Stanley #5 jack plane manufactured sometime between 1910-1912, and gloriously, the previous owner managed to break the cast iron body cleanly in half. 
 
-You can see that they tried to repair it with that metal plate on the side, but they weren't able to get the sole flat, rendering it less than useful without some significant restoration work. And to top it off, the even helpfully broke off part of the handle, which gives me the perfect excuse to remake the whole thing from scratch.
+You can see that they tried to repair it with that metal plate on the side, but they weren't able to get the sole flat, rendering it less than useful without some significant restoration work. And to top it off, they even helpfully broke off part of the handle, which gives me the perfect excuse to remake the whole thing from scratch.
 
 <div class="grid-container grid-2x2">
     <div>
@@ -151,7 +151,7 @@ I started by tracing out the profile of an existing #6 plane, giving myself a li
     </div>
 </div>
  
-I had a big chunk of mahogany laying around from an old ukulele project, and I was able to just barely get a handle sized piece from it , cut at an angle. Although I eventually whipped out the power sander, I did the bulk of the shaping with a 9in Shinto Saw Rasp. These things are absolutely incredible, and I cannot recommend them enough. 
+I had a big chunk of mahogany laying around from an old ukulele project, and I was able to just barely get a handle sized piece from it, cut at an angle. Although I eventually whipped out the power sander, I did the bulk of the shaping with a 9in Shinto Saw Rasp. These things are absolutely incredible, and I cannot recommend them enough. 
 
 <div class="grid-container grid-2x2">
     <div>
@@ -168,7 +168,7 @@ I had a big chunk of mahogany laying around from an old ukulele project, and I w
     </div>
 </div>
 
-I was very careful when shaping the handle to make it as comfortable as possible, constantly gripping it, finding high spots, and sanding them down. However when you actually use the plane, the angle that it attaches to the body is also of upmost importance. To find this, we held different sized gauge blocks under the back of the plane and tested moving it around until finding the perfect angle. The handle will be held into the base with a simple mortise and tenon joint, and we used a second gauge block to scribe out a line, and then an OLFA to score an initial cut. 
+I was very careful when shaping the handle to make it as comfortable as possible, constantly gripping it, finding high spots, and sanding them down. However when you actually use the plane, the angle it attaches to the body is of utmost importance. To find this, we held different sized gauge blocks under the back of the plane and tested moving it around until finding the perfect angle. The handle will be held into the base with a simple mortise and tenon joint, and we used a second gauge block to scribe out a line, and then an OLFA to score an initial cut. 
 
 <div class="grid-container grid-2x2">
     <div>
@@ -251,7 +251,7 @@ Here you can see a rough assembly of the frog and blade with the oak base. The b
     </div>
 </div>
 
-I really didn't like the grip that Rex used in his plans, and I had originally decided to carve a traditional knob directly out of the mahogany. However, as I did my test grips, I actually ended up preferring larger shape that lacked radial symmetry.  
+I really didn't like the grip that Rex used in his plans, and I had originally decided to carve a traditional knob directly out of the mahogany. However, as I did my test grips, I actually ended up preferring a larger shape that lacked radial symmetry.  
 
 ![img-description](signal-2024-05-20-193356_002.jpeg)
 

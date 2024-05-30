@@ -56,13 +56,13 @@ published: True
 
 This is a stub post that I will eventually add more content to.
 
-I used to do a lot of night photography. At some point, I need to go back though my old hard drives and actually find all the good images, but for how, here are a couple that I ran across on an old flash drive.
+I used to do a lot of night photography. I need to actually go back though my old hard drives and find all the good images, but for now, here are a couple that I ran across on an old flash drive.
 
 Click on the photos and they will enlarge.
 
 
 ![img_desc](20506988_10155041253548795_4672899111366627623_o.jpg)
-_Huntsville at night_
+_Huntsville at sunset_
 
 ![img_desc](19702093_10154974182558795_908610629918399615_n.jpg)
 _Fireworks behind the Saturn V_
@@ -71,4 +71,4 @@ _Fireworks behind the Saturn V_
 _Seattle at night_
 
 ![img_desc](LRM_EXPORT_20170702_122621.jpg)
-_Somewhere in California_
+_Somewhere in California. The glow on the left is a distant forrest fire_

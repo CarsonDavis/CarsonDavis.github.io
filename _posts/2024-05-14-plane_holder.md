@@ -9,15 +9,15 @@ image: 20240512_210549.jpg
 ---
 To put it simply, I have a ton of hand planes. And they are taking up my whole damn workbench.
 
-I've seen a bunch of YouTube videos where people have their planes hanging on the wall, and not only does it look sick, it also looks easy to build.
+Every woodworking YouTuber seems to have an epic, wall-hanging storage solution for their hand planes. It turns out they are relatively easy to build, so I figured it was time for me to join the club.
 
 ![20240514_205613](20240514_205613_background.jpg)
 
-Here's the current collection. Soon I'll add a post going through each plane, their uses and history.
+Here's the current collection. I've got [another post]({% link _posts/2024-05-01-plane_collection.md %}) that goes through each plane, their uses and history.
 
 ![20240511_141913](20240511_141913.jpg)
 
-Here I'm testing out a possible layout. I've got 1/4 inch birch and two thicknesses of oak. Thicker for the borders and thinner for the dividers. You can see that I originally wanted to include my block plane, but it's geometry makes it very difficult to retain.
+Here I'm testing out a possible layout. I've got 1/4 inch birch and two thicknesses of oak. Thicker for the borders and thinner for the dividers. You can see that I originally wanted to include my block plane, but its geometry makes it very difficult to retain.
 
 ![20240513_083647](20240513_083647.jpg)
 
@@ -38,7 +38,7 @@ So, once they are hanging on the wall, how do we keep them from falling off? The
 
 ![20240511_162821](20240511_162821.jpg)
 
-Making these circular cutouts can sometimes be difficult. Here, I used double sided tape to stick the oak to a 2x4, punched a starter hole in the 2x4, and then drilled it out carefully on the drill press. I later tunes it up with a half round file.
+Making these circular cutouts can sometimes be difficult. Here, I used double sided tape to stick the oak to a 2x4, punched a starter hole in the 2x4, and then drilled it out carefully on the drill press. I later tuned it up with a half round file.
 
 ![20240511_164006](20240511_164006.jpg)
 
