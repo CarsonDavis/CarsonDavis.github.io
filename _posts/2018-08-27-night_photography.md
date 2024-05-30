@@ -10,6 +10,8 @@ image: LRM_EXPORT_20170526_002240.jpg
 published: True
 ---
 
+> This is a unfinished post that will receive additional content and editing in the future.
+{: .prompt-danger }
 
 <style>
     .grid-2x2 {
@@ -54,7 +56,8 @@ published: True
     }
 </style>
 
-This is a stub post that I will eventually add more content to.
+
+
 
 I used to do a lot of night photography. I need to actually go back though my old hard drives and find all the good images, but for now, here are a couple that I ran across on an old flash drive.
 
