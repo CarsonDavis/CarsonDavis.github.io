@@ -54,7 +54,7 @@ image: 20240512_210549.jpg
 ## The Problem
 To put it simply, I have a ton of hand planes. And they are taking up my whole damn workbench.
 
-Every woodworking YouTuber seems to have an epic, wall-hanging storage solution for their hand planes. They look awesome, but it turns out they are relatively easy to build, so I figured it was time for me to finally join the club.
+Every woodworking YouTuber seems to have an epic, wall-hanging storage solution for their hand planes. They look awesome, but it turns out they are also relatively easy to build, so I figured it was time for me to finally join the club.
 
 ![20240514_205613](20240514_205613_background.jpg)
 
@@ -73,7 +73,7 @@ I've mentioned that a strip of wood keeps the planes from falling off the wall. 
 
 ![20240513_083647](20240513_083647.jpg)
 
-The metal Bailey can be easily retained, since it has a long expanse of flat metal on the front. But the wooden plane will require us to get creative. You can see my post on how I made this wooden plane [here]({% link _posts/2024-04-30-wooden_handplane.md %}).
+The metal Bailey can be easily retained, since it has a long expanse of flat metal on the front. But the wooden plane will require some creativity. You can see my post on how I made this wooden plane [here]({% link _posts/2024-04-30-wooden_handplane.md %}).
 
 <div class="grid-container grid-2x2">
     <div>
@@ -108,19 +108,19 @@ But I've skipped ahead a little. How did I actually make these retaining strips?
   </div>
 </div>
 
-Making circular cutouts on the edge of wood can be difficult. You could route it, file it by hand, or drill it as I've done here. The biggest difficulty with drilling is bit wander. In a non-rigid setup, the bit will immediately jump off the edge you are trying to drill. 
+Making circular cutouts on the edge of wood can be difficult. Among other possibilities, you could route it, file it by hand, or drill it as I've done here. The biggest difficulty with drilling is bit wander. In a non-rigid setup, the bit will immediately jump off the edge you are trying to drill. 
 
-What I've done here is used double sided tape to stick the oak to a sacrificial 2x4, punched a starter hole in the 2x4, and then drilled it out carefully on the drill press. It wasn't the perfect shape, but I was able to easily tune it up later with a half round file.
+So what I've done is used double sided tape to stick the oak to a sacrificial 2x4, punched a starter hole in the 2x4, and then drilled it out carefully on the drill press. It wasn't the perfect shape, but I was able to easily tune it up later with a half round file.
 
 ![20240511_164006](20240511_164006.jpg)
 
 The square cutout is easier. The initial vertical cuts are made with a Japanese pull saw, then the horizontal cut is made with a coping saw. You can make these cuts perfectly square if you are careful and take your time.
 
-I did not, and I smoothed out the final surface with a file. I should note that for small jobs like this, I don't usually bother getting out my scrollsaw. The time savings you get by using the power tool is not worth the effort of pulling it out of the closet.
+I was neither careful nor patient, so I needed to smooth out the final surface with a file. I should note that for small jobs like this, I don't usually bother getting out my scrollsaw. The time savings you get by using the power tool is not worth the effort of pulling it out of the closet.
 
 ## Making the Spacers
 
-I forgot to take pictures of a few steps, but next I cut some spacers to be slightly bigger than each plane.
+I forgot to take pictures of the next few steps, but basically I cut some spacers to be slightly bigger than each plane.
 
 ![20240511_182446](20240511_182446.jpg)
 
@@ -136,7 +136,7 @@ With the layout decided and the width set, it's time to cut all the dividers and
 
 Calipers won't quite cut it for this process. Instead I'll using the stop system on my miter saw. It didn't come with one, but I built one a few months back and it has been an absolute game changer. I'll add a post about it soon. 
 
-But anyway, when you want to make repeated cuts to the same length like the dividers, you set a stop on the miter saw and just keep cutting. It's significantly faster and more accurate than measuring each time.
+But anyway, when you want to make repeated cuts to the same length like the dividers, you set a stop on the miter saw and just keep cutting. It's significantly faster and more accurate than measuring every time.
 
 To cut the plywood, I didn't even measure, I just used the dividers in between the fence and the blade of the table saw to get a length.
 
@@ -159,9 +159,9 @@ An effective glue up sometimes requires some forethought. In this instance, I re
     </div>
 </div>
 
-You can in the left image how I made some light pencil marks to guide me during the glue up. The clamping picture looks like I'm basically finished, but I'm only actually gluing the border. The interior pieces are just sitting loosely to makes sure they will fit.
+You can see in the left image how I made some light pencil marks to guide me during the glue up. The clamping picture looks like I'm basically finished, but I'm only actually gluing the border. The interior pieces are just sitting loosely to makes sure they will fit.
 
-After gluing the borders, I went through and carefully did each divider and stop. For the ones in the middle, I had to lay a long board with a spacer across and clamp on the ends. Unfortunately, I didn't get a picture of this process. Ultimately, I had to do 3 separate glue ups over the course of a couple days.
+After gluing the borders, I went through and carefully did each divider and stop. For the ones in the middle, I had to lay a long board with a spacer across and clamp on the ends. Unfortunately, I didn't get a picture of this process. I ended up doing 3 separate glue ups over the course of a couple days.
 
 ## Finishing Steps
 
@@ -169,6 +169,6 @@ After gluing the borders, I went through and carefully did each divider and stop
 
 Here's the final result after the glue up.
 
-As you can see from the pencil marks, there are actually a few steps left. I still need to sand it, oil it, and then hang it on the wall. 
+As you can see from the leftover pencil marks, there are actually a few steps left. I still need to sand it, oil it, and then hang it on the wall. 
 
 I'm not really sure how it will be hung. The backer is too thin to counter sink a screw, so I may need to add a cleat or a thicker backer. I'll update this post when I figure it out.
