@@ -10,7 +10,7 @@ image: LRM_EXPORT_20170526_002240.jpg
 published: True
 ---
 
-> This is a unfinished post that will receive additional content and editing in the future.
+> This is an unfinished post that will receive additional content and editing in the future.
 {: .prompt-danger }
 
 <style>

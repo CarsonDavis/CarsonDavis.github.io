@@ -10,7 +10,7 @@ image: 20200213_002700.jpg
 ---
 
 
-> This is a unfinished post that will receive additional content and editing in the future. I'll add details about the minerals in each rock, their localities, and add additional rocks from my collection. However, for now you can look at the pretty pictures.
+> This is an unfinished post that will receive additional content and editing in the future. 
 {: .prompt-danger }
 
 <style>
@@ -44,6 +44,7 @@ image: 20200213_002700.jpg
     }
 </style>
 
+I'll be adding details about the minerals in each rock, their localities, and add additional rocks from my collection. However, for now you can look at the pretty pictures.
 
 Reminder that you can click on the photos to see them full size..
 

@@ -11,18 +11,31 @@ published: True
 ---
 
 <style>
-    .grid-container {
+    .grid-2x2 {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 20px; /* Adjust the gap as needed */
-        justify-content: center; /* Center the grid items horizontally */
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px; /* Keep horizontal gap */
+        justify-items: center;
+    }
+    .grid-3x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px; /* Keep horizontal gap */
+        justify-items: center;
+    }
+    .grid-container {
+        justify-items: center;
     }
     .grid-container > div {
         display: flex;
         flex-direction: column;
         align-items: center;
         height: 100%; /* Ensure the div takes full height of the grid cell */
-        justify-content: flex-end; /* Align items to the bottom */
+    }
+    .grid-container .image-div {    
+        justify-content: flex-end; 
     }
     .grid-container img {
         width: auto;
@@ -30,15 +43,12 @@ published: True
         height: auto;
         object-fit: cover;
         display: block;
-        margin-bottom: 0px; /* Reduce margin to make gap smaller */
-    }
-    .grid-container .caption em {
-        display: block;
+        margin-bottom: 5px; /* Small margin to separate the image and caption */}
+    .grid-container .caption {display: block;
         text-align: center;
         font-style: normal;
         font-size: 80%;
         padding: 0;
-        margin-top: 0px; /* Reduce margin to make gap smaller */
         color: #6d6c6c;
     }
 </style>
@@ -128,19 +138,19 @@ The four gorgeous handles you see in the photo are stabilized burl maple, and I 
 
 I lasted almost an entire year before discovering my new passion: chinese vegetable cleavers, or cai doas. It was around this time that I started getting serious about cooking, and as you can see, I really, <i>really</i> liked taking pictures of the veggies I cut. I think I was half proud of the knife, and half proud that I had finally learned what a vegetable was.
 
-<div class="grid-container">
-    <div>
+<div class="grid-container grid-3x2">
+    <div class="image-div">
         <img src="LRM_EXPORT_20804102984562_20220224_001216584.jpeg" alt="white light">
-        <div class="caption"><em>so</em></div>
     </div>
-    <div>
+    <div class="image-div">
         <img src="LRM_EXPORT_227735294808905_20220213_120213481.jpeg" alt="shortwave">
-        <div class="caption"><em>many</em></div>
     </div>
-    <div>
+    <div class="image-div">
         <img src="LRM_EXPORT_19352088136366_20220223_234804569.jpeg" alt="shortwave">
-        <div class="caption"><em>vegetables</em></div>
     </div>
+    <div class="caption">so</div>
+    <div class="caption">many</div>
+    <div class="caption">vegetables</div>
 </div>
 
 This particular knife is the Chan Chi Kee KF1302 Cai Dao in 219mm. Take notes, because it remains one of my favorite knives to use. They come in a smaller variant as well as stainless variants, but don't bother, the 1302 is perfection. It's as thin as a Shibata, easy to handle as a bunka, can double as a food scoop, and only costs $75. I <i>love</i> this knife.
@@ -168,23 +178,23 @@ _Tojiro: 240mm Soba Kiri, 300mm Yanagiba, 165mm Usuba_
 
 We've seen the middle yanagiba before, but allow me to introduce the Tojiro Molybdenum Vanadium Soba Kiri in 240mm and the Tojiro Shirogami #2 Usuba in 165mm. These are both highly specialized Japanese knives, one for making soba and the other for carving vegetable art. They are both delightful knives, and my only regret is not spending the extra money to buy the soba kiri in 300mm.
 
-<div class="grid-container">
-    <div>
+<div class="grid-container grid-3x2">
+    <div class="image-div">
         <img src="275857597_944769002858953_1784451587630553281_n.jpg" alt="white light">
     </div>
-    <div>
+    <div class="image-div">
         <img src="275779156_5916647128385340_3931154671392974919_n.jpg" alt="shortwave">
     </div>
-    <div>
+    <div class="image-div">
         <img src="275774713_565519117784448_5539873317008427621_n.jpg" alt="shortwave">
     </div>
 </div>
 
-<div class="grid-container">
-    <div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
         <img src="275475376_176165898068782_8990111245946525805_n.jpg" alt="white light">
     </div>
-    <div>
+    <div class="image-div">
         <img src="275451705_1094467511116754_8907910882317485700_n.jpg" alt="shortwave">
     </div>
 </div>
