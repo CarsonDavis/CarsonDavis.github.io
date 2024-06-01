@@ -34,6 +34,8 @@ So what would it mean for a model to be high precision, but low recall?
 
 Basically, when the judge does send a grandma to jail he always right, but he misses a lot of actually guilty grandmas in the process.
 
+You may need to scroll the table to the left or right. TP is short for True Positive, FN is False Negative, etc.
+
 <!-- ![img](Screenshot+2024-06-01+113941.png) -->
 
 
@@ -354,23 +356,40 @@ How did we actually calculate these numbers?
 Did you convict any innocent grandmas?
 
 $$
-\frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}} =  \frac{\text{Jailed Grandmas who were Guilty}}{\text{Jailed Grandmas}} 
+\frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
+$$
+
+or, to put it more simply:
+
+$$
+\frac{\text{Jailed Grandmas who were Guilty}}{\text{Jailed Grandmas}}
 $$
 
 ### Recall
 Did you put all the guilty grandmas in jail?
 
 $$
-\frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}} =  \frac{\text{Jailed Grandmas who were Guilty}}{\text{Guilty Grandmas}} 
+\frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
+$$
+
+or
+
+$$
+\frac{\text{Jailed Grandmas who were Guilty}}{\text{Guilty Grandmas}} 
 $$
 
 ### Accuracy
 What percent did you convict correctly?
 
 $$
-\frac{\text{True Positives} + \text{True Negatives}}{\text{Total Number of Observations}} =  \frac{\text{Correctly Sentenced Grandmas}}{\text{All Sentenced Grandmas}} 
+\frac{\text{True Positives} + \text{True Negatives}}{\text{Total Number of Observations}}
 $$
 
+or
+
+$$
+\frac{\text{Correctly Sentenced Grandmas}}{\text{All Sentenced Grandmas}} 
+$$
 
 <!-- F1 scores are some ML bullshit
 
