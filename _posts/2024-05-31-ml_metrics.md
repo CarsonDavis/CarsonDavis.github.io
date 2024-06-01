@@ -85,12 +85,12 @@ Basically, when the judge does send a grandma to jail he always right, but he mi
         <thead style="border: .5px solid #bf2673;">
             <tr>
                 <th style="border: .5px solid #4f4f4f;" class="row-dark">Grandmas</th>
-                <th class="row-dark">Innocent?</th>
+                <th class="row-dark">Guilty?</th>
                 <th class="row-dark">Jail</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center; border-left: 3px solid #4a4849">True<br>Positive</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">True<br>Negative</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">False<br>Positive</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">False<br>Negative</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center; border-left: 3px solid #4a4849">TP</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">TN</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">FP</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">FN</th>
             </tr>
         </thead>
         <tbody>
@@ -237,12 +237,12 @@ Well here, the judge successfully condemns all the guilty people, but in the pro
         <thead style="border: .5px solid #bf2673;">
             <tr>
                 <th style="border: .5px solid #4f4f4f;" class="row-dark">Grandmas</th>
-                <th class="row-dark">Innocent?</th>
+                <th class="row-dark">Guilty?</th>
                 <th class="row-dark">Jail</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center; border-left: 3px solid #4a4849">True<br>Positive</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">True<br>Negative</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">False<br>Positive</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">False<br>Negative</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center; border-left: 3px solid #4a4849">TP</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">TN</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">FP</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">FN</th>
             </tr>
         </thead>
         <tbody>
