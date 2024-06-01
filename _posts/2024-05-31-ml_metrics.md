@@ -82,6 +82,8 @@ You may need to scroll the table to the left or right. TP is short for True Posi
     }
 </style>
 
+<!-- ![img](high-precision.png) -->
+
 <div style="display: flex; justify-content: center;">
     <table>
         <thead style="border: .5px solid #bf2673;">
@@ -190,34 +192,7 @@ You may need to scroll the table to the left or right. TP is short for True Posi
     </table>
 </div>
 
-<!-- <div style="display: flex; justify-content: center;">
-    <table>
-        <thead style="border: .5px solid #bf2673;">
-            <tr>
-                <th style="border: .5px solid #4f4f4f;" class="row-dark">Metric</th>
-                <th class="row-dark">Score</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr class="row-dark">
-                <td>Precision</td>
-                <td>100%</td>
-            </tr>
-            <tr class="row-light">
-                <td>Recall</td>
-                <td>20%</td>
-            </tr>
-            <tr class="row-dark">
-                <td>Accuracy</td>
-                <td>60%</td>
-            </tr>
-            <tr class="row-light">
-                <td>F1</td>
-                <td>33%</td>
-            </tr>
-        </tbody>
-    </table>
-</div> -->
+
 
 - <strong>Precision</strong>: What percent of jailed grandmas were guilty? -- <strong>100%</strong>.
 - <strong>Recall</strong>: What percent of guilty grandmas were jailed? -- <strong>20%</strong>.
@@ -233,9 +208,7 @@ What about low precision, high recall?
 
 Well here, the judge successfully condemns all the guilty people, but in the process condemns many innocents as well.
 
-![img](fulltext.png)
-
-![img](shorttext.png)
+<!-- ![img](high-recall.png) -->
 
 <div style="display: flex; justify-content: center;">
     <table>
@@ -244,10 +217,10 @@ Well here, the judge successfully condemns all the guilty people, but in the pro
                 <th style="border: .5px solid #4f4f4f;" class="row-dark">Grandmas</th>
                 <th class="row-dark">Guilty?</th>
                 <th class="row-dark">Jail</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center; border-left: 3px solid #4a4849">True<br>Positive</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">True<br>Negative</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">False<br>Positive</th>
-                <th class="row-dark" style="line-height: 1.2; text-align: center;">False<br>Negative</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center; border-left: 3px solid #4a4849">TP</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">TN</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">FP</th>
+                <th class="row-dark" style="line-height: 1.2; text-align: center;">FN</th>
             </tr>
         </thead>
         <tbody>
