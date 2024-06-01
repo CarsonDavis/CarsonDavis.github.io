@@ -28,6 +28,6 @@ At the time, I was interviewed by a local news station about the project. Here i
 <!-- https://youtu.be/4bqz-nJy6Yg -->
 
 {% include embed/youtube.html id='ERjMw--6aCw' %}
-
+<br><br>
 > I did not take the cover image for this post. It was originally published by Prusa, who designed the face shield model we used.  
 {: .prompt-info }
