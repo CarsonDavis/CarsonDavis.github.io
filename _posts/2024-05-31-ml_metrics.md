@@ -26,15 +26,51 @@ I think the first hurdle is wrapping your head around these obscure terms. What 
 
 Let's say you are Chad, the local district judge. And on your docket today, you have 10 naughty grandmas. Actually, half of them are guilty and the other half are innocent, but you don't know that. You're just the anthropomorphization of a machine learning algorithm designed for comedic illustration.
 
-Anyway, when training a machine learning model, often you have to choose whether to have high recall or to have high precision. There is a balancing act between these two metrics.
+## The Terms
+- <strong>True Positive</strong>: Sending a guilty grandma to jail.
+- <strong>False Positive</strong>: Sending an innocent grandma to jail.
+- <strong>True Negative</strong>: Letting an innocent grandma free.
+- <strong>False Negative</strong>: Letting a guilty grandma free.
+
+## The Equations
+Two metrics in particular are often at odds with one another. As you are in the final stages of training your model, you might have to ask yourself, would I rather optimize for high precision, or high recall?
+
+### Precision
+Did you convict any innocent grandmas? 
+
+Well, technically it ask the reverse, 'what percent of jailed grandmas were guilty', but the idea of convicting innocents is very memorable. If you want to actually calculate precision, you can use:
+
+$$
+\frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
+$$
+
+or, to put it more simply:
+
+$$
+\frac{\text{Jailed Grandmas who were Guilty}}{\text{Jailed Grandmas}}
+$$
+
+### Recall
+Did you put all the guilty grandmas in jail?
+
+$$
+\frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
+$$
+
+or
+
+$$
+\frac{\text{Jailed Grandmas who were Guilty}}{\text{Guilty Grandmas}} 
+$$
+
 
 
 ## High Precision, Low Recall
 So what would it mean for a model to be high precision, but low recall? 
 
-Basically, when the judge does send a grandma to jail he always right, but he misses a lot of actually guilty grandmas in the process.
+Essentially, whenever you do send a grandma to jail you are always right, but you miss a lot of actually guilty grandmas in the process.
 
-You may need to scroll the table to the left or right. TP is short for True Positive, FN is False Negative, etc.
+On mobile you may need to scroll the table to the left or right. TP is short for True Positive, FN is False Negative, etc.
 
 <!-- ![img](Screenshot+2024-06-01+113941.png) -->
 
@@ -323,39 +359,10 @@ Well here, the judge successfully condemns all the guilty people, but in the pro
 - <strong>Accuracy</strong>: What percent of convictions were accurate? -- <strong>60%</strong>.
  
 ## Accuracy
-Interestingly, the accuracy, or percent of the time the judge accurately decided whether a grandma was guilty or innocent, was the exact same in both examples, 60%. But obviously there is a massive difference between the two models.
 
-## The Metrics
-How did we actually calculate these numbers?
+You may have noticed that despite our two wildly different examples, accuracy was the exact same. How? 
 
-### Precision
-Did you convict any innocent grandmas?
-
-$$
-\frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
-$$
-
-or, to put it more simply:
-
-$$
-\frac{\text{Jailed Grandmas who were Guilty}}{\text{Jailed Grandmas}}
-$$
-
-### Recall
-Did you put all the guilty grandmas in jail?
-
-$$
-\frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
-$$
-
-or
-
-$$
-\frac{\text{Jailed Grandmas who were Guilty}}{\text{Guilty Grandmas}} 
-$$
-
-### Accuracy
-What percent did you convict correctly?
+Well accuracy doesn't care if a mistake means sending an innocent to jail or letting a guilty person free. They are both the same mistake as far as accuracy is concerned. And in our examples the percent of the time the judge correctly decided whether a grandma was guilty or innocent was the exact same, 60%.
 
 $$
 \frac{\text{True Positives} + \text{True Negatives}}{\text{Total Number of Observations}}
@@ -367,12 +374,23 @@ $$
 \frac{\text{Correctly Sentenced Grandmas}}{\text{All Sentenced Grandmas}} 
 $$
 
-<!-- F1 scores are some ML bullshit
+## Meaningful Metrics Matter
+
+Ok sure, in my contrived example, these metrics seem really important, but what about in the real world?
+
+Well let's say you just got a negative result in your recent pregnancy test, which is 80% accurate. But then the doctor tells you the test has 100% precision and 60% recall. 
+
+Can you really be certain you aren't pregnant? Well if it had been a positive result, the 100% precision would guarantee you a baby. But since you had a negative result, and recall is only 60%, there is still a 40% chance that you are pregnant.
+
+<!-- ## What about F1??
+I see lots of ML practitioners using the F1 score as a replacement for accuracy 
 
 $$
 \text{F1 Score} = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
-$$ -->
-<br><br>
+$$
+<br><br> -->
 
+
+<br><br>
 > Cover image generated using DALL-E 3 
 {: .prompt-info }
