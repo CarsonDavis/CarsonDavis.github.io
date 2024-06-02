@@ -319,7 +319,7 @@ Well here, the judge successfully condemns all the guilty people, but in the pro
 </div>
 
 - <strong>Precision</strong>: What percent of jailed grandmas were guilty? -- <strong>56%</strong>.
-- <strong>Recall</strong>: What percent of guilty grandmas were jailed? -- <strong>20%</strong>.
+- <strong>Recall</strong>: What percent of guilty grandmas were jailed? -- <strong>100%</strong>.
 - <strong>Accuracy</strong>: What percent of convictions were accurate? -- <strong>60%</strong>.
  
 ## Accuracy
