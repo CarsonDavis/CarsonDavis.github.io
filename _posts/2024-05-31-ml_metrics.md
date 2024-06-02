@@ -19,26 +19,25 @@ If you are interested in machine learning, then you've seen the words precision,
 
 It took me the longest time to full internalize these terms, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did. 
 
-This post will attempt to give you an intuitive sense of what these metrics mean in the real world.
-
 ## Guilty Grandmas
 I think the first hurdle is wrapping your head around these obscure terms. What the heck is a false negative anyway? Let's use a real example to find out.
 
 Let's say you are Chad, the local district judge. And on your docket today, you have 10 naughty grandmas. Actually, half of them are guilty and the other half are innocent, but you don't know that. You're just the anthropomorphization of a machine learning algorithm designed for comedic illustration.
 
-## The Terms
-- <strong>True Positive</strong>: Sending a guilty grandma to jail.
-- <strong>False Positive</strong>: Sending an innocent grandma to jail.
-- <strong>True Negative</strong>: Letting an innocent grandma free.
-- <strong>False Negative</strong>: Letting a guilty grandma free.
+There are only 4 possible types of convictions you can make:
 
-## The Equations
-Two metrics in particular are often at odds with one another. As you are in the final stages of training your model, you might have to ask yourself, would I rather optimize for high precision, or high recall?
+- <strong>True Positive</strong>: Send a guilty grandma to jail.
+- <strong>False Positive</strong>: Send an innocent grandma to jail.
+- <strong>True Negative</strong>: Let an innocent grandma free.
+- <strong>False Negative</strong>: Let a guilty grandma free.
+
+## The Metrics
+Two metrics in particular are often often used to understand how a model performs. And interestingly, they are often at odds with one another. As you are in the final stages of training your model, you might have to ask yourself, would I rather optimize for high precision, or high recall?
 
 ### Precision
 Did you convict any innocent grandmas? 
 
-Well, technically it ask the reverse, 'what percent of jailed grandmas were guilty', but the idea of convicting innocents is very memorable. If you want to actually calculate precision, you can use:
+Well, technically precision asks the reverse, 'what percent of jailed grandmas were guilty?' But the idea of convicting innocents is more memorable. If you want to actually calculate precision, you can use:
 
 $$
 \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
@@ -64,9 +63,11 @@ $$
 $$
 
 
+## The Balancing Act
+As we've seen, often you have to choose whether to optimize for precision or recall. Let's take this to extremes.
 
-## High Precision, Low Recall
-So what would it mean for a model to be high precision, but low recall? 
+### High Precision, Low Recall
+So what would it mean for a model to be ultra high precision, but low recall? 
 
 Essentially, whenever you do send a grandma to jail you are always right, but you miss a lot of actually guilty grandmas in the process.
 
@@ -239,7 +240,7 @@ On mobile you may need to scroll the table to the left or right. TP is short for
 | Accuracy |  60%  |
 | F1 |  33%  | -->
 
-## Low Precision, High Recall
+### Low Precision, High Recall
 What about low precision, high recall? 
 
 Well here, the judge successfully condemns all the guilty people, but in the process condemns many innocents as well.
@@ -357,12 +358,14 @@ Well here, the judge successfully condemns all the guilty people, but in the pro
 - <strong>Precision</strong>: What percent of jailed grandmas were guilty? -- <strong>56%</strong>.
 - <strong>Recall</strong>: What percent of guilty grandmas were jailed? -- <strong>100%</strong>.
 - <strong>Accuracy</strong>: What percent of convictions were accurate? -- <strong>60%</strong>.
- 
-## Accuracy
 
-You may have noticed that despite our two wildly different examples, accuracy was the exact same. How? 
+## Meaningful Metrics Matter
+Did scientists really need to come up with two new metrics no one has ever heard of just to explain how accurate a judge is?
 
-Well accuracy doesn't care if a mistake means sending an innocent to jail or letting a guilty person free. They are both the same mistake as far as accuracy is concerned. And in our examples the percent of the time the judge correctly decided whether a grandma was guilty or innocent was the exact same, 60%.
+### Accuracy
+Well, you may have noticed that despite our two wildly different examples, accuracy was the exact same. 
+
+Because accuracy doesn't care if a mistake means sending an innocent grandma to jail or letting a guilty grandma free. They are both the same mistake as far as accuracy is concerned. And in our examples the percent of the time the judge correctly decided whether a grandma was guilty or innocent was the same, 60%.
 
 $$
 \frac{\text{True Positives} + \text{True Negatives}}{\text{Total Number of Observations}}
@@ -374,8 +377,8 @@ $$
 \frac{\text{Correctly Sentenced Grandmas}}{\text{All Sentenced Grandmas}} 
 $$
 
-## Meaningful Metrics Matter
 
+### Am I Pregnant
 Ok sure, in my contrived example, these metrics seem really important, but what about in the real world?
 
 Well let's say you just got a negative result in your recent pregnancy test, which is 80% accurate. But then the doctor tells you the test has 100% precision and 60% recall. 
