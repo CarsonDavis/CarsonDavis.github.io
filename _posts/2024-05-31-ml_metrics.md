@@ -15,9 +15,9 @@ published: True
 {: .prompt-danger } -->
 
 ## The Madness of Machine Learning Metrics
-If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye, which unfortunately isn't actually applicable to the ML terms. 
+If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye, which unfortunately has no bearing on the ML definitions. 
 
-It took me the longest time to fully internalize these terms, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did, so let's break everything down. 
+It took me the longest time to fully internalize these concepts, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did, so let's break everything down. 
 
 ## Guilty Grandmas
 I think the first hurdle is wrapping your head around these obscure terms. What the heck is a false negative anyway? Let's use a real example to find out.
