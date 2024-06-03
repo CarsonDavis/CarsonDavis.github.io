@@ -15,7 +15,7 @@ published: True
 {: .prompt-danger }
 
 ## The Madness of Machine Learning Metrics
-If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with some picture of arrows on a bullseye. 
+If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye. 
 
 It took me the longest time to full internalize these terms, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did. 
 
@@ -378,12 +378,14 @@ $$
 $$
 
 
-### Am I Pregnant
+### To Visit or Not to Visit?
 Ok sure, in my contrived example, these metrics seem really important, but what about in the real world?
 
-Well let's say you just got a negative result in your recent pregnancy test, which is 80% accurate. But then the doctor tells you the test has 100% precision and 60% recall. 
+Well let's say you've got a cough and you are about to visit your immunocompromised grandma in high security prison, so you take a COVID test. Thankfully, it says you are negative! But then you read the back of the box and you see that the test has 100% precision but only 60% recall. 
 
-Can you really be certain you aren't pregnant? Well if it had been a positive result, the 100% precision would guarantee you a baby. But since you had a negative result, and recall is only 60%, there is still a 40% chance that you are pregnant.
+Can you really be certain you don't have COVID? Well that 100% precision means you could have been certain of a positive diagnosis...but since you had a negative result, and recall is only 60%, there is still a 40% chance that you have COVID. 
+
+Maybe you shouldn't visit your guilty grandma after all.
 
 <!-- ## What about F1??
 I see lots of ML practitioners using the F1 score as a replacement for accuracy 
