@@ -71,7 +71,7 @@ So what would it mean for a model to be ultra high precision, but low recall?
 
 Essentially, whenever you do send a grandma to jail you are always right, but you miss a lot of actually guilty grandmas in the process.
 
-On mobile you may need to scroll the table to the left or right. TP is short for True Positive, FN is False Negative, etc. A green x is a correct judgement and a red x is incorrect.
+On mobile you may need to scroll the table to the left or right. TP is short for True Positive, FN for False Negative, etc. A green x is a correct judgement and a red x is incorrect.
 
 <!-- ![img](Screenshot+2024-06-01+113941.png) -->
 
