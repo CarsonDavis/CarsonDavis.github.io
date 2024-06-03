@@ -4,7 +4,7 @@ date: 2024-06-01
 last_modified_at: 2024-06-02
 categories: [machine leaning, metrics]
 tags: []
-description: Understanding precision, recall, accuracy, and F1.
+description: Understanding precision, recall, and accuracy.
 media_subpath: /ml-metrics/
 image: cropped_grandmas.jpg
 math: True
