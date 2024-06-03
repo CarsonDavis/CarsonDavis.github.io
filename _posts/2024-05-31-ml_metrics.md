@@ -17,7 +17,7 @@ published: True
 ## The Madness of Machine Learning Metrics
 If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye. 
 
-It took me the longest time to full internalize these terms, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did. 
+It took me the longest time to full internalize these terms, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did, so let's break everything down. 
 
 ## Guilty Grandmas
 I think the first hurdle is wrapping your head around these obscure terms. What the heck is a false negative anyway? Let's use a real example to find out.
@@ -32,7 +32,7 @@ There are only 4 possible types of convictions you can make:
 - <strong>False Negative</strong>: Let a guilty grandma free.
 
 ## The Metrics
-Two metrics in particular are often used to understand how a model performs. And interestingly, they are often at odds with one another. As you are in the final stages of training your model, you might have to ask yourself, would I rather optimize for high precision, or high recall?
+How can we evaluate your success at convicting grandmas? Well, two metrics in particular are often used to understand how a machine learning model performs. And interestingly, they are often at odds with one another. As you are in the final stages of training your model, you might have to ask yourself, would I rather optimize for high precision, or high recall?
 
 ### Precision
 Did you convict any innocent grandmas? 
