@@ -11,8 +11,8 @@ math: True
 published: True
 ---
 
-> This is an unfinished post that will receive additional content and editing in the future. 
-{: .prompt-danger }
+<!-- > This is an unfinished post that will receive additional content and editing in the future. 
+{: .prompt-danger } -->
 
 ## The Madness of Machine Learning Metrics
 If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye, which unfortunately isn't actually applicable to the ML terms. 
