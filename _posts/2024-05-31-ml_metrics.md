@@ -385,7 +385,7 @@ Well let's say you've got a cough and you are about to visit your immunocompromi
 
 Can you really be certain you don't have COVID? Well that 100% precision means you could have been certain of a positive diagnosis...but since you had a negative result, and recall is only 20%, there is still a decent chance that you have COVID. 
 
-Technically to know the exact percent, you would need to know the your a priori probability of having COVID considering you have a cough, perhaps I'll write a follow-up post on this...but for now, maybe you shouldn't visit your guilty grandma after all.
+Technically to know the exact percent, you would need to know your a priori probability of having COVID considering you have a cough, perhaps I'll write a follow-up post on this...but for now, maybe you shouldn't visit your guilty grandma after all.
 
 <!-- ## What about F1??
 I see lots of ML practitioners using the F1 score as a replacement for accuracy 
