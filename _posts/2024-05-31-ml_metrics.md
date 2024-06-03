@@ -15,9 +15,9 @@ published: True
 {: .prompt-danger }
 
 ## The Madness of Machine Learning Metrics
-If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye. 
+If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye, which unfortunately isn't actually applicable to the ML terms. 
 
-It took me the longest time to full internalize these terms, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did, so let's break everything down. 
+It took me the longest time to fully internalize these terms, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did, so let's break everything down. 
 
 ## Guilty Grandmas
 I think the first hurdle is wrapping your head around these obscure terms. What the heck is a false negative anyway? Let's use a real example to find out.
@@ -381,11 +381,11 @@ $$
 ### To Visit or Not to Visit?
 Ok sure, in my contrived example, these metrics seem really important, but what about in the real world?
 
-Well let's say you've got a cough and you are about to visit your immunocompromised grandma in high security prison, so you take a COVID test. Thankfully, it says you are negative! But then you read the back of the box and you see that the test has 100% precision but only 60% recall. 
+Well let's say you've got a cough and you are about to visit your immunocompromised grandma in high security prison, so you take a COVID test. Thankfully, it says you are negative! But then you read the back of the box and you see that the test has 100% precision but only 20% recall. 
 
-Can you really be certain you don't have COVID? Well that 100% precision means you could have been certain of a positive diagnosis...but since you had a negative result, and recall is only 60%, there is still a 40% chance that you have COVID. 
+Can you really be certain you don't have COVID? Well that 100% precision means you could have been certain of a positive diagnosis...but since you had a negative result, and recall is only 20%, there is still a decent chance that you have COVID. 
 
-Maybe you shouldn't visit your guilty grandma after all.
+To know the exact percent, you would need to know the your a priori probability of having COVID considering you have a cough...but for now, maybe you shouldn't visit your guilty grandma after all.
 
 <!-- ## What about F1??
 I see lots of ML practitioners using the F1 score as a replacement for accuracy 
@@ -396,7 +396,7 @@ $$
 <br><br> -->
 
 ## Machine Learning
-In truth, medicinal statistics has its own specialized metrics and terminology; they don't actually use the concepts of precision and recall. So for our final example let's look at a real-world machine learning problem.
+In truth, medical statistics has its own specialized metrics and terminology; they don't actually use the concepts of precision and recall. So for our final example let's look at a real-world machine learning problem.
 
 At my work, we have created a curated Science Discovery Engine that contains, among other things, 52,000 Earth Science datasets. And we'd like a subset of these datasets to be available in a specialized portal dedicated to Environmental Justice. 
 
