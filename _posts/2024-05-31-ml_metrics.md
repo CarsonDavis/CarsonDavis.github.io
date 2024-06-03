@@ -32,7 +32,7 @@ There are only 4 possible types of convictions you can make:
 - <strong>False Negative</strong>: Let a guilty grandma free.
 
 ## The Metrics
-Two metrics in particular are often often used to understand how a model performs. And interestingly, they are often at odds with one another. As you are in the final stages of training your model, you might have to ask yourself, would I rather optimize for high precision, or high recall?
+Two metrics in particular are often used to understand how a model performs. And interestingly, they are often at odds with one another. As you are in the final stages of training your model, you might have to ask yourself, would I rather optimize for high precision, or high recall?
 
 ### Precision
 Did you convict any innocent grandmas? 
@@ -393,6 +393,25 @@ $$
 $$
 <br><br> -->
 
+## Machine Learning
+In truth, medicinal statistics has its own specialized metrics and terminology; they don't actually use the concepts of precision and recall. So for our final example let's look at a real-world machine learning problem.
+
+At my work, we have created a curated Science Discovery Engine that contains, among other things, 52,000 Earth Science datasets. And we'd like a subset of these datasets to be available in a specialized portal dedicated to Environmental Justice. 
+
+There are 8 possible types of EJ datasets (climate change, extreme heat, food availability, etc), so we plan to train a classification model to tag each of the 52,000 broader Earth Science datasets as either not-EJ, or with one of the 8 EJ indicators.
+
+### High Precision, Low Recall
+So what would the end user experience be like if we optimized the model for high precision but low recall?
+
+This is the same as only sending guilty grandmas to jail, but missing many in the process. So we could be confident that only EJ content was on the portal, but we would also be missing lots of relevant content.
+
+### High Recall, Low Precision
+If we instead optimized for high recall, then this would be the same as convicting all the guilty grandmas, but putting innocent grandmas in jail in the process.
+
+The portal would be guaranteed to contain all the EJ datasets from the broader corpus, but it would also have unrelated content polluting the results.
+
+### What's Better?
+Well it depends on the goal of the platform and the end user. If you want to ensure that every bit of relevant data is available, then you go with high recall. But if you want to guarantee that no unrelated datasets appear in the portal, then you should optimize for high precision.
 
 <br><br>
 > Cover image generated using DALL-E 3 
