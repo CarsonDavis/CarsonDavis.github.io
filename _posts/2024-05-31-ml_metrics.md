@@ -400,7 +400,7 @@ In truth, medicinal statistics has its own specialized metrics and terminology; 
 
 At my work, we have created a curated Science Discovery Engine that contains, among other things, 52,000 Earth Science datasets. And we'd like a subset of these datasets to be available in a specialized portal dedicated to Environmental Justice. 
 
-There are 8 possible types of EJ datasets (climate change, extreme heat, food availability, etc), so we plan to train a classification model to tag each of the 52,000 broader Earth Science datasets as either not-EJ, or with one of the 8 EJ indicators.
+There are 8 possible types of EJ datasets (climate change, extreme heat, food availability, etc), so we plan to train a classification model to tag each of the 52,000 broader Earth Science datasets as either not-EJ, or with one or more of the 8 EJ indicators.
 
 ### High Precision, Low Recall
 So what would the end user experience be like if we optimized the model for high precision but low recall?
