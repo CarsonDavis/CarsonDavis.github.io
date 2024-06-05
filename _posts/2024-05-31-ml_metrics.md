@@ -17,10 +17,10 @@ published: True
 ## The Madness of Machine Learning Metrics
 If you are interested in machine learning, then you've seen the words precision, accuracy, and recall. Maybe you've heard of True Negatives and False Positives, and perhaps some misguided soul has tried to explain everything with a picture of arrows on a bullseye, which unfortunately has no bearing on the ML definitions. 
 
-It took me the longest time to fully internalize these concepts, and I think that was in large part because of how they were explained to me. I don't want you to suffer like I did, so let's break everything down. 
+It took me the longest time to fully internalize these concepts, and I think that was in large part because of how they were explained to me. 
 
 ## Guilty Grandmas
-I think the first hurdle is wrapping your head around these obscure terms. What the heck is a false negative anyway? Let's use a real example to find out.
+I think the first hurdle is wrapping your head around these obscure terms. What the heck is a false negative anyway? 
 
 Let's say you are Chad, the local district judge. And on your docket today, you have 10 naughty grandmas. Actually, half of them are guilty and the other half are innocent, but you don't know that. You're just the anthropomorphization of a machine learning algorithm designed for comedic illustration.
 
@@ -37,7 +37,7 @@ How can we evaluate your success at convicting grandmas? Well, two metrics in pa
 ### Precision
 Did you convict any innocent grandmas? 
 
-Well, technically precision asks the reverse, 'what percent of jailed grandmas were guilty?' But the idea of convicting innocents is more memorable. If you want to actually calculate precision, you can use:
+Well, technically precision asks the less memorable question reverse, 'what percent of jailed grandmas were guilty?' If you want to actually calculate precision, you can use:
 
 $$
 \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
@@ -64,14 +64,14 @@ $$
 
 
 ## The Balancing Act
-As we've seen, often you have to choose whether to optimize for precision or recall. Let's take this to extremes.
+As we've seen, often you have to choose whether to optimize for precision or recall. So let's take this to extremes with a concrete example.
 
 ### High Precision, Low Recall
-So what would it mean for a model to be ultra high precision, but low recall? 
+What would it mean for a model to be ultra high precision, but low recall? 
 
 Essentially, whenever you do send a grandma to jail you are always right, but you miss a lot of actually guilty grandmas in the process.
 
-On mobile you may need to scroll the table to the left or right. TP is short for True Positive, FN for False Negative, etc. A green x is a correct judgement and a red x is incorrect.
+TP is short for True Positive, FN for False Negative, etc. A green x is a correct judgement and a red x is incorrect. (On mobile you may need to scroll the table to the left or right. )
 
 <!-- ![img](Screenshot+2024-06-01+113941.png) -->
 
