@@ -259,7 +259,7 @@ Speaking of affordable knives, although I certainly seem to be drowning in handm
 
 I keep them around as beater knives, for guests who don't want to risk a real knife, and for teaching people how to use a whetstone.
 
-## Favorite Knives
+## Daily Knives
 
 ![img-description](signal-2024-05-19-165557_003.jpeg)
 _Matsubara Kiri, Shibata Gyuto, CCK 1302_
