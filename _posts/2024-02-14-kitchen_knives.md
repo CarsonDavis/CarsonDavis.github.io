@@ -268,5 +268,5 @@ So, when the onion hits the cutting board, what do I actually find myself reachi
 
 Well, there are certainly a few honorable mentions, like the Kyohei gyuto, the Matsubara bunka, the Miyabi nakiri, or even the Shun chef knife, but ultimately, these are my three favorite knives. 
 
-If my place burned down and I had to start over from scratch, I'd be immediately putting myself on the wait list for a Matsubara Kiri, a Shibata Gyuto, and, of course, a Chan Chi Kee KF1302 Cai Dao in 219mm.
+If my place burned down and I had to start over from scratch, I'd be immediately putting myself on the wait list for a [Matsubara Kiri](https://www.chefknivestogo.com/mabl2nakicl1.html), a [Shibata Gyuto](https://www.chefknivestogo.com/shkogy21.html), and, of course, a [Chan Chi Kee KF1302 Cai Dao in 219mm](https://www.chefknivestogo.com/chchikeeslkf.html).
 
