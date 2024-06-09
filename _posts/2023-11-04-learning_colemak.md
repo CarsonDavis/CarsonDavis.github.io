@@ -7,7 +7,7 @@ tags: []
 description: How we learned colemak
 # media_subpath: /ml-metrics/
 # image: cropped_grandmas.jpg
-published: True
+published: False
 ---
 
 > This is an unfinished post that will receive additional content and editing in the future. 
