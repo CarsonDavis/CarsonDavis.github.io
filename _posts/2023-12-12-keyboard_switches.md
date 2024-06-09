@@ -56,6 +56,8 @@ returned - too heavy
 
 [Outemu Tactile Panda, 10](https://www.aliexpress.us/item/3256805399781266.html) - $5
 
+[Cream Yellow](https://www.aliexpress.us/item/3256805230035418.html) - $9
+
 ## Choc
 [Kailh Choc Red Pro S, 35](https://www.aliexpress.us/item/3256805260407528.html) - $16
 

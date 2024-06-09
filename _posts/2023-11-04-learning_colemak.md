@@ -31,3 +31,29 @@ hours practiced on different mediums
 
 {% include embedded_plotly_graph.html %}
 
+
+
+epistory:
+36.6 hours total
+known playing dates: nov 4 11:15 am ,5,6
+
+day 1 of colemak: nov 4thts
+
+beat on nov 21st
+
+nanotale:
+
+13.5 hrs total
+first played dec 1st 2023
+last played dec 7th 2023
+
+
+dec 1st, first day typing colemak at work
+on dec 2nd, typed a lot of colemak.
+
+I'm not the speed I want, but it is also not completely unsufferable. Yeah my wrist is already acting up
+
+on dec 3rd, worked on QMK
+shrunk cherelle's keymap from 1001 lines to 111 lines
+
+dec 4th: first work day full time colemak
