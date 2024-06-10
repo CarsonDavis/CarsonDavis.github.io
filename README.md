@@ -120,14 +120,9 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
 ## Installation
-
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```console
-$ bundle
+You won't have any of the gems installed, so you'll need to run the following command to install them.
+```
+bundle install
 ```
 
 ## Usage
