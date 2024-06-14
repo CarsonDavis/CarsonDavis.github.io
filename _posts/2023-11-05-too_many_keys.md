@@ -34,7 +34,7 @@ Think about your keyboard. How do you type a capital F? Does it have a dedicated
 
 We rarely think of it, but when you hold the shift key, the entire keyboard transforms. Lowercase letters are replaced with uppercase letters, the slash becomes a question mark, the number one becomes an exclamation mark...
 
-You hold shift, and you get access to a secret hidden layer. It's like having a second keyboard hidden behind the first one.
+You hold shift, and you get access to a secret hidden layer. It's like having a whole other keyboard hidden behind the first one.
 
 ![img](keyboard_layout-qwerty.png)
 _qwerty layer_
@@ -53,9 +53,9 @@ _accurate representation of the keyboard you would need without shift_
 For starters you would need a least a million keys, and you'd have to move your hands all over the place, constantly losing your position and breaking the flow of typing.  
 
 ## QWERTY's Legacy
-In fact, there actually existed couple of [notable typewriters](https://www.antiquetypewriters.com/typewriter/duplex-2-typewriter/) that had a completely separate key for both the uppercase and the lowercase letters. 
+In fact, there actually existed a couple of [notable typewriters](https://www.antiquetypewriters.com/typewriter/duplex-2-typewriter/) that had a completely separate key for both the uppercase and the lowercase letters. 
 
-In the 1800s when typewriters were invented, the physical mechanics of thin metal levers and getting ink on paper up an upper limit on the number of layers you could build into a keyboard, and the quick adoption of the two-layer QWERTY layout meant that the shift key was the only layer that was ever added.
+In the 1800s when typewriters were invented, the shift layer wasn't some software abstraction, but a problem of physical implementation. the physical mechanics of thin metal levers and getting ink on paper up an upper limit on the number of layers you could build into a keyboard, and the quick adoption of the two-layer QWERTY layout meant that the shift key was the only layer that was ever added.
 
 
 ## The Case for More Layers
