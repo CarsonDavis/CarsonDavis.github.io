@@ -10,25 +10,6 @@ image: abfc5873-aa34-4dff-adf6-0f0e4259117c.webp
 published: False
 ---
 
-layers
- - shift
-
-numpad
- - remove keys
-
-symbols
- - remove keys
-
-thumb is great
- - split space bar
-
-hold vs click
- - layer access
- - home row mods
-
-long press
- - copy paste etc
-
 ## The Magic of Shift
 Think about your keyboard. How do you type a capital F? Does it have a dedicated key? What about the exclamation mark?
 
@@ -50,16 +31,15 @@ Imagine if there was no shift key at all, if there was no such thing as multiple
 ![img](abfc5873-aa34-4dff-adf6-0f0e4259117c.webp)
 _accurate representation of the keyboard you would need without shift_
 
-For starters you would need a least a million keys, and you'd have to move your hands all over the place, constantly losing your position and breaking the flow of typing.  
-
 ## QWERTY's Legacy
 In fact, there actually existed a couple of [notable typewriters](https://www.antiquetypewriters.com/typewriter/duplex-2-typewriter/) that had a completely separate key for both the uppercase and the lowercase letters. 
 
-In the 1800s when typewriters were invented, the shift layer wasn't some software abstraction, but a problem of physical implementation. the physical mechanics of thin metal levers and getting ink on paper up an upper limit on the number of layers you could build into a keyboard, and the quick adoption of the two-layer QWERTY layout meant that the shift key was the only layer that was ever added.
+In the 1800s when typewriters were invented, the shift layer wasn't some software abstraction, but a problem of physical implementation. The carriage actually lifted when you pressed the shift key, in order to cause a different part of the hammer to strike the paper. Depending on the typewriter, this took genuine physical effort. Not only was using the shift layer harder than pressing regular keys, but to add a third layer you would need to lift the carriage twice as high, with twice the difficulty and travel. 
 
+Between these physical considerations and the tendency of the typewriter market to adopt the standard everyone already used, the shift layer ended up being the only additional layer added.
 
 ## The Case for More Layers
-As you may have guessed by the post title, I'd like to make the argument that in the days of software, when we can program our keyboards however we want, we should have more than just two layers.
+As you may have guessed by the post title, I'd like to make the argument that in the days of software, when everyone can program their own keyboards however they want, we should have more than just two layers.
 
 In fact, this has already been happening. As laptops have strained to make keyboards ever smaller, we have begun to see a new kind of layering: the function key. On many laptops you can hold the function key and get access to brightness, sleep mode, media controls, and more.
 
@@ -71,7 +51,25 @@ Remember the home row from typing class? The keys asdf jkl; are where you rest y
 
 The blue keys are an easy movement from the home row keys, while orange keys are a little bit of a stretch, and red keys are downright difficult.
 
-If we wanted to make typing as easy as possible, we could make a start by making the red keys easier to reach.
+If we wanted to make typing as easy as possible, we could make a start by getting rid of the red keys altogether, and somehow moving their contents onto layers.
+
+![img](keyboard_layout-minimized.png)
+
+
+Maybe something a little like this. We'll get to my layout in a little bit, but this is pretty similar to what I actually use. Strikingly, you'll notice that I didn't just remove all the red keys...I also threw away the space bar. 
+
+## Thumbs are Awesome
+Here's the thing. Like pretty much everyone else on earth, I type all the time on my phone, using only my two thumbs. There is absolutely nothing wrong with my thumbs -- they have the control and finesse to easily type on a tiny phone keyboard, and yet every physical keyboard I've ever used uses the thumbs for just one key: the space bar. 
+
+That's 0.5 keys per thumb. Meanwhile, count how many keys your pinky is supposed to click. Depending on what you include, the left pinky gets ~11 keys and the right pinky gets ~16 keys. 
+
+In what insane world do we give our weakest, most useless fingers ~27 keys, and give our amazing thumbs 1 key to share between them?? Absolute madness.
+
+So anyway, those blue keys are for my thumbs, and they generally do tasks the pinkies would do on a traditional keyboard. The left hand thumb has ESC, Backspace, and shift, while the right hand thumb has enter, space, and tab. Let me tell you, just being able to casually click your thumb down to backspace is an absolute game changer.
+
+But why 6 keys specifically? Well, there are actually keyboards that have as many as 12 keys in a big cluster dedicated to the thumbs, but I've never found that necessary. With 3 per thumb, you have one key in the middle that you thumb sits on naturally, then you have one for when you reach your thumb out and one for when you pull your thumb in.
+
+![img](20231219_222809.jpg)
 
 ## Numpad
 
@@ -90,20 +88,6 @@ But what about the symbols?? How will you type exclamation marks parentheses if 
 
 The answer is another layer for symbols. For this, we move the symbols down to the home row, and rotate the less used symbols slightly up to the blue keys.
 
-## Thumbs are Awesome
-All this sounds great, but it is rather predicated on the idea that we have first a second and then a third shift key. Let me start by teasing you with a photo of the actual keyboard I use every day.
-
-![img](20231219_222809.jpg)
- 
-Here's my keyboard. As you can see, I've gotten rid of a LOT of keys. You'll also notice I don't have a space bar. Instead I have 6 blue keys at the bottom of my keyboard.
-
-Here's the thing. Like pretty much everyone else on earth, I type all the time on my phone, using only my two thumbs. There is absolutely nothing wrong with my thumbs -- they have the control and finesse to easily type on a tiny phone keyboard, and yet every physical keyboard I've ever used uses the thumbs for just one key: the space bar. 
-
-That's 0.5 keys per thumb. Meanwhile, count how many keys your pinky is supposed to click. Depending on what you include, the left pinky gets ~11 keys and the right pinky gets ~16 keys. In what insane world do we give our weakest, least dextrous fingers ~27 keys, and give one of our best fingers 1 key to share between them. Absolute madness.
-
-So anyway, those blue keys are for my thumbs, and they generally do tasks the pinkies would do on a traditional keyboard. The left hand thumb has ESC, Backspace, and shift, while the right hand thumb has enter, space, and tab. Let me tell you, just being able to casually click your thumb down to backspace is an absolute game changer.
-
-But why 6 keys? Well, there are actually keyboards that have as many as 12 keys in a big cluster dedicated to the thumbs, but I've never found that necessary. With 3 per thumb, you have one key in the middle that you thumb sits on naturally, then you have one for when you reach your thumb out and one for when you pull your thumb in.
 
 
 
@@ -165,3 +149,21 @@ Everything has been well thought out and
 ### numpad layer
 
 ### arrows layer
+layers
+ - shift
+
+numpad
+ - remove keys
+
+symbols
+ - remove keys
+
+thumb is great
+ - split space bar
+
+hold vs click
+ - layer access
+ - home row mods
+
+long press
+ - copy paste etc
