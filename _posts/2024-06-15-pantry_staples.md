@@ -2,7 +2,7 @@
 title: Pantry Staples
 date: 2024-06-15
 last_modified_at: 2024-06-16
-categories: [cooking, recipies]
+categories: [cooking, ingredients]
 tags: []
 description: Ingredients I always have in my kitchen.
 media_subpath: /pantry-staples/
