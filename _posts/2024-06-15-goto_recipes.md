@@ -21,6 +21,8 @@ published: True
 - [Mint Chicken](#mint-chicken)
 - [Pumpkin Chive Sweet Potatoes](#pumpkin-chive-sweet-potatoes)
 - [Steak Sandwich](#steak-sandwich)
+- [Corn Bread](#corn-bread)
+- [Mayo Marinade Chicken Tacos](#mayo-marinade-chicken-tacos)
 
 -----
 
@@ -236,5 +238,92 @@ https://www.youtube.com/watch?v=83eQ9flwVS0
 3. Toast the bread
 2. Cook the steak and cut in thin, thin slices
 flat iron, ribeye, flank
+
+-----
+
+## Corn Bread
+### Ingredients
+- 2 - 8.5 oz. boxes Jiffy Corn Muffin Mix
+- 2 eggs
+- 2/3 cup milk
+- 1 cup sour cream
+- 1/2 cup vegetable oil
+- 2 Tbsp. sugar (optional)
+
+### Instructions
+1. preheat oven to 400 F
+2. mix everything in a glass bowl
+3. let it sit for 4 minutes
+4. melt butter in a 10.5in cast iron. get it a little brown and roasted
+5. pour in the mix
+6. bake for 25 minutes
+
+-----
+
+## Mayo Marinade Chicken Tacos
+This can be done in various levels of complexity. The recipe here is my more complicated take on Ethan's chicken [thighs video](https://www.youtube.com/watch?v=xFX9gz-WMSw). He does just the mayo with the spices at the beginning and adds to an excellent sandwich with feta and pickled onions. He also has two more chicken recipes that are worth checking out, including an oven sheet recipe and a sweet potato chicken recipe.
+
+### Ingredients
+Initial Marinade
+- 1 lb chicken thighs
+- 3 tbs mayonnaise
+- salt
+
+Sauce Starter
+- 2 tbs black vinegar
+- 2 tbs Korean sweet sauce
+- 2 tbs butter
+- 2 tbs cane syrup
+
+Spice Mix
+- 2 ts garlic powder
+- 2 ts red pepper
+- 2 ts onion powder
+- 2 ts oregano
+
+Finisher
+- 4 tbs cup sour cream or yogurt
+- Tortillas
+
+
+### Instructions
+
+1. **Prepare the Chicken:**
+    - Cut chicken thighs into bite-sized pieces.
+    - In a bowl, mix the chicken pieces with mayonnaise and salt
+
+2. **Cook the Chicken:**
+    - Heat a pan over medium-high heat
+    - Add the chicken pieces to the pan and cook until browned on one side, then flip them over
+
+3. **Glaze the Chicken:**
+    - Add butter and cane syrup to the pan after flipping the chicken. Stir to coat the chicken
+    - Continue cooking until the chicken is cooked through, then remove from the pan and set aside on a cutting board
+
+4. **Make the Reduction Sauce:**
+    - In the same pan, add black vinegar and Korean sweet sauce
+    - Add onion powder, Indian pepper flakes, and oregano to the pan
+    - Stir constantly to prevent burning, cooking until the sauce thickens and forms a paste.
+
+5. **Assemble the Tacos:**
+    - Toast the tortillas in butter
+    - Spread a thin layer of sour cream or yogurt down the middle of each tortilla
+    - Cut the chicken into smaller pieces if necessary and pile them onto the tortillas
+    - Drizzle the reduction sauce over the chicken, leaving some areas without sauce for flavor variation
+    - You can optionally add microplaned cheese at this step
+
+6. **Serve:**
+    - Serve the tacos immediately, enjoying the blend of spicy, tangy, and creamy flavors.
+
+### Detail Overload
+So, the original recipe often burns a little if you want to make a reduction. I think it is the garlic/spice/oregano that is actually burning. It’s not a bad flavor if you want to make it this way, but it is very dark and intense bordering on burnt caramel.
+
+So for an alternative, only coat the chicken in mayo and salt. You want a goodly amount of mayo, probably a couple tablespoons for 3 tacos worth of chicken. 
+
+After cooking the first side and flipping the chicken, you can add some butter and cane syrup to the pan. Not a ton, just enough to kinda coat the bottom. This will glaze the chicken nicely, and you can take it out. I often cut the chicken in the pan with tongs to confirm it’s been cooked through. As soon as the raw color disappears, take it out and pile it on the cutting board while you finish up the sauce. Don’t cook it forever and ever -- it’ll cook any last little bit on the board.
+
+Add black vinegar and korean syrup to the pan, enough to provide sauce for all the tacos. Then add a non-trivial amount of onion powder, indian pepper flakes, and oregano. I probably added half a tablespoon of each -- you want their flavor to come through. Then you cook the sauce. You’re trying to brown the butter/syrup right now, so you should see constant sticky bubbles forming and you want to stir constantly, being sure to clean the bottom as you stir, so nothing sticks and burns. Do this for a couple minutes. Don’t try to taste it, unless you’ve been meaning to rid yourself of those pesky taste buds.
+
+Add sour cream or yogurt in a thin coating down the middle of each taco, not too heavy but enough to lighten it up. Cut the chicken on the board in big swoops to make it smaller than bite-sized and pile it on the tacos. Then pour a non-overwhelming amount of sauce on each taco. Leave some areas with no sauce; it’s nice to have some flavor variation bite to bite.
 
 -----
