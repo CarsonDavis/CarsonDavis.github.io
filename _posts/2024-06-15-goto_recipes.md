@@ -18,6 +18,11 @@ published: True
 - [Roast Beef Sandwich](#roast-beef-sandwich)
 - [Chocolate Mousse-Cheesecake](#chocolate-mousse-cheesecake)
 - [Sombreros](#sombreros)
+- [Mint Chicken](#mint-chicken)
+- [Pumpkin Chive Sweet Potatoes](#pumpkin-chive-sweet-potatoes)
+- [Steak Sandwich](#steak-sandwich)
+
+-----
 
 ## Kumar’s Buttered Chicken
 Makes for four people.
@@ -78,6 +83,7 @@ Makes for four people.
 1. In a small pot, heat half-and-half with saffron threads, a fresh cinnamon stick, and cardamom pods over medium-low heat.
 2. Simmer until thickened, then serve with bread.
 
+-----
 
 ## Roast Beef Sandwich
 ### The Fundamentals
@@ -101,6 +107,8 @@ For those of you that love measurements, I recorded the exact amounts I used. I 
 - 30g mayo + 3g garlic
 - 15g arugula + 5g white vinegar + 5g dulce vinegar
 - 10g microplaned Cabot Creamery Extra Sharp Cheddar
+
+-----
 
 ## Chocolate Mousse-Cheesecake
 
@@ -141,6 +149,8 @@ For those of you that love measurements, I recorded the exact amounts I used. I 
 13. Squirt whipped cream around the edges and place fruit in a circle.
 14. Refrigerate until eating. 
 
+-----
+
 ## Sombreros
 Makes about 60
 
@@ -163,3 +173,68 @@ Makes about 60
 ### Serving Suggestions
 - Save the plastic forms and shell boxes to freeze uncooked filled shells. 
 - Portion out small amounts into ziplock freezer bags to make 10 to 12 shells. Freeze and add to shells for a treat at breakfast or lunch (shells do not need to be kept frozen and can be kept in the pantry).
+
+
+-----
+
+## Mint Chicken
+### Ingredients
+- boneless chicken thigh
+- panko
+- corn bread mix
+- mint (the stuff from publix was better than the indian store)
+- dill
+- onion
+- lemon greek yogurt/sour cream/plain yogurt
+- mayo
+
+### One Day Before
+Marinate the chicken in:
+- yogurt
+- mayo
+- salt
+- chili pepper
+
+### Chicken Prep
+1. cut the chicken into thin strips, like 1.5 cm thick
+2. setup 3 bowls: egg, cornbread, panko
+3. bread
+4. airfry for 12 minutes at 375, flipping in the middle
+
+### Sauce
+You will mix the sauce in a bowl and roughly chop the mint and dill. The mint and dill tastes best when on top of the sauce. 
+- half mayo, half lemon greek yogurt
+- raw onion, finely chopped
+- hot sauce
+- salt
+
+-----
+
+## Pumpkin Chive Sweet Potatoes
+Follow the recipe on [Ottolenghis's website](https://ottolenghi.co.uk/recipes/grilled-sweet-potatoes-with-hot-sauce-butter-chive-soured-cream-and-pumpkin-seeds). A few notes: 
+- add more garlic than he calls for
+- toast the seeds in the leftover butter
+- use a LOT of sauce on the sweet potatoes
+
+-----
+
+## Steak Sandwich
+https://www.youtube.com/watch?v=83eQ9flwVS0
+### Ingredients
+- steak (ribeye, flat iron, etc. NOT flank)
+- chibatta
+- arugula
+- parsley
+- 2 cloves garlic
+- 100g olive oil
+- 30g vinegar
+- 2g red pepper
+- 2g oregano
+
+### Cooking
+1. Make the chimichurri sauce
+3. Toast the bread
+2. Cook the steak and cut in thin, thin slices
+flat iron, ribeye, flank
+
+-----
