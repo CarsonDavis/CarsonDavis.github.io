@@ -26,7 +26,7 @@ published: True
 
 -----
 
-## Kumar’s Buttered Chicken
+## Kumar’s Butter Chicken
 This is Muthukumaran Ramasubramanian's original recipe that he constructed completely devoid of external influences. 
 
 He single-handedly revolutionized the Indian culinary world by creating the iconic dish we now know as butter chicken.
@@ -34,7 +34,7 @@ He single-handedly revolutionized the Indian culinary world by creating the icon
 Serves 4.
 ### Ingredients
 - **Chicken Marinade**
-  - 1 lb chicken?, cut into slightly larger than bite-sized pieces
+  - 1 lb chicken, cut into slightly larger than bite-sized pieces
   - 1 tbsp chili powder (adjust to taste)
   - ⅔ tbsp garam masala
   - ½ tsp cumin
@@ -94,27 +94,29 @@ Serves 4.
 -----
 
 ## Roast Beef Sandwich
+The basic idea here is that if you use premium ingredients and properly prepare them, you can make a sandwich that is better than anything you can buy.
 ### The Fundamentals
+The basic sandwich relies on nothing but bread meat and cheese. Honestly I think this has a wonderful nostalgic feel, but the advanced variations are also great.
 - Publix Brioche Buns
 - London Port Roast Beef
 - Kewpie Mayo
 - Cheese
 
 ### Variations
-#### Plane Jane
+- **Plane Jane**
+  - mayo, meat, munster. This has has that perfect nostalgic childhood feel, but with premium ingredients and techniques it shines beautifully.
 
-- mayo, meat, munster. This has has that perfect nostalgic childhood feel, but with premium ingredients and techniques it shines beautifully.
 
+- **Garlic Mayo**
+  - mayo, meat, garlic, munster. Squeeze 1-2 cloves of garlic into the mayo and mix. If you nail the balance, this gives a robust punch that elevates the sandwich.
 
-#### Garlic Mayo
-- mayo, meat, garlic, munster. Squeeze 1-2 cloves of garlic into the mayo and mix. If you nail the balance, this gives a robust punch that elevates the sandwich.
+- **The Works**
 
-#### The Works
-For those of you that love measurements, I recorded the exact amounts I used. I would caution you to use your own tastebuds to adjust.
-- 80g beef
-- 30g mayo + 3g garlic
-- 15g arugula + 5g white vinegar + 5g dulce vinegar
-- 10g microplaned Cabot Creamery Extra Sharp Cheddar
+  - For those of you that love measurements, I recorded the exact amounts I used. I would caution you to use your own tastebuds to adjust.
+  - 80g beef
+  - 30g mayo + 3g garlic
+  - 15g arugula + 5g white vinegar + 5g dulce vinegar
+  - 10g microplaned Cabot Creamery Extra Sharp Cheddar
 
 -----
 
