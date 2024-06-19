@@ -10,11 +10,14 @@ image: 278710557_554535145998569_1256777257310409246_n.jpg
 published: True
 ---
 
-> This is an unfinished post that will receive additional content and editing in the future. 
-{: .prompt-danger }
+> This post will receive additional recipes as time permits. 
+{: .prompt-info }
+
+## Overview
+This post attempts to gather some of my most frequently made or most impressive recipes in one place. It's still a work in progress, but the recipes listed are complete and ready to be made.
 
 ## Recipes
-- [Kumar’s Buttered Chicken](#kumars-buttered-chicken)
+- [Kumar’s Butter Chicken](#kumars-butter-chicken)
 - [Roast Beef Sandwich](#roast-beef-sandwich)
 - [Chocolate Mousse-Cheesecake](#chocolate-mousse-cheesecake)
 - [Sombreros](#sombreros)
@@ -27,19 +30,17 @@ published: True
 -----
 
 ## Kumar’s Butter Chicken
-This is Muthukumaran Ramasubramanian's original recipe that he constructed completely devoid of external influences. 
-
-He single-handedly revolutionized the Indian culinary world by creating the iconic dish we now know as butter chicken.
+Crafted with deep expertise and a chef's tender touch, Muthukumaran Ramasubramanian's original recipe has single-handedly revolutionized the Indian culinary world by creating the iconic dish we now know as butter chicken.
 
 Serves 4.
 ### Ingredients
 - **Chicken Marinade**
   - 1 lb chicken, cut into slightly larger than bite-sized pieces
   - 1 tbsp chili powder (adjust to taste)
-  - ⅔ tbsp garam masala
-  - ½ tsp cumin
-  - 1 tbsp corn/rice starch
-  - 1 tbsp ginger-garlic paste
+  - 1 tbsp garam masala
+  - 1 tsp cumin
+  - 2 tbsp corn/rice starch
+  - 2 tbsp ginger-garlic paste
   - Salt and pepper to taste
   - Paprika for color
   - Juice of ½ lemon
@@ -51,10 +52,10 @@ Serves 4.
   - 6 sticks of 3-inch cinnamon
   - 14 cardamom pods
   - 14 cloves
-  - 2 softball-sized onion, diced
-  - Juice from marinated chicken
+  - 2 softball-sized onions, diced
   - 2 tbsp ground ginger-garlic paste
   - 4 baseball-sized tomatoes, diced
+  - Juice from marinated chicken
   - Spices: chili powder, black pepper, turmeric, garam masala (carefully), salt
   - Heavy cream or half-and-half
 
@@ -85,7 +86,7 @@ Serves 4.
 - **Secondary Cooking**
   1. Grind the mixture into the smoothest paste possible, sieving if necessary for a smoother texture.
   2. Return the paste to the wok, add heavy cream or half-and-half, and cook for 10-20 minutes until the desired consistency is reached.
-  3. Add the fried chicken pieces and chicken oil and cook for an additional 5 minutes.
+  3. Add the fried chicken pieces and cook for an additional few minutes to integrate.
 
 ### Dessert:
 1. In a small pot, heat half-and-half with saffron threads, a fresh cinnamon stick, and cardamom pods over medium-low heat.
@@ -94,25 +95,31 @@ Serves 4.
 -----
 
 ## Roast Beef Sandwich
-The basic idea here is that if you use premium ingredients and properly prepare them, you can make a sandwich that is better than anything you can buy.
+These days, sandwiches in restaurants cost $15+ and are mediocre at best. However, I firmly believe that if you use premium ingredients and properly prepare them, you can make a cheap sandwich at home that will rock your world.
+
 ### The Fundamentals
-The basic sandwich relies on nothing but bread meat and cheese. Honestly I think this has a wonderful nostalgic feel, but the advanced variations are also great.
+For the basic roast beef sandwich, we rely on nothing but bread, meat, and cheese. If use quality roast beef, properly butter and toast the bread, and use a good cheese, you will have a sandwich that is better than 90% of the sandwiches you can buy.
+
+Brioche or ciabatta buns are a great starting place, with high-quality Japanese mayo, and muenster cheese. The roast beef is the star of the show, and you should not skimp on it. I think it costs $15/lb, and it is well worth it. It should be shaved, not sliced, and it will be so thin that it will almost melt in your mouth. Do not be tempted to warm the meat, as it will lose its delicate texture. If you do a good job toasting the buns, they will bring warmth to the sandwich.
+
 - Publix Brioche Buns
-- London Port Roast Beef
+- London Port Roast Beef (shaved not sliced!)
 - Kewpie Mayo
-- Cheese
+- Muenster Cheese
 
 ### Variations
 - **Plane Jane**
-  - mayo, meat, munster. This has has that perfect nostalgic childhood feel, but with premium ingredients and techniques it shines beautifully.
+  - This has has that perfect nostalgic childhood feel, but with premium ingredients and techniques it shines beautifully.
+  - mayo, meat, muenster
 
 
 - **Garlic Mayo**
-  - mayo, meat, garlic, munster. Squeeze 1-2 cloves of garlic into the mayo and mix. If you nail the balance, this gives a robust punch that elevates the sandwich.
+  - Whenever I want to quickly and easily elevate a savory dish, I add a touch of fresh garlic. The key is in the balance. Squeeze 1-2 cloves of garlic into the mayo before spreading on the bread. Too much, and it becomes a garlic sandwich, but when you get it right, it's a beautiful thing.
+  - mayo, meat, garlic, muenster
 
 - **The Works**
-
-  - For those of you that love measurements, I recorded the exact amounts I used. I would caution you to use your own tastebuds to adjust.
+  - For those of you that love measurements, I recorded the exact amounts I used on one particular day. In reality, i make it different every time, and you should let your own tastebuds guide you, but for the tentative, this should provide an adequate starting place. 
+  - The microplaned cheese is very important here, shredding it <i>not</i> the same. If you want details on the vinegars I use, checkout the [Pantry Staples]({% link _posts/2024-06-15-pantry_staples.md %}) post.
   - 80g beef
   - 30g mayo + 3g garlic
   - 15g arugula + 5g white vinegar + 5g dulce vinegar
@@ -121,6 +128,9 @@ The basic sandwich relies on nothing but bread meat and cheese. Honestly I think
 -----
 
 ## Chocolate Mousse-Cheesecake
+This is a favorite childhood recipe made for me by my mother on special occasions. It is a rich, decadent dessert that I often make specifically to impress people, as it regular cakes seem pitiful and inadequate in comparison.
+
+Recently I have been making a version that incorporates a korean honey and yuzu marmalade into the chocolate, which gives it a wonderfully tangy, dark chocolate and orange punch.
 
 ### Ingredients
 - **8 oz chocolate**: I get the Baker’s brand bars that are 56% cacao. It is essential that you buy baking chocolate and not regular chocolate.
