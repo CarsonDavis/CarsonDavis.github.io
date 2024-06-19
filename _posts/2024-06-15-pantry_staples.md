@@ -42,6 +42,7 @@ plastic bag.
 This is similar to soy sauce, but is less salty with a more complex umami flavor.
 - [Beksul Korean Plum Extract](https://megakfood.com/products/8801007343884). Put this in sauces to add sweetness and plum flavor. 
 - [Hamchorom Perilla Oil](https://megakfood.com/products/8809058821573). A more subtle sesame oil. When making sauces with sesame, I often overdo it and the flavor becomes overpowering. This is a good alternative that gives you more leeway in your concoctions.
+- [Surasang Yuzu Citron Tea with Honey](https://www.bokksumarket.com/products/surasang-yujacha-citron-tea-with-honey). This is basically yuzu marmalade, and it goes amazing in sauces and deserts. Notably, I will use it with steak, sausage, and dark chocolate deserts.
 
 ## Grains
 - [Nishiki Medium Grain Rice](https://www.amazon.com/Nishiki-Medium-Grain-Rice-Pound/dp/B00852ZN2U). Great all purpose rice for fried rice, bibimbap, or as a side.
