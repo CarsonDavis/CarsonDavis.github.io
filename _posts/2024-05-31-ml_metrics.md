@@ -37,7 +37,7 @@ How can we evaluate your success at convicting grandmas? Well, two metrics in pa
 ### Precision
 Did you convict any innocent grandmas? 
 
-Well, technically precision asks the less memorable, 'what percent of jailed grandmas were guilty?' If you want to actually calculate precision, you can use:
+Well, technically precision asks the less memorable question, 'what percent of jailed grandmas were guilty?' If you want to actually calculate precision, you can use:
 
 $$
 \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
