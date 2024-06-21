@@ -98,7 +98,7 @@ Serves 4.
 These days, sandwiches in restaurants cost $15+ and are mediocre at best. However, I firmly believe that if you use premium ingredients and properly prepare them, you can make a cheap sandwich at home that will rock your world.
 
 ### The Fundamentals
-For the basic roast beef sandwich, we rely on nothing but bread, meat, and cheese. If use quality roast beef, properly butter and toast the bread, and use a good cheese, you will have a sandwich that is better than 90% of the sandwiches you can buy.
+For the basic roast beef sandwich, we rely on nothing but bread, meat, and cheese. If you use quality roast beef, properly butter and toast the bread, and use a good cheese, you will have a sandwich that is better than 90% of the sandwiches you can buy.
 
 Brioche or ciabatta buns are a great starting place, with high-quality Japanese mayo, and muenster cheese. The roast beef is the star of the show, and you should not skimp on it. I think it costs $15/lb, and it is well worth it. It should be shaved, not sliced, and it will be so thin that it will almost melt in your mouth. Do not be tempted to warm the meat, as it will lose its delicate texture. If you do a good job toasting the buns, they will bring warmth to the sandwich.
 
@@ -109,7 +109,7 @@ Brioche or ciabatta buns are a great starting place, with high-quality Japanese 
 
 ### Variations
 - **Plane Jane**
-  - This has has that perfect nostalgic childhood feel, but with premium ingredients and techniques it shines beautifully.
+  - This has that perfect nostalgic childhood feel, but with premium ingredients and techniques it shines beautifully.
   - mayo, meat, muenster
 
 
@@ -118,7 +118,7 @@ Brioche or ciabatta buns are a great starting place, with high-quality Japanese 
   - mayo, meat, garlic, muenster
 
 - **The Works**
-  - For those of you that love measurements, I recorded the exact amounts I used on one particular day. In reality, i make it different every time, and you should let your own tastebuds guide you, but for the tentative, this should provide an adequate starting place. 
+  - For those of you that love measurements, I recorded the exact amounts I used on one particular day. In reality, I make it different every time, and you should let your own tastebuds guide you, but for the tentative, this should provide an adequate starting place. 
   - The microplaned cheese is very important here, shredding it <i>not</i> the same. If you want details on the vinegars I use, checkout the [Pantry Staples]({% link _posts/2024-06-15-pantry_staples.md %}) post.
   - 80g beef
   - 30g mayo + 3g garlic
@@ -172,6 +172,8 @@ Recently I have been making a version that incorporates a korean honey and yuzu 
 -----
 
 ## Sombreros
+This is another childhood recipe that my mom would make for parties and get togethers, or on special occasions like Christmas and Thanksgiving. They are an incredibly rich and flavorful appetizer that disappears the moment they come out of the oven. 
+
 Makes about 60
 
 ### Ingredients
@@ -198,6 +200,8 @@ Makes about 60
 -----
 
 ## Mint Chicken
+Joshua Weissman is not typically my go-to for recipes, but I saw him put mint and dill on a chicken sandwich and was immediately intrigued. It turns out that it tastes <i>amazing</i>, and this modified, low-carb version is now in my list of recipes I will make for company.
+
 ### Ingredients
 - boneless chicken thigh
 - panko
@@ -225,12 +229,14 @@ Marinate the chicken in:
 You will mix the sauce in a bowl and roughly chop the mint and dill. The mint and dill tastes best when on top of the sauce. 
 - half mayo, half lemon greek yogurt
 - raw onion, finely chopped
-- hot sauce
+- cholua garlic hot sauce
 - salt
 
 -----
 
 ## Pumpkin Chive Sweet Potatoes
+Ottolenghi is famous for his unique and flavorful vegetable recipes. I've made a few of them, and honestly not all of them are hits, but this one is a home run. It's a great side dish for a dinner party, and is a wonderfully unique take on sweet potatoes.
+
 Follow the recipe on [Ottolenghis's website](https://ottolenghi.co.uk/recipes/grilled-sweet-potatoes-with-hot-sauce-butter-chive-soured-cream-and-pumpkin-seeds). A few notes: 
 - add more garlic than he calls for
 - toast the seeds in the leftover butter
@@ -260,6 +266,8 @@ flat iron, ribeye, flank
 -----
 
 ## Corn Bread
+The cornbread of my childhood was always Jiffy, so it holds special place in my heart. However, as made on the box, it really struggles with being too dry. This recipe adds oil and sour cream which keeps the nostalgia but makes it the perfect moist texture.
+
 ### Ingredients
 - 2 - 8.5 oz. boxes Jiffy Corn Muffin Mix
 - 2 eggs
@@ -275,6 +283,9 @@ flat iron, ribeye, flank
 4. melt butter in a 10.5in cast iron. get it a little brown and roasted
 5. pour in the mix
 6. bake for 25 minutes
+
+### Serving Notes
+- I like to cut out pieces for serving, top them with butter, and then put them in the air fryer or under the broiler for a few minutes to get a nice crust on top.
 
 -----
 
