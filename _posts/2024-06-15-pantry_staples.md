@@ -43,6 +43,7 @@ This is similar to soy sauce, but is less salty with a more complex umami flavor
 - [Beksul Korean Plum Extract](https://megakfood.com/products/8801007343884). Put this in sauces to add sweetness and plum flavor. 
 - [Hamchorom Perilla Oil](https://megakfood.com/products/8809058821573). A more subtle sesame oil. When making sauces with sesame, I often overdo it and the flavor becomes overpowering. This is a good alternative that gives you more leeway in your concoctions.
 - [Surasang Yuzu Citron Tea with Honey](https://www.bokksumarket.com/products/surasang-yujacha-citron-tea-with-honey). This is basically yuzu marmalade, and it goes amazing in sauces and deserts. Notably, I will use it with steak, sausage, and dark chocolate deserts.
+- [Ginger People Fiji Ginger Syrup](https://www.amazon.com/Ginger-People-Syrup-Ounces/dp/B007ILAW34). This is probably made for cocktails or something, but I use it on ice cream, in sauces, and in marinades. You do need to be careful with it, as it is very sweet.
 
 ## Grains
 - [Nishiki Medium Grain Rice](https://www.amazon.com/Nishiki-Medium-Grain-Rice-Pound/dp/B00852ZN2U). Great all purpose rice for fried rice, bibimbap, or as a side.
@@ -56,18 +57,19 @@ This is similar to soy sauce, but is less salty with a more complex umami flavor
 - [Maldon Sea Salt Flakes](https://www.amazon.com/Maldon-Sea-Salt-Flakes-ounce/dp/B00017028M). These fragile pyramids of delicate, melt-in-your mouth salt are worth every penny, and will elevate cookies, meat, veggies, you name it. You do not use these while cooking, they are added immediately before serving.
 - Powdered Spices: Onion, Garlic, Cumin, Coriander, Ginger, Harissa
 - Red Pepper
-- Whole Spices: Nutmeg, Cinamon, Cloves, Cardamom, Rosemary
+- Whole Spices: Nutmeg, Cinnamon, Cloves, Cardamom, Rosemary
 
 ## Vegetables
-I buy a lot of vegetables on demand for a particular dish: brocolli, carrots, brussel sprouts, asparagus, etc. However some vegetables I keep in the kitchen at all times, since I use them in so many dishes.
+I buy a lot of vegetables on demand for a particular dish: brocoli, carrots, brussels sprouts, asparagus, etc. However some vegetables I keep in the kitchen at all times, since I use them in so many dishes.
 - Yellow Onions. Red onions are nice too, but I tend to only use them in raw applications, whereas I will use yellow onions in everything.
 - Garlic. You can never have too much garlic. Literally impossible.
 - Ginger. Many of the standard grocery stores I visit only have the anemic finger sized ginger roots. I tend to prefer going to the asian markets where you can buy the often palm sized pieces of ginger. They peel nicely and you get a ton of ginger for the effort and for less money. I've also had luck buying the larger ginger at the Fresh Market.
 - Arugula. The perfect vegetable for salads, sandwiches, and burgers. It has a wonderful intense flavor and a delightful crunch.
 
-## Cheeses
+## Toppings
 - Muenster
 - [Cabot Creamery Vermont Extra Sharp Cheddar](https://cabotcreamery.com/products/cheese-extra-sharp-bar-dairy). I'm always on the lookout for a good extra sharp cheddar, and this one is easily available at Publix and has a great flavor. I often microplane it and put it on sandwiches and burgers. 
+- [Candied Jalapeños](https://www.amazon.com/Texas-Pepper-Works-Candy-Krisp-Jalapenos/dp/B008YCDBGG). I get the Pepper Works Candy Krisp variety from the Fresh Market. These are amazing on burgers, sandwiches, and salads. They are sweet and mildly spicy, and have a great crunch.
 
 ## Baking
 - [Ghirardelli Premium Baking Semi-Sweet Chocolate Chips](https://www.target.com/p/ghirardelli-semi-sweet-chocolate-premium-baking-chips-12oz/-/A-13349383#lnk=sametab). Wonderful flavor and sweetness, these do great in cookies or on top of greek yogurt.
