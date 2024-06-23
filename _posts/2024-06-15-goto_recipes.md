@@ -26,6 +26,7 @@ This post attempts to gather some of my most frequently made or most impressive 
 - [Steak Sandwich](#steak-sandwich)
 - [Corn Bread](#corn-bread)
 - [Mayo Marinade Chicken Tacos](#mayo-marinade-chicken-tacos)
+- [White Cheddar & Candied Jalapeño Burger](#white-cheddar-burger-with-candied-jalapeño)
 
 -----
 
@@ -229,7 +230,7 @@ Marinate the chicken in:
 You will mix the sauce in a bowl and roughly chop the mint and dill. The mint and dill tastes best when on top of the sauce. 
 - half mayo, half lemon greek yogurt
 - raw onion, finely chopped
-- cholua garlic hot sauce
+- cholula garlic hot sauce
 - salt
 
 -----
@@ -356,3 +357,102 @@ Add black vinegar and korean syrup to the pan, enough to provide sauce for all t
 Add sour cream or yogurt in a thin coating down the middle of each taco, not too heavy but enough to lighten it up. Cut the chicken on the board in big swoops to make it smaller than bite-sized and pile it on the tacos. Then pour a non-overwhelming amount of sauce on each taco. Leave some areas with no sauce; it’s nice to have some flavor variation bite to bite.
 
 -----
+## White Cheddar Burger with Candied Jalapeño
+Burgers are an incredibly versatile medium, and I make several involved varieties, especially with caramelized onions. This particular recipe is one of my quick and easy versions, but it should cover the fundamentals. 
+
+If you see jalapeno here and freak out, don't worry. The candied jalapenos I recommend are not very spicy, and they add an incredible sweet and flavorful crunch to the burger.
+
+### Timing and Preparation
+A soggy and cold burger is a sad burger. Do not allow yourself to get the burgers out of the pan only to realize you haven't made the sauce or shredded the cheese. When I'm by myself making a burger as efficiently as possible, I will intermix the steps, preheating while I get the ingredients out, cooking the burger while I make the sauce, taking the buns off the griddle just in the nick of time, etc. On a good day, I can make this burger and clean the kitchen in 15 minutes. 
+
+However I've also been known to burn a bun when I don't nail a timing. If this is your first time making the recipe, or you are making for company where you want to be sure everything is perfect, I being very diligent about the order of operations. A safe order looks something like this:
+
+1. get out <i>all</i> ingredients
+2. make the sauce
+3. begin making buns
+4. shred cheese, get out jalaenos, mix the arugula
+5. preheat burger pan
+6. cook the burgers
+
+At some point I might make a dedicated post on maximizing efficiency in the kitchen, but for example, there is no need to put away the ingredients after you've used them, and then just sit there and watch while the burger cooks. You can shave two minutes off your prep time just by doing cleanup or prep in parallel while things cook or preheat.
+
+### Ingredients
+As always, if you want to know which exact brands I use, check out the [Pantry Staples]({% link _posts/2024-06-15-pantry_staples.md %}) post. The listed ingredients will make two burgers.
+
+**Basics**
+- 1/2 lb beef. I've been getting the publix 'kobe' variety lately. It's pretty good.
+- 2 brioche buns
+
+**Sauce**
+
+These are rough estimates. Please use your own tastebuds to make adjustments. However, do not deviate from my hot sauce recommendation. Tabasco, Louisiana, and Siracha are NOT acceptable substitutes.
+- 3 Tbsp kewpie mayo
+- 1 1/2 Tbsp ketchup
+- 1 1/2 Tbsp Cholula Chili Garlic Hot Sauce.
+- 2 tsp tamari sauce
+- 2 garlic cloves
+
+**Toppings**
+- arugula
+- sharp kabot creamery cheese; way more than you think you need
+- 8-10 candied jalapano slices
+- balsamic vinegar, white and red
+- salt, several pinches
+
+### Preparation
+**Mis en Place**
+
+Get out every ingredient I listed. 
+
+Seriously. Don't run around like a headless chicken while the burgers get cold trying to find the vinegar.
+
+**Sauce**
+- Mix the mayo, ketchup, hot sauce, tamari, and pressed garlic in a small bowl
+- The measurements are approximate, so you can adjust to taste. If you like it spicier, add more Cholula. If you like it sweeter, add more ketchup. If you like it saltier, add more tamari. If you like it creamier, add more mayo.
+- The garlic cloves here are not meant to be overpowering. Since garlic clove sizes differ, you should add enough to add interest and flavor to the sauce, but not enough to make this a garlic sauce. 1 medium to small size clove per person is about right. Do not chop or mince the garlic; it needs to be pushed through a garlic press
+- The sauce should be savory with a rich, complex flavor that is slightly sweet and slightly sour. If you taste the sauce and you don't think to yourself "wow, that's good," then you need to adjust it.
+
+**Arugula**
+- put a big handful of arugula in a bowl
+- drizzle some white balsamic on the arugula
+- drizzle some red balsamic on the arugula
+- add pinch of salt
+- toss the arugula in vinegar
+- when you taste a piece, it should be slightly tangy and savory with full arugula flavor
+
+**Toppings**
+- put 8-10 candied jalapenos in a bowl 
+- microplane the cheese, 1.5 tennis balls worth of cheese for two burgers
+- you'll probably want more cheese than you think - it gets super fluffy and voluminous after microplanning
+
+**Meat**
+- cut the square pack into quarters
+- knead two 1/4 lb burgers like dough (this helps them keep their shape during smashing)
+- place them on a sheet of parchment paper (bigger than your pan) until ready to cook
+
+**Buns**
+- turn on the griddle and add 4 pats of butter
+- do some other steps while the butter melts
+- add buns, soaking the butter into each one
+- remove the buns when they are golden brown, probably once you've finished a few more steps
+- the buns are designed to add crunch to the burger and are an important part of the textural experience. You need to cook on a low enough temperature with enough butter that they become golden brown and feel hard when you tap them with your fingernail. 
+
+### Cooking
+- put a light drizzle of a high smoke point oil in a heavy 10-12 inch cast iron or carbon steel pan. NOT BUTTER, NOT OLIVE OIL
+- put the pan on med-high (8/10 on my stove) and preheat pan to 350 F
+- put burgers in pan, put parchment on top, smash until the patty is about 3/8" thick
+- remove smasher and paper and let cook
+**Tips**
+- moving the burger occasionally will not hurt it
+- it is good to lift the burger and let some of the fat pool under it
+- The end goal here is to have a delicious deep brown crust on at least one side of the burger, with some gentle pink in the middle. To keep the burger from overcooking and becoming chewy, you might have to take it out of the pan before the second side gets a crust. 
+- If you flip the burger too soon and the crust doesn't look amazing, just flip it back
+- Sometimes it's good to lift it up so the oil can flow back under the burger. This helps keep the burger in oil at all times for better browning in the crevices that do not directly touch the pan.
+
+### Assembly
+- pour maybe 1/2 tbsp of the burger grease directly from the pan into the sauce and stir. This is heating the sauce and adding a little extra flavor.
+- spread sauce on both buns. enough for all the toppings to stick, but not so much that it's dripping off. You aren't trying to drown the buns in sauce; you want enough sauce that all of your condiments will stick to the bun without falling off, but you don't want so much sauce that it's dripping off the bun. Too little and you won't be able to taste it; too much and it will just be a sauceburger. 
+- add jalapeños to the bottom bun. They will not be overpowering; I typically add 4 or 5 to my burger, enough that half my bites have a nice chuck of jalapeno in them. 
+- add the arugula to the top bun. do not skimp
+- put the burger on top of the jalapenos and put the microplaned cheese on top of the burger. I usually have to use a fork to manuever the cheese, as it melts and crushes in your fingers
+- Eat immediately. 
