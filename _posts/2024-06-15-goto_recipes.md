@@ -360,7 +360,7 @@ Add sour cream or yogurt in a thin coating down the middle of each taco, not too
 ## White Cheddar Burger with Candied Jalapeño
 Burgers are an incredibly versatile medium, and I make several involved varieties, especially with caramelized onions. This particular recipe is one of my quick and easy versions, but it should cover the fundamentals. 
 
-If you see jalapeno here and freak out, don't worry. The candied jalapenos I recommend are not very spicy, and they add an incredible sweet and flavorful crunch to the burger.
+If you see jalapeño here and freak out, don't worry. The candied jalapeños I recommend are not very spicy, and they add an incredible sweet and flavorful crunch to the burger.
 
 ### Timing and Preparation
 A soggy and cold burger is a sad burger. Do not allow yourself to get the burgers out of the pan only to realize you haven't made the sauce or shredded the cheese. When I'm by myself making a burger as efficiently as possible, I will intermix the steps, preheating while I get the ingredients out, cooking the burger while I make the sauce, taking the buns off the griddle just in the nick of time, etc. On a good day, I can make this burger and clean the kitchen in 15 minutes. 
@@ -370,7 +370,7 @@ However I've also been known to burn a bun when I don't nail a timing. If this i
 1. get out <i>all</i> ingredients
 2. make the sauce
 3. begin making buns
-4. shred cheese, get out jalaenos, mix the arugula
+4. shred cheese, get out jalapeños, mix the arugula
 5. preheat burger pan
 6. cook the burgers
 
@@ -385,7 +385,7 @@ As always, if you want to know which exact brands I use, check out the [Pantry S
 
 **Sauce**
 
-These are rough estimates. Please use your own tastebuds to make adjustments. However, do not deviate from my hot sauce recommendation. Tabasco, Louisiana, and Siracha are NOT acceptable substitutes.
+These are rough estimates. Please use your own tastebuds to make adjustments. However, do not deviate from my hot sauce recommendation. Tabasco, Louisiana, and Sriracha are NOT acceptable substitutes.
 - 3 Tbsp kewpie mayo
 - 1 1/2 Tbsp ketchup
 - 1 1/2 Tbsp Cholula Chili Garlic Hot Sauce.
@@ -394,8 +394,8 @@ These are rough estimates. Please use your own tastebuds to make adjustments. Ho
 
 **Toppings**
 - arugula
-- sharp kabot creamery cheese; way more than you think you need
-- 8-10 candied jalapano slices
+- extra sharp cabot creamery cheese; way more than you think you need
+- 8-10 candied jalapeño slices
 - balsamic vinegar, white and red
 - salt, several pinches
 
@@ -421,7 +421,7 @@ Seriously. Don't run around like a headless chicken while the burgers get cold t
 - when you taste a piece, it should be slightly tangy and savory with full arugula flavor
 
 **Toppings**
-- put 8-10 candied jalapenos in a bowl 
+- put 8-10 candied jalapeños in a bowl 
 - microplane the cheese, 1.5 tennis balls worth of cheese for two burgers
 - you'll probably want more cheese than you think - it gets super fluffy and voluminous after microplanning
 
@@ -452,7 +452,7 @@ Seriously. Don't run around like a headless chicken while the burgers get cold t
 ### Assembly
 - pour maybe 1/2 tbsp of the burger grease directly from the pan into the sauce and stir. This is heating the sauce and adding a little extra flavor.
 - spread sauce on both buns. enough for all the toppings to stick, but not so much that it's dripping off. You aren't trying to drown the buns in sauce; you want enough sauce that all of your condiments will stick to the bun without falling off, but you don't want so much sauce that it's dripping off the bun. Too little and you won't be able to taste it; too much and it will just be a sauceburger. 
-- add jalapeños to the bottom bun. They will not be overpowering; I typically add 4 or 5 to my burger, enough that half my bites have a nice chuck of jalapeno in them. 
+- add jalapeños to the bottom bun. They will not be overpowering; I typically add 4 or 5 to my burger, enough that half my bites have a nice chuck of jalapeño in them. 
 - add the arugula to the top bun. do not skimp
-- put the burger on top of the jalapenos and put the microplaned cheese on top of the burger. I usually have to use a fork to manuever the cheese, as it melts and crushes in your fingers
+- put the burger on top of the jalapeños and put the microplaned cheese on top of the burger. I usually have to use a fork to manuever the cheese, as it melts and crushes in your fingers
 - Eat immediately. 
