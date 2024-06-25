@@ -418,7 +418,7 @@ Well it depends on the goal of the platform and the end user. If you want to ens
 ### Minimum Metrics
 But real life doesn't deal in absolutes. Typically you neither want nor need to completely maximize one metric at the cost of the other. Instead, you will set a minimum acceptable threshold for each metric, and as the model reaches the limits of its performance there will begin to be tradeoffs as you maximize for one or the other.
 
-But how do you choose these minimums? Well, in the Environmental Justice portal there are at least two factors to consider: user trust and data availability. An incorrect classification could lead to a user losing trust in the EJ portal and abandoning it. But likewise, if the portal is missing too many relevant datasets, users won't be able to find information they need and will abandon even the most accurate portal.
+But how do you choose these minimums? Well, in the Environmental Justice portal there are at least two factors to consider: user trust and data availability. An incorrect classification could lead to a user or the community losing trust in the EJ portal and abandoning it. But likewise, if the portal is missing too many relevant datasets, users won't be able to find information they need and will abandon even the most accurate portal.
 
 So you might decide that the portal needs to contain at least 85% of the NASA EJ data to be useful, and that only 1 out of every 10 classifications can be wrong or users won't trust the portal. The following table shows how enforcing these two minimums might compare to only maximizing for precision. 
 
