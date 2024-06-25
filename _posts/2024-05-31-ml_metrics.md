@@ -415,6 +415,43 @@ The portal would be guaranteed to contain all the EJ datasets from the broader c
 ### What's Better?
 Well it depends on the goal of the platform and the end user. If you want to ensure that every bit of relevant data is available, then you go with high recall. But if you want to guarantee that no unrelated datasets appear in the portal, then you should optimize for high precision.
 
+### Minimum Metrics
+But real life doesn't deal in absolutes. Typically you neither want nor need to completely maximize one metric at the cost of the other. Instead, you will set a minimum acceptable threshold for each metric, and as the model reaches the limits of its performance there will begin to be tradeoffs as you maximize for one or the other.
+
+But how do you choose these minimums? Well, in the Environmental Justice portal there are at least two factors to consider: user trust and data availability. An incorrect classification could lead to a user losing trust in the EJ portal and abandoning it. But likewise, if the portal is missing too many relevant datasets, users won't be able to find information they need and will abandon even the most accurate portal.
+
+So you might decide that the portal needs to contain at least 85% of the NASA EJ data to be useful, and that only 1 out of every 10 classifications can be wrong or users won't trust the portal. The following table shows how enforcing these two minimums might compare to only maximizing for precision. 
+
+<div style="display: flex; justify-content: center;">
+    <table>
+        <thead style="border: .5px solid #bf2673;">
+            <tr>
+                <th style="border: .5px solid #4f4f4f;" class="row-dark"></th>
+                <th class="row-dark">Precision</th>
+                <th class="row-dark">Recall</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="row-dark">
+                <td>Only Maximize Precision</td>
+                <td>98%</td>
+                <td>70%</td>
+            </tr>
+            <tr class="row-light">
+                <td>Min. 90% Prec, 85% Recall</td>
+                <td>92%</td>
+                <td>85%</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+In the first row, we are able to drive precision all the way to 98%, but can only achieve 70% recall at that high precision number. 
+
+However if we require a minimum precision of 90% and a minimum recall of 85%, we can meet our recall goal of 85% and further maximize precision to 92%.
+
+Enforcing a minimum recall limited our precision ceiling, but we were able to ensure that the portal contained at least 85% of the relevant data at an acceptable error rate, resulting in a more useful end product.
+
 <br><br>
 > Cover image generated using DALL-E 3 
 {: .prompt-info }
