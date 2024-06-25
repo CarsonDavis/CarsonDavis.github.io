@@ -94,7 +94,13 @@ Where chess can have interesting designs for the exact shape of the pieces, shog
     </div>
 </div>
 
-I don't know if this is a hard rule, but I've noticed that many laquered and painted sets use a bold and fast font similar to the first image, which is an affordable set from Kurokigoishiten. The second image shows what is probably the most popular competition font, Kinki. The third image is my personal set (and personal favorite) Ryōko, which was popularized by calligrapher Maki Ryōko (1777-1843). To my eye, it manages to be elegant and flowing and aggressive all at once, and I adore it.
+
+
+I don't know if this is a hard rule, but I've noticed that many laquered and painted sets use a bold and fast font similar to the first image, which is an affordable set from Kurokigoishiten. Personally, I hate it, but there must be a market out there for it, because it adorns countless inexpensive sets, and is often characterized as bold and powerful.
+
+The second image shows what is probably the most popular competition font, Kinki. If you are playing online, this is probably the default font. The third image is my personal set (and personal favorite) Ryōko, which was popularized by calligrapher Maki Ryōko (1777-1843). To my eye, it manages to be elegant and flowing and aggressive all at once, and I adore it.
+
+It should be noted that all these fonts are fairly stlyized, especially the promoted pieces. The cold hard computer font renders them as 角行, 龍馬 on the top row and 飛車, 龍竜 bottom row.
 
 <div class="grid-container grid-2x2">
     <div>
@@ -110,7 +116,6 @@ I don't know if this is a hard rule, but I've noticed that many laquered and pai
         <em>i enlarge...</em>
     </div>
 </div>
-
 
 
 There are some excessively gorgeous sets out there, such as this $3,325 mori-age set by modern master Fugetsu, carved in Satsuma-hon-tsuge Himawari-moku wood in the Minase script.
