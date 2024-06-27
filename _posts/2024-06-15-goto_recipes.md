@@ -16,6 +16,8 @@ published: True
 ## Overview
 This post attempts to gather some of my most frequently made or most impressive recipes in one place. It's still a work in progress, but the recipes listed are complete and ready to be made.
 
+If you are looking for a more complete list, I also keep a [cooking instagram](https://www.instagram.com/carsons_cooking) where I post all my artsy fartsy cooking photos. Typically if the recipe was any good, it'll be posted in the description. Meanwhile, this page will focus on long-form recipes with too many details.
+
 ## Recipes
 - [Kumar’s Butter Chicken](#kumars-butter-chicken)
 - [Roast Beef Sandwich](#roast-beef-sandwich)
