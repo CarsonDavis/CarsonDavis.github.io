@@ -5,7 +5,7 @@ last_modified_at: 2024-05-19
 categories: [knives, overview]
 tags: []
 media_subpath: /kitchen-knives/
-description: Details on my small collection of kitchen knives.
+description: Details on my excessive collection of kitchen knives.
 image: LRM_EXPORT_1686150517891832_20221115_085254983.jpeg
 published: True
 ---
