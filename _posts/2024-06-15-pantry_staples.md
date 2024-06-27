@@ -18,6 +18,8 @@ There are many foods that you only buy as you need them, or where the exact bran
 
 This post will list two things: key ingredients that I always keep in my kitchen, and any transitory ingredients where I have a strong preference for a particular brand or type.
 
+If you are looking for my cooking instagram, you can find it [here](https://www.instagram.com/carsons_cooking).
+
 ## Sauce Components
 ### Bases
 - [Kewpie Mayo](https://www.kewpieshop.com/products/kewpie-mayonnaise-asian). If you are used to standard American mayo like Hellmann's, this will be a life-changing upgrade. I spent several months in 2022 making all my mayo from scratch, but ultimately found kewpie to be an acceptable substitute to homemade, and a massive improvement over the standard American fare. If you buy this from the store, make absolute certain you are not accidentally purchasing the American kewpie formula. Get the original Japanese version which comes in a squeeze bottle inside of a red and white
