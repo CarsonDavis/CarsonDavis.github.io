@@ -117,6 +117,7 @@ I can find a bunch of info from 20200206.
 </div>
 
 ![img](20200213_002700.jpg)
+_my favorite rock_
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
