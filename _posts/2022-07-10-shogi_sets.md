@@ -57,18 +57,20 @@ published: False
 ## Overview
 In the summer of 2021, I was deeply obsessed with shogi. I spent hours every day playing and studying. Even though everyone I played with was online, eventually I got it into my head that I wanted a physical shogi set.
 
-Shogi sets are differentiated by material, construction, and font.
+And not just any shogi set. I had to go overboard.
+
+What does it even mean to have a nice shogi set though? Well, let's start by saying that fundamentally shogi sets are differentiated by material, construction, and font.
 
 ### Material
 There are really only two commonly used materials: plastic and wood. Shogi is an old-school, traditional game, and no self respecting player would use anything except wood. However within the category of wood there is basic common wood from unknown trees, and then there is expensive, tight-grained hardwood used in the most expensive sets, which can cost thousands of dollars.
 
 ### Construction
 After the base material, there are various options for how the letters are applied to the pieces.
-- **Printed:** The cheapest is to simply print the letters on the wood or plastic in a factory. 
-- **Stamped:** Slightly better is to stamp the letters into the wood and paint over the stamp.
-- **Painted:** Not as durable as stamping, but a more premium option is to have a craftsman hand paint paint the letters.
-- **Carved:** A large step up in quality is to have the letters carved into the wood.
-- **Laquered:** Carved letters can be filled with laquer to make them more durable. This is by far the most expensive option, as laquer is added layer by layer in a process that can take weeks. 
+- **Printed:** The cheapest is to simply print the letters on the pieces in a factory. 
+- **Stamped:** Slightly better is to stamp the letters into the wood and paint over the stamp. This will last longer and might look better.
+- **Painted:** Not as durable as stamping, but a more premium option is to have a craftsman hand paint or lacquer the letters.
+- **Carved:** Hand carving is a huge step up. Some old japanese dude will literally carve every stroke of every letter with a tiny knife.
+- **Lacquered:** If you really want to go big, the carved letters can be painstaking filled with lacquer layer by layer, in a process that takes weeks or even months to complete.
 
 ### Font
 Where chess can have interesting designs for the exact shape of the pieces, shogi has a large variety in fonts. If you want to read a little more in depth, I stumbled across [this site](https://en.i-tsu-tsu.co.jp/blog/shogi/948) which covers 9 different fonts.
@@ -98,9 +100,11 @@ Where chess can have interesting designs for the exact shape of the pieces, shog
 
 I don't know if this is a hard rule, but I've noticed that many laquered and painted sets use a bold and fast font similar to the first image, which is an affordable set from Kurokigoishiten. Personally, I hate it, but there must be a market out there for it, because it adorns countless inexpensive sets, and is often characterized as bold and powerful.
 
-The second image shows what is probably the most popular competition font, Kinki. If you are playing online, this is probably the default font. The third image is my personal set (and personal favorite) Ryōko, which was popularized by calligrapher Maki Ryōko (1777-1843). To my eye, it manages to be elegant and flowing and aggressive all at once, and I adore it.
+The second image shows what is probably the most popular competition font, Kinki. It's a balanced and pleasing font that I wouldn't mind owning. 
 
-It should be noted that all these fonts are fairly stlyized, especially the promoted pieces. The cold hard computer font renders them as 角行, 龍馬 on the top row and 飛車, 龍竜 bottom row.
+The third image is my personal set (and personal favorite font) Ryōko, which was popularized by calligrapher Maki Ryōko (1777-1843). To my eye, it manages to be elegant and flowing and aggressive all at once, and I adore it.
+
+It should be noted that all these fonts are fairly stylized, especially the promoted pieces. The cold hard computer font renders them as 角行, 龍馬 on the top row and 飛車, 龍竜 bottom row. Characters like 角 and 飛 are retained almost intact, but 馬 and 竜 are stylized to an almost unrecognizable extent.
 
 <div class="grid-container grid-2x2">
     <div>
@@ -118,7 +122,7 @@ It should be noted that all these fonts are fairly stlyized, especially the prom
 </div>
 
 
-There are some excessively gorgeous sets out there, such as this $3,325 mori-age set by modern master Fugetsu, carved in Satsuma-hon-tsuge Himawari-moku wood in the Minase script.
+I mentioned super expensive sets earlier, so here's a particularly gorgeous example. Carved by the modern master Fugetsu, this mori-age set in Satsuma-hon-tsuge Himawari-moku wood featuring the Minase script will set you back a cool $3,325, even at today's generous exchange rates.
 
 
 ## Shogi Pieces
@@ -128,30 +132,29 @@ There aren't really a ton of good options in the American market. Unlike with ch
 
 
 ## Beginner Set
-June 9, 2021
-Shogi Cz makes by far the [best beginner set](https://shogi.cz/en/shop/white-box-japanese-chess-game-pieces-kanji-arrows/) on the market.
+So, enough background, what about the three sets I supposedly own?
+
+Well, one big reason to own a physical set is to play with friends and family, and as my friend group is not exactly overflowing with people who can read kanji, I needed to find a set with westernized markings. There are actually quite a few beginner-oriented sets on the market, ranging from the doubutsu animal sets for kids to the chess-inspired sets that have chess imagery stamped on the pieces. 
+
+However, after a lot of searching, I found a clear winner in the [Shogi Cz](https://shogi.cz/en/shop/white-box-japanese-chess-game-pieces-kanji-arrows/) beginner set. I bought this set on June 9, 2021, and it is amazing. 
+
+![img](20240623_165851.jpg)
+_comparison of Yamashita and shogi cz_
+
+Here you can see it alongside my hand carved japanese set, and the difference is stark. Although the Yamashita set is certainly beautiful, the shogi cz set is a much better tool for learning and teaching. The directional arrows are perfect for learning the rules, the font used for the kanji is clear and readable, and the quality is excellent for the price. The markings are not only colored, but also stamped into the wooden pieces, so I expect them to never wear off. Mine are still holding up years after my purchase. They've even considered the smallest details, such as writing on the promoted side the symbol of the piece which was promoted.
 
 ![img](71hewklpFKL._SL1600_.jpg)
 
-This is the absolute best set on the market for beginners or for teaching shogi. The directional arrows are perfect for learning the rules, the font used for the kanji is clear and readable, and the quality is excellent for the price. The markings are not only colored, but also stamped into the wooden pieces, so I expect them to never wear off. Mine are still holding up great a year after my purchase. They've even considered the smallest details, such as writing on the promoted side the symbol of the piece which was promoted.
-
-I've included pictures of the full set, detailed close ups, and a comparison with a traditional hand-carved set. Please note that this set does not include a board, you will need to buy that separately. The company that makes these pieces also sells a board, which is what I have pictured.
+I also bought a board and an adorable piece bag from the same company. Right now this is my only full size board, and although I would certainly like a thick, traditional board, this one has suited me well so far.
 
 ## Intermediate Set
-将棋駒 楓  特上彫 菱湖書
-Shogi Pieces, Kaede, Yamagami, Super high carved, Ryoko calligraphy style
-12,000 JPY
-2,400 JPY shipping
-July 2, 2021
+So, I don't have the money for one of those insane lacquered sets, but back in 2021, kurokigoishi, which mostly sells super expensive stuff, also sold three "affordable" hand carved sets in Kinki, Ryoko, and Minase for 12,000 yen each. 
 
-Underneath each king, you can read 山上作 (crafted by Yamashita) and 菱湖書 (Ryoko Calligraphy).
+The exchange rate back then was .009, so on July 2, 2021 I paid $108 for the set plus $22 shipping from Japan. That same set would only cost $74 at today's exchange rates, but sadly, they are no longer offered on the site. 
 
-![img](20240623_165851.jpg)
-_comparison of Yamashita and 
+I had to dig around a little bit on the [way back machine](https://web.archive.org/web/20220628040329/http://shop.kurokigoishi.co.jp/en/item/1817), but my set was originally marketed as, 将棋駒 楓 山上作 特上彫 菱湖書. 
 
-![img]()
-_carved_
-
+The wood the pieces are made of is honestly not that amazing. It's very lightweight a bit plain, but the carvings are beautiful.
 
 
 <div class="grid-container grid-2x2">
@@ -162,17 +165,34 @@ _carved_
         <img src="20240623_170137.jpg" alt="shortwave">
     </div>
     <div class="caption">
-        <em>retained by the edges</em>
+        <em>rook</em>
     </div>
     <div class="caption">
-        <em>retained by the front</em>
+        <em>promoted rook</em>
     </div>
 </div>
 
 ![img](20240623_170120.jpg)
 _king_
 
+Underneath each king, you can read 山上作 (crafted by Yamashita) and 菱湖書 (Ryoko Calligraphy).
 
+I've bought a fair amount of things from Japan either directly or through ebay, and it is not uncommon to see purchases wrapped in pretty paper. This paulownia box is also standard for shogi sets, coming with even the cheapest wooden sets.
+
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="20210707_190630.jpg" alt="white light">
+    </div>
+    <div>
+        <img src="20210707_190840.jpg" alt="shortwave">
+    </div>
+    <div class="caption">
+        <em>beautifully wrapped</em>
+    </div>
+    <div class="caption">
+        <em>in the paulownia box</em>
+    </div>
+</div>
 
 ## Mini Set
 May 30, 2021
