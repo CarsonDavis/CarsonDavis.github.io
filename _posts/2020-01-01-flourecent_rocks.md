@@ -111,15 +111,12 @@ I can find a bunch of info from 20200206.
     <p style="text-align: center;">white light</p>   
   </div>
   <div>
-    <img src="20200213_002700.jpg" alt="shortwave" style="height: auto;">
-    <p style="text-align: center;">shortwave</p>   
-  </div>
-  <div>
     <img src="20200213_002300.jpg" alt="shortwave" style="height: auto;">
     <p style="text-align: center;">shortwave</p>   
   </div>
 </div>
 
+![img](20200213_002700.jpg)
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
