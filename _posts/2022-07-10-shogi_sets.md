@@ -177,7 +177,8 @@ _king_
 
 Underneath each king, you can read 山上作 (crafted by Yamashita) and 菱湖書 (Ryoko Calligraphy).
 
-I've bought a fair amount of things from Japan either directly or through ebay, and it is not uncommon to see purchases wrapped in pretty paper. This paulownia box is also standard for shogi sets, coming with even the cheapest wooden sets.
+![img](20210707_193205.jpg)
+One interesting feature of shogi pieces which may not be immediately obvious is that the pieces are different sizes depending on their rank. 
 
 <div class="grid-container grid-2x2">
     <div>
@@ -194,10 +195,19 @@ I've bought a fair amount of things from Japan either directly or through ebay, 
     </div>
 </div>
 
+I've bought a fair amount of things from Japan either directly or through ebay, and it is not uncommon to see purchases wrapped in pretty paper. This paulownia box is also standard for shogi sets, coming with even the cheapest wooden sets.
+
 ## Mini Set
+My very first shogi set was altogether less practical. I had been spending hours on ebay, looking at the large, small coffee table sized, wooden sets that would be used in a professional shogi match. The selection on ebay was honestly not that great, I basically had the choice between clapped out junk for hundreds of dollars or pristine luxury sets for thousands.
+
+
+
 May 30, 2021
 Yangiyama Vintage Japanese Shogi Wooden Game Board with Legs from Japan(J)
 234.90-50 
 $150 + shipping
 
 ![img](4a3c9573-bfae-46bb-86e5-89e93591954a.png)
+
+![img](20240624_192215.jpg)
+_closeup of the mini board's lacquer_
