@@ -1,13 +1,13 @@
 ---
 title: Shogi Pieces
 date: 2022-07-10
-last_modified_at: 2024-06-19
+last_modified_at: 2024-06-28
 categories: [games, shogi]
 tags: []
 description: A review of 3 shogi sets.
 media_subpath: /shogi-pieces/
 image: 20240623_170110.jpg
-published: False
+published: True
 ---
 
 <style>
@@ -52,6 +52,11 @@ published: False
         color: #6d6c6c;
     }
 </style>
+
+
+> This is an unfinished post that will receive additional content and editing in the future. 
+{: .prompt-danger }
+
 <!-- https://docs.google.com/presentation/d/1DyVI2AhRVRZL-5HEwd_T4rhr4eVUxzqTZ3qwWRviaFE/edit#slide=id.gdf86dbbcba_5_20 -->
 
 ## Overview
@@ -198,16 +203,16 @@ One interesting feature of shogi pieces which may not be immediately obvious is 
 I've bought a fair amount of things from Japan either directly or through ebay, and it is not uncommon to see purchases wrapped in pretty paper. This paulownia box is also standard for shogi sets, coming with even the cheapest wooden sets.
 
 ## Mini Set
-My very first shogi set was altogether less practical. I had been spending hours on ebay, looking at the large, small coffee table sized, wooden sets that would be used in a professional shogi match. The selection on ebay was honestly not that great, I basically had the choice between clapped out junk for hundreds of dollars or pristine luxury sets for thousands.
+My very first shogi set was altogether less practical. I had been spending hours on ebay, looking at the large, small-coffee-table-sized, wooden sets that would be used in a professional shogi match. The selection on ebay was honestly not that great; I basically had the choice between clapped out junk for hundreds of dollars or pristine luxury sets for thousands.
 
+And then, when using some off-the-wall search terms, I came across the most beautiful set I had ever seen. It was for a weirdly good price from a seller with too few ratings, and I was immediately suspicious. When I searched the maker of the board, I found other, similar sets for over $500. But ultimately, I couldn't help myself. I triple checked ebay's buyer protection, logged into my PayPal for extra protection, and on May 30, 2021 I bought it, for the cool price of $200.
 
+As I looked at some of the other listings, I realized that what I had thought was a full-sized board was actually miniature. I was initially pretty crestfallen, but now that it's actually been in my apartment for the past 3 years, I am so immensely happy with the size. 
 
-May 30, 2021
-Yangiyama Vintage Japanese Shogi Wooden Game Board with Legs from Japan(J)
-234.90-50 
-$150 + shipping
+It's stunningly beautiful, just big enough to play a novelty game with a friend, and small enough to display as the centerpiece on a shelf or table. Sadly, it arrived damaged, with a broken corner, but the seller was kind enough to refund me $50 on the purchase price.
 
 ![img](4a3c9573-bfae-46bb-86e5-89e93591954a.png)
+_"Yanagiyama Vintage Japanese Shogi Wooden Game Board with Legs from Japan"_
 
 ![img](20240624_192215.jpg)
 _closeup of the mini board's lacquer_
