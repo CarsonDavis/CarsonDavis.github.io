@@ -215,7 +215,7 @@ _"Yanagiyama Vintage Japanese Shogi Wooden Game Board with Legs from Japan"_
 ![img](20240624_192215.jpg)
 _closeup of the mini board's lacquer_
 
-I'm not sure the process by which the lacquer is applied, whether it is done by hand or printed in some way, bu it is stunning. There are several layers of lacquer that build up in a subtle texture on top of the richly flaked black substrate. You can see the makers mark in the bottom right corner
+I'm not sure the process by which the lacquer is applied, whether it is done by hand or printed in some way, but it is stunning. There are several layers of lacquer that build up in a subtle texture on top of the richly flaked black substrate. You can see the makers mark in the bottom right corner
 
 ## Recommendations
 I love my carved set, but if you could only have one, then I would recommend the shogi cz set. It's a great tool for learning and teaching, and the quality is excellent for the price.
