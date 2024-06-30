@@ -1,5 +1,5 @@
 ---
-title: Shogi Pieces
+title: Shogi Resources
 date: 2021-07-11
 last_modified_at: 2024-06-30
 categories: [games, shogi]
