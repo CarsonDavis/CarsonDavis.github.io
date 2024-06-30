@@ -73,6 +73,11 @@ After the base material, there are various options for how the characters are ap
 - **Carved:** Hand carving is a huge step up. Some old japanese dude will literally carve every stroke of every letter with a tiny knife.
 - **Lacquered:** If you really want to go big, the carved characters can be painstaking filled with lacquer, layer by layer, in a process that takes weeks or even months to complete.
 
+![img](ShogiPieceManufacturingProcess.webp)
+_image from kurokigoishiten.com_
+
+This image shows the steps involved in the carved and lacquered variants. 
+
 ### Font
 Where chess can have interesting designs for the exact shape of the pieces, shogi has a large variety in fonts. If you want to read a little more in depth, I stumbled across [this site](https://en.i-tsu-tsu.co.jp/blog/shogi/948) which covers 9 different fonts.
 
