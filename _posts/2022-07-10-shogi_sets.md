@@ -63,7 +63,7 @@ And not just any shogi set. I had to go overboard.
 Let me provide some context on what it means for a shogi set to be nice. Fundamentally there are only a few variables you can play with: material, construction, and font.
 
 ### Material
-There are really only two commonly used materials: plastic and wood. Shogi is an old-school, traditional game, and no self respecting player would use anything except wood. However, within the category of wood there is basic common wood from unknown trees, and then there is expensive, tight-grained hardwood used in the most expensive sets, which can cost thousands of dollars.
+There are really only two commonly used materials: plastic and wood. Shogi is an old-school, traditional game, and no self respecting player would use anything except wood. However, within the category of wood there is common wood from unknown trees, and then there is expensive, tight-grained hardwood used in the most expensive sets, which can cost thousands of dollars.
 
 ### Construction
 After the base material, there are various options for how the characters are applied to the pieces.
