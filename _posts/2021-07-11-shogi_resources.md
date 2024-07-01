@@ -67,6 +67,7 @@ This post collects a variety of resources for learning and playing shogi. It is 
 - [Takodori Joseki](https://www.reddit.com/r/shogi/comments/aiqtx2/takodoris_book_line_posts_collected/): Huge collection of digitized joseki. It might be a fun project to convert all of these into a lishogi study.
 
 ## Supplies
+I have a [dedicated post]({% link _posts/2022-07-10-shogi_sets.md %}) where I discuss my three personal shogi sets. However, this section provides a larger list of places to buy shogi gear.
 - [Shogi CZ](https://shogi.cz/en/): My number one recommendation for beginner friendly boards and [pieces](https://shogi.cz/en/shop/white-box-japanese-chess-game-pieces-kanji-arrows/).
 - [Tengudo](https://go.tengudo.jp/en/): The online storefront of a shogi and go store in Kyoto, they have a wide and often affordable selectinon of go and shogi gear, including [miniature boards](https://go.tengudo.jp/en/shogi-set/1968.html), [affordable carved sets](https://go.tengudo.jp/en/shogi-piece/2395.html), and more. 
 - [Kurokigoishiten](https://kurokigoishiten.com/en/collections/%E5%B0%86%E6%A3%8B): Sells a large assortment of premium shogi and go gear.
