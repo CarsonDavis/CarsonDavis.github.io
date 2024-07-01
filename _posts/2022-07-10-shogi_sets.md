@@ -63,7 +63,9 @@ And not just any shogi set. I had to go overboard.
 Let me provide some context on what it means for a shogi set to be nice. Fundamentally there are only a few variables you can play with: material, construction, and font.
 
 ### Material
-There are really only two commonly used materials: plastic and wood. Shogi is an old-school, traditional game, and no self respecting player would use anything except wood. However, within the category of wood there is common wood from unknown trees, and then there is expensive, tight-grained hardwood used in the most expensive sets, which can cost thousands of dollars.
+There are really only two commonly used materials: plastic and wood. Shogi is an old-school, traditional game, and obviously no self respecting player would use plastic. 
+
+However, while even within the category of wood there is a lot of variation. Sets costing upwards of $100 will use unspecific wood from unspecified trees, but as you move into the $200 price range you will begin to see expensive, tight-grained hardwood, with the most expensive sets costing thousands of dollars.
 
 ### Construction
 After the base material, there are various options for how the characters are applied to the pieces.
@@ -225,4 +227,6 @@ I'm not sure the process by which the lacquer is applied, whether it is done by 
 ## Recommendations
 I love my carved set, but if you could only have one, then I would recommend the shogi cz set. It's a great tool for learning and teaching, and the quality is excellent for the price.
 
-If your budget is really constrained, unfortunately there aren't many quality options in the American market. There are plenty on Japanese sites, but you'll be paying $25 of shipping, which often defeats the purpose. Unlike with chess or go, I would recommend avoiding most sets on Amazon. They are either low quality, overpriced, or have hideous fonts. If you simply must buy on amazon, I would recommend something like the [Koma Shogi Set](https://www.amazon.com/Shogi-Japanese-Chess-Wooden-Pieces/dp/B07BB59942) over the [Yellow Mountain Imports set](https://www.amazon.com/Japanese-Wooden-Drawers-Traditional-Pieces/dp/B003UKEMSS).
+If your budget is really constrained, unfortunately there aren't many quality options in the American market. There are plenty on Japanese sites, but you'll be paying $25 of shipping, which often defeats the purpose. Unlike with chess or go, I would recommend avoiding most sets on Amazon. They are either low quality, overpriced, or have hideous fonts. If you simply must buy on Amazon, I would recommend something like the [Koma Shogi Set](https://www.amazon.com/Shogi-Japanese-Chess-Wooden-Pieces/dp/B07BB59942) over the [Yellow Mountain Imports set](https://www.amazon.com/Japanese-Wooden-Drawers-Traditional-Pieces/dp/B003UKEMSS).
+
+If you do want to go the Japanese route, I have a section on supplies in my post on [Shogi Resources]({% link _posts/2021-07-11-shogi_resources.md %}).
