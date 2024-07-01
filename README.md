@@ -128,3 +128,15 @@ bundle install
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+
+## Images
+### Converting to WebP
+I've been using the `cwebp` command to convert images to webp format. You can install it with homebrew.
+```
+brew install webp
+```
+
+This command converts a jpeg to a webp file at 70% compression.
+```
+cwebp -q 70 0010_S2Ark7u.jpeg -o 0010_S2Ark7u.webp
+```
