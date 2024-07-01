@@ -58,7 +58,7 @@ published: True
 This post collects a variety of resources for learning and playing shogi. It is by no means exhaustive, but it includes the main resources I have personally found useful.
 
 ## Learning
-- [Knowledge Share](https://docs.google.com/presentation/d/1DyVI2AhRVRZL-5HEwd_T4rhr4eVUxzqTZ3qwWRviaFE/edit?usp=sharing): A brief knowledge share I made on shogi. It leaves out some details, since it was meant to be a visual aide, but it still has some nice, quick info.
+- [Knowledge Share](https://docs.google.com/presentation/d/1DyVI2AhRVRZL-5HEwd_T4rhr4eVUxzqTZ3qwWRviaFE/edit?usp=sharing): A brief knowledge share I made on shogi. It leaves out some details, since it was meant to be a visual aide, but it still has some nice, quick info. It's a google slides presentation, so you will want to swipe through each slide.
 - [Lishogi Learn](https://lishogi.org/learn): Excellent website for teaching, puzzles, and playing shogi against a computer. Doesn't have a huge player base, but the interface is wonderful. If you do the the entire [learn section](https://lishogi.org/learn), you'll be more than ready for some fun games. There is also a [resources section](https://lishogi.org/resources) which has many additional great links.
 - [Lily's Static Rook Basics](https://lishogi.org/study/2C1urJSL/abUHiyH9): Great guide on the static rook playstyle put together by Lily, the first person I ever played.
 - [Killer Ducky's Study Plan](https://killerducky.github.io/shogi/study_plan): 
