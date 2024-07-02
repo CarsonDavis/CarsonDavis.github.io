@@ -101,7 +101,7 @@ Click on the photos to enlarge them.
         <em>Monumental Sea</em>
     </div>
     <div class="caption">
-        <em>Lonely Road</em>
+        <em>Desolate Path</em>
     </div>
 </div>
 
@@ -114,7 +114,7 @@ Click on the photos to enlarge them.
         <img src="54890024_HxYewsF.jpeg" alt="white light">
     </div>
     <div class="caption">
-        <em>Bounty</em>
+        <em>Lonely Road</em>
     </div>
     <div class="caption">
         <em>City Streets</em>
@@ -122,3 +122,4 @@ Click on the photos to enlarge them.
 </div>
 
 ![img](50038900807_75981150a3_h.webp)
+_Bounty_
