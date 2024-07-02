@@ -13,7 +13,7 @@ published: False
 ## The Magic of Shift
 Think about your keyboard. How do you type a capital F? Does it have a dedicated key? What about the exclamation mark?
 
-We rarely think of it, but when you hold the shift key, the entire keyboard transforms. Lowercase letters are replaced with uppercase letters, the slash becomes a question mark, the number one becomes an exclamation mark...
+We rarely consider it, but when you hold the shift key, the entire keyboard transforms. Lowercase letters are replaced with uppercase letters, the slash becomes a question mark, the number one becomes an exclamation mark...
 
 You hold shift, and you get access to a secret hidden layer. It's like having a whole other keyboard hidden behind the first one.
 
@@ -56,18 +56,18 @@ If we wanted to make typing as easy as possible, we could make a start by gettin
 ![img](keyboard_layout-minimized.png)
 
 
-Maybe something a little like this. We'll get to my layout in a little bit, but this is pretty similar to what I actually use. Strikingly, you'll notice that I didn't just remove all the red keys...I also threw away the space bar. 
+Maybe something a little like this. We'll get to my layout in a little bit, but this is pretty similar to what I actually use. Strikingly, you'll notice that I didn't just remove all the red keys...I also put six new keys where the space bar used to be. 
 
 ## Thumbs are Awesome
-Here's the thing. Like pretty much everyone else on earth, I type all the time on my phone, using only my two thumbs. There is absolutely nothing wrong with my thumbs -- they have the control and finesse to easily type on a tiny phone keyboard, and yet every physical keyboard I've ever used uses the thumbs for just one key: the space bar. 
+Here's the thing. Like pretty much everyone else on earth, I type all the time on my phone, using only my two thumbs. Thumbs are awesome -- they have the control and finesse to easily type on a tiny phone keyboard, and yet every physical keyboard I've ever used uses both thumbs for just one key: the space bar. 
 
 That's 0.5 keys per thumb. Meanwhile, count how many keys your pinky is supposed to click. Depending on what you include, the left pinky gets ~11 keys and the right pinky gets ~16 keys. 
 
 In what insane world do we give our weakest, most useless fingers ~27 keys, and give our amazing thumbs 1 key to share between them?? Absolute madness.
 
-So anyway, those blue keys are for my thumbs, and they generally do tasks the pinkies would do on a traditional keyboard. The left hand thumb has ESC, Backspace, and shift, while the right hand thumb has enter, space, and tab. Let me tell you, just being able to casually click your thumb down to backspace is an absolute game changer.
+So anyway, those 6 new keys my thumbs, and they generally do tasks the pinkies would do on a traditional keyboard. The left hand thumb has ESC, Backspace, and shift, while the right hand thumb has enter, space, and tab. Let me tell you, just being able to casually click your thumb down to press shift or backspace is an absolute game changer.
 
-But why 6 keys specifically? Well, there are actually keyboards that have as many as 12 keys in a big cluster dedicated to the thumbs, but I've never found that necessary. With 3 per thumb, you have one key in the middle that you thumb sits on naturally, then you have one for when you reach your thumb out and one for when you pull your thumb in.
+But why 6 keys specifically? Well, there are actually keyboards that have as many as 12 keys in a big cluster dedicated to the thumbs, but I've never found that necessary. With 3 per thumb, you have one key in the middle that your thumb sits on naturally, then you have one for when you reach your thumb out and one for when you pull your thumb in.
 
 ![img](20231219_222809.jpg)
 
