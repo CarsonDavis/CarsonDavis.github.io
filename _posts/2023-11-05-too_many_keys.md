@@ -89,14 +89,16 @@ But what about the symbols?? How will you type exclamation marks parentheses if 
 The answer is another layer for symbols. For this, we move the symbols down to the home row, and rotate the less used symbols slightly up to the blue keys.
 
 
-
-
-
-
-
-
-
-
+Key Concepts
+- Thumb Keys
+- Layers
+- Home Row Mods
+- Long Press
+- Timings
+- Small Features
+- Learning Length
+- My Layout
+- Recommendations
 
 
 
