@@ -11,3 +11,9 @@ published: False
 ---
 
 Need to talk about linting and what not
+- linting
+- pre-commit hooks
+- vs code
+- git blame
+- shortcuts
+- 
