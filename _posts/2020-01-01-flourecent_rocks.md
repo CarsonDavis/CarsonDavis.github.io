@@ -50,9 +50,6 @@ Reminder that you can click on the photos to see them full size..
 
 
 
-
-
-
 <div class="grid-container grid-2x2">
     <div>
         <img src="12216B.jpg" alt="white light">
@@ -68,11 +65,13 @@ Reminder that you can click on the photos to see them full size..
     </div>
 </div>
 
+Here are some recent acquisitions for which I have good photos and descriptions.
+
 - Hydrozincite (FL Blue SW), Calcite (FL Red SW)
 - 4.6" x 4.3" x 1.9",  40oz
 - Sterling Hill Mine
 - Sussex County, New Jersey
-<!-- $56.25 bought from James Horste-->
+- $56.25, from James Horste, 8/9/24
 
 
 <div class="grid-container grid-2x2">
@@ -97,19 +96,55 @@ Reminder that you can click on the photos to see them full size..
     <div>
         <img src="image_1.webp" alt="shortwave">
     </div>
+    <div class="caption">
+        <p>click</p>
+    </div>
+    <div class="caption">
+        <p>me!</p>
+    </div>
 </div>
 
 
-Click on the images to see them full size. There are some really interesting pieces of purple and gold in between the black and white crystals.
+This is probably my nicest white light specimen. If you enlarge the photos, you can see the golden cubes of pyrite and purple fluorite emerging from a forest of white quartz crystals.
 
 - Sphalerite (FL Orange, LW), Coating on Quartz Crystals (FL White SW, MW, LW), Fluorite (FL Violet LW), Pyrite (NF)
 - 5.4" x 2.7" x 1.2",  13.5oz
 - Sweet Home Mine, Detroit City Portal, 21-01 Pocket
 - Park County, Colorado
-<!-- $75 bought from James Horste-->
+- $75, from James Horste, 8/9/24
 
+
+<div class="grid-container grid-2x2">
+    <div>
+        <img src="16461A.jpg" alt="white light">
+    </div>
+    <div>
+        <img src="17377A.JPG" alt="shortwave">
+    </div>
+    <div class="caption">
+        <p>Willemite, Fluorite</p>
+    </div>
+    <div class="caption">
+        <p>Eucryptite</p>
+    </div>
+</div>
+On the left:
+- Willemite (FL White, Green SW, Orange, MW, Phosphorescent), Fluorite (FL Blue, SW, MW, LW)
+- 3.4" x 2.5" x 1.7", 7oz
+- Red Cloud Mine
+- La Paz County, Arizona
+- $26.25, from James Horste, 8/9/24
+
+On the right:
+- Eucryptite (FL Red SW)
+- 2" x 1.1" x 0.7", 1oz
+- Londonderry Li deposit
+- Coolgardie Shire, Western Australia
+- $26.25, from James Horste, 8/9/24
 
 ![20240516_225034](Fluorecent+Rocks.jpg)
+These were my very first fluorescent rocks, generously gifted to me by Steve Caldwell. You can see several Franklin pieces with Willemite and Calcite, along with a Fluorite and calcite piece from I think the Purple passion mine in Arizona, as well as a crystal of Fluorite. 
+
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
