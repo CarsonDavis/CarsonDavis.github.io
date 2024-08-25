@@ -1,10 +1,10 @@
 ---
-title: Film Development
+title: Developing Film
 date: 2024-08-18
 last_modified_at: 2024-08-25
 categories: [photography, film]
 tags: []
-description: My personal process for developing film.
+description: My personal process for developing B&W film.
 media_subpath: /film-developing/
 image: 100006005.webp
 published: True
