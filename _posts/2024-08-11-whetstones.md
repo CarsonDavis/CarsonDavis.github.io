@@ -6,17 +6,28 @@ categories: [knives, whetstones]
 tags: []
 description: Inventory of my whetstones with recommendations.
 media_subpath: /whetstones/
-image: whetstones.webp
+image: 20240902_154347.webp
 published: False
 ---
 
-There is something magical about a really, truly sharp knife. I'm not talking about a knife that glides through paper. I'm not talking about a knife that will shave. 
+Most people have never used truly sharp knife. 
 
-I'm talking about a knife that can casually slice through a limp paper towel. No, I'm talking a knife that can carve the corner of a square of toilet paper without tearing it. 
+I'm not talking about a knife that cuts paper. And I'm not talking about a knife that shaves hair. 
 
-The kind of knife that that glides through soft bread like it doesn't exist. That makes tomatoes flee in terror.
+I'm talking about a knife that can casually slice through a limp paper towel. I'm talking a knife that can carve the corner off fo a square of toilet paper without tearing it. 
 
-Most people have never used an actually sharp knife. 
+In the kitchen, this is a knife that that glides through soft bread like it doesn't exist. That makes tomatoes flee in terror.
+
+There is something magical about a really, truly sharp knife.  
+
+## Avoid
+
+Pull Through Knife Sharpeners
+Steel Rods
+Ceramic Rods
+Electric Sharpeners
+Sharpening Systems
+Cheap Amazon Stones
 
 ## Recommendation Table
 
@@ -31,7 +42,7 @@ If you want to just skip all the words and explanations, here's a table of my re
 | [Shapton Glass 500](https://mtckitchen.com/products/shapton-500-glass-sharpening-stone-hr)                 |      |     | $48  | $48 | $48  | $48  |
 | [King KDS 1k/6k](https://www.amazon.com/KDS-Combination-Whetstone-Sharpening-Harder/dp/B01BB1ZDVW/)        | $37  | $37 |      |     |      |      |
 | [Morihei Hi 4000](https://carbonknifeco.com/products/morihei-suzu-whetstone-4000)                          |      |     |      |     | $80  | $80  |
-| [Stone Holder](https://www.amazon.com/gp/product/B00NFB2MTI)                                               |      |     |      |     | $15  | $15  |
+| [Stone Holder](https://www.amazon.com/gp/product/B00NFB2MTI)                                               |      |     |      | $15 | $15  | $15  |
 | [Rika 5000](https://www.amazon.com/dp/B07JLP4635)                                                          |      |     | $41  | $41 |      |      |
 | [Kitayama 8000](https://www.amazon.com/dp/B00D3VIX0M)                                                      |      |     |      |     |      | $55  |
 | [Naniwa Gouken 12k](https://www.amazon.com/NANIWA-Whetstone-KAGAYAKI-NK-2091-Finishing/dp/B01JI9YPPY)      |      |     |      |     |      | $51  |
@@ -43,6 +54,50 @@ If you want to just skip all the words and explanations, here's a table of my re
 
 
 ### Basics
+This will not be a sharpening tutorial, but I want to start by just outlining some basic categories, what they are used for, and why you would want to own a stone in this category.
+#### Flattening Stones
+<!-- **Flattening Stones** -->
+
+Whetstones start out with a flat, uniform surface, full of exposed cutting particles. However as you use them, can wear unevenly, become damaged, and have the potential to clog. 
+
+Uneven wear happens as you naturally sharpen more on the center or edges of the stone, and as a result you will have inconsistent contact between the grinding surface of the stone and the edge of the knife. Unchecked, this can lead to an inconsistent or frustrating sharpening experience, and can make it harder than necessary to sharpen the full length of the edge or to cleanly remove the burr. Sharpening on a stone that is not perfectly flat is certainly not the end of the world, but extremely unflat stones are a chore to use.
+
+Especially during the beginning of your sharpening journey, you will have the tendency to accidentally dig the knife blade into the stone, creating gouges or chips. These are easy to feel while sharpening, and also harm the experience. 
+
+As you sharpen, metal is removed from the surface of the blade and abrasive from the surface of the stone. This creates a slurry of metal and abrasives called swarf. All stones act a little differently, and in some cases this is a desireable feature that can aid in burr removal or help achieve a certain finish such as kasumi. However, some stones are prone to clogging, which is where instead of building as a slurry on top of the stone, the swarf is pushed into the pores of the stone, reducing the cutting ability of the stone. 
+
+A flattening stone is the solution to all three of these problems. It is a coarse stone that you rub on your actual whetstone to sand away the high and low spots, to remove the gouges, and refresh the cutting surface. Sharpening techniques are highly personalized, and some people only flatten their stones occasionally, after they become noticeable degraded, whereas others, such as myself, flatten their stones before every sharpening session they use them.
+
+The manufacturing process of whetstones can vary noticeably, and as a result, individual stones can have very different characteristics. Friablity is often referenced as the measure of how easily the surface of the stone breaks apart during sharpening, exposing new cutting particles. A highly friable stone will break apart easily, producing useful swarf and typically cutting quickly. However this stone will also quickly dish and need frequent flattening. Meanwhile a hard, non-friable stone will stay flat for long periods and rarely need flattening. However, they often cut slower and have a tendency to clog. 
+
+If you have one knife in your kitchen and only sharpen one every 4 months, you will probably be fine buying a harder stone and only flattening once every few years. And you can probably skip buying a flattening stone, as you can flatten your stone on a sidewalk or a piece of glass and sandpaper. However, if you have a collection of knives, or sharpen frequently, or are just a perfectionist, you will certainly want to buy a flattening stone.
+
+### Major Repair Stones
+Some knives need more work than others. If you have large chips in your knives, a broken tip, or if you have a knife with too thick of a cutting geometry that needs thinning, you will need a coarse stone to remove a lot of material quickly. I do not consider a major repair stone to be a necessary part of an everyday sharpening kit, but if you plan on doing any of the aforementioned tasks, you will need one.
+
+Opinions differ on the best stones for tip repair or thinning. Some people like soft, highly friable water stones while others prefer hard oil stones, or even diamond stones for these tasks. I own all three types and don't have a strong preference.
+
+### Initial Sharpening
+When sharpening a somewhat dull knife or one that I haven't sharpened before, I often start with a coarse or medium stone to establish a new bevel angle and remove microchips. That is to say, I remove whatever edge the knife had previously and add my own, which I will then refine with finer stones. I often only use this stone once per knife, doing all subsequent sharpening on finer stones.
+
+There is no telling what kind of edge came on your knife from the factory, and I find it easier to start from scratch than to try to match the existing edge. This often gives better end results as well, since I will typically sharpen at a lower angle than the factory edge.
+
+You want this initial edge setting to happen as quickly as possible, as if you spend too long you can unintentionally create a convex edge or gradually ruin your angle. This is why I recommend a hard, fast cutting stone for this task.
+
+### Finishing
+Unless you are a talented sharpener, it will be difficult to fully remove the burr left by an initial 500-1000 grit sharpening stone. I typically follow up with a 3000-5000 grit stone to remove the burr and refine the apex. Sometimes I will also use this stone to set a micro-bevel, which is a small secondary bevel at a higher angle that can help maintain the edge longer.
+
+If you are sharpening straight razors, you will not want to jump directly from a 500 to a 4000 grit stone, but for kitchen knives, this is my exact progression. Done right, you can quickly set the edge and then knock off the burr with a few strokes on the finishing stone, leaving you with a knife that will demolish common kitchen tasks.
+
+Unless you a professional chef cuts all day and sharpens frequently, you will probably not need to use your initial sharpening stone after the very first initial bevel setting. All subsequent sharpenings will be touch ups, done with either your finishing stone or with a hard strop.
+
+### Polishing Stones
+There are a whole range of stones used for polishing that most people will never need. However, if you want to achieve mirror finished on your secondary bevel, or to sharpen straight razors, you will need a full progression of stones in the 5000-12000 grit range, and maybe even higher. 
+
+
+### Strops
+In the movies you will see people with long, flexible leather strops sliding a razor on them faster than the eye can see. 
+
 Want to know what you are buying? I think an everyday sharpening kit should have at least the following components:
 - flattening stone
 - sharpening stone
@@ -89,16 +144,39 @@ Diamond loaded strops are an absolute game-changer for maintaining a razor edge 
 Having every stone possible for every use case is great, but you can save $150 and get only what I actually use for 95% of my sharpening tasks.
 
 
+## New category descriptions
+
+### Poor ($37)
+This is the bare minimum stone to be able to get a knife sharp.
+- **Advantages:**
+  - Basic sharpening setup with King KDS 1000/6000.
+  - Covers basic sharpening and polishing needs.
+  - Much better than any amazon stones. Will sharpen faster and last longer. 
+- **Compromises:**
+    - Limited versatility and refinement.
+    - Lacks tools for heavy material removal. Can't significantly change the geometry of a knife.
+    - You won't be able to sharpen razors.
+    - You can't use the stone on short notice, it requires a 15 minute soak.
+
+### Min ($57)
+This adds a strop and diamond paste for edge refinement. I specifically don't recommend a leather strop, because they are soft they roll over the edge and dull it. A balsa strop, if it gets damaged, can be sanded to have a fresh surface. They're much more forgiving and will give you a much cleaner surface even after making mistakes. This particular one has a magnet on the back so it can attach to the base I recommend in some of the higher upgrade levels.
+- **Advantages:**
+  - With a strop, you can remove the final burr and end up with a way sharper knife, especially at a beginner skill level.
+  - You can quickly strop a knife during regular use to maintain sharpness so you won't have to sharpen as often.
 
 
+## Old category descriptions
 
 ### **Poor ($37)**
 - **Advantages:**
   - Basic sharpening setup with King KDS 1000/6000.
   - Covers basic sharpening and polishing needs.
+  - Much better than any amazon stones. Will sharpen faster and last longer.
 - **Compromises:**
   - Limited versatility and refinement.
-  - Lacks tools for heavy material removal and ultra-fine polishing.
+  - Lacks tools for heavy material removal. Can't significantly change the geometry of a knife.
+  - You won't be able to sharpen razors.
+  - You can't use the stone on short notice, it requires a 15 minute soak.
 
 ### **Min ($57)**
 - **Advantages:**
@@ -107,6 +185,7 @@ Having every stone possible for every use case is great, but you can save $150 a
 - **Compromises:**
   - No stone holder for stability.
   - Missing coarse and ultra-fine stones.
+  - Still requires soaking the King KDS 1000/6000.
 
 ### **Comp ($153)**
 - **Advantages:**
@@ -165,4 +244,6 @@ Do not accidently buy the KW65, which will be brown and white. You want the KDS 
 
 
 ## Things to Avoid
+
+Please never, never, buy the Amazon Basics stones. For a tiny bit more money you can get my minimum recommendation, the King KDS 1000/6000, which is a world of difference better.
 
