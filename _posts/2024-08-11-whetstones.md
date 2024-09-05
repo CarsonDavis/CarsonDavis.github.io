@@ -106,6 +106,23 @@ Want to know what you are buying? I think an everyday sharpening kit should have
 
 I try to include all of these in every recommendation, with differences in price reflecting a lose of convenience, speed, or quality. At the lowest levels, you have to do without a strop and flattening stone.
 
+
+
+Diamond
+- glued
+- embedded
+- resin matrix
+- vitrified?
+Water
+- resin bonded (shapton glass, naniwa professional)
+- clay based (king, naniwa superstone)
+- magnesia (naniwa chosera, shapton pro kuromaku) 
+Oil
+- aluminum oxide (norton india)
+- silicon carbide (norton crystolon)
+
+
+
 ### Buy it All
 $406 is an atrocious amount of money. But it represents the highest quality option in every category and has every stone you could possibly need. 
 #### Flattening Stone 
