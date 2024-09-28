@@ -39,29 +39,29 @@ There are many retailers that sell corne kits, but I only have personal experien
 ## Essential Components
 No matter what site you end up using, you will absolutely need the following components to build a corne. Note that many kits come with most of these items included, although you almost always need to buy switches, keycaps, and microcontrollers separately.
 
-| Component               | Num | Notes |
-|-------------------------|-----|-------|
-| Corne Cherry PCBs       | 2   | variants exist. mx/choc, 5/6 col, LED, etc      |
-| FR4 Switch Plates       | 2   |       |
-| Acrylic Bottom Plates   | 2   | you can also buy or 3d print a case      |
-| Acrylic OLED Covers     | 2   |       |
-| 3x6 Tactile Switches    | 2   | for resetting the keyboard      |
-| OLED Displays           | 2   | premium builds will use nice!views      |
-| Kailh Hotswap Sockets   | 42  | optional but <i>highly</i> recommended      |
-| Diodes (SMD)            | 42  |       |
-| 10mm Brass Standoffs    | 4   | may need to be taller depending on build      |
-| 7mm Brass Standoffs     | 10  |       |
-| 4mm Screws              | 14  |       |
-| 6mm Screws              | 14  |       |
-| Rubber Feet             | 8   |       |
-| Microcontrollers        | 2   | wireless vs wired require different controllers      |
-| Header Pins             | 14  | many people don't use these but I highly recommend      |
-| Rubber Feet             | 8   |       |
-| Key Switches            | 42  |       |
-| Keycaps                 | 42  |       |
-| TRS Cable               | 1   | wired only      |
-| TRRS Jacks              | 2   | wired only      |
-| Batteries               | 2   | wireless only      |
+| Component           | Num | Notes |
+|---------------------|-----|-------|
+| Corne PCBs          | 2   | variants exist. mx/choc, 5/6 col, LED, etc      |
+| FR4 Plates          | 2   |       |
+| Acrylic Bottom      | 2   | you can also buy or 3d print a case      |
+| Acrylic Covers      | 2   |       |
+| 3x6 Switches        | 2   | for resetting the keyboard      |
+| OLED Displays       | 2   | premium builds will use nice!views      |
+| Hotswap Sockets     | 42  | optional but <i>highly</i> recommended      |
+| Diodes (SMD)        | 42  |       |
+| 10mm Standoffs      | 4   | may need to be taller depending on build      |
+| 7mm Standoffs       | 10  |       |
+| 4mm Screws          | 14  |       |
+| 6mm Screws          | 14  |       |
+| Rubber Feet         | 8   |       |
+| Microcontrollers    | 2   | wireless vs wired require different controllers      |
+| Header Pins         | 14  | many people don't use these but I highly recommend      |
+| Rubber Feet         | 8   |       |
+| Key Switches        | 42  |       |
+| Keycaps             | 42  |       |
+| TRS Cable           | 1   | wired only      |
+| TRRS Jacks          | 2   | wired only      |
+| Batteries           | 2   | wireless only      |
 
 ## Buying from Aliexpress
 Aliexpress has a reputation for being sketchy and unreliable, but I have bought hundreds of dollars of parts from them with no problems. The key is to buy from sellers who have high ratings and many reviews. Listings sometimes change or disappear, so if a link in my post doesn't work, just search for the part and you will find many options.
@@ -115,8 +115,18 @@ For wired controllers, there are many more options. The premium choice is the $8
 I will ultimately make an entire post on switches, but for now, let me give some recommendations at different price ranges. Refer to the Buying from Aliexpress section for more information on buying switches from China.
 
 
-| Type    | Budget                                                                                        | Price | Premium                                                                                  | Price |
-|---------|------------------------------------------------------------------------------------------------|-------|------------------------------------------------------------------------------------------|-------|
-| Silent  | [Outemu Tactile Silent Lemon, 90](https://www.aliexpress.us/item/3256805399781266.html)         | $21   | [Gazzew Boba U4 Silent, 70](https://rndkbd.com/products/gazzew-u4-boba-switches)          | $45   |
-| Tactile | [Outemu Tactile Panda, 70](https://www.aliexpress.us/item/3256803705622852.html)                | $15   | [Gazzew Boba U4T, 70](https://rndkbd.com/products/gazzew-u4t-boba-tactile-switches)       | $45   |
-| Clicky  | [Outemu Blue, 70](https://www.aliexpress.us/item/3256805690299829.html)                            | $15   | [Kailh Box White, 120](https://www.amazon.com/gp/product/B07885QL77)                      | $35   |
+<b>Budget</b>
+
+| Type    | Switch                                                                                          | Price |
+|---------|-------------------------------------------------------------------------------------------------|-------|
+| Silent  | [Outemu Tactile Silent Lemon, 90](https://www.aliexpress.us/item/3256805399781266.html)         | $21   |
+| Tactile | [Outemu Tactile Panda, 70](https://www.aliexpress.us/item/3256803705622852.html)                | $15   |
+| Clicky  | [Outemu Blue, 70](https://www.aliexpress.us/item/3256805690299829.html)                         | $15   |
+
+<b>Premium</b>
+
+| Type    | Switch                                                                                     | Price |
+|---------|--------------------------------------------------------------------------------------------|-------|
+| Silent  | [Gazzew Boba U4 Silent, 70](https://rndkbd.com/products/gazzew-u4-boba-switches)           | $45   |
+| Tactile | [Gazzew Boba U4T, 70](https://rndkbd.com/products/gazzew-u4t-boba-tactile-switches)        | $45   |
+| Clicky  | [Kailh Box White, 120](https://www.amazon.com/gp/product/B07885QL77)                       | $35   |
