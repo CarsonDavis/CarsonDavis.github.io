@@ -1,10 +1,10 @@
 ---
-title: Buying a Split-Keyboard
+title: Split Keyboard Buying Guide
 date: 2023-12-21
-last_modified_at: 2023-12-21
+last_modified_at: 2024-09-27
 categories: [keyboards, buying]
 tags: []
-description: Split keyboard buying guide.
+description: Guide to buying your first programmable split keyboard.
 media_subpath: /keyboard-buying-guide/
 image: 20240927_143409.jpg.webp
 published: True
