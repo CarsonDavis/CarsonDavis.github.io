@@ -131,7 +131,7 @@ Brioche or ciabatta buns are a great starting place, with high-quality Japanese 
 -----
 
 ## Chocolate Mousse-Cheesecake
-This is a favorite childhood recipe made for me by my mother on special occasions. It is a rich, decadent dessert that I often make specifically to impress people, as it regular cakes seem pitiful and inadequate in comparison.
+This is a favorite childhood recipe made for me by my mother on special occasions. It is a rich, decadent dessert that I often make specifically to impress people, as regular cakes seem pitiful and inadequate in comparison.
 
 Recently I have been making a version that incorporates a korean honey and yuzu marmalade into the chocolate, which gives it a wonderfully tangy, dark chocolate and orange punch.
 
@@ -144,7 +144,7 @@ Recently I have been making a version that incorporates a korean honey and yuzu 
 - **1.5 cups of confectioners’ sugar**
 - **2 tablespoons of milk**
 - **1 teaspoon vanilla extract**
-- **2.5 cups whipping cream**
+- **2.5 cups heavy whipping cream**
 - **Raspberries or strawberries**
 
 ### Kitchenware
