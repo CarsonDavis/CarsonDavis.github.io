@@ -158,7 +158,7 @@ Recently I have been making a version that incorporates a korean honey and yuzu 
 
 ### Process
 1. Soften the butter and cream cheese.
-2. Line the cake pan with aluminum foil. AL foil should be smooth enough to not snag on the chocolate. See example picture.
+2. Line the cake pan with aluminum foil. AL foil should be smooth enough to not snag on the chocolate.
 3. Melt the chocolate and shortening in the microwave at 50%. I use 30-second intervals until it can be mixed with a spoon.
 4. Let the chocolate sit until it is somewhat viscous, then pour the chocolate into the pan and swirl it around for the first time.
 5. Put it in the fridge for 30 seconds or until it becomes more viscous. Then repeat the swirling, with the objective of strengthening the edges.
