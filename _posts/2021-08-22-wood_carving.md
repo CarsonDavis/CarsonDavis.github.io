@@ -97,6 +97,7 @@ Your knives will get dull, no matter how expensive they are. If you get into woo
 ## My Projects
 My first projects were simple practice exercises. You can see how I practiced stop cuts and chip cuts, and I also carved a star and a sphere. The stop cuts help you get a feel for the technique, the star solidifies your ability to make strong and accurate cuts, and the sphere is a great, if tedious, exercise in control.
 
+Click the pictures to enlarge or to view as a slideshow.
 <div class="grid-container grid-3x2">
     <div class="image-div">
         <img src="20241010_182913.webp" alt="white light">
@@ -198,6 +199,7 @@ There's something simply delightful about the rotund softness of a wooden bear. 
 </div>
 
 I also made some quick videos of my carvings on a rotating stand, which is a fun way to view them from all angles.
+
 
 
 {% include embed/youtube.html id='SeQHaew9KdY' %} 
