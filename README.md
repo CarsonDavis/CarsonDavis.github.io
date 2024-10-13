@@ -130,13 +130,27 @@ bundle install
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
 ## Images
+
 ### Converting to WebP
+
 I've been using the `cwebp` command to convert images to webp format. You can install it with homebrew.
-```
+
+```bash
 brew install webp
 ```
 
-This command converts a jpeg to a webp file at 70% compression.
+This command converts a jpeg to a webp file at 70% compression:
+
+```bash
+cwebp -q 70 image_1.jpeg -o image_1.webp
 ```
-cwebp -q 70 0010_S2Ark7u.jpeg -o 0010_S2Ark7u.webp
+
+### Batch Converting an Entire Folder of Images to WebP
+
+If you have a whole folder of images you want to convert to WebP format, you can use the `convert_to_webp.py` script. It will take all `.jpeg` and `.jpg` files in a folder, convert them to `.webp`, and place them in a new subfolder called `webp_images` inside the same folder.
+
+To use the Python script, run the following command:
+
+```bash
+python convert_to_webp.py /path/to/your/images_folder
 ```
