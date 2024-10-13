@@ -129,9 +129,7 @@ After the introductory exercises, my  first real project was a wizard ornament. 
     <div class="caption">more wizards!</div>
 </div>
 
-I also tried carving a little man, which was a lot for a first serious attempt, but it was a great learning experience. The details in his tiny hands, smaller than a pinky nail, are particularly satisfying, especially his right index finger and thumb. However, you can see clear signs of my early lack of skill, such as the flat arms protruding awkwardly from the body. This
-
- is easy to fix with a couple of undercuts, but I hadn’t fully grasped this technique at the time.
+I also tried carving a little man, which was a lot for a first serious attempt, but it was a great learning experience. The details in his tiny hands, smaller than a pinky nail, are particularly satisfying, especially his right index finger and thumb. However, you can see clear signs of my early lack of skill, such as the flat arms protruding awkwardly from the body. This is easy to fix with a couple of undercuts, but I hadn’t fully grasped this technique at the time.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -152,21 +150,8 @@ I also tried carving a little man, which was a lot for a first serious attempt, 
     <div class="image-div">
         <img src="20210825_222512.webp" alt="shortwave">
     </div>
-    <div class="caption">left</div>
-    <div class="caption">right</div>
-</div>
-
-The grasshopper was my first carving done entirely by eye without following a tutorial video, and I’m really pleased with how it turned out.
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="20210906_220021.webp" alt="white light">
-    </div>
-    <div class="image-div">
-        <img src="20241012_211404.webp" alt="shortwave">
-    </div>
-    <div class="caption">halfway</div>
-    <div class="caption">finished</div>
+    <div class="caption">click me !!</div>
+    <div class="caption">i enlarge !!</div>
 </div>
 
 My owl carving might be my favorite. The little feathers give it so much character. These particular photos also make clear how big of a difference lighting and shadows can make in a photo. Often the harsher the lighting, the more dynamic and three dimensional the carving looks. 
@@ -180,6 +165,19 @@ My owl carving might be my favorite. The little feathers give it so much charact
     </div>
     <div class="caption">harsh lighting</div>
     <div class="caption">soft lighting</div>
+</div>
+
+The grasshopper was my first carving done entirely by eye without following a tutorial video, and I’m really pleased with how it turned out.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20210906_220021.webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="20241012_211404.webp" alt="shortwave">
+    </div>
+    <div class="caption">halfway</div>
+    <div class="caption">finished</div>
 </div>
 
 There's something simply delightful about the rotund softness of a wooden bear. Although I did this carving just to goof off, I think it ended up being one of my favorites. Take special note of the dimensionality of the arms, compared to the little man that I did earlier. By this point, I had watched many more of Doug's videos and had better understanding of how to undercut the arms for a more realistic look.
