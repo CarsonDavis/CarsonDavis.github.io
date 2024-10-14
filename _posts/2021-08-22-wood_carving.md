@@ -200,6 +200,40 @@ There's something simply delightful about the rotund softness of this wooden bea
     <div class="caption">finished</div>
 </div>
 
+All the previous carvings on this page were from 2021, when I first started carving. These later ones are from October 2024, when I picked up the hobby again after a long absence. These little mushroom houses are very fun, and a think I'll be doing more of them, as well as maybe some mushroom faces. 
+
+Round doors are a massive pain to carve, and I doubt I will be making a habit of it.
+
+My sharpening skills have improved greatly since 2021, so it was interesting to revisit carving with my new standards for sharpness. I took some time to examine my carving knives under the microscope throughout the carving process, and the edges were pretty rough. During carving, there is a blatant performance difference between a knife that is passably sharp and one that pops arm hairs. 
+
+All my main knives have a flat grind, and I think the edge may be too weak to hold up to lengthy carving sessions. I did several sharpenings and stroppings throughout the carving, and I want to experiment more with different angles to see if I can get a more durable edge.
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="20241013_105459.webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="20241013_114412.webp" alt="shortwave">
+    </div>
+    <div class="image-div">
+        <img src="20241013_123034.webp" alt="shortwave">
+    </div>
+    <div class="caption">shaping</div>
+    <div class="caption">sketching</div>
+    <div class="caption">finished</div>
+</div>
+
+<!-- single picture of the unpainted mushroom house -->
+<!-- ![img-description](20241013_124502.webp) -->
+
+This is the first carving I've painted. I've always been extremely hesitant to paint my carvings...what if they look terrible? But, I rather like how it turned out. 
+
+I oiled with Tung oil first, and then painted it with [Arteza Metallic Acrylics](https://www.amazon.com/gp/product/B07NDNKQ1B). The metallic paints give the mushrooms a nice vibrant, fantasy gleam. The paints get darker with second coatings -- for example I only did one coat of white, so in real life you can still tell there is wood underneath, and it gives a neat effect.
+
+<!-- ![img-description](20241013_171504.webp) -->
+![img-description](20241013_171504.jpg)
+
+
 I also made some quick videos of my carvings on a rotating stand, which is a fun way to view them from all angles.
 
 
