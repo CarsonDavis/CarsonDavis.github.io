@@ -142,7 +142,7 @@ brew install webp
 This command converts a jpeg to a webp file at 70% compression:
 
 ```bash
-cwebp -q 70 image_1.jpeg -o image_1.webp
+cwebp -q 70 -metadata icc image.jpeg -o image.webp
 ```
 
 ### Batch Converting an Entire Folder of Images to WebP

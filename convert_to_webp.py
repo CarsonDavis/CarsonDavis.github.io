@@ -26,7 +26,18 @@ def convert_images_to_webp(source_folder: str) -> None:
             )
 
             # Run the cwebp command
-            subprocess.run(["cwebp", "-q", "70", source_path, "-o", destination_path])
+            subprocess.run(
+                [
+                    "cwebp",
+                    "-q",
+                    "70",
+                    "-metadata",
+                    "icc",
+                    source_path,
+                    "-o",
+                    destination_path,
+                ]
+            )
 
             print(f"Converted {filename} to {destination_path}")
 
