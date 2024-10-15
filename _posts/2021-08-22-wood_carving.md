@@ -231,7 +231,18 @@ This is the first carving I've painted. I've always been extremely hesitant to p
 I oiled with Tung oil first, and then painted it with [Arteza Metallic Acrylics](https://www.amazon.com/gp/product/B07NDNKQ1B). The metallic paints give the mushrooms a nice vibrant, fantasy gleam. The paints get darker with second coatings -- for example I only did one coat of white, so in real life you can still tell there is wood underneath, and it gives a neat effect.
 
 <!-- ![img-description](20241013_171504.webp) -->
-![img-description](image_icc.webp)
+<!-- t finde -->
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="image_icc.webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="little.webp" alt="shortwave">
+    </div>
+    <div class="caption">first painting</div>
+    <div class="caption">a third house!</div>
+</div>
 
 
 I also made some quick videos of my carvings on a rotating stand, which is a fun way to view them from all angles.
