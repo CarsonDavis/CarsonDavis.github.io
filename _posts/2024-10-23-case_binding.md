@@ -1,7 +1,7 @@
 ---
 title: Case Binding
-date: 2024-08-18
-last_modified_at: 2024-08-25
+date: 2024-10-23
+last_modified_at: 2024-10-25
 categories: [bookbinding, case binding]
 tags: []
 description: Convert a softcover to hardback via case binding.
@@ -11,14 +11,16 @@ published: False
 ---
 
 ## Materials
-### Consumables
-- parchment paper
-- davey board
-- glue
+<b>Consumables</b>
+- wax paper
+- [98pt Davey Binders Board](https://www.talasonline.com/Davey-Binders-Board)
+- [Lineco Neutral pH Adhesive](https://www.amazon.com/dp/B001I6FEHE)
+
 
 ### Tools
-- olfa knife
-- cutting matt
+- [olfa knife](https://www.amazon.com/OLFA-1075449-Fiberglass-Rubber-Utility/dp/B003UHUZ3M)
+- [glue brush](https://www.lineco.com/disposable-glue-brushes.html)
+- cutting mat
 - press
 - side press
 - bone folder
@@ -27,28 +29,59 @@ published: False
 - glue plate
 - 120 sandpaper
 
-## Prep
-Cut a bunch of squared pieces of parchment paper
+>Davey Board: I buy 9x11.5, 98pt (0.098in or 2.5mm thick) Davey board. It costs $2 per sheet, is pH neutral, and is long grain. With a thin bookbinding leather, these boards will make premium and robust covers. I'd say that you could go thinner, maybe 90 point, but I wouldn't go any thicker. Even a coffee table sized book would probably be fine with 98pt board.
+{: .prompt-info }
 
+>Blades and Brushes: When buying Olfa blades, the black ones ([ABB-10B](https://www.amazon.com/OLFA-Replacement-Blades-Segments-ABB-10B/dp/B0042XCMSY)) are literally sharper than the silver ones. You can probably use any large brush, but I am very fond of the .75" Lineco bookbinding glue brushes.
+{: .prompt-info }
+
+## Prep
+Glue gets everywhere, and it is important that it not get on the wrong parts of your book. Start by cutting at least 8 pieces of wax paper slightly larger than the text block. 
+
+You will want to keep at least one edge square, so it will sit snugly against the spine of the book. I do this by cutting a large strip of wax paper and then cutting off book sized sections.
 
 ## Preparing the Textblock
 
 1. Sand the spine with 80 or 120 to roughen the surface for gluing. You want to sand first so that you can be rough and not worry about damaging the pages.
 2. Cut off most of the original cover, leaving a 2 inch strip, slightly inset from the top and bottom
 
-Often the first page is glued to the cover. You will need to either pull it off the glue so that the cover can be free, or gently score it along the seam and pull it out. Typically this page is not really part of the book, either being blank of with reviews, etc. 
+>Often the first page is glued to the cover. You will need to either pull it off the glue so that the cover can be free, or gently score it along the seam and pull it out. Typically this page is not really part of the book, either being blank of with reviews, etc. If it is an essential page, you can always glue it back in, either as a leaf or as a made page.
+{: .prompt-info }
 
 ## Endpapers
-The grain should travel parallel to the spine of the book
+
 1. cut the endpapers to 2x the size of the textblock
 2. fold in half
-3. glue underneath the remaining cover, in a 3mm strip
+3. glue to textblock underneath the remaining cover, in a 3mm strip
 
-## Cut the Davey Board
+>Grain: Grain should travel parallel to the spine. If you paper is labeled, then short/long grain means it is parallel to the short/long side of the paper. For unlabeled, cut a strip and wet one side. A strip cut along the grain will stay straight, but a strip cut across the grain will curl.
+{: .prompt-info }
+
+>Gluing: When gluing only a thin strip, you will want to cover everything but the strip you apply glue to with a waste sheet. That way you can still messily and quickly apply the glue but still get a perfect strip.
+{: .prompt-info }
+
+## Spine
+
+Dimensions
+L = L of textblock + 6mm (gives a 3mm border)
+W = thickness of textblock + two board thicknesses (in our case, 5mm total)
+
+1. Cut the spine first and then immediately glue the bands to it. I like to mark the spine, then put the glue, then lay the bands, then wipe the excess. 
+2. You can move onto the covers while the spine dries
+3. After the bands have dried, cut them at a slight angle
+
+>Headbands: You can do any headband spacing you want. Most 1800s books I own have even spacing. However, I like to leave 3 spaces, for Title, Author, and Date. Recently I've done two at the top (20mm and 40mm) and three at the bottom (10mm, 25mm, and 55mm). 
+{: .prompt-info }
+
+## Covers
 We are going to cut everything once slightly oversized, tape it together and try it on the book, then get the final size.
+
 Covers
-W = W of textblock + 6mm - 10mm (hinge gap) (might need to take this measurement from the textblock after taping)
+W = W of textblock + 6mm - 12  mm (hinge gap) (might need to take this measurement from the textblock after taping)
 L = L of textblock + 6mm
+
+So, my text block was 140.5
+I cut the cover to 140.5, then did a test fit. I thought it needed 3mm removed but I forgot to actually trim them. 
 
 Spine
 L = L of textblock + 6mm
@@ -57,25 +90,21 @@ W = thickness of textblock + one board thickness
 Hinge Gap
 Cut a hinge gap spacer
 10 mm
-
+/ /?.:h,'yu:/'?/:
 Cut a turn in spacer
 20 mm
 
 
+
+Hinge gap = 12mm
+reduce by 4.4mm 
+
 Glue the leather bands to the spine
-
-
-1. Cut the spine first and then immediately glue the bands to it.
-2. While it dries, you can cut the covers
 
 
 Glue on the head band
 Glue on the spine cloth. it goes between the headbands
 
-
-Materials
-- Greyboard
-- davey board
 
 ## The Case
 
@@ -104,6 +133,14 @@ Q: how big do i make the gap, and how to i calculate it?
 - cut a slightly oversized endpaper and fold it in half
 - use a piece of parmament paper to protect the text block and glue a 1cm strip of the endpaper to the text block
 - if you endpapers are not two sided, you might need to back them with another piece of paper before gluing them to the text block
+
+
+
+
+Gluing shit
+
+Had problems with accidently gluing the sides before i wanted to
+had problems holding everything securely
 
 
 
@@ -153,8 +190,6 @@ When using a single sided endpaper, you can back it with another piece of paper.
 
 ## Materials
 
-[Davey Binders Board](https://www.talasonline.com/Davey-Binders-Board)
-I buy 9x11.5, 98pt (0.098in or 2.5mm thick) Davey board. It costs $2 per sheet, is pH neutral, and is long grain. With a thin bookbinding leather, these boards will make premium and robust covers. I'd say that you could go thinner, maybe 90 point, but I wouldn't go any thicker. Even a coffee table sized book would probably be fine with 98pt board.
 
 
 [bookbinding gifts](https://www.youtube.com/watch?v=Y93tc7a_cS4)
