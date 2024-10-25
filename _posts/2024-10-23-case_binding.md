@@ -28,6 +28,7 @@ published: False
 - paper towels
 - glue plate
 - 120 sandpaper
+- silver sharpie
 
 >Davey Board: I buy 9x11.5, 98pt (0.098in or 2.5mm thick) Davey board. It costs $2 per sheet, is pH neutral, and is long grain. With a thin bookbinding leather, these boards will make premium and robust covers. I'd say that you could go thinner, maybe 90 point, but I wouldn't go any thicker. Even a coffee table sized book would probably be fine with 98pt board.
 {: .prompt-info }
@@ -36,14 +37,14 @@ published: False
 {: .prompt-info }
 
 ## Prep
-Glue gets everywhere, and it is important that it not get on the wrong parts of your book. Start by cutting at least 8 pieces of wax paper slightly larger than the text block. 
+Glue gets everywhere, and it is important that it not get on the wrong parts of your book. Start by cutting at least 8 pieces of wax paper slightly larger than the text block. Cut 2 pieces the size of your cutting board.
 
 You will want to keep at least one edge square, so it will sit snugly against the spine of the book. I do this by cutting a large strip of wax paper and then cutting off book sized sections.
 
 ## Preparing the Textblock
 
 1. Sand the spine with 80 or 120 to roughen the surface for gluing. You want to sand first so that you can be rough and not worry about damaging the pages.
-2. Cut off most of the original cover, leaving a 2 inch strip, slightly inset from the top and bottom
+2. Cut off most of the original cover, leaving a 50mm strip, slightly inset from the top and bottom
 
 >Often the first page is glued to the cover. You will need to either pull it off the glue so that the cover can be free, or gently score it along the seam and pull it out. Typically this page is not really part of the book, either being blank of with reviews, etc. If it is an essential page, you can always glue it back in, either as a leaf or as a made page.
 {: .prompt-info }
@@ -62,6 +63,8 @@ You will want to keep at least one edge square, so it will sit snugly against th
 
 ## Spine
 
+calculate the length of the spine. use your calipers to mark points at the edge of both boards. cut both boards to the length of the spine. from these spine-sized pieces, you can then cut the covers and, if needed, the spacers.ta
+
 Dimensions
 L = L of textblock + 6mm (gives a 3mm border)
 W = thickness of textblock + two board thicknesses (in our case, 5mm total)
@@ -70,7 +73,7 @@ W = thickness of textblock + two board thicknesses (in our case, 5mm total)
 2. You can move onto the covers while the spine dries
 3. After the bands have dried, cut them at a slight angle
 
->Headbands: You can do any headband spacing you want. Most 1800s books I own have even spacing. However, I like to leave 3 spaces, for Title, Author, and Date. Recently I've done two at the top (20mm and 40mm) and three at the bottom (10mm, 25mm, and 55mm). 
+>Headbands: You can do any headband spacing you want. Most 1800s books I own have even spacing. However, I like to leave 3 spaces, for Title, Author, and Date. Recently I've done two at the top (20mm and 50mm) and three at the bottom (10mm, 25mm, and 55mm). 
 {: .prompt-info }
 
 ## Covers
@@ -80,7 +83,7 @@ Covers
 W = W of textblock + 6mm - 12  mm (hinge gap) (might need to take this measurement from the textblock after taping)
 L = L of textblock + 6mm
 
-So, my text block was 140.5
+So, my text block was 140.5.
 I cut the cover to 140.5, then did a test fit. I thought it needed 3mm removed but I forgot to actually trim them. 
 
 Spine
@@ -105,6 +108,10 @@ Glue the leather bands to the spine
 Glue on the head band
 Glue on the spine cloth. it goes between the headbands
 
+## Leather
+Lay the taped cover down on a piece of cardboard. Add 40mm to both sides and make a template for your leather.
+
+
 
 ## The Case
 
@@ -112,12 +119,12 @@ Size
 height = height of the text block + 2x the perimeter, where 3mm is a good size for the perimeter
 
 
-cut a greyboard square. cut one side with a ruler, the from there use a square to cut the other sides. hold the ruler firmly and cut with multiple passes.
+cut a greyboard square. cut one side with a ruler, then from there use a square to cut the other sides. hold the ruler firmly and cut with multiple passes.
 3mm edges around the book (assuming that it is a5 size)
 
 gluing the leather
 when cutting the leather, extend 1.5x the board thickness from the corner
-you can make the diaganol cut and then pull out the leather
+you can make the diagonal cut and then pull out the leather
 
 ## Introduction
 
