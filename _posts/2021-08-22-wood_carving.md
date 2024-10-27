@@ -75,6 +75,8 @@ Doug has many more excellent videos. Here are some that I plan to try in the fut
 - [Gnome](https://www.youtube.com/watch?v=i3jG0If3qDM)
 - [Custom Blade Cover](https://www.youtube.com/watch?v=w7xrWfM7JJM)
 - [Painting and Finishing](https://www.youtube.com/watch?v=jfbfOIf7i_M)
+- [Carve Little Books](https://www.youtube.com/watch?v=l84TcWKaU74)
+- [Carve a Chicken](https://www.youtube.com/watch?v=rU6UFH3xlfs)
 
 ## Essential Tools
 As I mentioned, you can start wood carving for around $50. While I now own an embarrassingly large collection of carving tools, you can easily complete all the projects on this page with just the following items:
