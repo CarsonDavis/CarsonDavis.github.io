@@ -7,7 +7,7 @@ tags: []
 description: Large bookbinding equipment for the home hobbyist.
 media_subpath: /bookbinding-equipment/
 image: header_image.webp
-published: False
+published: True
 ---
 <style>
     .grid-2x2 {
