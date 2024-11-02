@@ -1,10 +1,10 @@
 ---
-title: Case Binding
+title: 3D Printed Bookbinding Tools
 date: 2024-10-23
 last_modified_at: 2024-10-25
 categories: [bookbinding, case binding]
 tags: []
-description: Convert a softcover to hardback via case binding.
+description: A collection of useful 3D printed tools for bookbinding.
 media_subpath: /case-binding/
 image: 100006005.webp
 published: False
