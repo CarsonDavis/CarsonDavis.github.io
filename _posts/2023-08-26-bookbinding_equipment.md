@@ -85,15 +85,15 @@ The central clamp defines the capacity of the press. Since pressure will be exer
 
 For my press, we special-ordered a [Jorgensen 12in 1200lb](https://www.lowes.com/pd/Jorgensen-Jorgensen-24in-Deep-Reach-Steel-Bar-Clamp/5001993659) bar clamp with a 5in throat. Most hardware store clamps are only 3in, which is not deep enough. Jorgensen actually sells 7in and 9in clamps as well, but 5in is actually a pretty good size for most books.
 
-Our version is a bit more robust than what's demonstrated in DAS’s tutorial. Instead of using a single board, we laminated two boards together, creating a straighter, more durable product that is less likely to warp over time. We also added a floating caul made of stiffer oak to the top to distribute the pressure more evenly.
+Our version is a bit more robust than what's demonstrated in DAS’s tutorial. Instead of using a single board, we laminated two boards together, creating a straighter and stronger plate that is less likely to warp over time. We also added a 1.5x1.5in floating caul made of stiffer oak to the top to distribute the pressure more evenly.
 
-The press plates on mine are two laminated 0.75 inch sheets, for a total thickness of 1.5 inches, and with a surface of 15.75x11.75 inches. Since the clamp extends into the workspace, the actual usable pressing area is 15.75x9.5 inches. The press can accommodate a stack up to 8.5 inches high. Finally, the floating caul is made of oak and measures 1.5x1.5 inches.
+The press plates on mine are two laminated 0.75 inch sheets, for a total thickness of 1.5 inches and a surface of 15.75x11.75 inches. However, since the clamp extends into the workspace, the actual usable pressing area is 15.75x9.5 inches. The press can accommodate a stack up to 8.5 inches high. 
 
-It's large enough to press every single one of my regular-sized books and about 3/4 of my extra-large coffee table books.
+It's large enough to press any regular-sized books and about 3/4 of my extra-large coffee table books.
 
-If you want to build a more traditional screw design, there are several excellent videos out there, such as [Uri Tuchman's press](https://www.youtube.com/watch?v=h8EzpBvPtE4) and [Darbin Orvar's press](https://www.youtube.com/watch?v=2vTo9hQS-T4). Here's an alternate version that uses a [dual post design](https://www.youtube.com/watch?v=AWintBboXFU). I’d recommend avoiding the four-post designs, as they’re more cumbersome to use.
+If you want to build a more traditional screw design, there are several excellent videos out there, such as [Uri Tuchman's](https://www.youtube.com/watch?v=h8EzpBvPtE4) and [Darbin Orvar's](https://www.youtube.com/watch?v=2vTo9hQS-T4). Here's an alternate version that uses a [dual post design](https://www.youtube.com/watch?v=AWintBboXFU). I’d recommend avoiding the four-post designs, as they’re fiddly and cumbersome to use.
 
-Darbin also has [building plans](https://www.darbinorvar.com/misc/bookbinding-press-building-plan) available, and if I ever build a second press, I would probably go with a slight modification of Darbin's design. 
+Darbin has [building plans](https://www.darbinorvar.com/misc/bookbinding-press-building-plan) available, and if I ever build a second press, I would probably go with a slight modification of Darbin's design. 
 
 ## Finishing Press
 A finishing press is essential for sanding the pages, applying gold leaf or paint to the edges, and forming the bands.
@@ -121,7 +121,7 @@ _here is mine in use_
 
 My finishing press was built for me by my dad, with primary jaws made of ash. The jaws are 3.75 inches tall, with 15 inches between the screws, and a maximum opening of 2 inches. However, the bolts aren’t captive, so they can be easily replaced with longer ones to increase the opening size if needed.
 
-The [hand wheels](https://www.amazon.com/gp/product/B0CC895SJJ) were a budget-friendly $15 from Amazon but were initially oversized for the screws. I built them up with metal tape and used them for several projects, though eventually that setup failed. I later spent an hour in the shop machining proper fittings, which I detail in a separate post.
+The [hand wheels](https://www.amazon.com/gp/product/B0CC895SJJ) were a budget-friendly $15 from Amazon but were initially oversized for the screws. I built them up with metal tape and used them for several projects, though eventually that setup failed. I later spent an hour in the shop machining proper fittings, which I will detail in a separate post.
 
 ## Final Thoughts
-If you have $700 on hand, I don’t think you can go wrong with the Schmedt presses. However, for most people, $100 and a weekend in the shop will yield two custom-made presses that are perfectly suited to your bookbinding needs.
+If you have $700 burning a hole in your pocket, I don’t think you can go wrong with the Schmedt presses. However, for most people, $100 and a weekend in the shop will yield two custom-made presses that are perfectly suited to your bookbinding needs.
