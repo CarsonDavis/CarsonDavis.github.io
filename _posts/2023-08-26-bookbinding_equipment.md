@@ -62,13 +62,13 @@ In this post, I'll go over two essential bookbinding tools that I built with my 
 The nipping press is the backbone of any bookbinding operation. If you want to buy a nipping press, your options are: absolute junk on Amazon, a $500-$1000 antique on eBay, or hemorrhaging money on a $300-$2000 modern press.
 
 ### Commercial Options
-If you decide to go the commercial route, here are a few options I find attractive:
+If you do decide to go the commercial route, here are a few options I find attractive:
 - [Olive and Oak Brunel Press](https://oliveandoak.com/portfolio/nipping-press/) - $2200
 - [Schmedt Steel Press](https://www.schmedt.com/book-press-type-i-made-of-steel-pressing-area-320-x-440-cm/6011-001) - $1500
 - [Schmedt Double Screw Press](https://www.schmedt.com/bookbinder-s-wooden-double-screw-press-with-wooden-screws-screw-length-approx.-55-cm/60000000.B) with [Binding Boards](https://www.schmedt.com/pressing-board-made-of-beech-plywood-to-press-books-in-book-presses/6028-008) ~$350
 
 ### Building Your Own
-This is a ~100 year old design that my dad discovered through one of DAS Bookbinding's [excellent videos](https://www.youtube.com/watch?v=gfUCjqzfPv4). This is a ~100 year old design that my dad discovered
+My press is a ~100 year old design that my dad ran across in one of DAS Bookbinding's [excellent videos](https://www.youtube.com/watch?v=gfUCjqzfPv4). The basics are essentially one board, some feet, and a clamp. You should be able to follow his video as a build guide.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -81,9 +81,9 @@ This is a ~100 year old design that my dad discovered through one of DAS Bookbin
     <div class="caption">disassembled</div>
 </div>
 
-The central clamp will define all ths capabilities of the press. Since pressure will be exerted from the center of the clamp, the clamp's throat depth will dictate 1/2 the width of the largest book you can press. 
+The central clamp defines the capacity of the press. Since pressure will be exerted from the center of the clamp, the clamp's throat depth dictates 1/2 the width of the largest book you can press. 
 
-For my press, we special-ordered a [Jorgensen 12in 1200lb](https://www.lowes.com/pd/Jorgensen-Jorgensen-24in-Deep-Reach-Steel-Bar-Clamp/5001993659) bar clamp with a 5in throat. Most hardware store clamps only offer about 3in, which is not deep enough. Jorgensen actually sells 7in and 9in clamps as well, but 5in is actually a pretty good size for most books.
+For my press, we special-ordered a [Jorgensen 12in 1200lb](https://www.lowes.com/pd/Jorgensen-Jorgensen-24in-Deep-Reach-Steel-Bar-Clamp/5001993659) bar clamp with a 5in throat. Most hardware store clamps are only 3in, which is not deep enough. Jorgensen actually sells 7in and 9in clamps as well, but 5in is actually a pretty good size for most books.
 
 Our version is a bit more robust than what's demonstrated in DAS’s tutorial. Instead of using a single board, we laminated two boards together, creating a straighter, more durable product that is less likely to warp over time. We also added a floating caul made of stiffer oak to the top to distribute the pressure more evenly.
 
