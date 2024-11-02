@@ -1,34 +1,71 @@
 ---
-title: Case Binding
+title: Paperback Conversion
 date: 2024-10-23
-last_modified_at: 2024-10-25
-categories: [bookbinding, case binding]
+last_modified_at: 2024-11-01
+categories: [bookbinding, paperback conversion]
 tags: []
-description: Convert a softcover to hardback via case binding.
-media_subpath: /case-binding/
-image: 100006005.webp
+description: Foolproof guide to leather binding your sentimental paperbacks.
+media_subpath: /paperback-conversion/
+image: Screenshot_20241101_110345_Lightroom.webp
 published: False
 ---
 
+## Introduction
+I've been binding books on and off for a little over a year now. I've watched an insane number of tutorials and tried out plenty of variations. I've done leather, cloth, and paper covers. I've done miniature books, full-sized books, and paperback to leather bound conversions. I've done curved spines, oxford spines, floating spines, and false bands. I've designed and cut my own modern cover art, made 1800s-style 3/4 leather covers, and even hand marbled my own endpapers.
+
+It's been a lot of fun, and I honestly feel like I still haven't even scratched the surface. There are an endless amount of techniques to learn and master, and centuries worth of knowledge to absorb.
+
+However, sometimes I just want to sit down, follow an exact guide, and crank out a nice paperback conversion in an afternoon. This is that guide.
+
+## Overview
+
+Let me give a brief overview of the general steps, and then we can dig into the details.
+
+<b>Text Block Work</b>
+1. Prepare your workspace
+2. Prepare the textblock
+3. Install the endsheets
+4. Gild the edges
+5. Add the headbands
+
+<b>Create the Case</b>
+1. Cut the spine and covers
+2. Attach the headbands
+3. Cut the leather
+4. Glue the spine
+5. Glue the covers
+
+<b>Casing In</b>
+1. Glue in the textblock
+2. Press the book
+
+<b>Finishing</b>
+1. Design the cover
+2. Cut and weed the cover
+3. Apply the cover
+
 ## Materials
+This is a list of what I consider to be the optimal materials and tools for the home hobbiest. For example, it is trivial to buy legitimate bookbinding glue and bone folders on amazon, so I recommend buying the real thing instead of random craft glue and sticks. Meanwhile, it is not at all trivial to buy a 300lb cast iron press, so I recommend a homemade solution instead.
+
+
 <b>Consumables</b>
 - wax paper
 - [98pt Davey Binders Board](https://www.talasonline.com/Davey-Binders-Board)
 - [Lineco Neutral pH Adhesive](https://www.amazon.com/dp/B001I6FEHE)
+- 120 grit sandpaper
+- silver sharpie
+- paper towels
 
 
-### Tools
+<b>Tools<b>
 - [olfa knife](https://www.amazon.com/OLFA-1075449-Fiberglass-Rubber-Utility/dp/B003UHUZ3M)
 - [glue brush](https://www.lineco.com/disposable-glue-brushes.html)
 - cutting mat
-- press
+- band nippers
+- nipping press
 - side press
-- bone folder
+- [bone folder](https://www.amazon.com/gp/product/B01MT6U2OO)
 - square
-- paper towels
-- glue plate
-- 120 sandpaper
-- silver sharpie
 
 >Davey Board: I buy 9x11.5, 98pt (0.098in or 2.5mm thick) Davey board. It costs $2 per sheet, is pH neutral, and is long grain. With a thin bookbinding leather, these boards will make premium and robust covers. I'd say that you could go thinner, maybe 90 point, but I wouldn't go any thicker. Even a coffee table sized book would probably be fine with 98pt board.
 {: .prompt-info }
@@ -37,7 +74,7 @@ published: False
 {: .prompt-info }
 
 ## Prep
-Glue gets everywhere, and it is important that it not get on the wrong parts of your book. Start by cutting at least 8 pieces of wax paper slightly larger than the text block. Cut 2 pieces the size of your cutting board.
+Can sometimes seem like glue gets everywhere, and it is important that it not get on the wrong parts of your book. Start by cutting at least 8 pieces of wax paper slightly larger than the text block. Cut 2 pieces the size of your cutting board.
 
 You will want to keep at least one edge square, so it will sit snugly against the spine of the book. I do this by cutting a large strip of wax paper and then cutting off book sized sections.
 
@@ -257,3 +294,19 @@ Once it is placed, go to object, mirror, then flip horizontally.
 Don't cut off more than you need, just 20mm or so beyond the expected bottom. You are leaving some room for positioning and some room for the cutter to be misaligned.
 
 The shiny side goes down
+
+
+Where to download https://ng.maisfontes.com/bimbo-serif-main.font
+
+
+List of good fonts
+
+
+American Typewriter
+AppleMyungjo
+Plantagenet Cherokee
+Publico Text
+Rockwell 4
+Sama Tamil
+STIX Two Text
+Trattatello
