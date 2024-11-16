@@ -18,7 +18,16 @@ image: 20200213_002700.jpg
 ```
 ## Links
 ### Internal Links
-`[Phone Meter Repair]({% link _posts/2018-06-24-phone_meter.md %})`
+Links to another post
+```
+[Phone Meter Repair]({% link _posts/2018-06-24-phone_meter.md %})
+```
+
+Links with a specific header
+```
+[nipping press]({% link _posts/2023-08-26-bookbinding_equipment.md % }#nipping-press)
+```
+
 ### Simple image links
 `![20240516_225034](Fluorecent+Rocks.jpg)`
 
