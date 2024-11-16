@@ -9,24 +9,35 @@ media_subpath: /paperback-conversion/
 image: Screenshot_20241101_110345_Lightroom.webp
 published: False
 ---
+## Why This Guide?
+About a year and a half ago, I got it into my head that I wanted premium leather versions of all my favorite science books. Turns out nobody sells these. So I decided to make them myself.
 
-## Introduction
-I've been binding books on and off for a little over a year now. I've watched an insane number of tutorials and tried out plenty of variations. I've done leather, cloth, and paper covers. I've done miniature books, full-sized books, and paperback to leather bound conversions. I've done curved spines, oxford spines, floating spines, and false bands. I've designed and cut my own modern cover art, made 1800s-style 3/4 leather covers, and even hand marbled my own endpapers.
+Since then, I have devoured literally hundreds of bookbinding tutorials. I've seen old documentary footage of how it was done 50 years ago, and I've seen modern artists pushing the boundaries of what is possible. I've read technical books on the subject, and I've talked to bookbinders in real life to get their advice.
 
-It's been a lot of fun, and I honestly feel like I still haven't even scratched the surface. There are an endless amount of techniques to learn and master, and centuries worth of knowledge to absorb.
+But honestly, as much as I search, I've never been able to find that one <i>perfect guide</i> that covers everything to my satisfaction. You see, there are a lot of ways to mess up in bookbinding, and I've done most of them. You can get covers that are uneven, too long, too short, and lopsided. You can ruin your endpapers with wrinkles, and glue the pages of your book together accidentally. You can make a book that opens like a rusty prison door, or one that opens perfectly, but when you get to the inside you can see every embarrassingly uneven line of the leather imprinted into the text block.
 
-However, sometimes I just want to sit down, follow an exact guide, and crank out a nice paperback conversion in an afternoon. This is that guide.
+Existing bookbinding tutorials tend to fall into a few camps
+- amateurs who skip over all the important details, leaving you with a shoddy end product
+- artists wing everything but make it work through sheer talent that is impossible to replicate
+- professionals who have been doing it for 50 years and forget that not everyone has a cast iron nipping press, homemade bookbinding adhesive, and a lifetime of experience
+
+This guide is different. It will let you make a perfect book on your first try. It assumes that you are serious about this and are willing to buy or make a couple standard tools, but it does not expect you to spend hundreds of dollars on professional equipment. During every step that is possible to mess up, it will provide exact tips and instructions to avoid that mistake.
 
 ## Overview
 
 Let me give a brief overview of the general steps, and then we can dig into the details.
 
-<b>Text Block Work</b>
+<b>Tools and Materials</b>
+1. Gather, make, or buy your tools and materials
+
+<b>Text Block</b>
 1. Prepare your workspace
 2. Prepare the textblock
-3. Install the endsheets
-4. Gild the edges
-5. Add the headbands
+3. Glue the endsheets
+4. Sand the edges
+5. Gild the edges
+6. Add the headbands
+7. Add the spine cloth
 
 <b>Create the Case</b>
 1. Cut the spine and covers
@@ -45,58 +56,110 @@ Let me give a brief overview of the general steps, and then we can dig into the 
 3. Apply the cover
 
 ## Materials
-This is a list of what I consider to be the optimal materials and tools for the home hobbiest. For example, it is trivial to buy legitimate bookbinding glue and bone folders on amazon, so I recommend buying the real thing instead of random craft glue and sticks. Meanwhile, it is not at all trivial to buy a 300lb cast iron press, so I recommend a homemade solution instead.
+This is a list of what I consider to be the optimal materials and tools for the home hobbyist. For example, it is trivial to buy legitimate bookbinding glue and bone folders on amazon, so I recommend buying the real thing instead of random craft glue and sticks. Meanwhile, it is not at all trivial to buy a 300lb cast iron press, so I recommend a homemade solution instead.
 
 
 <b>Consumables</b>
-- wax paper
+- [headbands](https://www.amazon.com/gp/product/B0B8ZNQV2J)
+- [bookbinding cloth](https://www.amazon.com/gp/product/B0007LS8G0)
 - [98pt Davey Binders Board](https://www.talasonline.com/Davey-Binders-Board)
 - [Lineco Neutral pH Adhesive](https://www.amazon.com/dp/B001I6FEHE)
+- [paint for gilding](https://www.amazon.com/gp/product/B07NDNKQ1B)
+- small paint brush, 1/2"
 - 120 grit sandpaper
 - silver sharpie
 - paper towels
+- wax paper
 
+>**Davey Board**: I buy 9x11.5, 98pt (0.098in or 2.5mm thick) Davey board. It costs $2 per sheet, is pH neutral, and is long grain. With a thin bookbinding leather, these boards will make premium and robust covers. I'd say that you could go thinner, maybe 90 point, but I wouldn't go any thicker. Even a coffee table sized book would probably be fine with 98pt board.
+{: .prompt-info }
 
 <b>Tools<b>
 - [olfa knife](https://www.amazon.com/OLFA-1075449-Fiberglass-Rubber-Utility/dp/B003UHUZ3M)
+- [olfa 45mm rotary cutter](https://www.amazon.com/gp/product/B000BNLLHW)
 - [glue brush](https://www.lineco.com/disposable-glue-brushes.html)
-- cutting mat
-- band nippers
-- nipping press
-- side press
 - [bone folder](https://www.amazon.com/gp/product/B01MT6U2OO)
+- [band nippers](https://www.amazon.com/HARFINGTON-Leathercraft-Straight-Adjustment-Stainless/dp/B0C777T5SR)
+- Two #4 knitting needles (3.5mm or 9/64 diameter)
+- cutting mat
 - square
 
->Davey Board: I buy 9x11.5, 98pt (0.098in or 2.5mm thick) Davey board. It costs $2 per sheet, is pH neutral, and is long grain. With a thin bookbinding leather, these boards will make premium and robust covers. I'd say that you could go thinner, maybe 90 point, but I wouldn't go any thicker. Even a coffee table sized book would probably be fine with 98pt board.
+>**Blades and Brushes**: When buying Olfa blades, the black ones ([ABB-10B](https://www.amazon.com/OLFA-Replacement-Blades-Segments-ABB-10B/dp/B0042XCMSY)) are literally sharper than the silver ones. You can probably use any large brush, but I am very fond of the .75" Lineco bookbinding glue brushes.
 {: .prompt-info }
 
->Blades and Brushes: When buying Olfa blades, the black ones ([ABB-10B](https://www.amazon.com/OLFA-Replacement-Blades-Segments-ABB-10B/dp/B0042XCMSY)) are literally sharper than the silver ones. You can probably use any large brush, but I am very fond of the .75" Lineco bookbinding glue brushes.
+<b>Optional Heavy Equipment</b>tb
+
+You do not strictly need a nipping press or finishing press, but they will make your life much easier. They easy to build in a weekend for about $50 each. Alternatively, you can use two heavy boards and a couple of clamps.
+
+- [nipping press]({% link _posts/2023-08-26-bookbinding_equipment.md %}#nipping-press)
+- [finishing press]({% link _posts/2023-08-26-bookbinding_equipment.md %}#finishing-press)
+
+>I have a [dedicated post](({% link _posts/2023-08-26-bookbinding_equipment.md %})) showing my own homemade nipping and finishing presses. If you plan on binding more than a couple books, I highly recommend building your own.
 {: .prompt-info }
 
 ## Prep
-Can sometimes seem like glue gets everywhere, and it is important that it not get on the wrong parts of your book. Start by cutting at least 8 pieces of wax paper slightly larger than the text block. Cut 2 pieces the size of your cutting board.
+Getting glue in the wrong places will ruin your bookbinding project. I make heavy use of wax paper and waste sheets so that I can quickly apply glue without worrying about it getting on the wrong parts of the book or my workspace.
 
-You will want to keep at least one edge square, so it will sit snugly against the spine of the book. I do this by cutting a large strip of wax paper and then cutting off book sized sections.
+You want waxpaper for 2 purposes
+- at least 2 pieces the size of your cutting mat to go under your workspace
+- at least 6 pieces slightly larger than your book to protect the pages
 
-## Preparing the Textblock
+>The 6 book pieces need to have at least one edge square so they will sit snugly against the spine of the book. I do this by cutting a single long strip of wax paper the width of my book. Then I chop off multiple book sized sections.
+{: .prompt-info }
 
-1. Sand the spine with 80 or 120 to roughen the surface for gluing. You want to sand first so that you can be rough and not worry about damaging the pages.
-2. Cut off most of the original cover, leaving a 50mm strip, slightly inset from the top and bottom
+## Preparing the Text Block
 
->Often the first page is glued to the cover. You will need to either pull it off the glue so that the cover can be free, or gently score it along the seam and pull it out. Typically this page is not really part of the book, either being blank of with reviews, etc. If it is an essential page, you can always glue it back in, either as a leaf or as a made page.
+1. Start by carefully ripping off the original cover. If there is any uneven glue left over, you can sand it down or trim it carefully with a knife. 
+2. We will later be gluing book cloth to the spine, and we want the best adhesion possible. To facilitate this, we will sand the spine with 80 or 120 grit sandpaper. This will roughen the surface and give the glue something to grip onto. I also like to lightly score into the glue from the original binding with a knife
+
+>**Page Removal**: Now is the time to remove any pages you don't want in the final book. We'll be adding our own endpapers, so if there are any blank pages at the front, or pages full of advertisements or quotes that you don't want, you can carefully cut them out at this stage.
 {: .prompt-info }
 
 ## Endpapers
+The idea here is that we will have two single sheets of paper folded in half to make endpapers for front and back covers. One half of the sheet will ultimately glue to the cover, and the other will be the first/last page of the book. 
 
-1. cut the endpapers to 2x the size of the textblock
-2. fold in half
-3. glue to textblock underneath the remaining cover, in a 3mm strip
+You will want to choose pretty paper for you endpapers, typically slightly heavier than the rest of the pages in the book. I'm personally a big fan of [TALAS's Antique Parchment End Papers](https://www.talasonline.com/Antique-Endleaf-Paper?quantity=5&color=121). They come in huge sheets that will make many, many books. TALAS also has a great selection of [decorative and marbled endpapers](https://www.talasonline.com/paper-and-board/decorative). I have bought several of the [Spanish Marbled Papers](https://www.talasonline.com/Spanish-Marbled-Papers?quantity=1&spanish=12) and have liked them all. 
 
->Grain: Grain should travel parallel to the spine. If you paper is labeled, then short/long grain means it is parallel to the short/long side of the paper. For unlabeled, cut a strip and wet one side. A strip cut along the grain will stay straight, but a strip cut across the grain will curl.
+You can also go completely down the rabbit hole and make your own marbled endpapers. This is almost an entire hobby on it's own, but it is a lot of fun. 
+
+1. Determine the grain direction of your endpaper, and make certain that it will travel along the spine
+2. Cut two endpapers that are slightly larger than 1x the height of your text block and 2x the width. I usually oversize them by 2mm on all sides.
+3. Use your bone folder to fold them in half and make a sharp crease
+4. Use a waste sheet to cover most of the endpaper, leaving only 2mm exposed at the crease. Brush glue on the exposed 2mm strip.
+5. Butt your text block up against a wall or block of wood and then seat the endpaper against it. This will ensure that the endpaper is square to the text block.
+6. Repeat with the second endpaper and then press the text block for 10 minutes. Don't forget to put wax paper between the text block and the press.
+7. Slide a thin metal ruler between the endpaper and the text block and trim the endpaper to the size of the text block. Angle your knife away from the text block to avoid cutting into it.
+
+>**Grain**: Grain should travel parallel to the spine. If you paper is labeled, then short/long grain means it is parallel to the short/long side of the paper. For unlabeled, cut a strip and wet one side. A strip cut along the grain will stay straight, but a strip cut across the grain will curl.
 {: .prompt-info }
 
->Gluing: When gluing only a thin strip, you will want to cover everything but the strip you apply glue to with a waste sheet. That way you can still messily and quickly apply the glue but still get a perfect strip.
+>**Pressing Technique**: When pressing your book, never let the press touch the book directly. Always put wax paper or davey board between the book and the press. This will keep any slightly uneven pressure from the press from torque the pages.
 {: .prompt-info }
+
+>**Cutting Down**: You will often see this technique of over sizing and then cutting down to size after gluing. Although it is theoretically possible to measure and cut everything perfectly before gluing, life sometimes intervenes. Glue can cause slight expansion of the paper, the fold itself can rob you of 0.25mm, you might accidentally glue a hair away from the spine... But if you start too big and then cut to size at the end, the results will be perfect every time.
+{: .prompt-info }
+
+
+## Gilding the Edges
+You can certainly skip this step, but it is a nice touch that can give your book a lot of pizazz. I really enjoy matching the leather's, cover printing, and gilding colors. Traditionally, this would have been done with gold leaf, so I like to use metallic acrylics for this step. I've seen people use metallic HTV, but I've never tried it myself.
+
+The basics of this process wi
+
+1. Cut two pieces of Davey board larger than your text block. These will be used to sandwich the text block while painting and sanding, and can be reused for future books, so cut them generously. Mark one edge for painting and the other for sanding.
+2. We are going to sand the three edges separately. Start by carefully positioning the text block between the davey board, so that the board is the same height as the edge you want to sand. The board's job is to provide stiffness to the text block that is poking out past the edge of the finishing press. The board is a sacrificial material that will be sanded away as you sand the text block.
+3. Clamp the everything together in your finishing press as hard as you possibly can.
+4. Sand along the length of the pages until they are smooth and even.
+5. After you have sanded all 3 edges, vacuum away any dust. I typically also follow up by splaying the edges and brushing with a medium stiffness bristle brush to remove any remaining dust and burrs. If the surface of each edge is not perfectly smooth you will need to do further sanding.
+6. Reclamp your text block against the painting edges of your davey board. This time, instead of having the board flush with the edge of the text block, you will want it to be 1-2mm longer. This will allow you to paint the edge without getting paint on the text block and will ensure a stiff edge.
+7. Paint two side and then flutter the pages using the unpainted side. If you've been following the tips and using only a little paint, the book should dry in 5-10 minutes and you can paint the third edge and then splay its pages.
+8. Repeat the process for a second coat. I typically stop here unless something went wrong in the painting. 
+9. Use your soft bristle brush to brush the splayed edges. If your paint can't hold up to this, then it certainly can't hold up to people flipping through the book. It's fine if paint comes off, just add another layer.
+
+
+>**Painting Technique**: Don't use too much paint. Apply just enough to coat the edges and use long straight strokes of the brush so that the paint is even. It's more important that the surface is clean and consistent than that the first layer completely covers the paper. You can always add more layers, but it is very annoying to fix obvious brush strokes or paint clumps.
+{: .prompt-info }
+
+
 
 ## Spine
 
