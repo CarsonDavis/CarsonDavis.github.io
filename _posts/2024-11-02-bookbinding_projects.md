@@ -53,6 +53,11 @@ published: True
 </style>
 
 
+## Introduction
+I've been binding books on and off for a little over a year now. I've watched an insane number of tutorials and tried out plenty of variations. I've done leather, cloth, and paper covers. I've done miniature books, full-sized books, and paperback to leather bound conversions. I've done curved spines, oxford spines, floating spines, and false bands. I've designed and cut my own modern cover art, made 1800s-style 3/4 leather covers, and even hand marbled my own endpapers.
+
+It's been a lot of fun, and I honestly feel like I still haven't even scratched the surface. There are an endless amount of techniques to learn and master, and centuries worth of knowledge to absorb.
+
 ## Bookbinding Photo Albums
 - [Bookbinding #1: Tiny Book](https://photos.app.goo.gl/7erUTFo4s9UaDgPXA)
 - [Bookbinding #2: Tiny Solar Tome](https://photos.app.goo.gl/PAuZgMwUc375b35D6)
