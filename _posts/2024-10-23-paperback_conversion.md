@@ -99,7 +99,8 @@ You do not strictly need a nipping press or finishing press, but they will make 
 >I have a [dedicated post](({% link _posts/2023-08-26-bookbinding_equipment.md %})) showing my own homemade nipping and finishing presses. If you plan on binding more than a couple books, I highly recommend building your own.
 {: .prompt-info }
 
-## Prep
+## Text Block
+### Prep
 Getting glue in the wrong places will ruin your bookbinding project. I make heavy use of wax paper and waste sheets so that I can quickly apply glue without worrying about it getting on the wrong parts of the book or my workspace.
 
 You want waxpaper for 2 purposes
@@ -109,7 +110,7 @@ You want waxpaper for 2 purposes
 >The 6 book pieces need to have at least one edge square so they will sit snugly against the spine of the book. I do this by cutting a single long strip of wax paper the width of my book. Then I chop off multiple book sized sections.
 {: .prompt-info }
 
-## Preparing the Text Block
+### Preparing the Text Block
 
 1. Start by carefully ripping off the original cover. If there is any uneven glue left over, you can sand it down or trim it carefully with a knife. 
 2. We will later be gluing book cloth to the spine, and we want the best adhesion possible. To facilitate this, we will sand the spine with 80 or 120 grit sandpaper. This will roughen the surface and give the glue something to grip onto. I also like to lightly score into the glue from the original binding with a knife
@@ -117,7 +118,7 @@ You want waxpaper for 2 purposes
 >**Page Removal**: Now is the time to remove any pages you don't want in the final book. We'll be adding our own endpapers, so if there are any blank pages at the front, or pages full of advertisements or quotes that you don't want, you can carefully cut them out at this stage.
 {: .prompt-info }
 
-## Endpapers
+### Endpapers
 The idea here is that we will have two single sheets of paper folded in half to make endpapers for front and back covers. One half of the sheet will ultimately glue to the cover, and the other will be the first/last page of the book. 
 
 You will want to choose pretty paper for you endpapers, typically slightly heavier than the rest of the pages in the book. I'm personally a big fan of [TALAS's Antique Parchment End Papers](https://www.talasonline.com/Antique-Endleaf-Paper?quantity=5&color=121). They come in huge sheets that will make many, many books. TALAS also has a great selection of [decorative and marbled endpapers](https://www.talasonline.com/paper-and-board/decorative). I have bought several of the [Spanish Marbled Papers](https://www.talasonline.com/Spanish-Marbled-Papers?quantity=1&spanish=12) and have liked them all. 
@@ -142,7 +143,7 @@ You can also go completely down the rabbit hole and make your own marbled endpap
 {: .prompt-info }
 
 
-## Gilding the Edges
+### Gilding the Edges
 You can certainly skip this step, but it is a nice touch that can give your book a lot of pizazz. I really enjoy small artistry in matching the leather, cover design, and gilding. Traditionally, this would have been done with gold leaf, so I like to use metallic acrylics for this step. I've seen people use metallic HTV, but I've never tried it myself.
 
 The basics of this process are to use two pieces of Davey board to sandwich the text block while sanding, then to flip the Davey board and paint the edges. All this will be done while clamped in a finishing press. 
@@ -163,7 +164,8 @@ The basics of this process are to use two pieces of Davey board to sandwich the 
 >**Painting Technique**: Don't use too much paint. Apply just enough to coat the edges and use long straight strokes of the brush so that the paint is even. It's more important that the surface is clean and consistent than that the first layer completely covers the paper. You can easily add more coats, but it is very annoying to fix obvious brush strokes or paint clumps.
 {: .prompt-info }
 
-## Cutting the Covers
+## Making the Case
+### Cutting the Covers
 As with the endpapers, the covers will need to be cut so that the grain runs parallel to the spine of the book. This will ensure that the covers don't warp strangely over time. 
 
 Cover Dimensions:
@@ -184,7 +186,7 @@ Spine Dimensions:
 >**Calipers**: A cheap set of 12in calipers is a game changer for bookbinding. You can measure your text block, add 6mm, then screw down the calipers to lock them at that length. Then you can use the sharp edge to stab exact points to cut into the material. Line up your ruler with the points and your cuts will be perfect every time. I use this method for cutting the endpapers, the spine, the covers, and the leather template.
 {: .prompt-info }
 
-## Cut the Leather
+### Cut the Leather
 We will be using the covers as a template to cut the leather. This will ensure that the leather is the perfect size for the book.
 
 1. Lay the taped cover onto a scrap piece of regular cardboard
@@ -195,7 +197,7 @@ We will be using the covers as a template to cut the leather. This will ensure t
 >**Cutting the Leather**: Remember that we will eventually be cutting off the very corners of the leather. So when positioning your template, you can slide the corners slightly off the leather to get more use out of your hide. I use the 40mm Olfa rotary cutter for this step, and it is a game changer. Just position it against the edge of the cardboard and roll it along the edge. It will cut through the leather like butter.
 {: .prompt-info }
 
-## Glue the Raised Bands
+### Glue the Raised Bands
 Traditional bookbinding techniques used thick cords that resulted in raised bands along the spine. As techniques evolved in the early 1800s, these cords were often abandoned, but bookmakers still wanted the look of raised bands. 
 
 False bands are created by glueing cords or leather strips to the spine. I do this with flat leather cording that is 3x1.75mm.
@@ -209,7 +211,7 @@ False bands are created by glueing cords or leather strips to the spine. I do th
 >**False Bands**: You can do any spacing you want. Most 1800s books I own have even spacing. However, I like to leave 3 spaces, for Title, Author, and Date. Recently I've done two at the top (20mm and 50mm) and three at the bottom (10mm, 25mm, and 55mm). 
 {: .prompt-info }
 
-## Form the Raised Bands
+### Form the Raised Bands
 
 1. Prepare some thin cord with a loop on one end
 2. Clamp your book into the finishing press, with an inch or so of the spine sticking out
@@ -224,13 +226,31 @@ False bands are created by glueing cords or leather strips to the spine. I do th
 >**Precision Gluing**: You don't want to get glue on the edges of the spine, just the face. I like to draw out a rectangle on the leather where the spine will go, and then lightly apply glue inside the line. Then I put glue on the spine, being careful to use plenty on the bands, and getting all the way to the edges. Finally I wipe off any excess from the edges before placing it on the leather.
 {: .prompt-info }
 
-## Finalize Text Block
+## Interlude: Finalize Text Block
 It's finally time to add the headbands, spine cloth, book ribbon to the text block.
 
 1. Cut your headbands slightly wider than th text block
 2. Cut your spine cloth to fit in between the headbands and to extend at least 1 inch to either side of the text block.
 3. If you are doing a book ribbon, cut it way longer than needed and glue it to the spine. You can trim it later when the book is done.
 4. Mark the centerline of the spine cloth, and glue it and the headbands to the text block. Be sure to fully saturate the headbands and cloth with glue, and to press them down firmly.
+
+## Finishing the Case
+### Glue the Leather
+- need to use waxpaper
+
+### Cut the Leather
+- i have another post with tools
+
+### Folding the Leather
+- trick with the micro spatula
+
+### Form the Hinge Gap
+
+## Casing In
+### Glue the Text Block
+### Press the Book
+
+
 
 ## Casing In
 
