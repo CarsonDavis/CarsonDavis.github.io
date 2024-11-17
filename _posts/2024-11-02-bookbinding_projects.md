@@ -7,7 +7,7 @@ tags: []
 description: A single post to collect all my bookbinding projects.
 media_subpath: /bookbinding-projects/
 image: header_image.webp
-published: True
+published: False
 ---
 <style>
     .grid-2x2 {
