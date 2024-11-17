@@ -551,7 +551,7 @@ Makes about **18 large cookies**.
 3. Bake for **18–22 minutes**.  
 4. Let them crystalize! Rest them for about 3 minutes, and they will be warm, gooey, and perfectly crunchy. Eat them too soon and they will just be too hot and soft.
 
->**Baking:** Baking is maybe the most important part of any cookie. You can have the best recipe, but if you don't bake it right, it won't shine. I usually take them out at 18 minutes and then hang wring for a bit before putting them back in the oven for another 2-4 minutes. The goal is some softness in the center but a nice crunch on the outside. The tops should have a nice golden brown color. If the cookie isn't the perfect mix of gooey and crunchy, then you need to adjust your baking times. 
+>**Baking:** Baking is maybe the most important part of any cookie. You can have the best recipe, but if you don't bake it right, it won't shine. I usually take them out at 18 minutes and then hand wring for a bit before putting them back in the oven for another 2-4 minutes. The goal is some softness in the center but a nice crunch on the outside. The tops should have a nice golden brown color. If the cookie isn't the perfect mix of gooey and crunchy, then you need to adjust your baking times. 
 {: .prompt-info }
 
 >**Salting:** Depending on my mood, I will often _lightly_ salt the cookies immediately after they come out of the oven and before they cool. You don't use table salt for this, you use big, soft, flakey crystals like [Maldon Sea Salt Flakes](https://www.amazon.com/Maldon-Sea-Salt-Flakes-ounce/dp/B00017028M).  
