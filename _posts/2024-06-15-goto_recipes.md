@@ -1,7 +1,7 @@
 ---
 title: Food by Number
 date: 2024-06-15
-last_modified_at: 2024-06-15
+last_modified_at: 2024-11-17
 categories: [cooking, recipes]
 tags: []
 description: Recipes worth remembering.
@@ -29,6 +29,7 @@ If you are looking for a more complete list, I also keep a [cooking instagram](h
 - [Corn Bread](#corn-bread)
 - [Mayo Marinade Chicken Tacos](#mayo-marinade-chicken-tacos)
 - [White Cheddar & Candied Jalapeño Burger](#white-cheddar-burger-with-candied-jalapeño)
+- [Double-Chocolate, Browned-Butter Cookies](#double-chocolate-browned-butter-cookies)
 
 -----
 
@@ -402,7 +403,7 @@ These are rough estimates. Please use your own tastebuds to make adjustments. Ho
 - salt, several pinches
 
 ### Preparation
-**Mis en Place**
+**Mise en Place**
 
 Get out every ingredient I listed. 
 
@@ -458,3 +459,106 @@ Seriously. Don't run around like a headless chicken while the burgers get cold t
 - add the arugula to the top bun. do not skimp
 - put the burger on top of the jalapeños and put the microplaned cheese on top of the burger. I usually have to use a fork to manuever the cheese, as it melts and crushes in your fingers
 - Eat immediately. 
+
+---
+
+
+## **Double-Chocolate, Browned-Butter Cookies**
+
+This is a slight modification of Claire Saffitz's [chocolate chip cookie recipe](https://www.youtube.com/watch?v=kPauR6tP_cg). Her recipe is super simple while still paying attention to the little details that result in an elevated cookie: browned butter, a mix of sugars, chopped chocolate, and the perfect amount of salt. I've got an [Instagram Post](https://www.instagram.com/p/Ce5qpDHsy49) about these cookies if you want to see pictures and read me rave about how amazing they are.
+
+Makes about **18 large cookies**.
+
+
+### **Ingredients**
+
+#### **Butter Mixture**
+- Unsalted butter: **2 sticks (8 oz)**
+- Heavy cream: **2 tablespoons**
+
+#### **Sugars**
+- Dark brown sugar: **150 g**
+- White granulated sugar: **150 g**
+
+#### **Wet Ingredients**
+- Large eggs: **2 (100 g)**, cold from the refrigerator  
+- Vanilla extract: **1 tablespoon**
+
+#### **Dry Ingredients**
+- All-purpose flour: **2 cups (260 g)**  
+- Diamond Crystal kosher salt: **2 teaspoons (6 g)**  
+- Baking soda: **1 teaspoon (6 g)**  
+
+#### **Chocolate**
+- Bittersweet chocolate disks, half coarsely chopped: **150 g**  
+- Milk chocolate disks, half coarsely chopped: **150 g**
+
+> **Chocolate:** Chocolate is the backbone of the recipe. Use premium chocolate, and try to find disks, not chips. I've been using [Ghirardelli Premium Baking Semi-Sweet Chocolate Chips](https://www.target.com/p/ghirardelli-semi-sweet-chocolate-premium-baking-chips-12oz/-/A-13349383) and [Ghirardelli Premium Baking 60% Cacao Bittersweet Chocolate Chips](https://www.target.com/p/ghirardelli-60-cacao-bittersweet-chocolate-premium-baking-chips-10oz/-/A-13349385) and have been very satisfied. They are easy to find at Target, Publix, etc.
+{: .prompt-info }
+
+### **Instructions**
+
+#### 1. **Prepare the Butter Mixture:**
+1. Brown the butter and add it to a large mixing bowl.  
+2. Add the **2 tablespoons of heavy cream** and let cool.  
+
+> **Browning Butter:** Don't stress about this. Set the burner to medium-high and let the butter froth and bubble. Ignore it for a bit to measure out other ingredients until white particles separate from the oil. Stir frequently to prevent burning, and when the particles turn a rich golden brown, immediately pour the butter into your mixing bowl. Let this cool before continuing—use an ice bath or the fridge if you're in a hurry. It doesn't need to be rock solid, just creamy.
+{: .prompt-info }
+
+
+#### 2. **Mix the Sugars and Wet Ingredients:**
+1. To the cooled butter mixture, add:
+   - **Dark brown sugar: 150 g**  
+   - **Granulated sugar: 150 g**  
+2. Whisk until smooth and thick (about 45 seconds).  
+3. Add **2 eggs** and **1 tablespoon of vanilla extract**; whisk until smooth and satiny.  
+
+
+#### 3. **Combine the Dry Ingredients:**
+1. In a separate medium bowl, whisk together:
+   - **All-purpose flour: 260 g**  
+   - **Kosher salt: 2 teaspoons**  
+   - **Baking soda: 1 teaspoon**  
+
+
+#### 4. **Incorporate the Dry Ingredients:**
+1. Gradually add the dry ingredient mixture to the butter mixture.  
+2. Stir with a spatula until fully combined.  
+
+>**Mixing:** Don't go crazy mixing this. We aren't making bread, and we don't want gluten formation. Just mix until the flour is incorporated. If you see a little flour, that's fine. It will be absorbed as the dough rests.
+{: .prompt-info }
+
+
+#### 5. **Add the Chocolate:**
+1. Fold in both the whole and chopped chocolate disks until evenly distributed.  
+2. Let the batter rest for 5 minutes to firm up slightly.  
+
+> **Chop Your Chocolate:** The best cookies have variety. Roughly chop half of your chocolate into dust, chunks, and whole disks. This creates more flavorful and interesting cookies.
+{: .prompt-info }
+
+
+#### 6. **Scoop and Chill the Dough:**
+1. Using a **¼-cup measure**, scoop dough portions onto a parchment-lined baking sheet.  
+2. Cover tightly with plastic wrap and refrigerate for **12 to 48 hours**.  
+
+>**Rest the Dough:** It doesn't need to be a baking sheet -- I shove mine into tubberware. But you must let them sit at least overnight. In my experience, the flavors continue to merge and the final texture improves for up to about 2 days.
+{: .prompt-info }
+
+
+#### 7. **Prepare the Oven and Bake:**
+1. Preheat oven to **350°F**.  
+2. Place **6–8 dough balls** on an aluminum foil-lined baking sheet.  
+3. Bake for **18–22 minutes**.  
+4. Let them crystalize! Rest them for about 3 minutes, and they will be warm, gooey, and perfectly crunchy. Eat them too soon and they will just be too hot and soft.
+
+>**Baking:** Baking is maybe the most important part of any cookie. You can have the best recipe, but if you don't bake it right, it won't shine. I usually take them out at 18 minutes and then hang wring for a bit before putting them back in the oven for another 2-4 minutes. The goal is some softness in the center but a nice crunch on the outside. The tops should have a nice golden brown color. If the cookie isn't the perfect mix of gooey and crunchy, then you need to adjust your baking times. 
+{: .prompt-info }
+
+>**Salting:** Depending on my mood, I will often _lightly_ salt the cookies immediately after they come out of the oven and before they cool. You don't use table salt for this, you use big, soft, flakey crystals like [Maldon Sea Salt Flakes](https://www.amazon.com/Maldon-Sea-Salt-Flakes-ounce/dp/B00017028M).  
+{: .prompt-info }
+
+
+#### 8. **Serving:**
+1. At the 18-minute mark, scoop a small amount of ice cream into a bowl.  
+2. Place the bowl and spoon in the freezer while the cookies finish baking.  
+3. Once the cookies slightly cool and crystallize, serve them on the ice cream.  
