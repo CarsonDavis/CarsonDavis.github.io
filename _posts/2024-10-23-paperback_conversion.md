@@ -236,22 +236,42 @@ It's finally time to add the headbands, spine cloth, book ribbon to the text blo
 
 ## Finishing the Case
 ### Glue the Leather
-- need to use waxpaper
+- use waxpaper to let you brush glue all the way to the edges of the covers
+- the leather may have stretched/moved, so re align the covers with the spine and draw the final positions using your spacers
+- glue inside the lines you drew for the covers
+- put wax paper between the book and the covers and press this for 10 minutes just to it is nicely seated
 
 ### Cut the Leather
-- i have another post with tools
+- use the 15mm egde trimmer to cut the leather all around the covers
+- use the corner template to trim the corners 1.5x the board thickness from the corner
 
 ### Folding the Leather
-- trick with the micro spatula
+- need to use waxpaper as you brush the glue on the leather. lets you get all the way to the edges. then you throw away the waxpaper
+- start with the top and bottom of the book, the long sides. fold them tightly and be sure to get glue into the creases
+- do not glue inside the hinge gap, we will do that last
+- trick with the micro spatula, where you fold the teeny tiny corner of the leather in before folding the edges of the book
+- once the corners are folded, you cut a 45 degree line from the corner and use tweezers to remove the excess leather
+- trim the corner if needed and add glue and fold it tightly
 
 ### Form the Hinge Gap
+- do one side of the book at a time
+- put glue along the crease between the leather and the Davey board on either side of the hinge gap
+- use the bone folder to press the leather into the gap and form it
+- use your knitting needle to press the leather onto the sides of the davey board all along the gap and hold it while you do the other side
+
+info: this step is the most delicate of the entire operation. if you want to take it easy, you can press the book at this point to fully seat the hinges. however, you are on the home stretch, so i often power through and quickly glue the endpapers in.
+
 
 ## Casing In
 ### Glue the Text Block
+- place the book inside the cover, and carefully align the text block with the covers. you want even spacing everywhere, and when closed the text block should be pressed as far as possible towards the spine
+- being absolutely sure to maintain the hinge gap, open the top cover and brush glue onto the endpaper. you need to start at the spine and work outwards. there should be wax paper between the text block and the endpapers. you need two pieces: one to use during gluing, and a second to protect the text block while pressing
+- close the cover, and don't fuck with it
+
 ### Press the Book
+- write some stuff about the knitting needles and adding the metal plates
 
-
-
+##################################################################################################################
 ## Casing In
 
 when cutting the leather, extend 1.5x the board thickness from the corner
