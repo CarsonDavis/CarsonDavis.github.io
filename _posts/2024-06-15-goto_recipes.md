@@ -477,8 +477,8 @@ Makes about **18 large cookies**.
 - Heavy cream: **2 tablespoons**
 
 #### **Sugars**
-- Dark brown sugar: **150 g**
-- White granulated sugar: **150 g**
+- Dark brown sugar, packed: **3/4 cup (150) g**
+- White granulated sugar: **3/4 cup (150) g**
 
 #### **Wet Ingredients**
 - Large eggs: **2 (100 g)**, cold from the refrigerator  
@@ -487,7 +487,7 @@ Makes about **18 large cookies**.
 #### **Dry Ingredients**
 - All-purpose flour: **2 cups (260 g)**  
 - Diamond Crystal kosher salt: **2 teaspoons (6 g)**  
-- Baking soda: **1 teaspoon (6 g)**  
+- Baking soda: **1 teaspoon (6 g)**
 
 #### **Chocolate**
 - Bittersweet chocolate disks, half coarsely chopped: **150 g**  
@@ -495,6 +495,11 @@ Makes about **18 large cookies**.
 
 > **Chocolate:** Chocolate is the backbone of the recipe. Use premium chocolate, and try to find disks, not chips. I've been using [Ghirardelli Premium Baking Semi-Sweet Chocolate Chips](https://www.target.com/p/ghirardelli-semi-sweet-chocolate-premium-baking-chips-12oz/-/A-13349383) and [Ghirardelli Premium Baking 60% Cacao Bittersweet Chocolate Chips](https://www.target.com/p/ghirardelli-60-cacao-bittersweet-chocolate-premium-baking-chips-10oz/-/A-13349385) and have been very satisfied. They are easy to find at Target, Publix, etc.
 {: .prompt-info }
+
+> **Baking Soda:** This raises the pH of the dough, weakening the gluten and allowing the cookies to spread and get those perfect crispy edges. It also enhances the Maillard reaction resulting in subtle nutty and caramelized flavors. You can substitute baking _powder_ instead, but you need to use 2-3 times as much. If you want to play with how fluffy/cakey/flat/thick/chewy/crispy your final cookies are, this is the ingredient to adjust.
+{: .prompt-info }
+
+
 
 ### **Instructions**
 
