@@ -18,7 +18,7 @@ But honestly, as much as I search, I've never been able to find that one <i>perf
 
 Existing bookbinding tutorials tend to fall into a few camps
 - amateurs who skip over all the important details, leaving you with a shoddy end product
-- artists wing everything but make it work through sheer talent that is impossible to replicate
+- artists who wing everything but make it work through sheer talent that is impossible to replicate
 - professionals who have been doing it for 50 years and forget that not everyone has a cast iron nipping press, homemade bookbinding adhesive, and a lifetime of experience
 
 This guide is different. It will let you make a perfect book on your first try. It assumes that you are serious about this and are willing to buy or make a couple standard tools, but it does not expect you to spend hundreds of dollars on professional equipment. During every step that is possible to mess up, it will provide exact tips and instructions to avoid that mistake.
@@ -80,6 +80,8 @@ This is a list of what I consider to be the optimal materials and tools for the 
 - [glue brush](https://www.lineco.com/disposable-glue-brushes.html)
 - [bone folder](https://www.amazon.com/gp/product/B01MT6U2OO)
 - [band nippers](https://www.amazon.com/HARFINGTON-Leathercraft-Straight-Adjustment-Stainless/dp/B0C777T5SR)
+- metal ruler
+- 12in calipers (optional but highly recommended)
 - Two #4 knitting needles (3.5mm or 9/64 diameter)
 - cutting mat
 - square
@@ -133,7 +135,7 @@ You can also go completely down the rabbit hole and make your own marbled endpap
 >**Grain**: Grain should travel parallel to the spine. If you paper is labeled, then short/long grain means it is parallel to the short/long side of the paper. For unlabeled, cut a strip and wet one side. A strip cut along the grain will stay straight, but a strip cut across the grain will curl.
 {: .prompt-info }
 
->**Pressing Technique**: When pressing your book, never let the press touch the book directly. Always put wax paper or davey board between the book and the press. This will keep any slightly uneven pressure from the press from torque the pages.
+>**Pressing Technique**: When pressing your book, never let the press touch the book directly. Always put wax paper or Davey board between the book and the press. This will keep any slightly uneven pressure from the press from torque the pages.
 {: .prompt-info }
 
 >**Cutting Down**: You will often see this technique of over sizing and then cutting down to size after gluing. Although it is theoretically possible to measure and cut everything perfectly before gluing, life sometimes intervenes. Glue can cause slight expansion of the paper, the fold itself can rob you of 0.25mm, you might accidentally glue a hair away from the spine... But if you start too big and then cut to size at the end, the results will be perfect every time.
@@ -141,88 +143,97 @@ You can also go completely down the rabbit hole and make your own marbled endpap
 
 
 ## Gilding the Edges
-You can certainly skip this step, but it is a nice touch that can give your book a lot of pizazz. I really enjoy matching the leather's, cover printing, and gilding colors. Traditionally, this would have been done with gold leaf, so I like to use metallic acrylics for this step. I've seen people use metallic HTV, but I've never tried it myself.
+You can certainly skip this step, but it is a nice touch that can give your book a lot of pizazz. I really enjoy small artistry in matching the leather, cover design, and gilding. Traditionally, this would have been done with gold leaf, so I like to use metallic acrylics for this step. I've seen people use metallic HTV, but I've never tried it myself.
 
-The basics of this process wi
+The basics of this process are to use two pieces of Davey board to sandwich the text block while sanding, then to flip the Davey board and paint the edges. All this will be done while clamped in a finishing press. 
 
-1. Cut two pieces of Davey board larger than your text block. These will be used to sandwich the text block while painting and sanding, and can be reused for future books, so cut them generously. Mark one edge for painting and the other for sanding.
-2. We are going to sand the three edges separately. Start by carefully positioning the text block between the davey board, so that the board is the same height as the edge you want to sand. The board's job is to provide stiffness to the text block that is poking out past the edge of the finishing press. The board is a sacrificial material that will be sanded away as you sand the text block.
-3. Clamp the everything together in your finishing press as hard as you possibly can.
+1. Cut two pieces of Davey board larger than your text block. These will be used to sandwich the text block while painting and sanding, and can be reused for future books, so cut them generously.
+2. Carefully position the text block and Davey board so the board is the same height as the edge you want to sand, and everything sticks out of your finishing press about 1/2 inch.
+3. Clamp the everything together as hard as you possibly can. Loose pages will develop burrs that will ruin the painting step.
 4. Sand along the length of the pages until they are smooth and even.
 5. After you have sanded all 3 edges, vacuum away any dust. I typically also follow up by splaying the edges and brushing with a medium stiffness bristle brush to remove any remaining dust and burrs. If the surface of each edge is not perfectly smooth you will need to do further sanding.
-6. Reclamp your text block against the painting edges of your davey board. This time, instead of having the board flush with the edge of the text block, you will want it to be 1-2mm longer. This will allow you to paint the edge without getting paint on the text block and will ensure a stiff edge.
-7. Paint two side and then flutter the pages using the unpainted side. If you've been following the tips and using only a little paint, the book should dry in 5-10 minutes and you can paint the third edge and then splay its pages.
+6. Reclamp your text block against the painting edges of your Davey board. This time, instead of having the board flush with the edge of the text block, you will want it to be 1-2mm longer. This will allow you to paint the edge without getting paint on the text block and will ensure a stiff edge.
+7. Paint two sides in one go and then flutter the pages using the unpainted side. If you've been following the tips and using only a little paint, the book should dry in 5-10 minutes and you can paint the third edge and then splay its pages by touching the now dry sides.
 8. Repeat the process for a second coat. I typically stop here unless something went wrong in the painting. 
 9. Use your soft bristle brush to brush the splayed edges. If your paint can't hold up to this, then it certainly can't hold up to people flipping through the book. It's fine if paint comes off, just add another layer.
 
-
->**Painting Technique**: Don't use too much paint. Apply just enough to coat the edges and use long straight strokes of the brush so that the paint is even. It's more important that the surface is clean and consistent than that the first layer completely covers the paper. You can always add more layers, but it is very annoying to fix obvious brush strokes or paint clumps.
+>**Sacrificial Davey Board**: About a half inch of the text block must stick out of the finishing press for sanding. These exposed pages won't be very rigid, and will be very difficult to sand or paint. So we take two sacrificial pieces of Davey board to increase stiffness and let us sand and paint effectively. The board will be sanded away as we sand the text block, and the other side will be painted. It is very important to use robust board that can keep the pages pressed firmly together.
 {: .prompt-info }
 
-
-
-## Spine
-
-calculate the length of the spine. use your calipers to mark points at the edge of both boards. cut both boards to the length of the spine. from these spine-sized pieces, you can then cut the covers and, if needed, the spacers.ta
-
-Dimensions
-L = L of textblock + 6mm (gives a 3mm border)
-W = thickness of textblock + two board thicknesses (in our case, 5mm total)
-
-1. Cut the spine first and then immediately glue the bands to it. I like to mark the spine, then put the glue, then lay the bands, then wipe the excess. 
-2. You can move onto the covers while the spine dries
-3. After the bands have dried, cut them at a slight angle
-
->Headbands: You can do any headband spacing you want. Most 1800s books I own have even spacing. However, I like to leave 3 spaces, for Title, Author, and Date. Recently I've done two at the top (20mm and 50mm) and three at the bottom (10mm, 25mm, and 55mm). 
+>**Painting Technique**: Don't use too much paint. Apply just enough to coat the edges and use long straight strokes of the brush so that the paint is even. It's more important that the surface is clean and consistent than that the first layer completely covers the paper. You can easily add more coats, but it is very annoying to fix obvious brush strokes or paint clumps.
 {: .prompt-info }
 
-## Covers
-We are going to cut everything once slightly oversized, tape it together and try it on the book, then get the final size.
+## Cutting the Covers
+As with the endpapers, the covers will need to be cut so that the grain runs parallel to the spine of the book. This will ensure that the covers don't warp strangely over time. 
 
-Covers
-W = W of textblock + 6mm - 12  mm (hinge gap) (might need to take this measurement from the textblock after taping)
-L = L of textblock + 6mm
+Cover Dimensions:
+- W = same as text block
+- H = text block + 6mm
 
-So, my text block was 140.5.
-I cut the cover to 140.5, then did a test fit. I thought it needed 3mm removed but I forgot to actually trim them. 
+Spine Dimensions:
+- W = thickness of text block + 2x board thickness
+- H = height of text block + 6mm
 
-Spine
-L = L of textblock + 6mm
-W = thickness of textblock + one board thickness
+1. Measure and cut the spine and covers
+2. Align the spine and covers with a 12mm gap between them
+3. Use painters tape to tape the spine and covers together
+4. Test fit the cover on the text block
+5. Carefully seat the text block within the covers, then mark the edges of the text block on the covers
+6. Add 5mm to the length of the text block and cut the covers to this length
 
-Hinge Gap
-Cut a hinge gap spacer
-10 mm
-/ /?.:h,'yu:/'?/:
-Cut a turn in spacer
-20 mm
+>**Calipers**: A cheap set of 12in calipers is a game changer for bookbinding. You can measure your text block, add 6mm, then screw down the calipers to lock them at that length. Then you can use the sharp edge to stab exact points to cut into the material. Line up your ruler with the points and your cuts will be perfect every time. I use this method for cutting the endpapers, the spine, the covers, and the leather template.
+{: .prompt-info }
 
+## Cut the Leather
+We will be using the covers as a template to cut the leather. This will ensure that the leather is the perfect size for the book.
 
+1. Lay the taped cover onto a scrap piece of regular cardboard
+2. Add a 20mm boarder around the cover and cut the cardboard to this size
+3. Use the cardboard as a template to cut the leather
+4. Take your taped together cover and use it as a template to mark out the rough location of the cover on the leather. I use silver sharpie for this.
 
-Hinge gap = 12mm
-reduce by 4.4mm 
+>**Cutting the Leather**: Remember that we will eventually be cutting off the very corners of the leather. So when positioning your template, you can slide the corners slightly off the leather to get more use out of your hide. I use the 40mm Olfa rotary cutter for this step, and it is a game changer. Just position it against the edge of the cardboard and roll it along the edge. It will cut through the leather like butter.
+{: .prompt-info }
 
-Glue the leather bands to the spine
+## Glue the Raised Bands
+Traditional bookbinding techniques used thick cords that resulted in raised bands along the spine. As techniques evolved in the early 1800s, these cords were often abandoned, but bookmakers still wanted the look of raised bands. 
 
+False bands are created by glueing cords or leather strips to the spine. I do this with flat leather cording that is 3x1.75mm.
 
-Glue on the head band
-Glue on the spine cloth. it goes between the headbands
+1. Cut 5 bands slightly longer than the width of the spine.
+2. Choose the locations of your bands and mark them on the spine.
+3. Lay a thin bead of glue and brush it along the marks
+4. Glue the bands to the spine, and wipe away any excess
+5. After the glue has dried, cut the bands at a slight angle, to form a smoother transition from the spine to the cover
 
-## Leather
-Lay the taped cover down on a piece of cardboard. Add 40mm to both sides and make a template for your leather.
+>**False Bands**: You can do any spacing you want. Most 1800s books I own have even spacing. However, I like to leave 3 spaces, for Title, Author, and Date. Recently I've done two at the top (20mm and 50mm) and three at the bottom (10mm, 25mm, and 55mm). 
+{: .prompt-info }
 
+## Form the Raised Bands
 
+1. Prepare some thin cord with a loop on one end
+2. Clamp your book into the finishing press, with an inch or so of the spine sticking out
+3. Glue the spine to the leather, and place it on top of the text block
+4. Firmly press the leather into the spine with your bone folder. Work from the center to the ends, pressing into the corners of the bands. Sometimes you may need to use a second folder to hold the leather still while you form it into the bands.
+5. If you have a pair of band nippers, now is the time to use them.
+6. Roll up the leather so it won't be squished. 
+7. Wrap the cord around the bands. The cord should come in at an angle and pull the leather into the crease of each band. It should be too tight to get your finger under the cord.
+8. Leave everything to dry for 30 minutes
+9. Remove any dried squeeze out with a micro-spatula or a knife. You want the leather to lay flat and not be glued to the edges of the spine.
 
-## The Case
+>**Precision Gluing**: You don't want to get glue on the edges of the spine, just the face. I like to draw out a rectangle on the leather where the spine will go, and then lightly apply glue inside the line. Then I put glue on the spine, being careful to use plenty on the bands, and getting all the way to the edges. Finally I wipe off any excess from the edges before placing it on the leather.
+{: .prompt-info }
 
-Size
-height = height of the text block + 2x the perimeter, where 3mm is a good size for the perimeter
+## Finalize Text Block
+It's finally time to add the headbands, spine cloth, book ribbon to the text block.
 
+1. Cut your headbands slightly wider than th text block
+2. Cut your spine cloth to fit in between the headbands and to extend at least 1 inch to either side of the text block.
+3. If you are doing a book ribbon, cut it way longer than needed and glue it to the spine. You can trim it later when the book is done.
+4. Mark the centerline of the spine cloth, and glue it and the headbands to the text block. Be sure to fully saturate the headbands and cloth with glue, and to press them down firmly.
 
-cut a greyboard square. cut one side with a ruler, then from there use a square to cut the other sides. hold the ruler firmly and cut with multiple passes.
-3mm edges around the book (assuming that it is a5 size)
+## Casing In
 
-gluing the leather
 when cutting the leather, extend 1.5x the board thickness from the corner
 you can make the diagonal cut and then pull out the leather
 
