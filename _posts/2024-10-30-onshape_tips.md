@@ -59,10 +59,20 @@ If you are forgetful or new to OnShape like me, I hope this post helps you as we
 
 ## Constraints
 
+## Drawing Constrained Lines
+When drawing lines, you can ping them onto a line or point to automatically generate a constraint.
+
 ## Setting Variables
+When dimensioning any area of a sketch, instead of typing a number you can type # and select create new variable. This will allow you to change the value of the variable in the Features Panel and have it update everywhere it is used in the model.
 
 ## Linking Variables to Text
+- right click on the bottom of the text selection square and click Edit Text
+- once the dialog box is open, right click on the text and click convert to expression
+- instead of typing `4.25mm` type, you can type `toString(#trimming_length/mm)~"mm"` and it will automatically update to the correct value in the correct units with your added text of `mm`.
 
+## Placing Text Within a Sketch
+You'll need to decide if you are going to constrain the text within a certain height or width. Then you can draw two lines and pin the text midpoints to the lines. 
+ 
 ## Setting two Pieces to Match an Overall Length
 
 ## That Thing About Coplaner Lines or Something?
