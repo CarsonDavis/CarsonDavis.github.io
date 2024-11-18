@@ -10,7 +10,7 @@ image: 100006005.webp
 published: False
 ---
 ## Introduction
-I've been bookbinding for over a year now, and I find myself doing the same little things over and over. Trimming leather, spacing hinges, cutting corners...eventually I made little helper tools out of Davey board to set spacing and make corner trimming more consistent. To be honest, these work perfectly fine, and if you are just going to bind one or two books I highly recommend quickly making some of your own.
+I've been bookbinding for over a year now, and I find myself doing the same little things over and over. Trimming leather, spacing hinges, cutting corners... Eventually I made little helper tools out of Davey board to set spacing and make corner trimming more consistent. To be honest, these cardboard tools work perfectly fine, and if you are just going to bind one or two books I highly recommend quickly making some of your own.
 
 However the engineer in me lusts after the perfect tool, and I ultimately couldn't restrain myself from designing some 3d models. I've made my designs publicly available on OnShape, a free modeling software, and they are configurable so you can change a single variable and the whole tool will resize to the correct parameter.
 - [Hinge Gap Spacer](https://cad.onshape.com/documents/596458e24c35e807a12e88ac/w/439456049f25b8fb9cc6b557/e/09944bbd181029855e7114a2)
