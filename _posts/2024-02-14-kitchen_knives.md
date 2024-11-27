@@ -102,7 +102,7 @@ That's when my dad stepped in and gave me my first actually good cooking tool, a
 
 They are easy to care for, have reasonably thin geometries, and they come in familiar profiles, such as the western chef knife shown here. The only real downsides are that they are on the expensive side and that their VG-10 MAX formulation easily microchips when compared with other manufacturers' VG-10 steel. 
 
-The big problem is that 8in Shun will set you back $170. Meanwhile, I have a literal drawer full of handmade Japanese knives that cost less. Know that if you are in the market for a knife in the $75-$175 price range, there are a LOT of other options you should consider. But if you already own a Shun, also know that they take a wicked edge and that I still happily use both of mine when the mood strikes me.
+The main downside is the 8in Shun will set you back a whopping $170. Meanwhile, I have a literal drawer full of handmade Japanese knives that cost less. Just know that if you are in the market for a knife in the $75-$175 price range, there are a LOT of other options you should consider. But if you already own a Shun, know that they take a wicked edge and that I still happily use both of mine when the mood strikes me.
 
 ## Upgrading to High-End Stainless
 
@@ -111,7 +111,7 @@ _Miyabi Mizu in SG2: 5in utility, 6.5in nakiri, 9in bread_
 
 In the summer of 2020, I began to look longingly at the exotic Japanese blade style called the Nakiri. It's short and square, and designed specifically for cutting vegetables. 
 
-I looked at a few brands and ultimately settled on Miyabi, which is like a high-class Shun. They're made of SG2 (a better steel) and feature an overall better fit and finish, with nicer design choices and many of the final steps done by hand. 
+I looked at a few brands and ultimately settled on Miyabi, which is like a high-class Shun. They're made of SG2 (a better steel) and feature an overall better fit and finish, with nicer design choices and many of the final finishing steps done by hand. 
 
 I'll try not to spend too much time in this post on steels, but SG2 is a powder metallurgy steel known for its hardness, wear resistance, and toughness, and the manufacturing process is fascinating. Instead of mixing the alloyed components in the molten state and hoping for the best with mixing and grain formation, PM steels are atomized to create a fine powder. After sintering, the steel will be perfectly mixed, and the powder will put an upper limit on grain formation. Powder metallurgy is a revolutionary advancement adopted by many high-end knife steels, as it guarantees consistent properties and a fine grain structure, which in turn leads to knives that get sharper and stay sharp longer.
 
@@ -238,7 +238,7 @@ In the middle are two Matsubara's, the bunka in Shirogami #1, and the kiri in Ao
   </div>
 </div>
 
-I've been casually mentioning handles and sheathes that I've made and installed, and while it certainly used to be a real chore, at this point I've retrofitted around 10 knives, and I've worked out a nice process. Above you can see 3 handmade sheathes, or sayas, out of walnut (thanks Samyam!) along with some handles in rosewood. I do the sheathes from scratch, but for the handles I actually buy them unfinished from China and do the final shaping and polishing before installing them. 
+I've been casually mentioning handles and sheathes that I've made and installed, and while it certainly used to be a real chore, at this point I've retrofitted around 10 knives, and I've worked out a nice process. Above you can see 3 handmade sheathes, or sayas, out of walnut (thanks Samyam!) along with some handles in rosewood. I do the sheathes from scratch, but for the handles I actually buy unfinished from China and do the final shaping and polishing before installing them. 
 
 Doing three knives like this is a good weekend project, and it's an awesome way to spruce up an affordable knife like the Kyohei.
 
