@@ -1,7 +1,7 @@
 ---
 title: Kitchen Knives
 date: 2024-02-14
-last_modified_at: 2024-05-19
+last_modified_at: 2024-11-26
 categories: [knives, overview]
 tags: []
 media_subpath: /kitchen-knives/
@@ -77,7 +77,7 @@ _literal garbage_
 
 Yea, turns out it's a piece of literal garbage. Just because it is local, hand made, and damascus does not mean it will cut well.
 
-This would have been around 2016, when the whole camping/wilderness community had this unreasonable penchant for thick, full-tang blades that could weather a nuclear winter and still be used afterwards to quarry enough iron to rebuild civilization. What they apparently did <i>not</i> care about was how well the knives cut. This rubbed off onto me, hence this absolute monster of a chef knife.
+This would have been around 2016, when the whole camping/wilderness community had this unreasonable penchant for thick, full-tang blades that could weather a nuclear winter and still be used afterwards to quarry enough iron to rebuild civilization. What they apparently did <i>not</i> care about was how well the knives cut. This unreasonable kink for thicc knives rubbed off onto me, hence this absolute monster of a chef knife.
 
 ## What Actually Matters
 
@@ -86,7 +86,7 @@ Let me explain. There are only a couple things that actually matter in a knife. 
 ![img-description](signal-2024-05-19-165002_002.jpeg)
 _Shibata Koutetsu, literal garbage_
 
-This is called a choil shot, and it's an easy way to approximate the cross-sectional geometry of the blade. Often, the profile of the knife from this angle will be the single largest indicator of how well it will perform. There are a few specifics that affect food release, handling, etc, but the purposes of this explanation, let me clarify that thinner is almost always better, especially in the centimeter closest to the cutting edge. 
+This is called a choil shot, and it's an easy way to approximate the cross-sectional geometry of the blade. Often, the profile of the knife from this angle will be the single largest indicator of how well it will perform. There are a few specifics that affect food release, handling, etc, but for the purposes of this explanation, let me clarify that thinner is almost always better, especially in the centimeter closest to the cutting edge. 
 
 Cross-sectional blade geometry is so important that a knife can be dull enough to not cut your skin, but it will cut vegetables in the kitchen. You could literally rub the edge of the thin knife in the photo on a brick and it would still cut onions better than when the damascus monstrosity is sharp enough to shave. 
 
