@@ -496,7 +496,7 @@ Makes about **18 large cookies**.
 > **Chocolate:** Chocolate is the backbone of the recipe. Use premium chocolate, and try to find disks, not chips. I've been using [Ghirardelli Premium Baking Semi-Sweet Chocolate Chips](https://www.target.com/p/ghirardelli-semi-sweet-chocolate-premium-baking-chips-12oz/-/A-13349383) and [Ghirardelli Premium Baking 60% Cacao Bittersweet Chocolate Chips](https://www.target.com/p/ghirardelli-60-cacao-bittersweet-chocolate-premium-baking-chips-10oz/-/A-13349385) and have been very satisfied. They are easy to find at Target, Publix, etc.
 {: .prompt-info }
 
-> **Baking Soda:** This raises the pH of the dough, weakening the gluten and allowing the cookies to spread and get those perfect crispy edges. It also enhances the Maillard reaction resulting in subtle nutty and caramelized flavors. You can substitute baking _powder_ instead, but you need to use 2-3 times as much. If you want to play with how fluffy/cakey/flat/thick/chewy/crispy your final cookies are, this is the ingredient to adjust.
+> **Baking Soda:** This raises the pH of the dough, weakening the gluten and allowing the cookies to spread and get those perfect crispy edges. It also enhances the Maillard reaction resulting in subtle nutty and caramelized flavors. You can substitute baking _powder_ instead, but you need to use 2-3 times as much and increase the baking times. If you want to play with how fluffy/cakey/flat/thick/chewy/crispy your final cookies are, this is the ingredient to adjust. 
 {: .prompt-info }
 
 
@@ -553,10 +553,10 @@ Makes about **18 large cookies**.
 #### 7. **Prepare the Oven and Bake:**
 1. Preheat oven to **350°F**.  
 2. Place **6–8 dough balls** on an aluminum foil-lined baking sheet.  
-3. Bake for **18–22 minutes**.  
+3. Bake for **15–18 minutes**.  
 4. Let them crystalize! Rest them for about 3 minutes, and they will be warm, gooey, and perfectly crunchy. Eat them too soon and they will just be too hot and soft.
 
->**Baking:** Baking is maybe the most important part of any cookie. You can have the best recipe, but if you don't bake it right, it won't shine. I usually take them out at 18 minutes and then hand wring for a bit before putting them back in the oven for another 2-4 minutes. The goal is some softness in the center but a nice crunch on the outside. The tops should have a nice golden brown color. If the cookie isn't the perfect mix of gooey and crunchy, then you need to adjust your baking times. 
+>**Baking:** Baking is maybe the most important part of any cookie. You can have the best recipe, but if you don't bake it right, it won't shine. I usually take them out around 15-16 minutes. The goal is some softness in the center but a nice crunch on the outside. The tops should have a nice golden brown color. If the cookie isn't the perfect mix of gooey and crunchy, then you need to adjust your baking times. 
 {: .prompt-info }
 
 >**Salting:** Depending on my mood, I will often _lightly_ salt the cookies immediately after they come out of the oven and before they cool. You don't use table salt for this, you use big, soft, flakey crystals like [Maldon Sea Salt Flakes](https://www.amazon.com/Maldon-Sea-Salt-Flakes-ounce/dp/B00017028M).  
@@ -564,6 +564,6 @@ Makes about **18 large cookies**.
 
 
 #### 8. **Serving:**
-1. At the 18-minute mark, scoop a small amount of ice cream into a bowl.  
+1. At the 13-minute mark, scoop a small amount of ice cream into a bowl.  
 2. Place the bowl and spoon in the freezer while the cookies finish baking.  
 3. Once the cookies slightly cool and crystallize, serve them on the ice cream.  
