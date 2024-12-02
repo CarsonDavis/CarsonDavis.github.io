@@ -20,11 +20,11 @@ Over the years, I've spent thousands of dollars on all kinds of sharpening equip
 This post is will let you skip a decade's worth of purchases and save your bank account. I'll guide you through selecting high-quality sharpening equipment for different budgets and uses. While this isn't a sharpening tutorial, I'll explain the essential equipment and illustrate the trade-offs between various price points, so you can make informed choices from the start.
 
 ## Why Whetstones?
-After trying nearly every sharpening method out there, I’ve settled firmly on whetstones. Pull-through sharpeners may seem convenient, but they’re not only wildly ineffective—they’re downright harmful. They create uneven bevels, quickly ruin blade geometry, and are better left in the trash. Powered systems are even worse, with the added risk of overheating your blade and destroying its temper. Guided systems, while precise, are expensive, cumbersome to set up, and limited in what they can handle.
+After trying nearly every sharpening method out there, I’ve settled firmly on whetstones. Pull-through sharpeners may seem convenient, but they’re not only wildly ineffective—they’re downright harmful. They create uneven bevels, quickly ruin blade geometry, and are better left in the trash. Powered systems are even worse, with the added risk of overheating your blade and destroying its temper. Guided systems, while precise, are expensive, cumbersome to set up, and limited in what they can handle. And unless your knife is made of junk steel, leave that honing rod in the drawer.
 
 Whetstones, on the other hand, offer the perfect combination of versatility, affordability, and effectiveness. Despite their intimidating reputation, they’re surprisingly simple to use. Yes, there’s a learning curve, but it’s far gentler than most people think. Even complete beginners can achieve and maintain edges sharper than they ever imagined. Whetstones are fast, flexible, and, most importantly, deliver superior results.
 
-## Can't I Just Buy the 10 Piece Amazon Special?
+## Can't I Just Buy the 10 Piece Amazon Whetstone Special?
 
 No. Dear god no. Please don't. I have tried several, and they are all terrible. They are slow, they wear quickly, they dish easily, they clog, they are inconsistent, they are poorly made, they are poorly graded, they are poorly packaged, they are poorly everything. They make everything about sharpening harder, and you will really, seriously regret owning them. 
 
