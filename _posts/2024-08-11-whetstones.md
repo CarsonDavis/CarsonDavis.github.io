@@ -11,9 +11,18 @@ published: True
 ---
 
 ## Background
-I can’t imagine life without sharp tools. Even as a kid with a pocket knife, I always had a small whetstone to keep it sharp. Now, two and a half decades later, it feels like almost every hobby I have involves sharpening in some way. For woodworking, it’s chisels and hand planes. For wood sculptures, it’s carving knives. Then there are the camping knives, pocket knives, and multi-tools. Bookbinding? That needs leather paring knives. Cardboard crafting? Turns out even Olfas benefit from a diamond strop. And let’s not forget my small collection of Japanese straight razors from that phase when I thought I was too good for normal people shaving. Oh, and of course, dozens upon dozens of kitchen knives.
+I can't imagine life without sharp tools. Even as a kid with a pocket knife, I always had a small whetstone to keep it sharp. Now, two and a half decades later, it feels like almost every hobby I have involves sharpening in some way.
 
-Over the years, I’ve spent thousands of dollars on all kinds of sharpening equipment—-oil stones, water stones, diamond stones, pull-through sharpeners, guided systems, grinding wheels, and more. This post is meant to guide prospective buyers through the process of selecting high-quality sharpening equipment, catering to different budgets and uses. While this isn’t a sharpening tutorial, I’ll briefly explain the key equipment and highlight the trade-offs between various price categories.
+For woodworking, it's chisels and hand planes. For wood sculptures, it's carving knives. Then there are the camping knives, pocket knives, and multi-tools. Bookbinding? That needs leather paring knives. Cardboard crafting? Turns out even Olfas benefit from a diamond strop. And let's not forget my small collection of Japanese straight razors from that phase when I thought I was too good for normal people shaving. Oh, and of course, dozens upon dozens of kitchen knives.
+
+Over the years, I've spent thousands of dollars on all kinds of sharpening equipment—oil stones, water stones, diamond stones, pull-through sharpeners, guided systems, grinding wheels, and more.
+
+This post is will let you skip a decade's worth of purchases and save your bank account. I'll guide you through selecting high-quality sharpening equipment for different budgets and uses. While this isn't a sharpening tutorial, I'll explain the essential equipment and illustrate the trade-offs between various price points, so you can make informed choices from the start.
+
+## Why Whetstones?
+After trying nearly every sharpening method out there, I’ve settled firmly on whetstones. Pull-through sharpeners may seem convenient, but they’re not only wildly ineffective—they’re downright harmful. They create uneven bevels, quickly ruin blade geometry, and are better left in the trash. Powered systems are even worse, with the added risk of overheating your blade and destroying its temper. Guided systems, while precise, are expensive, cumbersome to set up, and limited in what they can handle.
+
+Whetstones, on the other hand, offer the perfect combination of versatility, affordability, and effectiveness. Despite their intimidating reputation, they’re surprisingly simple to use. Yes, there’s a learning curve, but it’s far gentler than most people think. Even complete beginners can achieve and maintain edges sharper than they ever imagined. Whetstones are fast, flexible, and, most importantly, deliver superior results.
 
 ## Can't I Just Buy the 10 Piece Amazon Special?
 
@@ -22,19 +31,6 @@ No. Dear god no. Please don't. I have tried several, and they are all terrible. 
 Yes, I know they are cheap. Yes, I know they have inexplicably good reviews. And yes, I know they come with 6 stones, a stand, a flattening stone, a strop, and a partridge in a pear tree. But seriously, it's all junk and you don't want it.
 
 Can you technically sharpen a knife with them? Yes. But <i>technically</i> you can also sharpen a knife on a dirty brick from your mom's garden...and honestly, using the brick would probably be the more satisfying experience. 
-
-If for some reason you can't find the exact stones I recommend, stick to one of these reputable brands:
-- King (Deluxe models only)
-- Naniwa Chosera
-- Shapton
-- Suehiro
-- Atoma
-- Arashiyama
-- Kitayama
-- Morihei
-- Imanishi
-- JNS
-
 
 ## Sharpening Stones
 So if I've convinced you not to throw away your money on cheap junk, what should you buy?
@@ -74,7 +70,7 @@ The last step of any sharpening is removing the burr, a thin flap of metal left 
 
 As you gain experience, you will be able to remove almost all of the burr on your finishing stone. But there is a reason craftsmen who require absolute sharpness (like woodworkers and barbers) have been using strops for thousands of years. Finishing your sharpening with a strop will remove the last microburr and result in a clean and strong edge that will cut better and last longer. 
 
-These days, strops are typically loaded with a fine diamond compound that serves as a mild abrasive to remove the last bit of burr and polish the edge. Such a strop can also use it to maintain a razor edge in between sharpenings. I will often go months without a real sharpening, only using a diamond-loaded balsa wood strop.
+These days, strops are typically loaded with a fine diamond compound that serves as a mild abrasive to remove the last bit of burr and polish the edge. Such a strop can also be used to maintain a razor edge in between sharpenings. I will often go months without a real sharpening, only using a diamond-loaded balsa wood strop.
 
 
 |                                                                                                            | Min  | Upgr | Mine |
@@ -213,3 +209,16 @@ A few notes about this setup:
 - It's extra money, but I highly recommend buying the strop base, unless you have a good DIY solution in mind.
 - I've included two diamond pastes and two strops, 1um and .5um. You can go even finer, but I haven't found it to be necessary.
 - You <i>must</i> buy a flattening stone. For straight razors this is not optional
+
+## I Can't Find These Stones!
+Although I've made some very specific recommendations, there are many good whetstones out there. If for some reason you can't find the exact stones I recommend, stick to one of these reputable brands:
+- King (Deluxe models only)
+- Naniwa Chosera
+- Shapton
+- Suehiro
+- Atoma
+- Arashiyama
+- Kitayama
+- Morihei
+- Imanishi
+- JNS
