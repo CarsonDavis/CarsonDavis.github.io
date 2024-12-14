@@ -9,6 +9,8 @@ media_subpath: /paperback-conversion/
 image: Screenshot_20241101_110345_Lightroom.webp
 published: False
 ---
+I used 12mm and 4.00 spacer on my recent book, cotton. It was pretty good.
+
 ## Why This Guide?
 About a year and a half ago, I got it into my head that I wanted premium leather versions of all my favorite science books. Turns out nobody sells these. So I decided to make them myself.
 
