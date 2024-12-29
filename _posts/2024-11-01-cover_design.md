@@ -458,20 +458,83 @@ hold option while adjusting a node and it will snap one side of it?
 --------------------------------
 
 here is a previous partial draft of the cover design post:
-## Making a Cover in Affinity Design
-I use a custom "Book Cover" preset in Affinity Design 2. 
-Width: 350mm
-Height: 300mm
-DPI: 144
-Document Units: mm
+
+## Creating a New Documents
+To get started, measure your book dimensions. Then create a new document in Affinity Design large enough to hold the book unfolded with some extra space. I use the following settings as a default.
+- Width: 350mm
+- Height: 300mm
+- DPI: 144
+- Document Units: mm
 
 Measure the book cover, not the spine. Under measure if you need to.
 
+Tip: If you are going to make a lot of book covers, it is worth making a custom preset. After going to File > New and setting the width, height, etc, you can then click the icon to create a new preset. 
 
-144x218
-24x218
+## Create the Book Components
+### Measure the Book
+We want to draw the outline of the front, back, and spine. 
 
-make cover shapes that match these dimensions.
+When a book is closed, you can see the side of the spine, the hinge gap, and the cover. We want to specifically measure only the area of the cover itself, where there is board underneath. Later, we will print indexing marks to make placing the vinyl easier. So we want to measure all the way to the edges of the cover, but not the hinge gap or the spine.
+
+Similarly, measure the working area of the spine.
+
+As an example, I measured a book that was:
+- cover: 144x218
+- spine: 29x218
+
+Always use the exact measurement, but when in doubt, it is better to round down than up. This will keep you from making a design too big to fit on the actual book. 
+
+### Draw the Covers and Spine
+Select the rectangle tool and in the side panel change the stroke to transparent and the fill color to match your leather. Stokes are not considered part of the dimensions of a shape. 
+
+Draw an arbitrary rectangle. 
+
+With the rectangle still selected, you can change from the layers panel to the transform panel. Here you can change the dimensions of the rectangle to match the dimensions of the cover. Copy and paste this twice to make the spine and the back cover.
+
+For the spine, change the width.
+
+Tip: Keyboard shortcuts: You an press V on your keyboard to switch from drawing rectangles to the movement/selection cursor. With the rectangle selected, you can hold control and drag and a copy will be made.
+
+### Align the Covers
+- Select all three shapes
+- Align Vertically: Align Top
+- Align Horizontally: Space Horizontally
+- You can play with the spacing and realign horizontally. Note that the two exterior shapes will stay in the same place, but the middle shape will move.
+
+To align on the page, first make a group called 'Book Components' with the spine and covers. 
+- First select the back rectangle
+- Then select the group, Book Components
+- Align Vertically: Align Middle
+- Align Horizontally: Align Center
+
+### Draw the Spine Bands
+- Measure the height of a spine band
+- measure the position of each spine band, starting from the top of the spine to the top of each band
+
+In my case,  
+- each band is 5mm tall
+- and they are positioned at the following locations: 22, 47, 163, 189, 202
+
+Copy and paste the spine, then edit it to be the height of a spine band and slightly darker than the cover color.
+Copy and paste your new band for each band you need.
+
+- if your bands are not already aligned at the top of the spine, do so
+- click on each band and use the transform panel to add your measurements to the y position
+- you can use math in the transform panel. For example, for my first band, I added *+22* to the existing y position: *41.3 mm+22*
+
+Make sure that all the Book Components are in the Book Components group.
+
+
+
+You should now have something that looks like my screenshot:
+
+#
+
+When making the bands, create a single band of the correct dimensions, slightly darker than the cover material. The position it at the very top of the spine and copy paste it for each band. Measure on the book from the top of the spine to the top of each band and use math in the transform panel to add the numbers to each band.
+
+
+
+Tip: I don't like working in the white affinity background, so I usually make a rectangle the size of the document and fill it with a light grey that gently contrasts with the color of the leather I'm using for my book rectangles. After drawing this rectangle, you lock it in the panel so you can't accidently select it.
 
 copy one of your covers and then use the contour tool to make the border. i've been doing it inset by 7.5mm. You will want to give it transparent fill but a colored stroke. I've been using 2.5-3 pt for the stroke width.
 
@@ -491,7 +554,6 @@ You can edit your curves by clicking a node and then moving the handles. You can
 
 
 
-When making the bands, create a single band of the correct dimensions, slightly darker than the cover material. The position it at the very top of the spine and copy paste it for each band. Measure on the book from the top of the spine to the top of each band and use math in the tranform panel to add the numbers to each band.
 
 Once you make the band text, you can align vertically and distribute horizontally. You always want to select the bands first, and then the text.
  
