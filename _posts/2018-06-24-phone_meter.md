@@ -7,6 +7,7 @@ media_subpath: /phone-meter/
 description: Repairing an antique Northeast Electronics Corp. Model TTS-28.
 image: h9AYitI.jpg
 ---
+Impact-Site-Verification: 6b8f60d1-3b34-491a-87de-0601c80e8e2c
 
 I originally repaired this while talking to the folk at the EEVBlog. There's a post about that [here](https://www.eevblog.com/forum/repair/northeast-electronics-tts-28-telephone-multimeter-repair-testing-pictures/).
 
