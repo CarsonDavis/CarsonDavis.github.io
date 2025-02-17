@@ -53,29 +53,6 @@ published: False
     }
 </style>
 
-
-<style>
-.image-container {
-    display: flex;
-    align-items: stretch;
-    height: fit-content;
-}
-
-.image-container img {
-    height: 100%;
-    width: auto;
-}
-</style>
-
-<div class="image-container">
-    <div class="image-wrapper">
-        <img src="img005.webp" alt="Tall image">
-    </div>
-    <div class="image-wrapper">
-        <img src="img012.webp" alt="Short image">
-    </div>
-</div>
-
 ## Xpan
 
 The Hassleblad Xpan is truly a delightful camera. It has the best modern conveniences combined with the nostalgia of olden times.
@@ -133,7 +110,7 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
-        <img src="img011.webp" alt="">
+        <img src="img011_1.webp" alt="">
     </div>
     <div class="image-div">
         <img src="Grain.webp" alt="">
@@ -167,6 +144,8 @@ Now obviously your composition, subject, and lighting will always matter more th
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+one
+
 <div class="grid-container grid-3x2">
     <div class="image-div">
         <img src="img068-2.webp" alt="">
@@ -181,6 +160,8 @@ Now obviously your composition, subject, and lighting will always matter more th
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+two
+
 <div class="grid-container grid-3x2">
     <div class="image-div">
         <img src="000289510010.webp" alt="">
@@ -189,18 +170,20 @@ Now obviously your composition, subject, and lighting will always matter more th
         <img src="000289510009.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img010.webp" alt="">
+        <img src="img010_1.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+three
+
 <div class="grid-container grid-3x2">
     <div class="image-div">
-        <img src="img007.webp" alt="">
+        <img src="img007_1.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img008.webp" alt="">
+        <img src="img008_1.webp" alt="">
     </div>
     <div class="image-div">
         <img src="000289560010.webp" alt="">
@@ -209,6 +192,7 @@ Now obviously your composition, subject, and lighting will always matter more th
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+four
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
@@ -218,12 +202,13 @@ Now obviously your composition, subject, and lighting will always matter more th
         <img src="000289560002.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img021.webp" alt="">
+        <img src="" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+five
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
@@ -239,7 +224,7 @@ Now obviously your composition, subject, and lighting will always matter more th
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-
+six
 <div class="grid-container grid-3x2">
     <div class="image-div">
         <img src="img010.webp" alt="">
@@ -298,17 +283,6 @@ Heights supposedly matched...
 
 <div class="grid-container grid-2x2 match-height">
     <div class="image-div">
-        <img src="img007.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img016.webp" alt="">
-    </div>
-    <div class="caption">windows</div>
-    <div class="caption"></div>
-</div>
-
-<div class="grid-container grid-2x2 match-height">
-    <div class="image-div">
         <img src="img008.webp" alt="">
     </div>
     <div class="image-div">
@@ -334,6 +308,23 @@ Here we have some genuinely nice Yashica D Photos
     <div class="caption"></div>
 </div>
 
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="img021.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="" alt="">
+    </div>
+    <div class="image-div">
+        <img src="" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+
+
 ## Fujica GS645 Pro
 
 <div class="grid-container grid-3x2">
@@ -351,11 +342,140 @@ Here we have some genuinely nice Yashica D Photos
     <div class="caption"></div>
 </div>
 
+## Balda Fixfocus 6x9
+
+HP5+ 400
+
+DRGM stands for "Deutsches Reichsgebrauchsmuster" (German Empire Utility Model)
+
+registered in Germany between 1891 and 1952
+
+Also says BW? Seems to be the Balda brand.
+
+. 1933-1936
+
+The 1936 date comes because I believe mine has the recesses that disappeared in 1936.
+Although, it looks most like the 1936-1938 model, which matches the joining element of the viewfinder side..
+
+https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html
+
+They've got a really great chronology of the Balda Cameras here: https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda.
+
+This guy has a newer version, and a lot of good info. https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/
 
 
+October, 2017ish
 
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="50760007a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="50760004a.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
 
+## Agfa Flexilette
+Tri-X 400
 
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="50700026a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="50700029a.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+## Kodak DualFlex 
+HP5+ 400
+
+![000289480015](0008arst.webp)
+Here she is, in all her glory.
+
+Jan, 2017ish
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="0009arst.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="0010arst.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+I actually cleaned of the lens of this one.
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="0007arst.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="0001arst.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="0003arst.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+## Leica iiia
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="50690004a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="50690009a.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+Vegas, HP5+ 400, october 2017ish.
+
+When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. 
+
+## Nikon F2
+God, what a gorgeous camera.
+HP5+ 400
+October 2017ish
+
+I met a guy at a tradeshow who saw my camera and said, "I have a Nikon F2, but I never use it. I'll sell it to you for $200." I said, "I'll take it".
+
+It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint condition and I keep it as a shelf queen, but I did put at least one roll through it.
+
+![000289480015](50710030a.webp)
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="50710012a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="50710008a.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="50710005a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="50710001a.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
 
 ## Example Class
 ![000289480015](000289480015.webp)
