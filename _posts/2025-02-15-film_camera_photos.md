@@ -434,17 +434,16 @@ Jan, 2017ish
 
 I actually cleaned of the lens of this one.
 
-<div class="grid-container grid-3x2">
+![000289480015](0001arst.webp)
+
+
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="0007arst.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="0001arst.webp" alt="">
-    </div>
-    <div class="image-div">
         <img src="0003arst.webp" alt="">
     </div>
-    <div class="caption"></div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
@@ -543,6 +542,64 @@ It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint 
     <div class="caption">Delta 3200 Jan 2017, vegas</div>
 </div>
 
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="98530003.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="98530026.webp" alt="">
+    </div>
+    <div class="caption">Huntsville, 2016?</div>
+    <div class="caption">Huntsville, 2016?</div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="98530017.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="98530019.webp" alt="">
+    </div>
+    <div class="caption">Huntsville, 2016?</div>
+    <div class="caption">Huntsville, 2016?</div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="01450001.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="01450018.webp" alt="">
+    </div>
+    <div class="caption">Huntsville, 2016?</div>
+    <div class="caption">Huntsville, 2016?</div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="23740021.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="arst0094.webp" alt="">
+    </div>
+    <div class="caption">Birmingham, 2016?</div>
+    <div class="caption">Huntsville, 2016?</div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="23750016.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="70820002 (1).webp" alt="">
+    </div>
+    <div class="caption">Portland</div>
+    <div class="caption">Wears Valley</div>
+</div>
+
+![000289480015](47780021.webp)
+This is the suspicious gentleman who sold me my Nikon FM2 in Portland in 2017.
+
 ## Nikon FM2
 
 <div class="grid-container grid-2x2">
@@ -589,7 +646,7 @@ It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint 
 ## Pentax K1000
 ![000289480015](70830014.webp)
 Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
-
+![000289480015](70830024 edit.webp)
 ## Rollei 35 S
 ![000289480015](54890024.webp)
 
