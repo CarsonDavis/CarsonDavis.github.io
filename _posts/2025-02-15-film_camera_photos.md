@@ -53,42 +53,152 @@ published: False
     }
 </style>
 
-## Xpan
 
-The Hassleblad Xpan is truly a delightful camera. It has the best modern conveniences combined with the nostalgia of olden times.
+
+## Nikon FM
+
+The Nikon FM was my first love. I picked it up at Southerlands in Huntsville for about $150, and it came with a wonderful pancake 50mm 1.8 and a 55mm 3.5 macro lens. 
+
+I now have well over 100 film cameras and more lenses than I want to think about, but some of my favorite shots were taken on this humble system.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="arst0064+(2).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="arst0023a.webp" alt="">
+    </div>
+    <div class="caption">HP5 400 dec 2016, </div>
+    <div class="caption">HP5 400 dec 2016</div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="arst0010.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="23750019.webp" alt="">
+    </div>
+    <div class="caption">HP5 400 july 2016</div>
+    <div class="caption">HP5 400 july 2016</div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="23730001.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="23740021+(2).webp" alt="">
+    </div>
+    <div class="caption">HP5 400 july 2016</div>
+    <div class="caption">HP5 400 july 2016</div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="73360005.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="73360006.webp" alt="">
+    </div>
+    <div class="caption">Delta 3200 Jan 2017, vegas</div>
+    <div class="caption">Delta 3200 Jan 2017, vegas</div>
+</div>
 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289480004 (1).webp" alt="">
+        <img src="98530017.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289480003 (2).webp" alt="">
+        <img src="98530019.webp" alt="">
     </div>
-    <div class="caption">Narrow Alley, 2025</div>
-    <div class="caption">Street Eating, 2025</div>
+    <div class="caption">Huntsville, 2016?</div>
+    <div class="caption">Huntsville, 2016?</div>
 </div>
-
-![000289480002](000289480002.webp)
-![000289470011](000289470011.webp)
-![000289470007](000289470007.webp)
-![000289470001](000289470001.webp)
-![000289480015](000289480015.webp)
-
-## Rapid Omega 200
-
-This is an astonishingly weird camera. Originally used for aerial photography, it was coopted as a press camera. The film is cycled by pulling a giant lever several inches out of the body, the lens is focused with a rotating knob, and it has delightfully goofy viewfinder attachments.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000239390001 (3).webp" alt="">
+        <img src="01450001.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000239390007 (1).webp" alt="">
+        <img src="01450018.webp" alt="">
+    </div>
+    <div class="caption">Huntsville, 2016?</div>
+    <div class="caption">Huntsville, 2016?</div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="47780021.webp" alt="47780021.webp">
+    </div>
+    <div class="image-div">
+        <img src="70820002 (1).webp" alt="">
+    </div>
+    <div class="caption">the suspicious gentleman who sold me my Nikon FM2, Portland, 2017</div>
+    <div class="caption">Wears Valley</div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="23750016.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="arst0094.webp" alt="">
+    </div>
+    <div class="caption">Portland</div>
+    <div class="caption">Huntsville, 2016?</div>
+</div>
+
+
+## Nikon FM2
+The FM2 with a 50mm 1.4 would be my desert island camera, but looking through my photos, it seems I've used it only a fraction as much as my FM or Pentax 67. 
+
+I bought it just before I quit traveling for work, and despite being amazing, it's just not a sexy camera. I
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="51660011a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="51660010a.webp" alt="">
+    </div>
+    <div class="caption">Kentmere 400, Nov 2017 </div>
+    <div class="caption">Kentmere 400, Nov 2017 </div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="51660006a+edit.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="51660009.webp" alt="">
+    </div>
+    <div class="caption">Kentmere 400, Nov 2017 </div>
+    <div class="caption">Kentmere 400, Nov 2017 </div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="" alt="">
+    </div>
+    <div class="image-div">
+        <img src="" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="" alt="">
+    </div>
+    <div class="image-div">
+        <img src="" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+## Pentax K1000
+![000289480015](70830014.webp)
+Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
+![000289480015](70830024 edit.webp)
+
 
 ## Pentax 67
 This is probably the second most used camera I own, after the Nikon FM2. It simply has the best viewfinder of any camera I've used, and it simply takes such wonderful photos.
@@ -108,206 +218,85 @@ Even with inexpensive medium quality scans, the resolution and detail in the Pen
 
 If you want to take gorgeous landscape shots and worry about cropping later, it's hard to beat a Pentax 67 with a 45mm lens.
 
-<div class="grid-container grid-3x2">
-    <div class="image-div">
-        <img src="img011_1.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="Grain.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="Grain+02.webp" alt="">
-    </div>
-    <div class="caption">Original shot. Notice the little leaf just above the trunk near the center</div>
-    <div class="caption">Scan</div>
-    <div class="caption">Microscope</div>
-</div>
 
-Even the level of detail shown in the above scans does not compare with a drum scan, or even better, what a dedicated individual can achieve with stacked macro shots with a DSLR. Take a look at the difference between the scan produced at 6400 dpi by my V600 and the same area seen under a microscope.
-
-Here, the microscope image closely resembles the quality you could expect out of a stacked macro. 
-
-Now obviously your composition, subject, and lighting will always matter more than any amount of detail. 
-
-
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="img077.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img076-2.webp" alt="">
     </div>
     <div class="image-div">
         <img src="img074.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
-    <div class="caption"></div>
 </div>
 one
 
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="img068-2.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img062-2.webp" alt="">
     </div>
     <div class="image-div">
         <img src="img053-2.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
-    <div class="caption"></div>
 </div>
 two
 
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289510010.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="000289510009.webp" alt="">
+        <img src="1000022031.webp" alt="">
     </div>
     <div class="image-div">
         <img src="img010_1.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
-    <div class="caption"></div>
 </div>
 three
 
-<div class="grid-container grid-3x2">
-    <div class="image-div">
-        <img src="img007_1.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img008_1.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="000289560010.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-four
-
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="000289560009.webp" alt="">
     </div>
     <div class="image-div">
         <img src="000289560002.webp" alt="">
     </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-five
+four
 
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="97000004.webp" alt="">
     </div>
     <div class="image-div">
         <img src="97000001.webp" alt="">
     </div>
-    <div class="image-div">
-        <img src="img002.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-six
-<div class="grid-container grid-3x2">
-    <div class="image-div">
-        <img src="img010.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
+![arst](1000022030.webp)
+
+![arst](1000022028.webp)
 ![000289480015](000289510008+(2).webp)
-![000289480015](000289510007+(1).webp)
-
 
 ## Yashica D
-<div class="grid-container grid-2x2 match-height">
-    <div class="image-div">
-        <img src="img009.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img014.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-![000289480015](signal-2020-06-20-210850_002.gif)
-
-Heights supposedly matched...
-
-<div class="grid-container grid-2x2 match-height">
-    <div class="image-div">
-        <img src="img005.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img012.webp" alt="">
-    </div>
-    <div class="caption">Tree</div>
-    <div class="caption"></div>
-</div>
-
-<div class="grid-container grid-2x2 match-height">
-    <div class="image-div">
-        <img src="img006.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img011.webp" alt="">
-    </div>
-    <div class="caption">garden edging</div>
-    <div class="caption"></div>
-</div>
-
-<div class="grid-container grid-2x2 match-height">
-    <div class="image-div">
-        <img src="img008.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img015.webp" alt="">
-    </div>
-    <div class="caption">portrait</div>
-    <div class="caption"></div>
-</div>
 
 Here we have some genuinely nice Yashica D Photos
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="img018.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img017.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img039.webp" alt="">
+        <img src="81200005 edit.webp" alt="">
     </div>
     <div class="caption"></div>
-    <div class="caption"></div>
-    <div class="caption"></div>
+    <div class="caption">HP5 400, New Orleans, Feb 2017</div>
 </div>
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="img021.webp" alt="">
     </div>
@@ -317,7 +306,7 @@ Here we have some genuinely nice Yashica D Photos
     <div class="caption"></div>
     <div class="caption">HP5 400, Washington, Nov 2017</div>
 </div>
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="51650005a.webp" alt="">
     </div>
@@ -328,65 +317,14 @@ Here we have some genuinely nice Yashica D Photos
     <div class="caption">HP5 400, Washington, Nov 2017</div>
 </div>
 
-<div class="grid-container grid-3x2">
-    <div class="image-div">
-        <img src="81200005 edit.webp " alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption">HP5 400, New Orleans, Feb 2017</div>
-    <div class="caption"></div>
-</div>
-
-
-## Fujica GS645 Pro
-
-<div class="grid-container grid-3x2">
-    <div class="image-div">
-        <img src="img049.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img056-3.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
-<div class="grid-container grid-3x2">
-    <div class="image-div">
-        <img src="arsimg054.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img055-2.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
 ## Balda Fixfocus 6x9
 
+I have a lot of 1910s-1930s folders floating around the house, very few of which I have actually bothered to run film through. I forget now what inspired me to shoot this particular camera, but it produced some very interesting lo-fi images for my trouble. 
+
+The camera is unbranded but the film viewing window cover bears the marks: "DRGM" and "BW". This leads us to identify it as a Balda 6x9 of unknown model, probably a Fixfocus, produced between 1933 and 1938. 
+
+I came across a few nice resouces while researching it, including this page on the [Fixfocus specifically](https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html), a lovely [interactive timeline of the Balda Camera](https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda) models, and an in depth review of a [newer iteration of my camera](https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/). 
 HP5+ 400
-
-DRGM stands for "Deutsches Reichsgebrauchsmuster" (German Empire Utility Model)
-
-registered in Germany between 1891 and 1952
-
-Also says BW? Seems to be the Balda brand.
-
-. 1933-1936
-
-The 1936 date comes because I believe mine has the recesses that disappeared in 1936.
-Although, it looks most like the 1936-1938 model, which matches the joining element of the viewfinder side..
-
-https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html
-
-They've got a really great chronology of the Balda Cameras here: https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda.
-
-This guy has a newer version, and a lot of good info. https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/
-
-
-October, 2017ish
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -395,9 +333,11 @@ October, 2017ish
     <div class="image-div">
         <img src="50760004a.webp" alt="">
     </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
+    <div class="caption">Nevada, HP5+ 400, October, 2017</div>
+    <div class="caption">Nevada, HP5+ 400, October, 2017</div>
 </div>
+
+Pay attention to the wide shot of the river, as I took the same photo with the lovely Agfa Flexilette below.
 
 ## Agfa Flexilette
 Tri-X 400
@@ -498,155 +438,13 @@ It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint 
     <div class="caption">HP5 400, Huntsville, 2017</div>
 </div>
 
+## Voigtlander Prominent
 
-## Nikon FM
+50mm 1.5, tri-max 400
 
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="arst0064+(2).webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="arst0023a.webp" alt="">
-    </div>
-    <div class="caption">HP5 400 dec 2016, </div>
-    <div class="caption">HP5 400 dec 2016</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="arst0010.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="23750019.webp" alt="">
-    </div>
-    <div class="caption">HP5 400 july 2016</div>
-    <div class="caption">HP5 400 july 2016</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="23730001.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="23740021+(2).webp" alt="">
-    </div>
-    <div class="caption">HP5 400 july 2016</div>
-    <div class="caption">HP5 400 july 2016</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="73360005.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="73360006.webp" alt="">
-    </div>
-    <div class="caption">Delta 3200 Jan 2017, vegas</div>
-    <div class="caption">Delta 3200 Jan 2017, vegas</div>
-</div>
+![000289480015](38770031.webp)
 
 
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="98530003.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="98530026.webp" alt="">
-    </div>
-    <div class="caption">Huntsville, 2016?</div>
-    <div class="caption">Huntsville, 2016?</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="98530017.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="98530019.webp" alt="">
-    </div>
-    <div class="caption">Huntsville, 2016?</div>
-    <div class="caption">Huntsville, 2016?</div>
-</div>
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="01450001.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="01450018.webp" alt="">
-    </div>
-    <div class="caption">Huntsville, 2016?</div>
-    <div class="caption">Huntsville, 2016?</div>
-</div>
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="23740021.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="arst0094.webp" alt="">
-    </div>
-    <div class="caption">Birmingham, 2016?</div>
-    <div class="caption">Huntsville, 2016?</div>
-</div>
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="23750016.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="70820002 (1).webp" alt="">
-    </div>
-    <div class="caption">Portland</div>
-    <div class="caption">Wears Valley</div>
-</div>
-
-![000289480015](47780021.webp)
-This is the suspicious gentleman who sold me my Nikon FM2 in Portland in 2017.
-
-## Nikon FM2
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="51660011a.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="51660010a.webp" alt="">
-    </div>
-    <div class="caption">Kentmere 400, Nov 2017 </div>
-    <div class="caption">Kentmere 400, Nov 2017 </div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="51660006a+edit.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="51660009.webp" alt="">
-    </div>
-    <div class="caption">Kentmere 400, Nov 2017 </div>
-    <div class="caption">Kentmere 400, Nov 2017 </div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
-## Pentax K1000
-![000289480015](70830014.webp)
-Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
-![000289480015](70830024 edit.webp)
 ## Rollei 35 S
 ![000289480015](54890024.webp)
 
@@ -662,10 +460,91 @@ Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
 </div>
 
 
+## Rapid Omega 200
 
+This is an astonishingly weird camera. Originally used for aerial photography, it was coopted as a press camera. The film is cycled by pulling a giant lever several inches out of the body, the lens is focused with a rotating knob, and it has delightfully goofy viewfinder attachments.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000239390001 (3).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000239390007 (1).webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+## Xpan
+
+The Hassleblad Xpan is truly a delightful camera. It has the best modern conveniences combined with the nostalgia of olden times.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000289480004 (1).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000289480003 (2).webp" alt="">
+    </div>
+    <div class="caption">Narrow Alley, 2025</div>
+    <div class="caption">Street Eating, 2025</div>
+</div>
+
+![000289480002](000289480002.webp)
+![000289470007](000289470007.webp)
+![000289470001](000289470001.webp)
+![000289480015](000289480015.webp)
+
+## Fujica GS645 Pro
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img049.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img056-3.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="arsimg054.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img055-2.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000289500007 (1).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000289500002 (1).webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="1000022025.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="1000022027.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![arst](1000022029.webp)
 
 ## Example Class
-![000289480015](000289480015.webp)
+![000289480015]()
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -692,3 +571,52 @@ Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+
+
+## Removed 
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img007_1.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img008_1.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="" alt="">
+    </div>
+    <div class="image-div">
+        <img src="" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![000289480015](000289510007+(1).webp)
+![000289470011](000289470011.webp)
+
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="98530003.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="98530026.webp" alt="">
+    </div>
+    <div class="caption">fm...Huntsville, 2016?</div>
+    <div class="caption">Huntsville, 2016?</div>
+</div>
+
+![000289470011](img076-2.webp)
+![000289470011](img062-2.webp)
+![000289470011](img010.webp)
+![000289470011](000289560010.webp)
+![000289470011](000289510010.webp)
+![000289470011](000289510009.webp)
+![000289470011]()
+![000289470011]()
