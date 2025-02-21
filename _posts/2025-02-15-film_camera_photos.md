@@ -69,10 +69,22 @@ published: False
 </div>
 
 
-The Nikon FM was my first love. I picked it up at Southerlands in Huntsville for about $150, and it came with a wonderful pancake 50mm 1.8 and a 55mm 3.5 macro lens. 
+### Overview
+The Nikon FM was my first love. I picked it up at Southerlands in Huntsville for about $150, and it came with a wonderful pancake 50mm f/1.8 and a 55mm f/3.5 macro lens. It's got a max shutter speed of 1/1000, internal light metering, and viewfinder display of both aperture and shutter speed. It's considered "fully mechanical" as you do not need batteries to operate it (aside from the lightmeter).
 
-I now have well over 100 film cameras and more lenses than I want to think about, but some of my favorite shots were taken on this humble system.
+Some small details you might want to know...the unlike the FM2, FM has an adjustable aperture interface that lets you use the 1960s Nikon glass that uses an aperture prong. Additionally, although I have nothing but praise for my pancake Series E, you should know that there are at least variants. I have the later chrome ring version, and it is excellent. The plastic version is not as good. 
 
+And...It's an absolute dream of a manual film camera to use. Everything about it is just so well thought out, and it just _works_. 
+
+I now have well over 100 film cameras and more lenses than I want to think about, but it's honestly hard to beat the Nikon FM.
+
+### Tech Specs
+Serial Number: FM 3091999
+Date: 1977-1982
+Shutter Speeds: 1s - 1/1000
+Lens: 50mm/1.8 Series E Chrome Ring, 3291471, 1981-1985
+
+### Photo Samples
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="arst0064+(2).webp" alt="">
@@ -160,6 +172,7 @@ I now have well over 100 film cameras and more lenses than I want to think about
 
 ## Nikon FM2
 
+
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250219_213546.webp" alt="">
@@ -171,10 +184,24 @@ I now have well over 100 film cameras and more lenses than I want to think about
     <div class="caption"></div>
 </div>
 
-The FM2 with a 50mm 1.4 would be my desert island camera, but looking through my photos, it seems I've used it only a fraction as much as my FM or Pentax 67. 
+### Nikon FM2 Overview
+If serial numbers of 5100016 - 5858632 were made between the years 1981 - 2005 and we assume an even distribution, what year and month was 5220802 made? This gives us a date of early 1985.
 
-I bought it just before I quit traveling for work, and despite being amazing, it's just not a sexy camera. I
+Arguably the best manual film SLR ever made, the Nikon FM2 is a brilliant and user-friendly tank. It takes everything good about the FM and perfectly refines it. It boasts a gorgeous honeycomb shutter that shoots 1/4000th that frankly makes me cringe any time I pick up some inferior 1/1000 or, god forbid, 1/500 camera. Fun fact, the famous photo of the Afgan Girl was taken with an FM2.
 
+Honestly, I have shelves full of cool cameras to choose from, but in back of my mind anytime I look at my Leica or my Fujica or my Pentax or my Voigtlander, I'm always remembering the unrivaled versatility of a 50/1.4 lens, a 1/4000th shutter, and built in light meter and split prism.
+
+I've shot with most of the 1970s-1990s mechanical 35mm SLRs, Canon, Olympus, Pentax, Exkacta, Cavalier, Kodak...you name it, and the FM2 is the best of the best. For all you sticklers out there, yes, if you widen the scope to include cameras with automatic features then the lust-worthy Nikon FM3a is the best.
+
+I bought this camera right around the time that I stopped traveling for work and started shooting medium format, so compared to the FM, I have fewer photos to show for it. But I have a lot of love for this camera.
+
+### Tech Specs
+Serial Number: N 7612622
+Date: (June 1987-April 1989)[https://www.youtube.com/watch?v=4j4gfKmY5bs]
+Shutter Speeds: 1s - 1/4000
+Lens: Nikkor 50mm/1.4 AIS, 1981-2005, 5220802, ~1985
+
+### Photo Samples
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="51660011a.webp" alt="">
@@ -196,8 +223,37 @@ I bought it just before I quit traveling for work, and despite being amazing, it
     <div class="caption">Kentmere 400, Nov 2017 </div>
 </div>
 
-
 ## Pentax K1000
+
+The Pentax K1000 is commonly cited as being _the_ most popular student photography camera to ever exist. 
+
+In my estimation, it is inferior to the FM or the FM2 in the details. The lens release button is cheap and fragile, the max speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no view finder display of aperture or shutter speed, the shutter speed dial is significantly less easy to adjust, and at least on my copy, the viewfinder is inferior. To it's credit, some people prefer it's needle light meter to the Nikon LEDs. However, it also drains lightmeter batteries much more obviously. 
+
+Supposedly, if your Pentaprism says AHCO, then it was made in Japan, not Hong Kong. However, mine has a sticker on the bottom that clearly says "ASSEMBLED IN HONG KONG". With a serial number of 7093688, supposedly mine was made 1982-1983
+
+I will say that I quite like the central microprism.
+
+
+[b]Model[/b]: K1000
+[b]Color of faux leather[/b]:Black
+
+[b]Location of serial number[/b]: Bottom plate stamped
+[b]Manufactured/assembled in[/b]: Hong Kong
+[b]Focusing screen[/b]: Microprism
+[b]Location of manufacturing/assembling information:[/b] Bottom plate sticker
+
+[b]Asahi Optical logo on prism housing[/b]: Yes
+[b]Asahi name above Pentax name on prism housing[/b]: Yes
+[b]Asahi Opt. Co. engraved on back side of top cover[/b]: Yes
+[b]"Bump" on top plate near rewind crank[/b]: No
+
+[b]Top plate[/b]: Metal
+[b]Bottom plate[/b]: Metal
+[b]Battery cover[/b]: Threads
+
+[b]Weight (without batteries and body cap)[/b]: 606g
+[b]Year of original purchase[/b]: 2017
+
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -233,19 +289,6 @@ Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
 
 ## Pentax 67
 
-
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="20250219_213003.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="20250219_213325.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250219_213306.webp" alt="">
@@ -273,7 +316,7 @@ This is probably the second most used camera I own, after the Nikon FM2. It simp
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289570005+(2).webp" alt="">
+        <img src="000289570005_rectangle_2.webp" alt="">
     </div>
     <div class="image-div">
         <img src="000289570005+(3).webp" alt="">
@@ -499,12 +542,12 @@ Pay attention to the wide shot of the river, as I took the same photo with the l
 
 HP5+ 400
 
-![000289480015](0008arst.webp)
-Here she is, in all her glory.
-
 Jan, 2017ish
 
-<div class="grid-container grid-2x2">
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="0008arst.webp" alt="">
+    </div>
     <div class="image-div">
         <img src="0009arst.webp" alt="">
     </div>
@@ -572,6 +615,15 @@ When I bought this camera, it had a non-trivial amount of mold in the lens, whic
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+
+## Specs F1
+I have an F1, 6475548, from Nov 1961 to Feb 1962. You can date yours [here](http://www.destoutz.ch/typ_production_data_f.html).
+F1 lens, 50mm 1.4, 321577, 1962-1967
+
+## Specs F2
+My F2 is 7704912, which dates it to Nov-Dec 1976. [Here](http://www.destoutz.ch/typ_production_data_f2.html).
+85mm/1.8, 430447, Mar 1975 - Feb 1977. [Here](http://www.photosynthesis.co.nz/nikon/serialno.html)
+
 
 God, what a gorgeous camera.
 HP5+ 400
@@ -711,6 +763,8 @@ The Hassleblad Xpan is truly a delightful camera. It has the best modern conveni
 ![000289480015](000289480015.webp)
 
 ## Fujica GS645 Pro
+
+[bellows replacement](https://sites.google.com/view/fuji-gs645-repairs-and-info/home)
 
 ![000289480015](fujica645_slow.gif)
 
@@ -873,10 +927,55 @@ The Hassleblad Xpan is truly a delightful camera. It has the best modern conveni
 ![000289470011]()
 
 
-20250219_215427.webp kodak automatic
+<!-- 20250219_215427.webp kodak automatic
 20250219_215411.webp kodak automatic side
 20250219_214644.webp fdeckel munchen compur folding 35mm
 20250219_214633.webp fdeckel munchen compur folding 35mm side
 20250219_214607.webp fdeckel munchen compur folding 35mm closed front
 20250219_214249.webp zeiss ikon
-20250219_214229.webp zeiss ikon side
+20250219_214229.webp zeiss ikon side -->
+
+
+
+slesa remove
+alex
+candle girl
+railing
+cornfield, landscape
+seattle portrait
+sidewalk shadow
+downtown motel
+downtown alley
+
+
+bishwas
+alex
+lonely road
+robbie
+electric pole
+pentax cat
+robbie and majo
+chicago oblisk
+carson stare
+chicago alley
+robbie rock
+robbie rock 2
+add 50710006.JPG
+
+carson
+pentax cat
+robbie rock 1,2
+
+
+
+march 18 - apr 20
+
+may 5th, 2 weeks early..... apr 25?
+
+jaipur
+kerala (5 days)
+assam
+
+
+bishwash bangalore
+- mysore daytrip
