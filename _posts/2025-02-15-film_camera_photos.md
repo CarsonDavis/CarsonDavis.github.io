@@ -281,6 +281,8 @@ Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
 
 ## Pentax 67
 
+These days, I think the best place to buy custom grips is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. He does dyed and stabilized wood for both left and right grips for around $200 total.
+
 If I'im going somewhere specifically to take pictures, the pentax is at the pot of my list.
 
 If I'm going somewhere to do something normal, and considering brining a camera for fun, the pentax is at the bottom of my list.
@@ -668,13 +670,42 @@ When I bought this camera, it had a non-trivial amount of mold in the lens, whic
     <div class="caption"></div>
 </div>
 
+The Nikon F2 is the professional counterpart to the FM2. It's a larger and heavier camera in every dimension, and my verison wears a chonky metering prism. All of it's tiny details are more professional and refined
+
+- self timer: it lets you set specific times, 2-10 seconds, and has a reset button if you decide not to use the timer
+- aperture preview: replaces the FM2's plastic lever with fancy black and chrome button that matches the lens release
+- mirror lockup: adds this feature as a twisting lever on the aperture preview button
+- shutter lock: adds a second shutter lock as rotating dial around the shutter
+- T mode: adds a T mode to the shutter speed dial, which holds down the shutter button after it is pressed and can be used in conjunction with bulb mode
+- film rewind: adds knurling to the film rewind knob
+- view finder HUD: instead of the shutter speed, lightmeter reading, and aperture being scattered across the viewfinder, the F2 consolidates all the information into the bottom right of the viewfinder. additionally, while the FM2's ss reading will be hard to see if you are pointing the camera at a dark backdrop, the F2 uses ambient light from the top and is consistently more viewable. as a side effect of this design, you can meter from the top of the camera without needing to look through the viewfinder
+- ISO selection: goes slightly lower than the FM2, down to 6 instead of 12
+- Viewfinder: interchangeable
+
+There are a few downsides. Namely, the 1/2000 shutter instead of the 1/4000, and the added bulk and weight.
+
+DP-1 finder 651409
+
+Rokinon 14mm f/2.8
+24mm f/2.8, non-ai (converted), 500113
+28mm f/2.8, AI-S Series E, 2025368
+35mm f/2, non-ai, 884667
+50mm f/1.8 AI-S Series E, 3291471
+50mm f/1.4, non-ai, 321577, 1962-1967
+50mm f/1.4, AI-S, 5220802
+55mm f/3.5, non-ai (converted), 743637
+60mm f/2.8D
+85mm f/1.8 non-ai, 430447, [1975-1977](http://www.photosynthesis.co.nz/nikon/serialno.html)
+85mm f/1.8D
+105mm f/2.8D 
+
+
 ## Specs F1
 I have an F1, 6475548, from Nov 1961 to Feb 1962. You can date yours [here](http://www.destoutz.ch/typ_production_data_f.html).
-F1 lens, 50mm 1.4, 321577, 1962-1967
 
 ## Specs F2
 My F2 is 7704912, which dates it to Nov-Dec 1976. [Here](http://www.destoutz.ch/typ_production_data_f2.html).
-85mm/1.8, 430447, Mar 1975 - Feb 1977. [Here](http://www.photosynthesis.co.nz/nikon/serialno.html)
+85mm/1.8, 430447, Mar 1975 - Feb 1977. [Here]()
 
 
 God, what a gorgeous camera.
@@ -684,6 +715,7 @@ October 2017ish
 I met a guy at a tradeshow who saw my camera and said, "I have a Nikon F2, but I never use it. I'll sell it to you for $200." I said, "I'll take it".
 
 It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint condition and I keep it as a shelf queen, but I did put at least one roll through it.
+
 
 ![000289480015](50710030a.webp)
 
