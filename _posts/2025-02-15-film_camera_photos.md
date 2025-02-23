@@ -72,6 +72,8 @@ published: False
 ### Overview
 The Nikon FM was my first love. I picked it up at Southerlands in Huntsville for about $150, and it came with a wonderful pancake 50mm f/1.8 and a 55mm f/3.5 macro lens. It's got a max shutter speed of 1/1000, internal light metering, and viewfinder display of both aperture and shutter speed. It's considered "fully mechanical" as you do not need batteries to operate it (aside from the lightmeter).
 
+Something to know about the pancake, it's minimum focusing distance is ~0.6 compared to the 0.45 of the 50mm f/1.4.
+
 Some small details you might want to know...the unlike the FM2, FM has an adjustable aperture interface that lets you use the 1960s Nikon glass that uses an aperture prong. Additionally, although I have nothing but praise for my pancake Series E, you should know that there are at least variants. I have the later chrome ring version, and it is excellent. The plastic version is not as good. 
 
 And...It's an absolute dream of a manual film camera to use. Everything about it is just so well thought out, and it just _works_. 
@@ -195,6 +197,8 @@ I've shot with most of the 1970s-1990s mechanical 35mm SLRs, Canon, Olympus, Pen
 
 I bought this camera right around the time that I stopped traveling for work and started shooting medium format, so compared to the FM, I have fewer photos to show for it. But I have a lot of love for this camera.
 
+[Fantastic overview](https://www.youtube.com/watch?v=OYqwdZe9dqM) of all the FM and FM2 features.
+
 ### Tech Specs
 Serial Number: N 7612622
 Date: (June 1987-April 1989)[https://www.youtube.com/watch?v=4j4gfKmY5bs]
@@ -225,35 +229,23 @@ Lens: Nikkor 50mm/1.4 AIS, 1981-2005, 5220802, ~1985
 
 ## Pentax K1000
 
-The Pentax K1000 is commonly cited as being _the_ most popular student photography camera to ever exist. 
+### Overview 
+The Pentax K1000 is commonly cited as being _the_ most popular student photography camera to ever exist. It was manufactured for over 20 years, from 1976 to 1977, and it is estimated that over 3 million were made. With it's rugged metal construction, simple controls, and built in light meter, it is easy to see the appeal. The camera was typically bundled with a 50/2 lens, but the K mount offers plenty of nicer glass to choose from, including a 50/1.4, an 85/1.7, and a 135/2.8.  
 
-In my estimation, it is inferior to the FM or the FM2 in the details. The lens release button is cheap and fragile, the max speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no view finder display of aperture or shutter speed, the shutter speed dial is significantly less easy to adjust, and at least on my copy, the viewfinder is inferior. To it's credit, some people prefer it's needle light meter to the Nikon LEDs. However, it also drains lightmeter batteries much more obviously. 
+It is simple, it is reliable, and it is cheap. It takes perfectly good photos, and if you can pick one up for a budget price, you will not be disappointed.
 
-Supposedly, if your Pentaprism says AHCO, then it was made in Japan, not Hong Kong. However, mine has a sticker on the bottom that clearly says "ASSEMBLED IN HONG KONG". With a serial number of 7093688, supposedly mine was made 1982-1983
+However, if you are looking for the best 35mm SLR shooting experience, this is not it. In my estimation, it is inferior to my Nikons in almost every detail. The lens release button feels cheap and fragile, the max shutter speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no aperture preview, there is no view finder display of aperture or shutter speed, the shutter speed dial is significantly less easy to adjust, and at least on my copy, the viewfinder is inferior. While my FMs have both a split prism and a microprism, the K1000 only has a microprism, and in general it feels dimmer and worse.
 
-I will say that I quite like the central microprism.
+To it's credit, some people prefer the Pentax's needle light meter to the Nikon FM and FM2 LEDs. However, the Pentax light meter is always on, unlike the Nikon, which is turned off via the film rewind lever. You can trick the Pentax light meter into not using as much electricity by using a lens cap, but I still find that my Pentax batteries are always dead, while my Nikons last years. 
 
+Supposedly, if your Pentaprism says AHCO, then it was made in Japan, not Hong Kong. However, mine has a sticker on the bottom that clearly says "ASSEMBLED IN HONG KONG". Actually, while trying to track down my 50/2 which I'm sure I own for this camera, I discovered that I actually own TWO Pentax K1000s. My second must be a newer model, as it only says Pentax on the prism.
 
-[b]Model[/b]: K1000
-[b]Color of faux leather[/b]:Black
-
-[b]Location of serial number[/b]: Bottom plate stamped
-[b]Manufactured/assembled in[/b]: Hong Kong
-[b]Focusing screen[/b]: Microprism
-[b]Location of manufacturing/assembling information:[/b] Bottom plate sticker
-
-[b]Asahi Optical logo on prism housing[/b]: Yes
-[b]Asahi name above Pentax name on prism housing[/b]: Yes
-[b]Asahi Opt. Co. engraved on back side of top cover[/b]: Yes
-[b]"Bump" on top plate near rewind crank[/b]: No
-
-[b]Top plate[/b]: Metal
-[b]Bottom plate[/b]: Metal
-[b]Battery cover[/b]: Threads
-
-[b]Weight (without batteries and body cap)[/b]: 606g
-[b]Year of original purchase[/b]: 2017
-
+### Tech Specs
+Serial Number: 7093688
+Date: 1982-1983
+Shutter Speeds: 1s - 1/1000
+Lens: SMC Pentax-M 28mm f/3.5, 6873910
+Weight: 606g
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -289,17 +281,45 @@ Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
 
 ## Pentax 67
 
+If I'im going somewhere specifically to take pictures, the pentax is at the pot of my list.
+
+If I'm going somewhere to do something normal, and considering brining a camera for fun, the pentax is at the bottom of my list.
+
+
+"The prism viewfinder on the pentax absolutely blows. the pentax just has a matte focusing screen, no split prosm screen. so to focus you need to be able to actually see that it is in perfec focus. and the prism viewfinder takes up an unacceptably small portion of my viewing antgle. i also have the chimney pinder, which is magnificent. easily the best viewfinder eperience n any camera tha i own. it greatly increases the camera volume and looks like shit too.
+
+The 67 has a brighter viewfinder than the 6x7 too?
+
+Minimum focusing distance. My nikon has 0.45, while the 105 is 1m. There exists a 90/2.8 that has 0.65m, which is a gain of 13.7 inches in focusing.
+
+
+actual measurements of my negatives: pentax 4.44, fuji 2.77
+
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213306.webp" alt="">
+        <img src="20250222_134457.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_213356.webp" alt="">
+        <img src="20250222_134701.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250219_213356.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250222_134739.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+This is probably the most iconic configuration of the camera, with the metered prism, the 105mm f/2.4 lens with the classic square hood, and the wooden grip. 
+
+I don't honestly use it all that often like this, instead preferring the configuration below, with the chimney finder, the wonderful 45mm f/4.0, and a custom burl wood grip.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -312,7 +332,38 @@ Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
     <div class="caption">45mm</div>
 </div>
 
-This is probably the second most used camera I own, after the Nikon FM2. It simply has the best viewfinder of any camera I've used, and it simply takes such wonderful photos.
+### Overview
+
+The original Pentax 6x7 was released in 1969, then the MLU version was release in 1976 with improved with mirror lockup and and a better film advance, and finally the 67 was released in 1990, with improvements to metering and shutter timing. 
+
+The actual size of the Pentax negative is about 56x70mm, which gives it a final area of 3920mm^2, or about 4.5x the size of a 35mm negative. 
+
+10 images per roll? I have the plain focusing screen, which is relatively uncommon compared to the standard central microprism, considering that a screen replacement requires a technician and calibration.
+
+This is by far my most expensive film system. For the body, two finders, two lenses, the original grip, and a custom grip, I've paid an uncomfortable $1333 for the body, lenses, and all the accessories since 2019. Even only considering my slimmed down configuration, it still totals $750. Looking back, the metered prism and the standard hand grip were a waste of money that I would encourage any potential buyer to avoid.
+
+The shutter speed selection dial is esecially hard to use when the metered finder is installed, so I 3d printed a ribbed sleave that increases the grip.
+
+If you want to buy one of these for yourself, note you should avoid the original 6x7 without mirror lock up, as it has less a reliable film advance  
+
+
+
+<!-- body $297
+custom Grip $139
+hand grip $130
+Chimney $50
+metering prism $149
+200/4 $110
+105/2.4 $200
+45mm/4 $258 
+165/2.8 $230
+-->
+
+
+First shots, may 24, 2019 was when i sent them to kyle
+
+My cu†om grip came from Bangkok, from the charmingly named, "Village no. 1". It is a beautiful piece of burl wood that fits the camera perfectly. I also have a custom 3d printed ribbed sleeve that makes the shutter speed dial easier to use.
+45/4 + $257
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -420,15 +471,14 @@ four
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_214014.webp" alt="">
+        <img src="20250222_151128.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_214032.webp" alt="">
+        <img src="20250222_151143.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-
 
 Here we have some genuinely nice Yashica D Photos
 <div class="grid-container grid-2x2">
@@ -558,6 +608,8 @@ Jan, 2017ish
     <div class="caption"></div>
 </div>
 
+This was maybe the third film camera I ever shot with, and the first one that I did any work on. Not too complicated of a job, but when I bought it for $6 at an estate sale, the viewfinder was so dirty it could barely be used. Thankfully they are very easy to take apart for quick clean.
+
 I actually cleaned of the lens of this one.
 
 ![000289480015](0001arst.webp)
@@ -659,6 +711,10 @@ It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint 
 
 ## Voigtlander Prominent
 
+This camera is so wierd.
+
+
+
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250219_213746.webp" alt="">
@@ -677,6 +733,8 @@ It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint 
 
 
 ## Rollei 35 S
+
+cuase it is zone focus i carry it on my wrist. i ste tthe focus to like 15 ft and f/8 and just bring it to my eye and shooot. thejight meter is built into the top of the body, so as you walk around you can be tweaking the lm withough looking through the viewfinder. if this camera had a rangefinder, i wouldn't shoot with anything else. i adore this camera.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -763,6 +821,20 @@ The Hassleblad Xpan is truly a delightful camera. It has the best modern conveni
 ![000289480015](000289480015.webp)
 
 ## Fujica GS645 Pro
+
+A guy on ebay was asking $200 for this camera, but I offered him $150 and he accepted. He had test photos, but claimed it had a broken lightmeter, broken film advance, and a broken rangefinder, not to mention gross black stuff all over the logo. 
+
+Bought for $171.88 after tax and shipping in Jan 2021. It was listed as having a broken light meter. 
+
+This was during covid, and the perfect ones I was looking at were $700, so I figured even if I couldn't fix it, I could still use it as a zone focus camera, and find out if I wanted to spend real money.
+
+When i got it, there was mold in the lens, the rangefinder seemed to partially work but slip sometimes. the lightmeter seemed to have an electrical contact issue, because it would actually occassionally work when you pressed _almost_ to taking the photo.
+
+Apparently i cut a glass screen just to test the rangefinder, and confirmed that it worked perfectly.
+
+one time the shutter button stuck and the camera took a bunch of photos as i cocked the film without me realizing
+
+https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
 
 [bellows replacement](https://sites.google.com/view/fuji-gs645-repairs-and-info/home)
 
