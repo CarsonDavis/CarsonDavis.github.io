@@ -53,7 +53,10 @@ published: False
     }
 </style>
 
+## Introduction
+So I've got a lot of film cameras, something like 120 at last count. I've been collecting and shooting them for around a decade, and I've managed to amass a couple neat cameras and a few decent photos. 
 
+Sometime in the future I'll document each and every one of my film cameras and put them in their historical context, but this will not be that post. Here I'll just focus on the experience of shooting them, make some comparisons, maybe give some technical specs, and of course show some photos.
 
 ## Nikon FM
 
@@ -68,23 +71,33 @@ published: False
     <div class="caption"></div>
 </div>
 
+### Nikon FM: Overview
+The Nikon FM was launched in 1977 as a fully mechanical 35mm SLR aimed at advanced amateurs. It was a lighter and more focused version of the professional F series cameras, offering reliability, simplicity, and durability at a more affordable price. In an age when many cameras were beginning to rely on batteries to operate, it promised a reliable fully mechanical operation that appealed to amateurs and professionals alike. 
 
-### Overview
-The Nikon FM was my first love. I picked it up at Southerlands in Huntsville for about $150, and it came with a wonderful pancake 50mm f/1.8 and a 55mm f/3.5 macro lens. It's got a max shutter speed of 1/1000, internal light metering, and viewfinder display of both aperture and shutter speed. It's considered "fully mechanical" as you do not need batteries to operate it (aside from the lightmeter).
-
-Something to know about the pancake, it's minimum focusing distance is ~0.6 compared to the 0.45 of the 50mm f/1.4.
-
-Some small details you might want to know...the unlike the FM2, FM has an adjustable aperture interface that lets you use the 1960s Nikon glass that uses an aperture prong. Additionally, although I have nothing but praise for my pancake Series E, you should know that there are at least variants. I have the later chrome ring version, and it is excellent. The plastic version is not as good. 
-
-And...It's an absolute dream of a manual film camera to use. Everything about it is just so well thought out, and it just _works_. 
-
-I now have well over 100 film cameras and more lenses than I want to think about, but it's honestly hard to beat the Nikon FM.
+### My Camera
+This was my very first film camera, and I've put more rolls of film through it than anything else I own. I bought it at Southerlands Photo in Huntsville in mid‑2016 for about $150. It came bundled with the minimalist pancake 50mm f/1.8 and a 55mm f/3.5 macro lens. Over the next two years, while traveling extensively for work, I took this camera everywhere. This camera just works. It's small, reliable, take great glass, and I love it. 
 
 ### Tech Specs
-Serial Number: FM 3091999
-Date: 1977-1982
-Shutter Speeds: 1s - 1/1000
-Lens: 50mm/1.8 Series E Chrome Ring, 3291471, 1981-1985
+- **Dates Manufactured:** 1977–1982  
+- **Camera Type:** 35mm SLR 
+- **Shutter Speeds:** 1s to 1/1000s (with Bulb mode available)  
+- **Format:** 35mm  
+- **Primary Lens:** 50mm f/1.8 Series E Chrome Ring (3291471, from 1981–1985)  
+- **Serial Number:** FM 3091999  
+- **Key Features:**  
+  - 60/40 center weighted light metering.  
+  - Viewfinder displays both the shutter speed and aperture.
+
+### Final Thoughts
+**Light Meter**: Not everyone loves the LED light meter, instead preferring the needle found in the early F models. 
+
+**View Finder**: Almost perfect, with a split prism, a microprism, and both aperture and shutter speed displayed. I do slightly prefer the F2 viewfinder's placement of the shutter and aperture.
+
+**Lens Compatibility**: Unlike the later FM2, the FM has a folding aperture interface lever that lets you mount the oldest non-ai lenses.
+
+**Pancake Lenses**: The Series E pancake lenses were a cheaper and smaller alternative to the faster and more expensive Nikkor lenses. I own plenty of both varieties, and it is true that the Series E are cheaper and have more plastic. However, there are several versions of the Series E, including a kinda gross full plastic one and the one I have, which has a chrome ring and is actually quite good. Despite the naysayers, they have a bit of a cult following because of how small, portable, and cheap they are. If there is one huge downside, it is that the 50/1.8 E has a minimum focusing distance of 0.6m, compared to 0.45m for the 50/1.4 AIS.
+
+**Shutter Lock**: All the nikons have a shutter lock that is integrated with the film rewind. Newcomers to the camera often struggle with this, but it is a very elegant solution that is easy to use once you start shooting. Essentially, you always rewind you film anyway after taking a shot. Anytime you go to shoot, you just unlock the film rewind, and then after the shot, you easily wind the film.
 
 ### Photo Samples
 <div class="grid-container grid-2x2">
@@ -171,9 +184,7 @@ Lens: 50mm/1.8 Series E Chrome Ring, 3291471, 1981-1985
     <div class="caption">Wears Valley</div>
 </div>
 
-
 ## Nikon FM2
-
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -186,24 +197,31 @@ Lens: 50mm/1.8 Series E Chrome Ring, 3291471, 1981-1985
     <div class="caption"></div>
 </div>
 
-### Nikon FM2 Overview
-If serial numbers of 5100016 - 5858632 were made between the years 1981 - 2005 and we assume an even distribution, what year and month was 5220802 made? This gives us a date of early 1985.
+### Overview
 
-Arguably the best manual film SLR ever made, the Nikon FM2 is a brilliant and user-friendly tank. It takes everything good about the FM and perfectly refines it. It boasts a gorgeous honeycomb shutter that shoots 1/4000th that frankly makes me cringe any time I pick up some inferior 1/1000 or, god forbid, 1/500 camera. Fun fact, the famous photo of the Afgan Girl was taken with an FM2.
+The Nikon FM2 is arguably one of the best manual film SLRs ever made. Introduced in 1982 and produced through various revisions until 2001, this camera was originally marketed to advanced amateur and semi-professional photographers who demanded absolute reliability and rugged performance. Debuting with a body‐only price around $364 (chrome version) and later climbing to around $745, it was built for those who wanted a fully mechanical tool—operable without batteries except for its light meter. Praised for its fast vertical‐travel shutter (capable of 1/4000 sec) and precise, minimalist design, the FM2 quickly earned a reputation as a “tank” that could shoot in the most extreme conditions. Notably, its robustness and simplicity even won over legendary photojournalists; fun fact, the iconic “Afghan Girl” portrait was taken with an FM2.
 
-Honestly, I have shelves full of cool cameras to choose from, but in back of my mind anytime I look at my Leica or my Fujica or my Pentax or my Voigtlander, I'm always remembering the unrivaled versatility of a 50/1.4 lens, a 1/4000th shutter, and built in light meter and split prism.
+### Personal Story
 
-I've shot with most of the 1970s-1990s mechanical 35mm SLRs, Canon, Olympus, Pentax, Exkacta, Cavalier, Kodak...you name it, and the FM2 is the best of the best. For all you sticklers out there, yes, if you widen the scope to include cameras with automatic features then the lust-worthy Nikon FM3a is the best.
+I purchased my Nikon FM2 right around the time I stopped traveling for work and shifted to medium format photography. Although that means I don’t have as many shots from my FM2 as from the FM, this is undeniably my desert island camera. With a fully mechanical design, a 50/1.4, and a top shutter speed of 1/4000s, it's very hard to argue with it's raw capabilities. It honestly makes it hard to convince myself to shoot with my some of my "cooler" cameras. It's everything that I love about my FM, but with slightly better technical specs. 
 
-I bought this camera right around the time that I stopped traveling for work and started shooting medium format, so compared to the FM, I have fewer photos to show for it. But I have a lot of love for this camera.
+I really cannot stress how OP this camera is. I've got a Leica iiif, a Fujica 645, Pentax 67, Voigtlander Prominent, Yashica D, Rollei 35, Zeiss Ikonta, Exakta VX...just so many cool cameras, and it is just painful sometimes to shoot them. I'll go to shoot my gorgeous Voigtlander wide open at 1.5 only to be thwarted by the 1/500s shutter speed. Or I'll be out and about with my compact Fujica 645 and it's shockingly huge negatives only realize that I can't focus any closer than 1m and have to rethink my shot. Or I'll be focusing my Pentax 67 through it's massive and chimney viewfinder, only to take my eyes away every time I want to adjust the aperture or the shutter speed.
 
-[Fantastic overview](https://www.youtube.com/watch?v=OYqwdZe9dqM) of all the FM and FM2 features.
+I have 120+ film cameras, and I desperately want to be that guy with the crazy camera you stop and chat with on the street. But god help me if the FM2 doesn't make it hard to shoot anything else.
 
-### Tech Specs
-Serial Number: N 7612622
-Date: (June 1987-April 1989)[https://www.youtube.com/watch?v=4j4gfKmY5bs]
-Shutter Speeds: 1s - 1/4000
-Lens: Nikkor 50mm/1.4 AIS, 1981-2005, 5220802, ~1985
+### Specs
+
+- **Dates Manufactured:** 1982-2001, my copy 87-89 (need to confirm after I finish the current roll of film)
+- **Camera Type:** 35mm SLR  
+- **Format:** 35mm  
+- **Shutter Speeds:** 1s to 1/4000s
+- **Light Meter:** 60/40 center weighted light metering, with upgraded sensor elements from the FM
+- **Primary Lens:** Nikkor 50mm/1.4 AIS, 1981-2005, 5220802, ~1985  
+- **Key Features:**  
+  - My copy has the titanium honeycomb shutter, which isn't technically better than the later aluminum shutter, but looks awesome whenever you change the film.
+  - Same great viewfinder as the FM, with display of both the selected shutter speed and aperture, and a split-prism + microprism focusing screen that makes critical focus a joy.
+  - 
+  - [Fantastic comparison](https://www.youtube.com/watch?v=OYqwdZe9dqM) between all of the FM and FM2 features.
 
 ### Photo Samples
 <div class="grid-container grid-2x2">
@@ -234,11 +252,12 @@ The Pentax K1000 is commonly cited as being _the_ most popular student photograp
 
 It is simple, it is reliable, and it is cheap. It takes perfectly good photos, and if you can pick one up for a budget price, you will not be disappointed.
 
+### Shooting Experience
 However, if you are looking for the best 35mm SLR shooting experience, this is not it. In my estimation, it is inferior to my Nikons in almost every detail. The lens release button feels cheap and fragile, the max shutter speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no aperture preview, there is no view finder display of aperture or shutter speed, the shutter speed dial is significantly less easy to adjust, and at least on my copy, the viewfinder is inferior. While my FMs have both a split prism and a microprism, the K1000 only has a microprism, and in general it feels dimmer and worse.
 
 To it's credit, some people prefer the Pentax's needle light meter to the Nikon FM and FM2 LEDs. However, the Pentax light meter is always on, unlike the Nikon, which is turned off via the film rewind lever. You can trick the Pentax light meter into not using as much electricity by using a lens cap, but I still find that my Pentax batteries are always dead, while my Nikons last years. 
 
-Supposedly, if your Pentaprism says AHCO, then it was made in Japan, not Hong Kong. However, mine has a sticker on the bottom that clearly says "ASSEMBLED IN HONG KONG". Actually, while trying to track down my 50/2 which I'm sure I own for this camera, I discovered that I actually own TWO Pentax K1000s. My second must be a newer model, as it only says Pentax on the prism.
+I've only shot one roll through my K1000, and that was enough for me. 
 
 ### Tech Specs
 Serial Number: 7093688
@@ -246,6 +265,8 @@ Date: 1982-1983
 Shutter Speeds: 1s - 1/1000
 Lens: SMC Pentax-M 28mm f/3.5, 6873910
 Weight: 606g
+
+Supposedly, if your Pentaprism says AHCO as mine does, then it was made in Japan, not Hong Kong. However, mine has a sticker on the bottom that clearly says "ASSEMBLED IN HONG KONG". Actually, while trying to track down my 50/2 which I'm sure I own for this camera, I discovered that I actually own TWO Pentax K1000s. My second must be a newer model, as it only says Pentax on the prism.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -262,7 +283,7 @@ Weight: 606g
 <!-- 20250219_220444.webp long lens -->
 
 ![000289480015](70830014.webp)
-Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
+_Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
@@ -275,7 +296,7 @@ Jan 2017, Fujicolor Superia xtra400, Huntsville, Al
         <img src="" alt="">
     </div>
     <div class="caption"></div>
-    <div class="caption"></div>
+    <div class="caption">adorable selfie of baby Carson</div>
     <div class="caption"></div>
 </div>
 
@@ -304,8 +325,8 @@ actual measurements of my negatives: pentax 4.44, fuji 2.77
     <div class="image-div">
         <img src="20250222_134701.webp" alt="">
     </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
+    <div class="caption">classic configuration, with 105/2.4, TTL, and wood handle</div>
+    <div class="caption">dwarfing the Nikon FM2</div>
 </div>
 
 <div class="grid-container grid-2x2">
@@ -315,8 +336,8 @@ actual measurements of my negatives: pentax 4.44, fuji 2.77
     <div class="image-div">
         <img src="20250222_134739.webp" alt="">
     </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
+    <div class="caption">sporting both wood handles and the chimney finder</div>
+    <div class="caption">again, absolutely dwarfing an M2</div>
 </div>
 
 This is probably the most iconic configuration of the camera, with the metered prism, the 105mm f/2.4 lens with the classic square hood, and the wooden grip. 
@@ -330,8 +351,8 @@ I don't honestly use it all that often like this, instead preferring the configu
     <div class="image-div">
         <img src="20250219_220025.webp" alt="">
     </div>
-    <div class="caption"></div>
-    <div class="caption">45mm</div>
+    <div class="caption">this is my more common configuration, ditching the default wooden handle and wearing a 45mm lens</div>
+    <div class="caption">I also prefer the incredible magnification of the chimney finder, even at the expense of a light meter</div>
 </div>
 
 ### Overview
@@ -453,21 +474,19 @@ four
     <div class="caption"></div>
 </div>
 
-![arst](1000022030.webp)
-
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="" alt="">
+        <img src="1000022030.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="1000022028.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
+        <img src="img010.webp" alt="">
     </div>
 </div>
 
+![000289480015](000289510007+(1).webp)
 ![000289480015](000289510008+(2).webp)
+
+
 
 ## Yashica D
 
@@ -534,6 +553,8 @@ The camera is unbranded but the film viewing window cover bears the marks: "DRGM
 
 I came across a few nice resouces while researching it, including this page on the [Fixfocus specifically](https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html), a lovely [interactive timeline of the Balda Camera](https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda) models, and an in depth review of a [newer iteration of my camera](https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/). 
 HP5+ 400
+
+apparently https://zackscamerarepair.com/camera-repairs/ this is the guy to go to for weird camera repairs
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -641,6 +662,15 @@ I actually cleaned of the lens of this one.
     <div class="caption"></div>
 </div>
 
+I came across this hidden in the back of an antique shop in Las Vegas for $175, and bought it without a second thought. It originally had haze in one of the internal elements which gave the photos a dreamy, low-contrast feel. I have since disassembled the lens and removed the mold, but I honestly wish I had just left it alone. 
+
+
+
+
+
+
+
+When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -649,13 +679,10 @@ I actually cleaned of the lens of this one.
     <div class="image-div">
         <img src="50690009a.webp" alt="">
     </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
+    <div class="caption">Vegas, HP5+ 400, october 2017ish.</div>
+    <div class="caption">Vegas, HP5+ 400, october 2017ish.</div>
 </div>
 
-Vegas, HP5+ 400, october 2017ish.
-
-When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. 
 
 ## Nikon F2
 
@@ -670,7 +697,27 @@ When I bought this camera, it had a non-trivial amount of mold in the lens, whic
     <div class="caption"></div>
 </div>
 
+Tech Heritage has some great videos covering most of the Nikon lineup, 
+F: [Tech Heritage](https://youtu.be/7v6nGn-mN9s?si=6PxCiR4mpfz3OGOL), Old Guy
+F2: [Tech Heritage](https://youtu.be/A_K5KyumVb4?si=flZWNbGUXfpuPEVS), Old Guy
+FE: [Tech Heritage](https://youtu.be/3MgPSZHF2Gg?si=q1PEOjfplCKkjcOf), Old Guy
+FM: [Tech Heritage](https://youtu.be/OYqwdZe9dqM?si=ALdiJHeyRXgQbDN1), Old Guy
+FM2: Tech Heritage, Old Guy
+K1000: [Tech Heritage](https://youtu.be/z1srTu6X490?si=R1igq4zp04zMD3Vz), Old Guy
+Rollei 35: [Tech Heritage](https://youtu.be/bEYDP3U3lbE?si=9NJRwsmGzhRkL2tR), Old Guy
+Pentax 67: Tech Heritage, [Old Guy](https://youtu.be/-MrBCjQiT48?si=eJMZEGhQc-i8NJeA)
+
+
+
+(Tech Heritage, Nikon F Overview)[https://www.youtube.com/watch?v=7v6nGn-mN9s]
+
+
+https://youtu.be/7lHQCf06cg8?si=u_77-m58q34GTqaJ old guy with detailed videos
+
 The Nikon F2 is the professional counterpart to the FM2. It's a larger and heavier camera in every dimension, and my verison wears a chonky metering prism. All of it's tiny details are more professional and refined
+
+## Operation
+It's similar to the FM2, but with a few key differences. The light meter can be viewed from the top at waist level. The 
 
 - self timer: it lets you set specific times, 2-10 seconds, and has a reset button if you decide not to use the timer
 - aperture preview: replaces the FM2's plastic lever with fancy black and chrome button that matches the lens release
@@ -717,6 +764,13 @@ I met a guy at a tradeshow who saw my camera and said, "I have a Nikon F2, but I
 It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint condition and I keep it as a shelf queen, but I did put at least one roll through it.
 
 
+actual prices:
+- nikon f2 with 4 lenses for 150
+- nikon f with 50/1.4 for $20
+- leica iiia for $200
+- spotmatic with 50/1.4 and 135/3.5? for $25
+- yashica d, $276, CLA'd with a warranty... Jan 2, 2017
+
 ![000289480015](50710030a.webp)
 
 <div class="grid-container grid-2x2">
@@ -743,10 +797,6 @@ It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint 
 
 ## Voigtlander Prominent
 
-This camera is so wierd.
-
-
-
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250219_213746.webp" alt="">
@@ -757,6 +807,62 @@ This camera is so wierd.
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+
+## Buying a Beauty
+I'm going to be honest with you...I bought this camera mainly because it looks freaking sick. 
+
+I was in an antique store in Salt Lake City, when I caught a glimpse of it's gleaming curves, quirky viewfinder, and recto-circular lens hood. Closer inspection revealed that, far from just being gorgeous, it also sported a lovely 50mm f/1.5 lens. This would have been near the pinnacle of consumer lens technology when this camera was released in the 1950s, and it essentially meant that I could use this camera with a full artistic license that you rarely get in old bodies. 
+
+I covertly checked the ebay prices, bargained the seller down to $400, and walked out with one of the prettiest and most capable old cameras in my collection. It is in absolutely mint condition and has basically every accessory you could want. Honestly, my copy has the look of something that sat in a display case for the past 75 years. If anyone ever did use this camera, they kept it wrapped in velvet the entire time. 
+
+## Historical Context
+
+The Voigtlander Prominent was produced between 1952 and 1958, until the release of the Prominent II. , It was designed to be a professional camera, and was priced as such. It was released in the same era as the Leica M3, the Contax, and the Nikon SP, and was in direct competition with them.
+
+, putting it in direct competition with the Leica Ms, Contax, and Nikon SPsYou hear rangefinder with a Compur leaf shutter and expect some old folding camera with disentegrating leather, and instead you are met with the gleaming perfection of the Voigtlander Prominent.
+
+This camera is so wierd. I found it in an antique store in 
+
+It has this recto-circular lens hood which is 
+
+I paid $400 for it which was a steal. 
+
+## Usage
+Honestly, it's terrible to use. Despite being volumetrically about the same size my Nikon FM2, with film loaded the Voigtlander weighs a whopping 1144g to the Nikon's 820g. The viewfinder is incredibly far to the right in a way that makes it feel like you face is always in conflict with your hand, and good lord is is surprisingly tiny. I'd say it is about the same brightness and size as my 1937 Leica IIIa, but where the Leica has a magnified, high-accuracy second rangefinder window, the Voigtlander has a small, integrated patch in the middle of the tiny viewing window. 
+
+[Catalog](https://www.pacificrimcamera.com/rl/00544/00544.pdf)
+[Detailed Overview by Mike Eckman](https://mikeeckman.com/2018/11/voigtlander-prominent-1952/)
+
+For two years from 1952-1954, it made an interesting argument against the Leica iii and the Contax III, but with the release of the M3 in 
+
+## Lenses
+"An advanced 7-element 5-group Double Gauss design with an achromatized front group to enhance its performance, (especially at wide apertures), the Nokton was reputed to be the best 50mm f/1.5 lens of the immediate post-WWII era, surpassing the 50mm f/1.5 Leitz Summarit (which was based on a prewar Schneider design) and even edging out the renowned 50mm f/1.5 Zeiss Sonnar." - Jason Schneider
+
+
+only 7 lenses in the whole range. I have the :
+Lenses
+- Voigtlander Dynaron 100mm f/4.5
+- Voigtlander Skoparon 35mm f/3.5
+- Voigtlander Nokton 50mm f/1.5, 3837817
+
+Accessories
+- Turnit 3 Viewfinder
+- 310/49 lens hood
+
+Filters
+- G2 49s, 302/49, yellow filter
+- UV 49s, 317/49
+- Focar 1 47mm, 303/47, magnifing snap on lens
+
+It also came with two additional magnifiers, but I don't know what lens they go with
+- Focar A 1m, AR 40.5, 343/41
+- Focar D 0.15m, AR 40.5, 348/41
+
+Many of the accessories are stamped with "West Germany".
+
+I love that they named the lenses like this. There is also the Ultron 50mm/2, and the Ultragon 24mm/5.8, which I don't have
+
+This camera would have been competing with the nikon s, the lieca m, etc, and it lost that war. Eventually it was truly killed off by the nikon f and the adoption of slrs.
 
 
 50mm 1.5, tri-max 400
@@ -908,7 +1014,7 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289500007 (1).webp" alt="">
+        <img src="1000022027.webp" alt="">
     </div>
     <div class="image-div">
         <img src="000289500002 (1).webp" alt="">
@@ -917,18 +1023,7 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
     <div class="caption"></div>
 </div>
 
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="1000022027.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="1000022025.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
 
-![arst](1000022029.webp)
 
 ## Example Class
 
@@ -976,6 +1071,18 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
+        <img src="000289500007 (1).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="1000022025.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+![arst](1000022029.webp)
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
         <img src="" alt="">
     </div>
     <div class="image-div">
@@ -1008,7 +1115,7 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
     <div class="caption"></div>
 </div>
 
-![000289480015](000289510007+(1).webp)
+
 ![000289470011](000289470011.webp)
 
 
@@ -1022,15 +1129,15 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
     <div class="caption">fm...Huntsville, 2016?</div>
     <div class="caption">Huntsville, 2016?</div>
 </div>
-![000289470001](000289470001.webp)
-![000289470011](img062-2.webp)
-![000289470011](img010.webp)
+
+
+<!-- ![000289470011](img010.webp) -->
 ![000289470011](000289510010.webp)
 ![000289470011](000289510009.webp)
+![000289470011](1000022028.webp)
 ![000289470011]()
-![000289470011]()
-
-
+![000289470001](000289470001.webp)
+![000289470011](img062-2.webp)
 <!-- 20250219_215427.webp kodak automatic
 20250219_215411.webp kodak automatic side
 20250219_214644.webp fdeckel munchen compur folding 35mm
@@ -1083,3 +1190,34 @@ assam
 
 bishwash bangalore
 - mysore daytrip
+
+
+
+Prompt 1:
+ok, now i want you to research the historical context of the nikon fm2. what years it was manufactured, what was the price, who was the market, what was the critical reception
+
+Prompt 2:
+Ok, now research if there are any fun facts about the it. any famous photos taken with it, any interesting quirks, etc
+
+Prompt 3:
+Here is some information that i already wrote about my copy of the camera. integrate it with everything we just researched in the following way:
+
+### Overview
+start with a short historical context of a paragraph. what years it was manufactured, what was the price, who was the market, what was the critical reception.
+
+### Personal Story
+Anything about how I bought it or fixed it, etc.
+
+### Specs
+Give an overview of any key features, such as seeing the aperture and shutter speed in the viewfinder, or an extemely 
+
+Dates Manufactured: 1977-1982
+My Date: If available
+Camera Type: SLR
+Format: 35mm
+Shutter Speeds: 1s - 1/1000
+Primary Lens: 50mm/1.8 Series E Chrome Ring, 3291471, 1981-1985
+Serial Number: FM 3091999
+
+### Shooting Experience
+Talk about the nice or bad features, like whether it has an internal light meter, or if the film is hard to rewind, etc, etc
