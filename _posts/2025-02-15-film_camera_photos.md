@@ -302,22 +302,6 @@ _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
 
 ## Pentax 67
 
-These days, I think the best place to buy custom grips is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. He does dyed and stabilized wood for both left and right grips for around $200 total.
-
-If I'im going somewhere specifically to take pictures, the pentax is at the pot of my list.
-
-If I'm going somewhere to do something normal, and considering brining a camera for fun, the pentax is at the bottom of my list.
-
-
-"The prism viewfinder on the pentax absolutely blows. the pentax just has a matte focusing screen, no split prosm screen. so to focus you need to be able to actually see that it is in perfec focus. and the prism viewfinder takes up an unacceptably small portion of my viewing antgle. i also have the chimney pinder, which is magnificent. easily the best viewfinder eperience n any camera tha i own. it greatly increases the camera volume and looks like shit too.
-
-The 67 has a brighter viewfinder than the 6x7 too?
-
-Minimum focusing distance. My nikon has 0.45, while the 105 is 1m. There exists a 90/2.8 that has 0.65m, which is a gain of 13.7 inches in focusing.
-
-
-actual measurements of my negatives: pentax 4.44, fuji 2.77
-
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250222_134457.webp" alt="">
@@ -336,13 +320,11 @@ actual measurements of my negatives: pentax 4.44, fuji 2.77
     <div class="image-div">
         <img src="20250222_134739.webp" alt="">
     </div>
-    <div class="caption">sporting both wood handles and the chimney finder</div>
-    <div class="caption">again, absolutely dwarfing an M2</div>
+    <div class="caption">sporting a custom wood handle and the chimney finder</div>
+    <div class="caption">god this camera is huge</div>
 </div>
 
-This is probably the most iconic configuration of the camera, with the metered prism, the 105mm f/2.4 lens with the classic square hood, and the wooden grip. 
-
-I don't honestly use it all that often like this, instead preferring the configuration below, with the chimney finder, the wonderful 45mm f/4.0, and a custom burl wood grip.
+Although the famous 105mm f/2.4 with the wooden pistol grip is the most iconic load out for this camera, I actually typically wear it with a chimney finder, the wonderful 45mm f/4.0, and a custom burl wood grip.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -351,29 +333,110 @@ I don't honestly use it all that often like this, instead preferring the configu
     <div class="image-div">
         <img src="20250219_220025.webp" alt="">
     </div>
-    <div class="caption">this is my more common configuration, ditching the default wooden handle and wearing a 45mm lens</div>
+    <div class="caption">my landscape loadout, ditching the default wooden handle and wearing a 45mm lens</div>
     <div class="caption">I also prefer the incredible magnification of the chimney finder, even at the expense of a light meter</div>
 </div>
 
-### Overview
+### Pentax 67 Overview
+Produced between 1969 and 2009, the Pentax 6x7 is one of the most iconic medium format systems in existence. With a 6x7 cm frame size, it offers negatives almost 4.5 times larger than 35mm film, but in a familiar SLR form factor. Typically costing 2-3 times more than its 35mm counterparts, the 6x7 was aimed at professionals and serious enthusiasts who needed the high-resolution benefits of medium format without abandoning the familiar SLR handling. It was famous for its use in high fashion and editorial photography, and it maintains a cult following into the digital age. 
 
-The original Pentax 6x7 was released in 1969, then the MLU version was release in 1976 with improved with mirror lockup and and a better film advance, and finally the 67 was released in 1990, with improvements to metering and shutter timing. 
+There are 4 versions to be aware of. The original 1969 6x7 was made for about a decade, until in 1976 the addition of mirror lockup attempted to address the prodigious mirror slap, along with improvements to the film advance system. In 1990, it wars rebranded as the Pentax 67, with improvements to metering and shutter timing; and finally, the Pentax 67II arrived in 1999 with further refinements.
+
+If you are going to buy one, the 6x7 MLU and the 67 represent the best balance of price and quality. The original 6x7 and its less reliable film advance and should be avoided if possible, and the 67II is significantly more expensive.
+
+### Personal Story
+
+I personally first encountered the Pentax 67 at Central Camera in Chicago, and it took by breath away. After years of shooting a 35mm Nikon, seeing the Pentax was like seeing a poodle next to a mastiff. Although I'm usually very tentative about my purchases, I was on the verge of impulse buying it when the clerk demanded to know if I was there to buy or simply to ogle. Well, I went straight home and bought one on ebay instead, and since then I've dropped more than one and a half grand on the body, lenses, and various accessories. 
+
+### The Mythical 105mm f/2.4
+People buy the Pentax 67 just to use this one lens. It has an unbelievable cult status in the world of film photography, famous for it's insane depth of field, beautiful rendering, and "3d pop"...Seriously, people online will rave about this lens, saying that the look is impossible to achieve on 35mm. They will say that medium format has more bokeh than 35mm, or that the 105mm will be more compressed than the 50mm, giving better background separation.
+
+None of this is true. The 105mm f/2.4 on a 6x7 negative is roughly equivalent to a 50mm f1.2 on a 35mm negative, in terms of both framing and depth of field. And compression is not caused by the length of the lens, it is a function of the distance between the film plane and the subject. Since the 105 and the 50 are the same framing on their respective systems, the subject distance and therefor compression will be the same. 
+
+Yeah I know, I'm a dirty apostate for even suggesting it. But seriosly, check out this [comparison video](https://www.youtube.com/watch?v=UbU-w0J_7MM) by Julien Jarry if you don't believe me. 
+
+### Why Bother?
+So if the famous lenses aren't really any better, then why bother with an expensive, heavy, massive camera that only gets 10 photos a roll? 
+
+Well for starter, the negatives are gigantic. On top of having way more detail and less grain, I find them easier to develop, and easier to scan. Only 10 photos per roll certainly seems like a downside, but I'm a slow and deliberate shooter, so rather appreciate not struggling to take 36 photos on a 35mm roll. And most importantly, you look like a badass when you shoot it.
+
+### Accessories
+#### Handles
+The handle is stupid. I don't know why more people don't talk about this, but seriously, the thing is useless. It's in exactly the wrong place for you to hold, since your right hand needs to adjust the aperture and focus. And yes, I own the focusing extension ring, which is a giant pain in the ass, inventing a solution for a problem that shouldn't exist. If you own this camera, do yourself a favor and skip the factory grip, and instead buy a _right hand_ grip. Mine is burl wood from the charmingly named, "Village no. 1" in Bangkok, but these days I think the place to shop is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. 
+
+#### Viewfinders
+There are at least four viewfinders for this camera. A standard prism, a TTL prism, a waist level, and the chimney finder. I own a TTL and the chimney finder, and I _adore_ the chimney. It provides the largest, most magnified, most beautiful viewfinder of any camera I own. Sadly, my Pentax has the fully matte focusing screen instead of the standard split prism, and I would be lost without the high magnification of the chimney finder.
+
+I would love to eventually pick up the waist level finder, but they are consistently $250 from Japan, and I essentially never see them any cheaper.
+
+If you are going to use the TTL finder, I have a 3d printed ribbed sleeve that I made for the shutter speed dial. It makes it much easier to adjust the shutter speed. 
+
+### Lenses
+
+
+If I'im going somewhere specifically to take pictures, the pentax is at the top of my list.
+
+If I'm going somewhere to do something normal, and considering brining a camera for fun, the pentax is at the bottom of my list.
+
+The pentax is such a stupidly gigantic camera. It weighs literally 3 times as much as my nikon fm2, and it's about 5x larger volumetrically. It wieghs enough that if you carry it side saddle, you will almost certainly want a second big camera on the other side to balance it out, lest you find yourelf developing adult onset scoliosis.
+
+"The prism viewfinder on the pentax absolutely blows. the pentax just has a matte focusing screen, no split prosm screen. so to focus you need to be able to actually see that it is in perfec focus. and the prism viewfinder takes up an unacceptably small portion of my viewing antgle. i also have the chimney pinder, which is magnificent. easily the best viewfinder eperience n any camera tha i own. it greatly increases the camera volume and looks like shit too.
+
+The 67 has a brighter viewfinder than the 6x7 too?
+
+so, despite the huge negatives and awesome glass, it is extrememly important to be aware of the miserable minimum focusing distance of all the lenses. users coming from a 35mm 85mm/1.8 might think that the 165/2.4 on MF is an unquestionable upgrade....
+Minimum focusing distance. My nikon 50/1.4 has 0.45, while the 105 is 1m. There exists a 90/2.8 that has 0.65m, which is a gain of 13.7 inches in focusing. My other two lens, the 45 and the 165 also have poor minimum focusing distances.
+
+actual measurements of my negatives: relative to the 35mm, pentax 4.44 times larger, fuji 2.77 times larger
+
 
 The actual size of the Pentax negative is about 56x70mm, which gives it a final area of 3920mm^2, or about 4.5x the size of a 35mm negative. 
 
 10 images per roll? I have the plain focusing screen, which is relatively uncommon compared to the standard central microprism, considering that a screen replacement requires a technician and calibration.
 
-This is by far my most expensive film system. For the body, two finders, two lenses, the original grip, and a custom grip, I've paid an uncomfortable $1333 for the body, lenses, and all the accessories since 2019. Even only considering my slimmed down configuration, it still totals $750. Looking back, the metered prism and the standard hand grip were a waste of money that I would encourage any potential buyer to avoid.
+This is by far my most expensive film system. For the body, two finders, two lenses, the original grip, and a custom grip, I've paid an uncomfortable $1642 for the body, 4 lenses, and all my custom grips/viewfinders/extension tubes, etc since 2019. Even only considering my slimmed down configuration, it still totals $750. Looking back, the metered prism and the standard hand grip were a waste of money that I would encourage any potential buyer to avoid.
 
 The shutter speed selection dial is esecially hard to use when the metered finder is installed, so I 3d printed a ribbed sleave that increases the grip.
 
-If you want to buy one of these for yourself, note you should avoid the original 6x7 without mirror lock up, as it has less a reliable film advance  
+First shots, may 24, 2019 was when i sent them to kyle
+
+I'm usually very tentative about my  purchases, but I was in love, and in the middle of talking myself into buying it right there in the store, when the clerk demanded if I was even going to buy it or just look at it....I went home and bought one on ebay. 
+ 
+
+## Specs
+
+- **Dates Manufactured (MLU Version):** Approximately 1977–1982 (though the broader 6×7/67 line spanned 1969–2009).  
+- **Camera Type:** 6x7, Medium Format SLR (6×7 cm frame, roughly 56×70 mm).  
+- **Shutter Speeds:** 1s – 1/1000 
+- **Lens Mount:** Pentax bayonet for 6×7, with a legendary lens lineup (e.g., 105mm f/2.4, 45mm wide-angle, 165mm telephoto).  
+- **Focusing Screen:** Mine is a plain matte screen (uncommon compared to the more standard central microprism).  
+- **Viewfinders:** Interchangeable (waist-level finder, non-metered prism, metered prism, chimney finder).  
+- **Film Format:** 12010 exposures (120) or 20 (220) per roll.  
+- **Size/Weight:**   
+
+
+## Shooting Experience
+
+If I’m heading out *specifically* to make photographs, the Pentax 67 is at the top of my list. The massive negatives, combined with Pentax’s stellar lens designs, produce images of incredible sharpness and depth—a true delight for portraiture or landscapes. The moment you press the shutter, you hear that signature “thwack” of the large mirror, which some affectionately describe as a thunderclap. It’s part of the camera’s charm—and also a reminder that you’re dealing with a hefty piece of machinery.
+
+However, if I’m going somewhere for everyday errands and just want a camera “in case,” the Pentax 67 stays at home. The body alone is significantly heavier than any of my 35mm SLRs (like my Nikon FM2), and its sheer bulk can be punishing if slung over one shoulder all day. For those who crave customization or better ergonomics, I recommend exploring custom grips. “Pimp My Pentax” on Instagram, for instance, offers dyed and stabilized wood grips that look and feel fantastic (though they’re around \$200 for a pair).
+
+Focusing can be tricky, especially if you have the plain matte screen like I do. The metered prism is also notoriously dim and cramped, which pushed me to pick up the chimney finder. Though it’s massive, the chimney finder’s bright, magnified view makes critical focus a breeze—one of the best focusing experiences I’ve had on any camera. Do keep an eye on minimum focusing distances: medium format lenses often focus less closely than their 35mm counterparts, which can be surprising if you’re used to shooting tight portraits on shorter lenses.
+
+As for maintenance: loading film takes patience, since 120 film must be carefully threaded over the take-up spool. I’d also caution first-time buyers to consider the mirror-lock-up models (post-1976) for better reliability and less vibration.
+
+In the end, the Pentax 67 is a camera you love for its imperfections as much as its strengths. It’s unwieldy, expensive to outfit, and demands thoughtful technique—but if you can embrace its idiosyncrasies, you’ll find yourself rewarded with some of the most stunning medium format images around. And that, to me, is worth every extra ounce around my neck.
+
+
+
+### Overview
 
 
 
 <!-- body $297
 custom Grip $139
 hand grip $130
+extension tubes $79
 Chimney $50
 metering prism $149
 200/4 $110
@@ -381,12 +444,6 @@ metering prism $149
 45mm/4 $258 
 165/2.8 $230
 -->
-
-
-First shots, may 24, 2019 was when i sent them to kyle
-
-My cu†om grip came from Bangkok, from the charmingly named, "Village no. 1". It is a beautiful piece of burl wood that fits the camera perfectly. I also have a custom 3d printed ribbed sleeve that makes the shutter speed dial easier to use.
-45/4 + $257
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -406,12 +463,35 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
+        <img src="97000004.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="97000001.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000289560009.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="1000022031.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+four
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
         <img src="img076-2.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img074.webp" alt="">
+        <img src="img074_new.webp" alt="">
     </div>
-    <div class="caption"></div>
+    <div class="caption">click on this one to see it full size</div>
     <div class="caption"></div>
 </div>
 one
@@ -421,7 +501,7 @@ one
         <img src="img068-2.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img053-2.webp" alt="">
+        <img src="" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -451,28 +531,9 @@ two
 </div>
 three
 
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="000289560009.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="1000022031.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-four
 
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="97000004.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="97000001.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
+
+
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1135,7 +1196,7 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
 ![000289470011](000289510010.webp)
 ![000289470011](000289510009.webp)
 ![000289470011](1000022028.webp)
-![000289470011]()
+![000289470011](img053-2.webp)
 ![000289470001](000289470001.webp)
 ![000289470011](img062-2.webp)
 <!-- 20250219_215427.webp kodak automatic
@@ -1194,10 +1255,10 @@ bishwash bangalore
 
 
 Prompt 1:
-ok, now i want you to research the historical context of the nikon fm2. what years it was manufactured, what was the price, who was the market, what was the critical reception
+ok, i want you to research the historical context of the pentax 67. what years it was manufactured, what was the price, who was the market, what was the critical reception
 
 Prompt 2:
-Ok, now research if there are any fun facts about the it. any famous photos taken with it, any interesting quirks, etc
+Ok, now research if there are any interesting facts about it. any famous photos taken with it, any interesting quirks, etc
 
 Prompt 3:
 Here is some information that i already wrote about my copy of the camera. integrate it with everything we just researched in the following way:
