@@ -245,6 +245,19 @@ I have 120+ film cameras, and I desperately want to be that guy with the crazy c
     <div class="caption">Kentmere 400, Nov 2017 </div>
 </div>
 
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000095670005.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000095670013.webp" alt="">
+    </div>
+    <div class="caption">my sister's wedding</div>
+    <div class="caption">reading the vows</div>
+</div>
+
+![000095670015](000095670032.webp)
+
 ## Pentax K1000
 
 ### Overview 
@@ -338,72 +351,76 @@ Although the famous 105mm f/2.4 with the wooden pistol grip is the most iconic l
 </div>
 
 ### Pentax 67 Overview
-Produced between 1969 and 2009, the Pentax 6x7 is one of the most iconic medium format systems in existence. With a 6x7 cm frame size, it offers negatives almost 4.5 times larger than 35mm film, but in a familiar SLR form factor. Typically costing 2-3 times more than its 35mm counterparts, the 6x7 was aimed at professionals and serious enthusiasts who needed the high-resolution benefits of medium format without abandoning the familiar SLR handling. It was famous for its use in high fashion and editorial photography, and it maintains a cult following into the digital age. 
+Produced between 1969 and 2009, the Pentax 6x7 is one of the most iconic medium format systems in existence. With a 6x7 cm frame size, it offers negatives almost 4.5 times larger than 35mm film, but in a familiar SLR form factor. Originally costing 2-3 times more than its 35mm counterparts, the 6x7 was aimed at professionals and serious enthusiasts who needed the high-resolution benefits of medium format without abandoning the familiar SLR handling. It was famous for its use in high fashion and editorial photography, and it maintains a cult following into the digital age. 
 
-There are 4 versions to be aware of. The original 1969 6x7 was made for about a decade, until in 1976 the addition of mirror lockup attempted to address the prodigious mirror slap, along with improvements to the film advance system. In 1990, it wars rebranded as the Pentax 67, with improvements to metering and shutter timing; and finally, the Pentax 67II arrived in 1999 with further refinements.
+There are 4 versions to be aware of. The original 1969 6x7 was made for about a decade, until in 1976 the addition of mirror lockup attempted to address the prodigious mirror slap, along with improvements to the film advance system. In 1990, it was rebranded as the Pentax 67, with improvements to metering and shutter timing; and finally, the Pentax 67II arrived in 1999 with a major overhaul and more plasticy body.
 
 If you are going to buy one, the 6x7 MLU and the 67 represent the best balance of price and quality. The original 6x7 and its less reliable film advance and should be avoided if possible, and the 67II is significantly more expensive.
 
 ### Personal Story
 
-I personally first encountered the Pentax 67 at Central Camera in Chicago, and it took by breath away. After years of shooting a 35mm Nikon, seeing the Pentax was like seeing a poodle next to a mastiff. Although I'm usually very tentative about my purchases, I was on the verge of impulse buying it when the clerk demanded to know if I was there to buy or simply to ogle. Well, I went straight home and bought one on ebay instead, and since then I've dropped more than one and a half grand on the body, lenses, and various accessories. 
-
-### The Mythical 105mm f/2.4
-People buy the Pentax 67 just to use this one lens. It has an unbelievable cult status in the world of film photography, famous for it's insane depth of field, beautiful rendering, and "3d pop"...Seriously, people online will rave about this lens, saying that the look is impossible to achieve on 35mm. They will say that medium format has more bokeh than 35mm, or that the 105mm will be more compressed than the 50mm, giving better background separation.
-
-None of this is true. The 105mm f/2.4 on a 6x7 negative is roughly equivalent to a 50mm f1.2 on a 35mm negative, in terms of both framing and depth of field. And compression is not caused by the length of the lens, it is a function of the distance between the film plane and the subject. Since the 105 and the 50 are the same framing on their respective systems, the subject distance and therefor compression will be the same. 
-
-Yeah I know, I'm a dirty apostate for even suggesting it. But seriosly, check out this [comparison video](https://www.youtube.com/watch?v=UbU-w0J_7MM) by Julien Jarry if you don't believe me. 
-
-### Why Bother?
-So if the famous lenses aren't really any better, then why bother with an expensive, heavy, massive camera that only gets 10 photos a roll? 
-
-Well for starter, the negatives are gigantic. On top of having way more detail and less grain, I find them easier to develop, and easier to scan. Only 10 photos per roll certainly seems like a downside, but I'm a slow and deliberate shooter, so rather appreciate not struggling to take 36 photos on a 35mm roll. And most importantly, you look like a badass when you shoot it.
+I personally first encountered the Pentax 67 at Central Camera in Chicago, and it took by breath away. After years of shooting a 35mm Nikon, seeing the Pentax was like realizing you could have a pet bear instead of a poodle. Although I'm usually very tentative about my purchases, I was on the verge of impulse buying it when the clerk demanded to know if I was there to buy or simply to ogle. Well, I went straight home and bought one on ebay instead, and since then I've dropped more than one and a half grand on the body, lenses, and various accessories. 
 
 ### Accessories
 #### Handles
-The handle is stupid. I don't know why more people don't talk about this, but seriously, the thing is useless. It's in exactly the wrong place for you to hold, since your right hand needs to adjust the aperture and focus. And yes, I own the focusing extension ring, which is a giant pain in the ass, inventing a solution for a problem that shouldn't exist. If you own this camera, do yourself a favor and skip the factory grip, and instead buy a _right hand_ grip. Mine is burl wood from the charmingly named, "Village no. 1" in Bangkok, but these days I think the place to shop is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. 
+More than any other feature, people recognize the Pentax 67 by its ostentatious wooden handle. It gets tons of comments when walking around town, and it is touted as the perfect way to hold the boat anchor of a camera.
+
+But functionally? The handle is a monumental failure of human design. The engineers who first proposed this handle should be committed to an institution to protect the public from any further inventions. I can't believe this isn't more talked about, because seriously, the thing is useless. 
+
+It's in exactly the wrong place for you to hold while shooting, since your right hand needs to adjust the aperture and focus. And yes, I do own the gimmicky focusing extension ring, which is a giant pain in the ass, inventing a solution for a problem that shouldn't exist. If you own this camera, do yourself a favor and skip the factory grip, and instead buy a _right hand_ grip. Mine is burl wood from the charmingly named, "Village no. 1" in Bangkok, but these days I think the place to shop is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. 
 
 #### Viewfinders
 There are at least four viewfinders for this camera. A standard prism, a TTL prism, a waist level, and the chimney finder. I own a TTL and the chimney finder, and I _adore_ the chimney. It provides the largest, most magnified, most beautiful viewfinder of any camera I own. Sadly, my Pentax has the fully matte focusing screen instead of the standard split prism, and I would be lost without the high magnification of the chimney finder.
 
-I would love to eventually pick up the waist level finder, but they are consistently $250 from Japan, and I essentially never see them any cheaper.
+I would love to eventually pick up the waist level finder, but they are consistently $250 from Japan, and I haven't yet been able to stomach the expense.
 
 If you are going to use the TTL finder, I have a 3d printed ribbed sleeve that I made for the shutter speed dial. It makes it much easier to adjust the shutter speed. 
 
-### Lenses
+### The Mythical 105mm f/2.4
+People buy the Pentax 67 just to use this one single lens. It has an unbelievable cult status in the world of film photography, famous for it's insane depth of field, beautiful rendering, and "3d pop"...Seriously, people online will rave endlessly about this lens, positively frothing while they declare that the look is impossible to achieve on 35mm. They will say that medium format has more bokeh than 35mm, or that the 105mm will be more compressed than the 50mm, giving better background separation.
+
+And it is a nice nice lens. But frankly, it is no different from a common 50mm f/1.2 on 35mm. There is absolutely nothing magical about it, and there is certainly no mystical 3d pop due to the lens itself. Essentially the 105mm f/2.4 on a 6x7 negative is roughly equivalent to a 50mm f1.2 on a 35mm negative, in terms of both framing and depth of field. But doesn't the 105 have more compression than the 50? Sadly no. Compression is not caused by the length of the lens, it is a function of the distance between the film plane and the subject. Since the 105 and the 50 are the same framing on their respective systems, the subject distance and therefore compression will be the same. 
+
+Yeah I know, I'm a dirty, pentax-hating apostate for even suggesting it. But seriously, check out this [comparison video](https://www.youtube.com/watch?v=UbU-w0J_7MM) by Julien Jarry if you don't believe me. 
+
+### Why Bother?
+So if the famous lenses aren't really any better, then why bother with an expensive, heavy, massive camera that only gets 10 photos a roll? 
+
+Well for starter, the negatives are gigantic. On top of having way more detail and less grain, I find them easier to develop and easier to scan. Only 10 photos per roll certainly seems like a downside, but as a slow and deliberate shooter, I rather appreciate not struggling to take 36 photos on a 35mm roll. 
+
+And most importantly, you look like a badass when you shoot it.
 
 
-If I'im going somewhere specifically to take pictures, the pentax is at the top of my list.
+## Shooting Experience
 
-If I'm going somewhere to do something normal, and considering brining a camera for fun, the pentax is at the bottom of my list.
+If I’m heading out *specifically* to photos, the Pentax 67 is at the top of my list. The massive negatives, the awesome lenses, the undeniable conversation factor...it's just so much fun.
 
-The pentax is such a stupidly gigantic camera. It weighs literally 3 times as much as my nikon fm2, and it's about 5x larger volumetrically. It wieghs enough that if you carry it side saddle, you will almost certainly want a second big camera on the other side to balance it out, lest you find yourelf developing adult onset scoliosis.
+However, if I’m out and about and want a camera “just in case,” the Pentax 67 stays at home. I could walk around with literally three Nikon FM2s hanging from my neck and they would take up less space than the Pentax. Carrying this thing slung over your shoulder for a day is enough to give you adult onset scoliosis.
 
-"The prism viewfinder on the pentax absolutely blows. the pentax just has a matte focusing screen, no split prosm screen. so to focus you need to be able to actually see that it is in perfec focus. and the prism viewfinder takes up an unacceptably small portion of my viewing antgle. i also have the chimney pinder, which is magnificent. easily the best viewfinder eperience n any camera tha i own. it greatly increases the camera volume and looks like shit too.
+It also simply has limitations that my more fully featured 35mm systems do not. Looking through my various pentax photographs, I notice quite a few where I had to compromise on the exposure. It's not the biggest deal in the world, but a max shutter speed of 1/1000 and a max aperture of f/2.4 mean that unless you are also lugging around tripods and ND filters, then you will be hard pressed to shoot wide open in the day, and you will struggle to keep shooting as the sun goes down. A tip I would give for low light shoot slightly wider than you need to, engage the mirror lock up, and let yourself shoot a stop slower than you think you can.
 
-The 67 has a brighter viewfinder than the 6x7 too?
+Finally, it really, *really* bears mentioning that the minimum focusing distance on almost all the lenses is miserable. Even if you get the 90/2.8 instead of the 105, the minimum focusing distance is still 0.65m, admitted a huge improvement over the 105's 1m but still a far cry from the 0.45m of my Nikon 50/1.4.
 
-so, despite the huge negatives and awesome glass, it is extrememly important to be aware of the miserable minimum focusing distance of all the lenses. users coming from a 35mm 85mm/1.8 might think that the 165/2.4 on MF is an unquestionable upgrade....
-Minimum focusing distance. My nikon 50/1.4 has 0.45, while the 105 is 1m. There exists a 90/2.8 that has 0.65m, which is a gain of 13.7 inches in focusing. My other two lens, the 45 and the 165 also have poor minimum focusing distances.
+|  | Pentax              | Nikon              |
+|----------|---------------------|--------------------|
+| Wide     | 45/4 (**0.37m**)    | 24/2.8 (**0.30m**)  |
+| Normal   | 105/2.4 (**1.0m**)    | 50/1.4 (**0.45m**) |
+| Portrait | 165/2.8 (**1.6m**)  | 85/1.8 (**0.85m**) |
+| Long     | 200/4 (**1.5m**)    | 105/2.8 (**0.314m**) |
 
-actual measurements of my negatives: relative to the 35mm, pentax 4.44 times larger, fuji 2.77 times larger
 
+In all, the Pentax 67 is a fun camera and I love it. But unless you are specifically wanting hi-res, huge negatives, like for epic landscapes or studio portraits, then you really might consider taking a smaller and more fully featured camera.
 
-The actual size of the Pentax negative is about 56x70mm, which gives it a final area of 3920mm^2, or about 4.5x the size of a 35mm negative. 
-
-10 images per roll? I have the plain focusing screen, which is relatively uncommon compared to the standard central microprism, considering that a screen replacement requires a technician and calibration.
-
-This is by far my most expensive film system. For the body, two finders, two lenses, the original grip, and a custom grip, I've paid an uncomfortable $1642 for the body, 4 lenses, and all my custom grips/viewfinders/extension tubes, etc since 2019. Even only considering my slimmed down configuration, it still totals $750. Looking back, the metered prism and the standard hand grip were a waste of money that I would encourage any potential buyer to avoid.
-
-The shutter speed selection dial is esecially hard to use when the metered finder is installed, so I 3d printed a ribbed sleave that increases the grip.
-
-First shots, may 24, 2019 was when i sent them to kyle
-
-I'm usually very tentative about my  purchases, but I was in love, and in the middle of talking myself into buying it right there in the store, when the clerk demanded if I was even going to buy it or just look at it....I went home and bought one on ebay. 
- 
-
-## Specs
+### Tech Specs
+- **Dates Manufactured:** 1977–1982  
+- **Camera Type:** 35mm SLR 
+- **Shutter Speeds:** 1s to 1/1000s (with Bulb mode available)  
+- **Format:** 35mm  
+- **Primary Lens:** 50mm f/1.8 Series E Chrome Ring (3291471, from 1981–1985)  
+- **Serial Number:** FM 3091999  
+- **Key Features:**  
+  - 60/40 center weighted light metering.  
+  - Viewfinder displays both the shutter speed and aperture.
 
 - **Dates Manufactured (MLU Version):** Approximately 1977–1982 (though the broader 6×7/67 line spanned 1969–2009).  
 - **Camera Type:** 6x7, Medium Format SLR (6×7 cm frame, roughly 56×70 mm).  
@@ -413,24 +430,6 @@ I'm usually very tentative about my  purchases, but I was in love, and in the mi
 - **Viewfinders:** Interchangeable (waist-level finder, non-metered prism, metered prism, chimney finder).  
 - **Film Format:** 12010 exposures (120) or 20 (220) per roll.  
 - **Size/Weight:**   
-
-
-## Shooting Experience
-
-If I’m heading out *specifically* to make photographs, the Pentax 67 is at the top of my list. The massive negatives, combined with Pentax’s stellar lens designs, produce images of incredible sharpness and depth—a true delight for portraiture or landscapes. The moment you press the shutter, you hear that signature “thwack” of the large mirror, which some affectionately describe as a thunderclap. It’s part of the camera’s charm—and also a reminder that you’re dealing with a hefty piece of machinery.
-
-However, if I’m going somewhere for everyday errands and just want a camera “in case,” the Pentax 67 stays at home. The body alone is significantly heavier than any of my 35mm SLRs (like my Nikon FM2), and its sheer bulk can be punishing if slung over one shoulder all day. For those who crave customization or better ergonomics, I recommend exploring custom grips. “Pimp My Pentax” on Instagram, for instance, offers dyed and stabilized wood grips that look and feel fantastic (though they’re around \$200 for a pair).
-
-Focusing can be tricky, especially if you have the plain matte screen like I do. The metered prism is also notoriously dim and cramped, which pushed me to pick up the chimney finder. Though it’s massive, the chimney finder’s bright, magnified view makes critical focus a breeze—one of the best focusing experiences I’ve had on any camera. Do keep an eye on minimum focusing distances: medium format lenses often focus less closely than their 35mm counterparts, which can be surprising if you’re used to shooting tight portraits on shorter lenses.
-
-As for maintenance: loading film takes patience, since 120 film must be carefully threaded over the take-up spool. I’d also caution first-time buyers to consider the mirror-lock-up models (post-1976) for better reliability and less vibration.
-
-In the end, the Pentax 67 is a camera you love for its imperfections as much as its strengths. It’s unwieldy, expensive to outfit, and demands thoughtful technique—but if you can embrace its idiosyncrasies, you’ll find yourself rewarded with some of the most stunning medium format images around. And that, to me, is worth every extra ounce around my neck.
-
-
-
-### Overview
-
 
 
 <!-- body $297
@@ -471,13 +470,37 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-
+one
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="000289560009.webp" alt="">
     </div>
     <div class="image-div">
         <img src="1000022031.webp" alt="">
+    </div>
+    <div class="caption">some challenging lighting, handheld after sunset</div>
+    <div class="caption">light leaks on the film roll itself</div>
+</div>
+two
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img076-2.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000289560002_new.webp" alt="cat nestled between two shipping containers">
+    </div>
+    <div class="caption">click on this one to see it full size</div>
+    <div class="caption"></div>
+</div>
+three
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000289560010.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img010_1.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -486,53 +509,15 @@ four
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img076-2.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img074_new.webp" alt="">
-    </div>
-    <div class="caption">click on this one to see it full size</div>
-    <div class="caption"></div>
-</div>
-one
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="img068-2.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-two
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
         <img src="img077.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289560010.webp" alt="">
+        <img src="img068-2.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="img010_1.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="000289560002.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-three
-
-
-
+five
 
 
 <div class="grid-container grid-2x2">
@@ -542,9 +527,13 @@ three
     <div class="image-div">
         <img src="img010.webp" alt="">
     </div>
+    <div class="caption"></div>
+    <div class="caption">it's possible to get a lot of punch and contrast out of the system</div>
 </div>
 
 ![000289480015](000289510007+(1).webp)
+_the wide 45mm lets you do nice long crops_
+
 ![000289480015](000289510008+(2).webp)
 
 
@@ -1199,6 +1188,8 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
 ![000289470011](img053-2.webp)
 ![000289470001](000289470001.webp)
 ![000289470011](img062-2.webp)
+![000289470011](img074_new.webp)
+![000289470011](img082.webp)
 <!-- 20250219_215427.webp kodak automatic
 20250219_215411.webp kodak automatic side
 20250219_214644.webp fdeckel munchen compur folding 35mm
