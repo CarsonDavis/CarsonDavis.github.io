@@ -10,11 +10,26 @@ image: old_books_cover.webp
 published: False
 ---
 
+AI is terrifying.
+
+Two years ago, we were impressed when it could string together a single coherent sentence. Today, we get frustrated if it makes a tiny mistake while coding an entire software application. The rate of progress has been staggering, and the new normal was literal sci fi only 3 years ago.
+
+I had a chance to be on a podcast recently with Destin from Smarter Every Day, and we did a deep dive on some of the latest AI technologies, their capabilities in coding, voice, writing, and the possibility of replacing human workers. 
+
+If you want to listen to the whole thing, the first 5 minutes are a bit slow, and I come in at the 30 minute mark. 
+
+It’s a good podcast that will give a little bit of background into the core technologies, and how they are disruptive to coders and knowledge workers in general.
+
+
 I recently had the chance to be on a podcast with Destin and Matt, where we talked about the state of AI and the bright future or immeninent dangers it might offer. We covered a lot of ground in that podcast, mostly talking about the potentials of AI in a positive light. 
+
+
+[nodumbquestions](https://www.nodumbquestions.fm/listen/2025/2/19/199-learn-to-code-they-said-now-what), [spotify](https://open.spotify.com/episode/19VES6gAJ7A6b5IdricpDg?si=NivuxB5kRFChhenWhtTb1w), [apple music](https://podcasts.apple.com/us/podcast/199-learn-to-code-they-said-now-what/id1204701206?i=1000694164131). 
+
 
 ## A Coder's Perspective
 
-In general, my reception to the LLM coding revolution has bene overwhelmingly positive. The easy and power with which we can create new apps using tools like Claude Projects, Windsurf, and Aider is truly amazing, and I think it is no exaggeration to say that it has revolutionized the way we code.
+In general, my reception to the LLM coding revolution has bene overwhelmingly positive. The ease and power with which we can create new apps using tools like Claude Projects, Windsurf, and Aider is truly amazing, and I think it is no exaggeration to say that it has revolutionized the way we code.
 
 You can read plenty of people on the internet who are very excited about it, and honestly I am too. 
 
@@ -48,19 +63,15 @@ We might have a double whammy of both fewer junior dev jobs to gain experience i
 
 Of course, there is always the counter-example of the calculator’s effect on engineering, but I don’t know how transferable the analogy is, when LMMs are offering to completely replace the human thought process, not to merely supplement it.
 
-## Jenkins Paradox
+## Jevon's Paradox
 
 Actually, I think it's also worth making one clarification on the Jevons Paradox. It can be interpreted as an economic safety blanket, where despite increasing in productivity causing loss of jobs, commensurate increases in demand neutralize the ill effects.
-8:49 AM
 
 I've already mentioned in the call that this relies on the two curves growing at similar rates. For example, if demand does grow, but is outstripped by efficiency, you might be in for a lot of unemployed people.
-Edited 9:04 AM
 
 But even this threat overlooks the more sinister one of replacement vs improvement. What happens when you aren’t merely improving a worker's efficiency, you are replacing them entirely?
-8:52 AM
 
 Well if the changes are slow enough, the societal implications will be minimal. Take for our example groomsmen and the advent of the automobile. Obviously the once ubiquitous jobs of groomsman, farrier, etc are no more, and this collapse of an industry was not accompanied by the collapse of the human economy.
-Edited 9:05 AM
 
 But why not? Well, it was two things: slow and partial.
 
@@ -69,13 +80,26 @@ It took decades for cars to fully outphase walking and riding. Decades in which 
 And it wasn’t every worker. It was only partial replacement of a small subset involved with horses.
 
 This is decidedly not what we potentially face with the threat of AI. This change is not slow and partial. It is fast and comprehensive. It will be upon us in years not decades. And it isn’t affecting one specialized job, it upsets huge swaths of human productivity.
-Edited 9:00 AM
 
 So will Jevons Paradox save us?
-9:01 AM
 
 Well, it doesn’t matter how much demand increases if you can use electricity to fill that demand, and not a human being.
-Edited 9:06 AM
 
 This might come upon us too quickly and too comprehensively, and both society and the economy will be left reeling and unprepared.
-9:03 AM
+
+
+
+We aren't the human in that example. We are the horse.
+
+
+horse and mule https://energyhistory.yale.edu/horse-and-mule-population-statistics/
+
+
+21 million, 76 million
+6 million, 336 million
+
+
+one horse for every 4 people
+one horse for every 50 people
+
+
