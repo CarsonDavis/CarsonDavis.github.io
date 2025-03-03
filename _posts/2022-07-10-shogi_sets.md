@@ -154,7 +154,7 @@ The exchange rate back then was .009, so on July 2, 2021 I paid $108 for the set
 
 I had to dig around a little bit on the [way back machine](https://web.archive.org/web/20220628040329/http://shop.kurokigoishi.co.jp/en/item/1817), but my set was originally marketed as, 将棋駒 楓 山上作 特上彫 菱湖書. 
 
-The wood the pieces are made of is honestly not that amazing; it's very lightweight a bit plain, but the carvings are beautiful.
+The wood the pieces are made of is honestly not that amazing; it's very lightweight and a bit plain, but the carvings are beautiful.
 
 
 <div class="grid-container grid-2x2">
