@@ -313,6 +313,106 @@ _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
     <div class="caption"></div>
 </div>
 
+
+## Yashica D
+
+### Overview  
+Produced by Yashica from 1958 to 1972, the Yashica‑D stood as the company’s top “knob wind” twin‐lens reflex (TLR) model. It originally sold for under \$50 in the early 1960s—a price point that translates to roughly \$400 today—making it an appealing option for serious amateurs and professionals seeking a robust, fully mechanical, medium format camera. Critics praised its durable build quality, reliable leaf shutter, and solid optics (notably the 80mm f/3.5 Yashikor or Yashinon lenses). Despite the fully manual operation (and the need for an external light meter), the Yashica‑D earned a lasting reputation for its bright viewfinder, ease of use, and timeless design.
+
+### Personal Story
+In January of 2017, I got it in my head that needed to start shooting medium format for the image quality, and a quick preusal of ebay revealed that TLRs were the sexiest cameras I had ever laid eyes on. They were like some steam punk fantasy that actually took great photos. Now Rollieflexes were way out of budget, but I still wanted the nicest quality I could get. Yashica sells a lot of models, the A, B, C, D, 124g, etc, with the D being the best fully mechanical version made. It comes with two lens options, the 3.5/3.5 Yashikor or the 2.8/3.5 Yashinon, which has an brighter viewing lens and improved taking optics. I didn't know this at the time, but apparently the Yashinon lenses were only made on the D between 1970 and 1972, making my model a bit of a rarity.
+
+So anyway, in my quest to get acquire a high-performance, medium format workhorse, I located a wildly expensive $276 Yashica D, complete with a recent CLA, and a freaking a six‐month warranty, insane for a 45 year old camera. Interestingly, my particular example has “9‐28‐78” penciled inside, likely a service date.
+
+### Shooting Experience  
+Despite its boxy heft, the Yashica‑D is an absolute joy in practice—if you’re willing to slow down and embrace its quirks. The big, bright ground‐glass focusing screen makes pin‐sharp focus relatively easy to achieve. Its all‐mechanical controls, including the separate wheels for aperture and shutter speed on the front, are delightfully old‐fashioned. I actually enjoy the tactile feel: setting exposure feels intentional, and the camera’s “do‐not‐change‐shutter‐speed after cocking” rule encourages a measured, meditative approach.
+
+I’m always amused by how the public reacts; the top‐down viewfinder is a conversation starter, and passersby love peering into it to see the world flipped. However, the leaf shutter’s maximum 1/500s limit can be challenging in bright light, and the minimum focusing distance of around 1 meter can feel restrictive—especially if you’re used to 35mm lenses that focus down to half a meter.  
+
+Compared to something like the Pentax 6×7 system (with its faster 105mm f/2.4 lens and greater versatility), the Yashica‑D lags in sheer performance. Yet for me, there’s an undeniable charm to the TLR experience: the mechanical quiet, the waist‐level framing, and the slower pace of 12 shots per roll all contribute to a unique style of shooting. When given the choice between hauling a single Pentax kit or carrying the Yashica‑D (alongside my trusty Nikon 35mm), I often pick the latter—it just feels more fun and inviting.
+
+All in all, the Yashica‑D remains a treasured part of my collection: a clunky box with modest specs but overflowing with vintage character. Writing this has reminded me just how enjoyable it is to use, and I’m already itching to take it out for another spin.
+
+My main reason for seeking it out? I loved the classic TLR look, and I had been sold on the idea that stepping into medium format would unlock higher resolution than my 35mm setup. Truth be told, I still admire how it looks and the reactions it draws on the street; people are fascinated by the waist‐level finder and the reversed image on the large focusing screen.
+
+### Specs  
+- **Dates Manufactured:** 1958 – 1972  
+- **My Approx. Production Date:** Likely post‐1970 (based on Yashinon viewing lens)  
+- **Camera Type:** Twin‐Lens Reflex (TLR)  
+- **Format:** 120 roll film (6×6 cm)  
+- **Shutter Speeds:** 1s – 1/500s + Bulb (MXV shutter, 5 curved aperture blades)  
+- **Lenses:**  
+  - **Viewing Lens:** Yashinon 80mm f/2.8  
+  - **Taking Lens:** Yashinon 80mm f/3.5  
+- **Minimum Focus Distance:** ~1 meter (typical for TLR lenses)  
+- **Serial Number (Mine):** D 7122389  
+- **Unique Markings:** “9‐28‐78” written in pencil inside the camera body  
+
+### Original
+I'll be honest. I wanted a yashica because they look awesome. At the time, I was also super inexperienced and had been sold the idea that medium format was much higher resolution than 35mm. I bought one that had just been CLA'd and came wiht a crazy 6 month warranty for $276, thinking that it would be the gateway into the high quality world of medium format.
+
+And I do really like my Yashica. it's a beautiful camera. And it is really fun to walk around taking pictures with it, looking cool, and meeting other photographers. The public in general is deeply fascinated by being able to look through the top of the camera and see the world in reverse and on the big bold screen.
+
+However, it's a clunky box, and the tech specs leave quite a lot to be desired. An 80mm f/3.5 with a shutter speed range of 1s to 1/500s is not exactly going to get you through the a range of different lighting conditions. the minimum focusing distance of 1m is also a far cry from the 0.45m of my Nikon 50/1.4, although it is inline with other medium format lenses such as the pentax 105/2.4.
+
+actually shooting with the camera is an interesting experience. the focusing window is excellent and large and bright, making it easy to nail the focus. and the antiquated wheels to adjust shutter speed and aperature with the leaf shutter lever give it a delightfully unusual and old timey feel. I'm honestly really fond of the quaint controls. they don't get in the way, and even though they are unusal by modern standards, they are easy to use and understand.
+
+Writing this blurb is really making me remember what a fun little camera it is, and I'm excited to take it out again soon.
+
+I will say. I've done some comparison shoots between it and the pentax 105/2.4, and there is really no comparison between thier capabilities. the pentax is simply just so much better in every way. but, if I had to choose between taking out the pentax by itself, or shooting with the yashica+nikon, I would choose the latter every time.
+
+Bought in January 2017
+Serial Number: D 7122389
+Yashinon lenses (with f/2.8 viewing lenses) didn't arrive until 1970. These, and the last of the examples with Yashikor lenses, have MXV shutters with 5 curved aperture blades instead of 10.
+http://yashicatlr.com/66ModelsPage6.html#yashicad
+
+9-28-78 written on the inside of my Yashica in Pencil, which matches with the idea that it was made after 1970. 
+
+Mine is Made in Japan, with a 2.8 viewing lens and a 80mm f/3.5 taking lens.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250222_151128.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250222_151143.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+Here we have some genuinely nice Yashica D Photos
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img018.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="81200005 edit.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption">HP5 400, New Orleans, Feb 2017</div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img021.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="51650012a.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption">HP5 400, Washington, Nov 2017</div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="51650005a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="51640002a.webp" alt="">
+    </div>
+    <div class="caption">HP5 400, Washington, Nov 2017</div>
+    <div class="caption">HP5 400, Washington, Nov 2017</div>
+</div>
+
 ## Pentax 67
 
 <div class="grid-container grid-2x2">
@@ -391,7 +491,7 @@ Well for starter, the negatives are gigantic. On top of having way more detail a
 And most importantly, you look like a badass when you shoot it.
 
 
-## Shooting Experience
+### Shooting Experience
 
 If I’m heading out *specifically* to photos, the Pentax 67 is at the top of my list. The massive negatives, the awesome lenses, the undeniable conversation factor...it's just so much fun.
 
@@ -412,24 +512,11 @@ Finally, it really, *really* bears mentioning that the minimum focusing distance
 In all, the Pentax 67 is a fun camera and I love it. But unless you are specifically wanting hi-res, huge negatives, like for epic landscapes or studio portraits, then you really might consider taking a smaller and more fully featured camera.
 
 ### Tech Specs
-- **Dates Manufactured:** 1977–1982  
-- **Camera Type:** 35mm SLR 
-- **Shutter Speeds:** 1s to 1/1000s (with Bulb mode available)  
-- **Format:** 35mm  
-- **Primary Lens:** 50mm f/1.8 Series E Chrome Ring (3291471, from 1981–1985)  
-- **Serial Number:** FM 3091999  
-- **Key Features:**  
-  - 60/40 center weighted light metering.  
-  - Viewfinder displays both the shutter speed and aperture.
-
-- **Dates Manufactured (MLU Version):** Approximately 1977–1982 (though the broader 6×7/67 line spanned 1969–2009).  
-- **Camera Type:** 6x7, Medium Format SLR (6×7 cm frame, roughly 56×70 mm).  
-- **Shutter Speeds:** 1s – 1/1000 
-- **Lens Mount:** Pentax bayonet for 6×7, with a legendary lens lineup (e.g., 105mm f/2.4, 45mm wide-angle, 165mm telephoto).  
-- **Focusing Screen:** Mine is a plain matte screen (uncommon compared to the more standard central microprism).  
-- **Viewfinders:** Interchangeable (waist-level finder, non-metered prism, metered prism, chimney finder).  
-- **Film Format:** 12010 exposures (120) or 20 (220) per roll.  
-- **Size/Weight:**   
+- **Dates Manufactured:** 1990-1999  
+- **Camera Type:** SLR 
+- **Shutter Speeds:** 1s to 1/1000s
+- **Format:** 6x7 (actual 56x70mm)  
+- **Primary Lens:**  45/4, 105/2.8, 165/2.8
 
 
 <!-- body $297
@@ -455,7 +542,7 @@ metering prism $149
     <div class="caption">Notice the two people in this super zoomed in shot.</div>
 </div>
 
-Even with inexpensive medium quality scans, the resolution and detail in the Pentax is insane. Look at this zoomed in crop of the above photo, where you can see two tiny people in the distance. This particular shot was taken with the SCM Pentax 67 1:4 45mm lens, which is the sharpest and most optically advanced of the three 45mm lenses available for the Pentax 67.
+Even with inexpensive, medium quality scans, the resolution and detail in the Pentax is insane. Look at this zoomed in crop of the above photo, where you can see two tiny people in the distance. This particular shot was taken with the SCM Pentax 67 1:4 45mm lens, which is the sharpest and most optically advanced of the three 45mm lenses available for the Pentax 67.
 
 If you want to take gorgeous landscape shots and worry about cropping later, it's hard to beat a Pentax 67 with a 45mm lens.
 
@@ -536,52 +623,6 @@ _the wide 45mm lets you do nice long crops_
 
 ![000289480015](000289510008+(2).webp)
 
-
-
-## Yashica D
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="20250222_151128.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="20250222_151143.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
-Here we have some genuinely nice Yashica D Photos
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="img018.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="81200005 edit.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption">HP5 400, New Orleans, Feb 2017</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="img021.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="51650012a.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption">HP5 400, Washington, Nov 2017</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="51650005a.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="51640002a.webp" alt="">
-    </div>
-    <div class="caption">HP5 400, Washington, Nov 2017</div>
-    <div class="caption">HP5 400, Washington, Nov 2017</div>
-</div>
 
 ## Balda Fixfocus 6x9
 
@@ -1246,7 +1287,7 @@ bishwash bangalore
 
 
 Prompt 1:
-ok, i want you to research the historical context of the pentax 67. what years it was manufactured, what was the price, who was the market, what was the critical reception
+ok, i want you to research the historical context of the yashica D. what years it was manufactured, what was the price, who was the market, what was the critical reception
 
 Prompt 2:
 Ok, now research if there are any interesting facts about it. any famous photos taken with it, any interesting quirks, etc
@@ -1263,8 +1304,10 @@ Anything about how I bought it or fixed it, etc.
 ### Specs
 Give an overview of any key features, such as seeing the aperture and shutter speed in the viewfinder, or an extemely 
 
-Dates Manufactured: 1977-1982
-My Date: If available
+For EXAMPLE
+
+Dates Manufactured: 
+My Date: 
 Camera Type: SLR
 Format: 35mm
 Shutter Speeds: 1s - 1/1000
