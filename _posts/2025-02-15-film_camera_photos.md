@@ -753,15 +753,22 @@ I actually cleaned of the lens of this one.
     <div class="caption"></div>
 </div>
 
+Go here to date it....
+https://cameraquest.com/ltmnum.htm
+
 I came across this hidden in the back of an antique shop in Las Vegas for $175, and bought it without a second thought. It originally had haze in one of the internal elements which gave the photos a dreamy, low-contrast feel. I have since disassembled the lens and removed the mold, but I honestly wish I had just left it alone. 
 
-
-
-
-
-
-
 When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. 
+
+"
+I think my leica iii may have been one of, if not the, best 35mm camera in existence in 1937 when it was made
+magnified and accurate rangefinder, 1/1000 shutter speed, f/2.0 lens standard, f1.5 available
+plus, you could send it back to the factory for upgrades instead of buying a new camera. for instance, I have a iiic. but the iiif introduced flash sync. so someone sent mine back to the factory and had flash sync professionally installed by leica
+
+
+
+
+"
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1114,6 +1121,15 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
     <div class="caption"></div>
 </div>
 
+
+## Zeiss Super Ikonta 531/2
+Body D87318...D, E	1937
+Shutter 4150285
+Lens 2003386...1937	1,930,150	2,219,775
+Carl Zeiss Jenna Tessar 1:3.5 10.5cm 
+http://camera-wiki.org/wiki/Carl_Zeiss_serial_numbers
+http://camera-wiki.org/wiki/Zeiss_Ikon_serial_numbers
+Zeiss Jena lens numbers start with 3.000.000
 
 
 ## Example Class
