@@ -126,7 +126,7 @@ From the Dordogne Valley in France, a Neolithic blade. Unfortunately, I lost my 
   </div>
 </div>
 
-I found this in a creek in Huntsville, Alabama. 
+I found this in a creek in Huntsville, Alabama on June 16, 2019. 
 
 ![backyard](backyard.PNG)
 
