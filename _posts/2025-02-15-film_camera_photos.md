@@ -758,17 +758,16 @@ https://cameraquest.com/ltmnum.htm
 
 I came across this hidden in the back of an antique shop in Las Vegas for $175, and bought it without a second thought. It originally had haze in one of the internal elements which gave the photos a dreamy, low-contrast feel. I have since disassembled the lens and removed the mold, but I honestly wish I had just left it alone. 
 
-When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. 
+When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. I've got plenty of cameras that can deliver sharp, perfect photos, but the dreamy, low-contrast look of the hazy lens was something unique.
 
-"
+
 I think my leica iii may have been one of, if not the, best 35mm camera in existence in 1937 when it was made
 magnified and accurate rangefinder, 1/1000 shutter speed, f/2.0 lens standard, f1.5 available
 plus, you could send it back to the factory for upgrades instead of buying a new camera. for instance, I have a iiic. but the iiif introduced flash sync. so someone sent mine back to the factory and had flash sync professionally installed by leica
 
+I quite like the zoomed-in rangefinder window with a separate viewfinder on the leica. unlike dual viewfinders, which try to both show you the field of view _and_ include a rangefinder patch, the leica has a separate rangefinder window that you can zoom in on. this makes it much easier to focus on a small object, and I find it much more accurate than the dual viewfinder system.
 
-
-
-"
+My leica is a 1937, and I also have a 1937 zeiss super ikonta 531/2. it also has a zoomed in rangefinder, although not quite as zoomed as the lieca is. 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
