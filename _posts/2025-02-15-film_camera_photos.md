@@ -317,58 +317,36 @@ _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
 ## Yashica D
 
 ### Overview  
-Produced by Yashica from 1958 to 1972, the Yashica‑D stood as the company’s top “knob wind” twin‐lens reflex (TLR) model. It originally sold for under \$50 in the early 1960s—a price point that translates to roughly \$400 today—making it an appealing option for serious amateurs and professionals seeking a robust, fully mechanical, medium format camera. Critics praised its durable build quality, reliable leaf shutter, and solid optics (notably the 80mm f/3.5 Yashikor or Yashinon lenses). Despite the fully manual operation (and the need for an external light meter), the Yashica‑D earned a lasting reputation for its bright viewfinder, ease of use, and timeless design.
+Produced by Yashica from 1958 to 1972, the Yashica‑D stood as the company’s top knob wind twin‐lens reflex (TLR) model. It originally sold for [around $50](https://mikeeckman.com/2016/11/yashica-d-1970/), a 2025 price of $530. The Yashica D model would have been sold alongside the Yashica Mat LM, which included a light meter for $80 total. 
+
+From 1970-1972, the original 3 element Yashikor triplet lenses were replaced with the 4 element Tessar design Yashinon lenses, with the viewing lens increasing from f/3.5 to f/2.8. Paul Sokk has an excellent, and wonderfully obsessive, [site](http://yashicatlr.com/66ModelsPage6.html#yashicad) where he details every possible thing you could want to know about the Yashica line up.
 
 ### Personal Story
 In January of 2017, I got it in my head that needed to start shooting medium format for the image quality, and a quick preusal of ebay revealed that TLRs were the sexiest cameras I had ever laid eyes on. They were like some steam punk fantasy that actually took great photos. Now Rollieflexes were way out of budget, but I still wanted the nicest quality I could get. Yashica sells a lot of models, the A, B, C, D, 124g, etc, with the D being the best fully mechanical version made. It comes with two lens options, the 3.5/3.5 Yashikor or the 2.8/3.5 Yashinon, which has an brighter viewing lens and improved taking optics. I didn't know this at the time, but apparently the Yashinon lenses were only made on the D between 1970 and 1972, making my model a bit of a rarity.
 
-So anyway, in my quest to get acquire a high-performance, medium format workhorse, I located a wildly expensive $276 Yashica D, complete with a recent CLA, and a freaking a six‐month warranty, insane for a 45 year old camera. Interestingly, my particular example has “9‐28‐78” penciled inside, likely a service date.
+So anyway, in my quest to get acquire a high-performance, medium format workhorse, I located a wildly expensive $276 Yashica D, complete with a recent CLA, and a freaking a six‐month warranty, which is insane for a 45 year old camera. Interestingly, my particular example has “9‐28‐78” penciled inside, likely a service date.
 
-### Shooting Experience  
-Despite its boxy heft, the Yashica‑D is an absolute joy in practice—if you’re willing to slow down and embrace its quirks. The big, bright ground‐glass focusing screen makes pin‐sharp focus relatively easy to achieve. Its all‐mechanical controls, including the separate wheels for aperture and shutter speed on the front, are delightfully old‐fashioned. I actually enjoy the tactile feel: setting exposure feels intentional, and the camera’s “do‐not‐change‐shutter‐speed after cocking” rule encourages a measured, meditative approach.
+### Shooting Experience
+The Yashica is a very charming camera to shoot with. It's often touted for it's bright viewing screen (especially the f/2.8 model), and I find that this is absolutely the case. The waist level view finder with the pop-up magnifier is a joy to use and makes focusing a breeze. The camera gets quite a bit of attention on the street, and people are uniformly impressed by the viewing experience.
 
-I’m always amused by how the public reacts; the top‐down viewfinder is a conversation starter, and passersby love peering into it to see the world flipped. However, the leaf shutter’s maximum 1/500s limit can be challenging in bright light, and the minimum focusing distance of around 1 meter can feel restrictive—especially if you’re used to 35mm lenses that focus down to half a meter.  
+The controls are also quite nice. Symmetrically oriented on the front of the camera, you rotate the aperture and shutter dials with the thumb and index finger of your left hand, watching their progress in the perfectly positioned viewing window situated on top of the viewing lens. Meanwhile the right hand adjusts the focus, shutter, and film advance. If there is a downside, it is that careless procedure can lead to double exposures, which has ruined a few of my otherwise favorite shots. 
 
-Compared to something like the Pentax 6×7 system (with its faster 105mm f/2.4 lens and greater versatility), the Yashica‑D lags in sheer performance. Yet for me, there’s an undeniable charm to the TLR experience: the mechanical quiet, the waist‐level framing, and the slower pace of 12 shots per roll all contribute to a unique style of shooting. When given the choice between hauling a single Pentax kit or carrying the Yashica‑D (alongside my trusty Nikon 35mm), I often pick the latter—it just feels more fun and inviting.
+It's unavoidable that it be compared with some of my other medium format cameras, and compared to something like the Pentax 67 system (with its faster lenses and better shutter speeds), the Yashica‑D lags in sheer performance. An 80mm f/3.5 with a shutter speed range of 1s to 1/500s is not exactly going to get you through the a range of different lighting conditions. the minimum focusing distance of 1m is also a far cry from the 0.45m of my Nikon 50/1.4, although it is inline with other medium format lenses such as the pentax 105/2.4. I will say. I've done some comparison shoots between it and the pentax 105/2.4, and there is really no comparison between their capabilities.
 
-All in all, the Yashica‑D remains a treasured part of my collection: a clunky box with modest specs but overflowing with vintage character. Writing this has reminded me just how enjoyable it is to use, and I’m already itching to take it out for another spin.
+Yet for me, there’s an undeniable charm to the TLR experience, and it's just such a delightful camera to carry around. Petty though it may be, it has a passerby wow factor that is almost unmatched in my camera collection. Honestly, writing this has reminded me just how enjoyable it is to use, and I’m already itching to take it out for another spin.
 
-My main reason for seeking it out? I loved the classic TLR look, and I had been sold on the idea that stepping into medium format would unlock higher resolution than my 35mm setup. Truth be told, I still admire how it looks and the reactions it draws on the street; people are fascinated by the waist‐level finder and the reversed image on the large focusing screen.
 
 ### Specs  
 - **Dates Manufactured:** 1958 – 1972  
 - **My Approx. Production Date:** Likely post‐1970 (based on Yashinon viewing lens)  
 - **Camera Type:** Twin‐Lens Reflex (TLR)  
 - **Format:** 120 roll film (6×6 cm)  
-- **Shutter Speeds:** 1s – 1/500s + Bulb (MXV shutter, 5 curved aperture blades)  
+- **Shutter Speeds:** 1s – 1/500s + Bulb
 - **Lenses:**  
   - **Viewing Lens:** Yashinon 80mm f/2.8  
-  - **Taking Lens:** Yashinon 80mm f/3.5  
-- **Minimum Focus Distance:** ~1 meter (typical for TLR lenses)  
-- **Serial Number (Mine):** D 7122389  
-- **Unique Markings:** “9‐28‐78” written in pencil inside the camera body  
-
-### Original
-I'll be honest. I wanted a yashica because they look awesome. At the time, I was also super inexperienced and had been sold the idea that medium format was much higher resolution than 35mm. I bought one that had just been CLA'd and came wiht a crazy 6 month warranty for $276, thinking that it would be the gateway into the high quality world of medium format.
-
-And I do really like my Yashica. it's a beautiful camera. And it is really fun to walk around taking pictures with it, looking cool, and meeting other photographers. The public in general is deeply fascinated by being able to look through the top of the camera and see the world in reverse and on the big bold screen.
-
-However, it's a clunky box, and the tech specs leave quite a lot to be desired. An 80mm f/3.5 with a shutter speed range of 1s to 1/500s is not exactly going to get you through the a range of different lighting conditions. the minimum focusing distance of 1m is also a far cry from the 0.45m of my Nikon 50/1.4, although it is inline with other medium format lenses such as the pentax 105/2.4.
-
-actually shooting with the camera is an interesting experience. the focusing window is excellent and large and bright, making it easy to nail the focus. and the antiquated wheels to adjust shutter speed and aperature with the leaf shutter lever give it a delightfully unusual and old timey feel. I'm honestly really fond of the quaint controls. they don't get in the way, and even though they are unusal by modern standards, they are easy to use and understand.
-
-Writing this blurb is really making me remember what a fun little camera it is, and I'm excited to take it out again soon.
-
-I will say. I've done some comparison shoots between it and the pentax 105/2.4, and there is really no comparison between thier capabilities. the pentax is simply just so much better in every way. but, if I had to choose between taking out the pentax by itself, or shooting with the yashica+nikon, I would choose the latter every time.
-
-Bought in January 2017
-Serial Number: D 7122389
-Yashinon lenses (with f/2.8 viewing lenses) didn't arrive until 1970. These, and the last of the examples with Yashikor lenses, have MXV shutters with 5 curved aperture blades instead of 10.
-http://yashicatlr.com/66ModelsPage6.html#yashicad
-
-9-28-78 written on the inside of my Yashica in Pencil, which matches with the idea that it was made after 1970. 
-
-Mine is Made in Japan, with a 2.8 viewing lens and a 80mm f/3.5 taking lens.
+  - **Taking Lens:** Yashinon 80mm f/3.5
+- **Serial Number:** D 7122389  
+- **Country of Origin:** Japan
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1130,6 +1108,18 @@ http://camera-wiki.org/wiki/Carl_Zeiss_serial_numbers
 http://camera-wiki.org/wiki/Zeiss_Ikon_serial_numbers
 Zeiss Jena lens numbers start with 3.000.000
 
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000295660007+(1).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="Screenshot_20250305_150229_Lightroom.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![000289480015](000295660008+(2).webp)
 
 ## Example Class
 
