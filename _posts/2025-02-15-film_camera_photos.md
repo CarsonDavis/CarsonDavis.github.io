@@ -359,7 +359,6 @@ Yet for me, there’s an undeniable charm to the TLR experience, and it's just s
     <div class="caption"></div>
 </div>
 
-Here we have some genuinely nice Yashica D Photos
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="img018.webp" alt="">
@@ -584,7 +583,6 @@ four
 </div>
 five
 
-
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="1000022030.webp" alt="">
@@ -615,15 +613,43 @@ _the wide 45mm lets you do nice long crops_
     <div class="caption"></div>
 </div>
 
+## Overview
+I have a lot of 1900s-1930s folders floating around the house, very few of which I have actually bothered to run film through. A big problem is that many of them take weird film formats that have been since discontinued. Take a look at this table of formats
 
-I have a lot of 1910s-1930s folders floating around the house, very few of which I have actually bothered to run film through. I forget now what inspired me to shoot this particular camera, but it produced some very interesting lo-fi images for my trouble. 
+| Format | Introduced | Image Size                | Availability | Notes                            |
+|----------|------------|------------------|----------------|----------------------------------|
+| **120**  | 1901       | 6×4.5, 6×6, 6×9 cm | Available      | Dominant medium format today |
+| **620**  | 1931       | 6×4.5, 6×6, 6×9 cm | Discontinued   | 120, but with smaller spool |
+| **127**  | 1912       | 4×6.5 cm          | Limited availability | still produced by niche manufacturers |
+| **116**  | 1899       | 6.5×11 cm         | Discontinued   | Scarce; requires DIY solutions |
+| **616**  | 1932       | 6.5×11 cm         | Discontinued   | 116, but with smaller spool |
+| **122**  | 1903       | 9×14 cm           | Discontinued   | Large negatives; difficult to source |
+| **127**  | 1912       | 4×6.5 cm          | Limited availability | Compact cameras; limited availability |
+| **135 (35mm)** | 1934 (still) | 24×36 mm | Widely available | Dominant film format today |
+| **Sheet Film** | | | | |
+| 2¼×3¼" (6×9 cm) | Early 1900s | 2¼×3¼ inches | Available | Commonly used small sheet film, especially in press cameras and small folders. |
+| 3¼×4¼" | Early 1900s | 3¼×4¼ inches | Limited availability | Less common today but historically widely used in folding press cameras. |
 
-The camera is unbranded but the film viewing window cover bears the marks: "DRGM" and "BW". This leads us to identify it as a Balda 6x9 of unknown model, probably a Fixfocus, produced between 1933 and 1938. 
+The camera is unbranded but the film viewing window cover bears the marks: "DRGM" and "BW". This leads me to identify it as a Balda 6x9 of unknown model, probably a Fixfocus, produced between 1933 and 1938. 
 
-I came across a few nice resouces while researching it, including this page on the [Fixfocus specifically](https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html), a lovely [interactive timeline of the Balda Camera](https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda) models, and an in depth review of a [newer iteration of my camera](https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/). 
+I came across a few nice resources while researching it, including this page on the [Fixfocus specifically](https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html), a lovely [interactive timeline of the Balda Camera](https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda) models, and an in depth review of a [newer iteration of my camera](https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/). 
 HP5+ 400
 
-apparently https://zackscamerarepair.com/camera-repairs/ this is the guy to go to for weird camera repairs
+## Shooting Experience
+I took two of my 6x9 folders on a trip with me to Nevada in 2017, and I'm pretty sure these are the photos from the Balda. They've got a very interesting lo-fi images look to them, which I believe is caused by light leaks from the body, possibly through the film viewing holes. The bellows on this camera don't have any pinholes, so I don't think they are to blame.
+
+Shooting this camera is a bit of a pain. It has no lightmeter, no way to see if the subject is in focus, no shutter release on the body, no double exposure interlock, a max aperture of only f/4.5, and a max shutter speed of only 1/125th. For all that though, the rotating viewing window is actually very bright and clean, a rarity in these old cameras, as they are typically dim and hard to see through, often with mirror issues.
+
+The shutter cocking is also really nice. The cocking lever moves from left to right, and then as soon as it is cocked, you find your thumb conveniently placed over the shutter release, which you can continue to press to fire the camera. On many, many of my leaf shutter cameras, the cocking lever is in some unintuitive place that you have to hunt for, and then the shutter release is in some other random location. Not so in the Balda.
+
+### Tech Specs
+- **Dates Manufactured:** 1933-1938  
+- **Camera Type:** 6x9 Folder 
+- **Film:** 120mm  
+- **Format:** 6x9, or 6x4.5 with a mask
+- **Shutter** Prontor
+- **Shutter Speeds:** 1/25 - 1/125, with T and Bulb
+- **Lens:** Schneider-Krieuznoach Radionar 10.5 cm f/4.5
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -639,7 +665,36 @@ apparently https://zackscamerarepair.com/camera-repairs/ this is the guy to go t
 Pay attention to the wide shot of the river, as I took the same photo with the lovely Agfa Flexilette below.
 
 ## Agfa Flexilette
+Made for only one year in 1960, the Agfa Flexilette is one of a select few 35mm TLRs ever made. Commercially, it's considered a bit of a flop, and it was replaced a year later with the Optima Reflex. It was a somewhat expensive camera, with Mike Eckman estimating that it would have sold for $106 in 1960 (about $1,150 in 2025). I bought mine in Huntsville, Al at Firehouse antiques for around $50, in shockingly mint condition. Interestingly, Mike mentions that he can not find any instances of the camera being sold in the US, so I can only assume that mine made it's way to Huntsville via the German engineers who moved here after the war. 
 
+In case the pictures don't make it obvious, it's a TLR, where the bottom lens is used to take the photo and the top lens is used to compose the shot. It's a weird mix of obviously well-thought out engineering and uncomfortable ergonomics. The film advance lever is gorgeously machined into the perfect shape for your thumb, with just the right amount of knurling. It's not a piece of flat stock that has been bent; it looks machined from a solid piece of metal. It would not be an exaggeration to call it one of the most premium advance levers in my entire collection; I'm frankly shocked they choose to manufacture it this way. 
+
+Meanwhile, the focus and aperture controls are...questionable at best. Yes, they've done an excellent job packing all the controls into a thin, pancake lens, but at the cost of them actually being big enough to comfortably use with your soft human fingers. The focus ring is knurled and scalloped and only 2.25mm thick, which is a literal pain to use. Perhaps in the 65 years since it's manufacture the lens grease has stiffened, but reading online this is an almost universal complaint. 
+
+The aperture ring is a bit better, but only because it moves more smoothly. It has the flaw of being too close to the body, presenting it's own difficulties. Charmingly, the shutter speed, which is flush with the body, should by rights be the hardest to adjust, but it is actually the easiest. They've added two large finger grips making it a breeze to adjust. 
+
+To be fair, these controls are not all that better than operating, for instance, a Zeiss Contaflex but that doesn't excuse them..
+
+The viewfinder is top notch. It deploys by the aid of a small knob on the back, which my camera originally had but which fell off at some point. The deployment is firm and confident, and puts it in waistfinder mode. By flipping up the magnifier, you can do precision focusing or use the excellent sport finder. The sport finder really deserves praise for its lenses, which, quite unlike any other sportfinder in my collection, really elevates it over the normal metal frame. The viewfinder is bright and crisp, with a split prism in the center, that makes focusing trivial. The scene that you see through the magnifier is massive. Compared to my Nikon FM2, I think it might take up as much as 4x the physical area in my eye's field of view.
+
+The taking lens is a 3 element coated Agfa Color Apotar 45mm f/2.8, with a minimum focusing distance of 0.9m, and the leaf shutter goes from 1-1/500s. 
+
+Mike Eckman has a great [writeup](https://mikeeckman.com/2020/11/agfa-flexilette-1960/) on the camera that goes into more detail than I have here. He talks a lot about it's general place in history, and the state of the german camera market.
+
+Inside it has a little advertisement for Agfa Isopan Agfacolor IF 17, Pat 36
+
+It's a sort of weirdly positioned camera, with a premium build, and intermediate price, and it's not clear to me who the market was. Overall, despite the finicky controls, the unique design and the _excellent_ viewfinder make it a delightful little camera to shoot with, and I should honestly take it out more. 
+
+
+**Dates Manufactured**: 1960
+**Type**: 35mm TLR
+**Format**: 35mm
+**Lens**: AGFA Color Apotar 45mm f/2.8
+**Shutter Speeds**: 1 - 1/500, B
+**Minimum Focusing Distance**: 0.9m
+**Serial number**: AC 3584
+**Country of Origin**: Germany
+**Manual**: [here](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1321,3 +1376,9 @@ Serial Number: FM 3091999
 
 ### Shooting Experience
 Talk about the nice or bad features, like whether it has an internal light meter, or if the film is hard to rewind, etc, etc
+
+
+
+
+
+<!-- apparently https://zackscamerarepair.com/camera-repairs/ this is the guy to go to for weird camera repairs -->
