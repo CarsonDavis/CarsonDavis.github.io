@@ -755,12 +755,26 @@ Jan, 2017ish
     <div class="caption"></div>
 </div>
 
-This was maybe the third film camera I ever shot with, and the first one that I did any work on. Not too complicated of a job, but when I bought it for $6 at an estate sale, the viewfinder was so dirty it could barely be used. Thankfully they are very easy to take apart for quick clean.
+The Kodak Dualflex IV is an unabashaedly budget camera made from 1955 to 1960. It was marketed directly at family market to take snapshots of vacations, important moments, and life in general. With it's bright TLR viewfinder, it was meant to be an upgrade over the simple box cameras like the Brownie, while still being insanely affordable. The bodies are made mostly of bakelite with some metal features, and the lenses are incredibly simple meniscus designs. They have no focusing, a fixed aperture of around f/15, and a single fixed shutter speed of about 1/30 of a second.
 
-I actually cleaned of the lens of this one.
+It's really hard to get more simple than this camera. They were priced at $14.95 in 1960, which would make them about $160 in 2025. Mine is pictures with the flash unit, which would have brought the total cost up to $19.95.
+
+Despite looking like Yashicas or Rolliflexes, these cameras do _not_ take 120 film. Instead they take 620, which was probably a choice made by Kodak to lock you into their own film sales. 620 is actually the same film as 120, but it is wound on a smaller spool, which means if you want to shoot these cameras today, you need to unwind your 120 film and then rewind it onto a 620 spool. 
+
+It's pretty typical for these to come with dirty viewfinders and internal mirrors, and it is a very easy fix. I think this was the second or third film camera that I ever shot, and it was the first that I ever "repaired". 
+
+The actual shooting experience is pretty minimal. Aim camera, press shutter, wind film. You do need to plan your film and light with this camera, as the fixed aperture and shutter speed mean that you are at the mercy of the film's latitude at the sun's whims.
+
+
+**Dates Manufactured**: 1955-1960
+**Type**: 620 TRL
+**Format**: 620
+**Lens**: Kodet
+**Shutter Speeds**: Instant, Long
+**Minimum Focusing Distance**: ~5ft
+**Country of Origin**: 'Murica
 
 ![000289480015](0001arst.webp)
-
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1014,6 +1028,17 @@ cuase it is zone focus i carry it on my wrist. i ste tthe focus to like 15 ft an
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+
+
+**Dates Manufactured**: 
+**Type**:
+**Format**: 35mm
+**Lens**: Rollei-HFT Sonnar 2.8/40, 2555662
+**Shutter Speeds**:
+**Minimum Focusing Distance**:
+**Serial number**:
+**Country of Origin**:
+**Manual**:
 
 ![000289480015](54890024.webp)
 
