@@ -757,13 +757,14 @@ Jan, 2017ish
 
 The Kodak Dualflex IV is an unabashaedly budget camera made from 1955 to 1960. It was marketed directly at family market to take snapshots of vacations, important moments, and life in general. With it's bright TLR viewfinder, it was meant to be an upgrade over the simple box cameras like the Brownie, while still being insanely affordable. The bodies are made mostly of bakelite with some metal features, and the lenses are incredibly simple meniscus designs. They have no focusing, a fixed aperture of around f/15, and a single fixed shutter speed of about 1/30 of a second.
 
-It's really hard to get more simple than this camera. They were priced at $14.95 in 1960, which would make them about $160 in 2025. Mine is pictures with the flash unit, which would have brought the total cost up to $19.95.
+It's really hard to get more simple than this camera. They were priced at $14.95 in 1960, which would make them about $160 in 2025. Mine is pictures with the flash unit, which would have brought the total cost up to $19.95. [Jeremy Mudd's post](https://www.jeremymuddphoto.com/blog/2023/8/27/kodak-duaflex-iv) shows a lot of great ads for these cameras.
 
 Despite looking like Yashicas or Rolliflexes, these cameras do _not_ take 120 film. Instead they take 620, which was probably a choice made by Kodak to lock you into their own film sales. 620 is actually the same film as 120, but it is wound on a smaller spool, which means if you want to shoot these cameras today, you need to unwind your 120 film and then rewind it onto a 620 spool. 
 
 It's pretty typical for these to come with dirty viewfinders and internal mirrors, and it is a very easy fix. I think this was the second or third film camera that I ever shot, and it was the first that I ever "repaired". 
 
 The actual shooting experience is pretty minimal. Aim camera, press shutter, wind film. You do need to plan your film and light with this camera, as the fixed aperture and shutter speed mean that you are at the mercy of the film's latitude at the sun's whims.
+
 
 
 **Dates Manufactured**: 1955-1960
@@ -1016,8 +1017,6 @@ This camera would have been competing with the nikon s, the lieca m, etc, and it
 
 ## Rollei 35 S
 
-cuase it is zone focus i carry it on my wrist. i ste tthe focus to like 15 ft and f/8 and just bring it to my eye and shooot. thejight meter is built into the top of the body, so as you walk around you can be tweaking the lm withough looking through the viewfinder. if this camera had a rangefinder, i wouldn't shoot with anything else. i adore this camera.
-
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250219_214457.webp" alt="">
@@ -1028,6 +1027,59 @@ cuase it is zone focus i carry it on my wrist. i ste tthe focus to like 15 ft an
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="rollei-35-camera-advert-in-a-natgeo-magazine-july-1969-2PCEKXC.jpg" alt="">
+    </div>
+    <div class="image-div">
+        <img src="4104508626_337122d980_h.jpg" alt="">
+    </div>
+    <div class="caption">Originally advertised as the "World's smallest 35mm camera" -Natgeo, July 1969</div>
+    <div class="caption">As electronic miniture cameras were released, this was changed to "World's smallest 35mm precision camera" -Oct 1976</div>
+</div>
+
+### History
+In the early 1960s, Heinz Waaske was working for the Wirgin camera company, and he was obsessed with the idea of a full-frame 35mm camera that could fit in your pocket. He spent several years designing one in his free time before finally taking it to his boss, Heinrich Wirgin, who was reportedly less than thrilled, irritated that Heinz had used Wirgin's resources to develop his pet project. This eventually led to Heinz leaving Wirgin. Unemployed, he demonstrated his prototype to both Leica and Kodak, both of whom rejected it. In 1965, after having his hopes crushed by three separate camera manufactures, he took a regular job at Rollei, where he kept quiet about his idea. 
+
+Rollei itself was founded in 1920 by two former Voigtländer employees, Paul Franke and Reinhold Heidecke. They got their start making stereo cameras like the Heidosop, and in 1929 they released what is now one of the most famous film cameras in existence, the Rolleiflex. Rollei absolutely dominated the high quality TLR market, making a precision and lustworth professional camera that spawned countless imitators, such as my Yashica D. However, by the 1960s, the TLR market was shrinking, and Rollei was looking for new ideas.
+
+In 1964, the company hired 38 year old German physicist Heinrich Peesel to be the Chairman of the Rollei board of directors. He had produced a detailed report outlining the future path of the company, and his aggressive approach involved moving into new markets, such as slide projectors, a Hasselblad competitor...and 35mm. 
+
+In 1965, two months after Heinz was hired, he had a chance meeting with Heinrich, where he reluctantly showed him his prototype. It was exactly what the new Chariman of the Board of Directors was looking for, and by November 1966 the Rollei 35 was unleashed on the world. 
+
+Retailing for a whopping $189.95 ($1,834 in 2025), the Rollei was advertised as the smallest full frame 35mm camera ever produced. It leveraged Rollei's design heritage to specifically target the premium market, and it was a resounding success. The camera remained in official production until 1981, with special editions being released sporadically after that, and it is estimated that over 1.5 million Rollei 35 were sold. Although the crown of "smallest 35mm camera" was eventually taken by the partially automatic Minox 35 in 1973, as far as I know the Rollei 35 remains, to this day, the smallest 35mm camera with full aperture and shutter speed controls.
+
+It's high price raised some eyebrows, but reviews were positive. In his July 1967 review in Camera 35, Jim Hughes reviews the expensive $189.95 camera, saying that it's size and quality invite "amazement, then disbelief, and finally fascination". He sums up my thoughts perfectly when he says, "when you hold the Rollei 35, you can't help but know that you're holding a miniature masterpiece of design. 
+
+A lot of the details I've related about the camera's history have been taken from Mike Eckman's [excellent overview](https://mikeeckman.com/2021/02/rollei-35-t-1974/), which is well worth reading.
+
+### My Camera
+I got my camera in a bit of a roundabout way. I had the good fortune to buy a high speed film camera at an estate sale for $6, which I then traded to a friend for a mint condition Rollei 35 S. Mine is the upgraded S model, manufactured from 1974-1980, with the most prominent change being the upgrade from the original 4 element 3.5 Tessar to my version's 5 element 2.8 Sonnar lens. The Sonnar is a truly wonderful little lens, producing sharp and contrasty images with an excellent f/2.8 on such a tiny camera. It is considered one of the best lenses ever put in a compact camera.
+
+My specific camera was produced in 1979, based on having no serial number on the back (1979-) and for having the original distance scale numbers (- Dec 1979). If you want to date your own copy, the [Rollei Serial Nubmer Database](https://rollei35.rolleigraphy.eu/rollei35numbers.php#r35s) is immensely helpful.
+
+There are quite a few Rollei models, the original 35, the 35 S the 35 SE, etc. 
+
+
+### Shooting Experience
+To put it simply, I love this little camera. It has only one flaw, the zone focusing, 
+
+Sonnar lens (in the Rollei 35 S) was considered one of the best lenses ever put in a compact camera
+It was marketed as "the world's smallest full-frame 35mm camera," appealing heavily to travelers and discrete street shooters
+
+smallest manual 35mm camera ever made.
+1966-2015?
+queen of england
+
+
+cuase it is zone focus i carry it on my wrist. i ste tthe focus to like 15 ft and f/8 and just bring it to my eye and shooot. thejight meter is built into the top of the body, so as you walk around you can be tweaking the lm withough looking through the viewfinder. if this camera had a rangefinder, i wouldn't shoot with anything else. i adore this camera.
+
+in 1979, the rollei 35 was produced without body numbers on the back
+1974-1979, mine, 1979-1980 
+
+december 1979, new numbers for the distance scale, ‘ft 3 4 6 8 15 ∞’ . however, mine has the old numbers
+which should put mine at exactly 1979, 260,000 made?
 
 
 **Dates Manufactured**: 
@@ -1324,7 +1376,9 @@ Zeiss Jena lens numbers start with 3.000.000
 20250219_214249.webp zeiss ikon
 20250219_214229.webp zeiss ikon side -->
 
-
+<!-- <div class="image-div">
+    <img src="RolleiAd-4.jpg" alt="stand alone rollei add">
+</div> -->
 
 slesa remove
 alex
