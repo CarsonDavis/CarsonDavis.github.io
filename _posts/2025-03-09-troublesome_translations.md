@@ -34,25 +34,13 @@ That number exaggerates the loss a little, since one must make allowances for th
 If I wanted to read the annotations, I would have to translate them myself. And so I set out to do just that.
 
 ## The Plan
+If we are being perfectly honest, I may have just let this drop after finding the main text translation. But this is actually the <i>third</i> time this has happened to me in as many months, and I had begun to get fed up. 
+
 Thankfully we live in a remarkable age. Translations are as easy as asking ChatGPT and Mistral literally released a top of the line OCR model just last week. Mistral's model is special, in that it is supposed to be able to handle complicated documents with multiple columns and annotations, which is exactly what I need.
 
+Sadly, in addition to not being able to find an english translation, I also couldn't immediately find a french transcription. Thankfully, there are a couple of high quality scans, notable [this one](https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/7) from The Cambridge University Library.
 
 
-<i></i>
-
-About eight years later, a man appeared claiming to be Martin Guerre. He was accepted by virtually everyone in the village, including Bertrande, Martin's wife, and Martin's sisters.
-- The impostor lived with Bertrande for three years, during which time they had two children together (one survived).
-- Suspicions eventually arose, particularly when the impostor began claiming inheritance rights to Martin's property.
-- The case went to trial when Martin's uncle accused the man of being an impostor.
-- The imposter was famously eloquent and was on the verge of winning the legal case and potentially having fines levied against Martin's uncle
-- Then proceedings took a dramatic turn when a man with a wooden leg appeared claiming to be the real Martin Guerre.
-- The impostor was ultimately identified as Arnaud du Tilh (also known as "Pansette") and was sentenced to death for his deception.
-
-
-
-So I' just finished reading the delightful Return of Martin Guerre by Natalie Zemon Davis
-
-So I started by finding a decent scan at https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/7. 
 
 Several of the other scans I found had pretty major bleed through from the other side of the page, which I was worried would hurt the OCR. 
 
