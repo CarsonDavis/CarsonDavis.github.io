@@ -1,7 +1,7 @@
 ---
 title: Troublesome Translations
 date: 2025-03-10
-last_modified_at: 2025-03-10
+last_modified_at: 2025-03-11
 categories: [coding, ocr]
 tags: []
 description: Attempting to translate a 16th-century French text with OCR
@@ -9,6 +9,49 @@ media_subpath: /troublesome-translations/
 image: 20250219_212247.webp
 published: False
 ---
+
+<style>
+    .grid-2x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px; /* Keep horizontal gap */
+        justify-items: center;
+    }
+    .grid-3x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px; /* Keep horizontal gap */
+        justify-items: center;
+    }
+    .grid-container {
+        justify-items: center;
+    }
+    .grid-container > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100%; /* Ensure the div takes full height of the grid cell */
+    }
+    .grid-container .image-div {    
+        justify-content: flex-end; 
+    }
+    .grid-container img {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        object-fit: cover;
+        display: block;
+        margin-bottom: 5px; /* Small margin to separate the image and caption */}
+    .grid-container .caption {display: block;
+        text-align: center;
+        font-style: normal;
+        font-size: 80%;
+        padding: 0;
+        color: #6d6c6c;
+    }
+</style>
 
 ## Background
 ### Martin Guerre
@@ -21,9 +64,9 @@ But then he claimed his inheritance rights from his uncle Pierre Guerre, and his
 One of the judges who ruled over the subsequent court cases was so moved that in 1561 he wrote a book on the events, and the rest is history.
 
 ### Arrest Mémorable
-I discovered this fabulous story when I read Natalie Davis's 198? <i>The Return of Martin Guerre</i>. She became obsessed with the story, and deeply researched everything she could, from the original writings about the court case to the land grants and small claims records in the surrounding towns. Her book is a short and excellent read, though I would recommend skipping the introduction, as it gives away the ending. 
+I discovered this fabulous story when I read Natalie Davis's 1983 <i>The Return of Martin Guerre</i>. She became obsessed with the story, and deeply researched everything she could, from the original writings about the court case to the land grants and small claims records in the surrounding towns. Her book is a short and excellent read, though I would recommend skipping the introduction, as it gives away the ending. 
 
-But like I said, it's short, and it left me wanting to dig more into the details of the case. Thankfully the judge Jean de Coras wrote an entire book on it in 156?, full of interesting commentary and annotations.
+But like I said, it's short, and it left me wanting to dig more into the details of the case. Thankfully the judge Jean de Coras wrote an entire book on it in 1561, full of interesting commentary and annotations. As a fascinating historical note, the Judge Jean de Coras was murdered during the Saint Bartholomew's Day Massacre 11 years later, along with as many as 30,000 other protestants by French Catholics.
 
 So off I went to find an english version...and nothing. There is no modern english printing, and there is no historic english translation, there is nothing.
 
@@ -34,18 +77,66 @@ That number exaggerates the loss a little, since one must make allowances for th
 If I wanted to read the annotations, I would have to translate them myself. And so I set out to do just that.
 
 ## The Plan
-If we are being perfectly honest, I may have just let this drop after finding the main text translation. But this is actually the <i>third</i> time this has happened to me in as many months, and I had begun to get fed up. 
+If we are being perfectly honest, I may have just let this drop after finding the main text translation. After all, I don't even speak French. But this is actually the <i>third</i> time this has happened to me in as many months, and I had begun to get fed up. I've got two other annotated 1600s books on my shelves that I also haven't found any translation for. 
 
-Thankfully we live in a remarkable age. Translations are as easy as asking ChatGPT and Mistral literally released a top of the line OCR model just last week. Mistral's model is special, in that it is supposed to be able to handle complicated documents with multiple columns and annotations, which is exactly what I need.
+Thankfully we live in a remarkable age. Translations are as easy as asking ChatGPT, and Mistral literally just released a top of the line OCR model just last week. Mistral's model is special, in that it is supposed to be able to handle complicated documents with multiple columns and annotations, which is exactly what I need.
 
-Sadly, in addition to not being able to find an english translation, I also couldn't immediately find a french transcription. Thankfully, there are a couple of high quality scans, notable [this one](https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/7) from The Cambridge University Library.
+Why do I need OCR? Well, sadly, in addition to not being able to find an english translation, I also couldn't immediately find a French transcription. Although thankfully, there are a couple of high quality scans, notable [this one](https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/7) from The Cambridge University Library.
+
+You might note that this is not the first edition, but all the first editions I've currently found have obvious bleed through from the other side of the page, which I was worried would hurt the OCR. 
+
+So the plan is thus:
+1. Download all the images from the Cambridge University Library
+2. Crop out the bad parts of the page and compress
+3. OCR the text
+4. Have an LLM fix any mistakes
+5. Haven an Llm translate the text
+
+### Downloading the Images
+Downloading the images is hardly worth mentioning. This is the sort of task that would have taken an easy hour by hand, or 30 minutes to write code for yourself. But in today's world, you can just ask an LLM to do it and you'll have the code faster than it took you to type the prompt.
+
+```
+i want a python script that downloads the images from an increasing sequende from 22 to 182
+
+https://images.lib.cam.ac.uk//content/images/PR-MONTAIGNE-00001-00007-00022-000-00022.jpg
+https://images.lib.cam.ac.uk//content/images/PR-MONTAIGNE-00001-00007-00022-000-00182.jpg
+```
+
+### Cropping and Compression
+Each of the original page scans was a 2mb jpg with extra black text at the bottom and a quarter of the adjoining page either to the left or right. It's possible that I could have written some code to automatically crop out the bad parts of the page, but I didn't feel up to the task, so I put 10 images at a time into affinity design and cropped and compressed them.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="00026_original.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="00026.webp" alt="">
+    </div>
+    <div class="caption">original image</div>
+    <div class="caption">cropped</div>
+</div>
+
+### CODING!
+Now for the rest of this, I did write a bit of code. Why? Well, there is no world where I want to be pasting hundreds of images and prompts into ChatGPT by hand and laboriously combining the results. God forbid I get halfway done and realize there was a better prompt I could have used. Or if next week a new model is released that I want to try.
+
+So anyway, I wrote a little CLI in 4 parts: OCR, LLM Correction, LLM Translation, and one to run the full process. It's not the most elegant code I've ever written, but it works. Importantly, it lets me test out different prompts and models easily, and should allow me to easily add new models as they are released. If I end up frequently translating old documents, then I'll add a couple features, mainly: parallelization, pre-run cost estimation, and a general tightening up of the repository...but for now it's in a workable state.
+
+I want this post to be focused more on an analysis of the results than the code itself, so if you'd like to take a look at the code or use it on your own projects, you can find it on my github here: https://github.com/CarsonDavis/ocr_translation. 
+
+### OCR
+OCR is the most important, and sadly the most difficult, part of the process. As impressive as Mistral is, cramped, 16th century French annotations are its downfall.
+
+As far as I can tell there are several issues:
+- flowery typeface
+- abreviations
+- floating letters
 
 
 
-Several of the other scans I found had pretty major bleed through from the other side of the page, which I was worried would hurt the OCR. 
 
-So first i download all of the images using a script that iterates through the numbers
 
+
+## Notes
 then i open each one in affinity design and manually crop out the bad parts of the page, and save them as 80% webp, which typically give 100x smaller files (give total directory size comparison)
 
 then i do the ocr
@@ -57,7 +148,6 @@ so, the ocr tends to have some small mistakes. for instance, whenever there are 
 I tried both 4o mini and 4o for this, and mini didn't even realize mistakes were there, while 4o did a pretty good job.
 
 In the translations stage, 4o also gave subjectively better translations.
-
 
 
 ## Cleaning Comparisons
