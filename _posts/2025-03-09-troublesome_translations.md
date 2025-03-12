@@ -6,7 +6,7 @@ categories: [coding, ocr]
 tags: []
 description: Attempting to translate a 16th-century French text with OCR
 media_subpath: /troublesome-translations/
-image: 20250219_212247.webp
+image: cover_image.webp
 published: False
 ---
 
@@ -83,17 +83,30 @@ Thankfully we live in a remarkable age. Translations are as easy as asking ChatG
 
 Why do I need OCR? Well, sadly, in addition to not being able to find an english translation, I also couldn't immediately find a French transcription. Although thankfully, there are a couple of high quality scans, notable [this one](https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/7) from The Cambridge University Library.
 
-You might note that this is not the first edition, but all the first editions I've currently found have obvious bleed through from the other side of the page, which I was worried would hurt the OCR. 
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="bleed_through.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="no_bleedthrough.webp" alt="">
+    </div>
+    <div class="caption">1561, with bleed through, https://www.digitale-sammlungen.de/en/view/bsb10163169?page=,1</div>
+    <div class="caption">1572, less bleed through, https://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00007-00022/7</div>
+</div>
 
-So the plan is thus:
+
+You might notice that I have not linked the first edition. This is becaus all the first editions I've currently found have obvious bleed through from the other side of the page, which I was worried would hurt the OCR. 
+
+So the plan is:
 1. Download all the images from the Cambridge University Library
 2. Crop out the bad parts of the page and compress
 3. OCR the text
 4. Have an LLM fix any mistakes
 5. Haven an Llm translate the text
 
+
 ### Downloading the Images
-Downloading the images is hardly worth mentioning. This is the sort of task that would have taken an easy hour by hand, or 30 minutes to write code for yourself. But in today's world, you can just ask an LLM to do it and you'll have the code faster than it took you to type the prompt.
+Downloading the images is hardly worth mentioning. This is the sort of task that would have taken a grueling hour by hand, or 30 minutes to write code for yourself. But in today's world, you can just ask an LLM to do it and you'll have the code faster than it took you to type the prompt.
 
 ```
 i want a python script that downloads the images from an increasing sequende from 22 to 182
@@ -101,9 +114,12 @@ i want a python script that downloads the images from an increasing sequende fro
 https://images.lib.cam.ac.uk//content/images/PR-MONTAIGNE-00001-00007-00022-000-00022.jpg
 https://images.lib.cam.ac.uk//content/images/PR-MONTAIGNE-00001-00007-00022-000-00182.jpg
 ```
+And just like that, we have some [downloading code](https://github.com/CarsonDavis/ocr_translation/blob/main/utils/downloader.py).
 
 ### Cropping and Compression
-Each of the original page scans was a 2mb jpg with extra black text at the bottom and a quarter of the adjoining page either to the left or right. It's possible that I could have written some code to automatically crop out the bad parts of the page, but I didn't feel up to the task, so I put 10 images at a time into affinity design and cropped and compressed them.
+With the downloads finished and in a folder, you'd think it's time for OCR. However, each of the original page scans was a 2mb JPG with extra black text at the bottom and a quarter of the adjoining page either to the left or right. It's possible that I could have written some code to automatically crop out the bad parts of the page, but I didn't feel up to the task, so I put 10 images at a time into Affinity Design before cropping and compressing them.
+
+I'm converting the original JPGs to 80% webp, which, after the crop, typically gives better than 10x smaller files. Here is a comparison of the original and cropped images:
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -116,83 +132,84 @@ Each of the original page scans was a 2mb jpg with extra black text at the botto
     <div class="caption">cropped</div>
 </div>
 
+
 ### CODING!
-Now for the rest of this, I did write a bit of code. Why? Well, there is no world where I want to be pasting hundreds of images and prompts into ChatGPT by hand and laboriously combining the results. God forbid I get halfway done and realize there was a better prompt I could have used. Or if next week a new model is released that I want to try.
+Now for the rest of this, I finally wrote some code. Why? Well, there is no world where I want to be pasting hundreds of images and prompts into ChatGPT by hand and laboriously combining the results. God forbid I get halfway done and realize there was a better prompt I could have used. Or if next week a new model is released that I want to try.
 
-So anyway, I wrote a little CLI in 4 parts: OCR, LLM Correction, LLM Translation, and one to run the full process. It's not the most elegant code I've ever written, but it works. Importantly, it lets me test out different prompts and models easily, and should allow me to easily add new models as they are released. If I end up frequently translating old documents, then I'll add a couple features, mainly: parallelization, pre-run cost estimation, and a general tightening up of the repository...but for now it's in a workable state.
+So anyway, I wrote a little CLI in 4 parts: OCR, LLM Correction, LLM Translation, and one to run the full process. It's not the most elegant code I've ever written, but it works. Importantly, it lets me test out different prompts and models easily, and should allow me to easily add new models as they are released. 
 
-I want this post to be focused more on an analysis of the results than the code itself, so if you'd like to take a look at the code or use it on your own projects, you can find it on my github here: https://github.com/CarsonDavis/ocr_translation. 
+If I end up frequently translating old documents, then I'll add a couple features, mainly: parallelization, pre-run cost estimation, and a general tightening up of the repository...but for now it's in a workable state.
+
+I want this post to be focused more on an analysis of the results than the code itself, so if you'd like to take a look at the code or use it on your own projects, you can find it on [my github](https://github.com/CarsonDavis/ocr_translation). 
 
 ### OCR
 OCR is the most important, and sadly the most difficult, part of the process. As impressive as Mistral is, cramped, 16th century French annotations are its downfall.
 
 As far as I can tell there are several issues:
-- flowery typeface
-- abreviations
-- floating letters
+- separate column for annotations
+- flowery typeface with ligatures
+- the long s
+- abbreviations
+- floating annotation letters
+- antiquated spellings
+
+Take a look at this example where I've highlighted some issues
+
+![annotation_information_ct.webp](annotation_information_lossless_2.webp)
+_I think that may be a [ct ligature](https://commons.wikimedia.org/wiki/File:Latin_ligatures_ct_and_st.svg) in the word fruit, possibly a typo?_
+
+To further beat a dead horse, let's take a look at that last paragraph. Notice the long s, the abbreviation for "et", the floating "b", and the archaic spelling of "maſles" and "meſmes", the random ligatures, etc.
+
+**Transcription (with original spelling):**  
+*Auſsi quād les femmes sont nées, pour la meſme raiſon de leur foiblesſe & debilité, croiſſent & enuielilliſſent pluſtoſt que les maſles a. Dōt faut attribuer cela à la nature qui rend les femmes pluſtoſt aptes à engendrer, comme eſtāt plus freſles, & pluſtoſt creuës, & enuielillies b. à l’exemple de tout fruiſt, lequel de tā plus eſt petit & menu, de tant ſe meuriſt plus promptement, & avec plus grande celerité.*
+
+---
+
+**Modernized spelling:**  
+*Aussi, quand les femmes sont nées, pour la même raison de leur faiblesse et débilité, croissent et vieillissent plus tôt que les mâles a. Dont faut attribuer cela à la nature qui rend les femmes plutôt aptes à engendrer, comme étant plus frêles, et plutôt crevées, et vieillies b. à l’exemple de tout fruit, lequel de tant plus est petit et menu, de tant se mûrit plus promptement, et avec plus grande célérité.*
+
+---
+
+**English translation:**  
+*"Thus, when women are born, for the same reason of their weakness and frailty, they grow and age sooner than males a. This must be attributed to nature, which makes women more apt to procreate, as they are more delicate, and rather burst, and aged b. following the example of all fruit, which, the smaller and finer it is, the faster it ripens, and with greater speed."*
+
+---
+
+Suffice to say that both 16th century printing and 16th century ideas of gender and biology are a bit of a headache.
 
 
+### OCR Quality
 
 
+### LLM Fixing
+I had this idea that instead of jumping straight from the OCR to the translation, I could instead let the LLM take a pass at fixing any mistakes in the OCR. Essentially I could give it a little bit of context that this was a 16th century French legal text with annotations and hope for the best...something like:
 
-
-## Notes
-then i open each one in affinity design and manually crop out the bad parts of the page, and save them as 80% webp, which typically give 100x smaller files (give total directory size comparison)
-
-then i do the ocr
-
-now, i needed to write a bit of a wrapper for the ocr api, because it wants to do a couple of things with images in the scans that i don't want.
-
-so, the ocr tends to have some small mistakes. for instance, whenever there are fancy capitals, it reads them as an image, so `Au` becomes just `v`. This could cause issues in translation, so the first step is to let the llm fix any mistakes.
-
-I tried both 4o mini and 4o for this, and mini didn't even realize mistakes were there, while 4o did a pretty good job.
-
-In the translations stage, 4o also gave subjectively better translations.
-
-
-## Cleaning Comparisons
-
-### Original OCR
 ```
-Glefe euló fomme $x x \cdot q$. t. Jean-André de defponfimo pub.rous alle. guans S. Gra. goire en fes dialogues.
-b. S.Hiero- me en vne de fes epiftires $a$ dreffec adVit. talem.
-$i$. Alberique. en fon diction naire, fur la diction dctu trimoniis 2. 2. 10. And. $\mathcal{G}$ Panor. ${ }^{2}$ a $e$ fint, ce font des exēples beaux, certes, \& memorables: $d u x$, cōf. 100. $a n z$ Decrer. $l$ Aa lius. des Rois cxis. de au a.cbat, $m$ 3. Hierome efcriuane ad Vitalem, $n$ e. cum age folica, de us aux Decretal. c. 99.40 . $e$ ego folis, en la diffinition ix du Decrei. c. ftatuiimus. Farage. dernier lxi. diftinition. ditintion. 9 Platon aus 6. liure de fo. Republique,
-```
-
-### Simple Prompt
-#### Prompt
-CLEANING_USER_PROMPT = (
-    "I created the following French 1500s text with OCR, and it might have missed "
-    "some characters or made minor mistakes. Correct anything you see wrong, and "
-    "respond with only the corrected information. Maintain the markdown formatting "
-    "of the original. The context here is that it is a "
-)
-
-#### Result
-```
-Glose sur la somme $x x \cdot q$. t. Jean-André de desponsimo pub.rous alléguant S. Grégoire en ses dialogues.
-b. S. Jérôme en une de ses épîtres $a$ dressée ad Vitalem.
-$i$. Albérique en son dictionnaire, sur la diction de matrimonii 2. 2. 10. And. $\mathcal{G}$ Panor. ${ }^{2}$ à $e$ fin, ce sont des exemples beaux, certes, \& mémorables : $d u x$, conf. 100. $a n z$ Decret. $l$ Alius, des Rois cxis. de au achat, $m$ 3. Jérôme écrivant ad Vitalem, $n$ e. cum age solica, deus aux Décrétales. c. 99.40. $e$ ego solis, en la définition ix du Décret. c. statuimus. Parage dernier lxi. distinction. 9 Platon au 6. livre de sa République,
-```
-
-### Context Prompt
-#### Prompt
-CLEANING_USER_PROMPT = """You will be given an OCR-generated transcription of the 16th-century French legal text **"Arrest mémorable du Parlement de Tolose"** by Jean de Coras, a detailed account of the Martin Guerre impostor case. This OCR transcription contains transcription errors such as incorrect character recognition, misplaced punctuation, and spacing mistakes.
+You will be given an OCR-generated transcription of the 16th-century French legal text **"Arrest mémorable du Parlement de Tolose"** by Jean de Coras, a detailed account of the Martin Guerre impostor case. This OCR transcription contains transcription errors such as incorrect character recognition, misplaced punctuation, and spacing mistakes.
 **Your task is to:**
 
 1. **Correct all transcription errors**, ensuring accuracy in spelling, punctuation, capitalization, and spacing.
 2. **Preserve the original 16th-century French style and vocabulary**, maintaining archaic language and legal terms as faithfully as possible.
 3. **Pay particular attention to annotations**, which often contain classical references (e.g., Homer, Virgil, Cicero, and biblical passages), ensuring these are accurately transcribed and coherent in the context of the overall narrative.
-4. **Retain original formatting** (such as headings, numbered annotations, and paragraph structure) wherever possible.
-
-Begin now.
-"""
-
-#### Result
-```
-Glose sur la somme $x x \cdot q$: t. Jean-André de desponsationibus publiés aux allégations S. Grégoire en ses dialogues.
-b. S. Jérôme en une de ses épîtres $a$ adressée à Vitalem.
-$i$. Albericus en son dictionnaire, sur la diction matrimonii 2. 2. 10. And. $\mathcal{G}$ Panor. ${ }^{2}$ a $e$ fin, ce sont des exemples beaux, certes, \& mémorables : $d u x$, conf. 100. $a n z$ Décrét. $l$ Aalius. des Rois exis. de au a. chat, $m$ 3. Jérôme écrivant à Vitalem, $n$ e. cum age solica, de us aux Décrétales. c. 99.40 . $e$ ego solis, en la définition ix du Décret. c. statuiimus. Paragraph. dernier lxi. distinction. ditinction. 9 Platon au 6. livre de sa République.
+4. Note that the annotations are often referenced through out the text with single letters. These single letters are not mistakes if they line up with an annotation.
+5. **Retain original formatting** (such as headings, numbered annotations, and paragraph structure) wherever possible.
+6. Respond with absolutely nothing except the edited text. Do not make any comments.
 ```
 
+![page_26_corrections.webp](page_26_corrections.webp)
+So, on the page that we've been looking at so far, there are very few corrections. Mostly some small spacing changes and the occasional switch from the long s to the modern s.
 
+![page_30_corrections.webp](page_30_corrections.webp)
+However, page 30 is absolutely covered in changes. 
+
+Right off the bat we see the troubling conversion of  `\& dim. pudëce:non gucres` -> `et dissimulation de pudeur`. I can see where the LLM is coming from, but if you reference the [original page](https://made-by-carson-images.s3.us-east-1.amazonaws.com/troublesome-translations/00030.webp), what it really seems to say is `et d'impudece: non gueres`. However, scanning through the rest of the corrections, most of them hold up pretty well. 
+
+So... *To Correct or Not to Correct*?
+With this evidence, I'm not sure. If I get a bit of time, what I'll do is pick maybe 3 sample pages and transcribe them fully by hand myself. Then I can test out a bunch of different OCR and correction pairings to see which have the greatest deltas from my hand transcription.
+
+
+### Final Translations
+The final translations are, at best, ok. The main text is typically very good, but the highly abbreviated and often truncated annotations are a bit of a mess. Thankfully, whenever an annotation is particularly long, as in page 30 above, the printer has placed it in the main body of the page. 
+
+![French_School_-_The_return_of_Martin_Guerre_(circa_1524_around_1560)_he_appeared_before_his_wife_-_(MeisterDrucke-939582).jpg](French_School_-_The_return_of_Martin_Guerre_(circa_1524_around_1560)_he_appeared_before_his_wife_-_(MeisterDrucke-939582).jpg)
+_Engraving from 1871 in 'Histoire Des Cocus Celebres' by Henry de Kock_
