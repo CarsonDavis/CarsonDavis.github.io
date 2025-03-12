@@ -613,7 +613,7 @@ _the wide 45mm lets you do nice long crops_
     <div class="caption"></div>
 </div>
 
-## Overview
+### Overview
 I have a lot of 1900s-1930s folders floating around the house, very few of which I have actually bothered to run film through. A big problem is that many of them take weird film formats that have been since discontinued. Take a look at this table of formats
 
 | Format | Introduced | Image Size                | Availability | Notes                            |
@@ -635,7 +635,7 @@ The camera is unbranded but the film viewing window cover bears the marks: "DRGM
 I came across a few nice resources while researching it, including this page on the [Fixfocus specifically](https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html), a lovely [interactive timeline of the Balda Camera](https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda) models, and an in depth review of a [newer iteration of my camera](https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/). 
 HP5+ 400
 
-## Shooting Experience
+### Shooting Experience
 I took two of my 6x9 folders on a trip with me to Nevada in 2017, and I'm pretty sure these are the photos from the Balda. They've got a very interesting lo-fi images look to them, which I believe is caused by light leaks from the body, possibly through the film viewing holes. The bellows on this camera don't have any pinholes, so I don't think they are to blame.
 
 Shooting this camera is a bit of a pain. It has no lightmeter, no way to see if the subject is in focus, no shutter release on the body, no double exposure interlock, a max aperture of only f/4.5, and a max shutter speed of only 1/125th. For all that though, the rotating viewing window is actually very bright and clean, a rarity in these old cameras, as they are typically dim and hard to see through, often with mirror issues.
@@ -861,7 +861,7 @@ https://youtu.be/7lHQCf06cg8?si=u_77-m58q34GTqaJ old guy with detailed videos
 
 The Nikon F2 is the professional counterpart to the FM2. It's a larger and heavier camera in every dimension, and my verison wears a chonky metering prism. All of it's tiny details are more professional and refined
 
-## Operation
+### Operation
 It's similar to the FM2, but with a few key differences. The light meter can be viewed from the top at waist level. The 
 
 - self timer: it lets you set specific times, 2-10 seconds, and has a reset button if you decide not to use the timer
@@ -892,10 +892,10 @@ Rokinon 14mm f/2.8
 105mm f/2.8D 
 
 
-## Specs F1
+### Specs F1
 I have an F1, 6475548, from Nov 1961 to Feb 1962. You can date yours [here](http://www.destoutz.ch/typ_production_data_f.html).
 
-## Specs F2
+### Specs F2
 My F2 is 7704912, which dates it to Nov-Dec 1976. [Here](http://www.destoutz.ch/typ_production_data_f2.html).
 85mm/1.8, 430447, Mar 1975 - Feb 1977. [Here]()
 
@@ -953,14 +953,14 @@ actual prices:
     <div class="caption"></div>
 </div>
 
-## Buying a Beauty
+### Buying a Beauty
 I'm going to be honest with you...I bought this camera mainly because it looks freaking sick. 
 
 I was in an antique store in Salt Lake City, when I caught a glimpse of it's gleaming curves, quirky viewfinder, and recto-circular lens hood. Closer inspection revealed that, far from just being gorgeous, it also sported a lovely 50mm f/1.5 lens. This would have been near the pinnacle of consumer lens technology when this camera was released in the 1950s, and it essentially meant that I could use this camera with a full artistic license that you rarely get in old bodies. 
 
 I covertly checked the ebay prices, bargained the seller down to $400, and walked out with one of the prettiest and most capable old cameras in my collection. It is in absolutely mint condition and has basically every accessory you could want. Honestly, my copy has the look of something that sat in a display case for the past 75 years. If anyone ever did use this camera, they kept it wrapped in velvet the entire time. 
 
-## Historical Context
+### Historical Context
 
 The Voigtlander Prominent was produced between 1952 and 1958, until the release of the Prominent II. , It was designed to be a professional camera, and was priced as such. It was released in the same era as the Leica M3, the Contax, and the Nikon SP, and was in direct competition with them.
 
@@ -972,7 +972,7 @@ It has this recto-circular lens hood which is
 
 I paid $400 for it which was a steal. 
 
-## Usage
+### Usage
 Honestly, it's terrible to use. Despite being volumetrically about the same size my Nikon FM2, with film loaded the Voigtlander weighs a whopping 1144g to the Nikon's 820g. The viewfinder is incredibly far to the right in a way that makes it feel like you face is always in conflict with your hand, and good lord is is surprisingly tiny. I'd say it is about the same brightness and size as my 1937 Leica IIIa, but where the Leica has a magnified, high-accuracy second rangefinder window, the Voigtlander has a small, integrated patch in the middle of the tiny viewing window. 
 
 [Catalog](https://www.pacificrimcamera.com/rl/00544/00544.pdf)
@@ -980,7 +980,7 @@ Honestly, it's terrible to use. Despite being volumetrically about the same size
 
 For two years from 1952-1954, it made an interesting argument against the Leica iii and the Contax III, but with the release of the M3 in 
 
-## Lenses
+### Lenses
 "An advanced 7-element 5-group Double Gauss design with an achromatized front group to enhance its performance, (especially at wide apertures), the Nokton was reputed to be the best 50mm f/1.5 lens of the immediate post-WWII era, surpassing the 50mm f/1.5 Leitz Summarit (which was based on a prewar Schneider design) and even edging out the renowned 50mm f/1.5 Zeiss Sonnar." - Jason Schneider
 
 
@@ -1252,8 +1252,8 @@ Zeiss Jena lens numbers start with 3.000.000
 </div>
 
 ![000289480015](000295660008+(2).webp)
-
-## Example Class
+## Stuff
+### Example Class
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1295,7 +1295,7 @@ Zeiss Jena lens numbers start with 3.000.000
 </div>
 
 
-## Removed 
+### Removed 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
