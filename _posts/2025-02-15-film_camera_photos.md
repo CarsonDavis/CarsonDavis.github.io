@@ -72,32 +72,37 @@ Sometime in the future I'll document each and every one of my film cameras and p
 </div>
 
 ### Nikon FM: Overview
-The Nikon FM was launched in 1977 as a fully mechanical 35mm SLR aimed at advanced amateurs. It was a lighter and more focused version of the professional F series cameras, offering reliability, simplicity, and durability at a more affordable price. In an age when many cameras were beginning to rely on batteries to operate, it promised a reliable fully mechanical operation that appealed to amateurs and professionals alike. 
+The Nikon FM was launched in 1977 as a fully mechanical 35mm SLR aimed at advanced amateurs. It was the lighter and more focused little brother of the professional Nikon F2, offering reliability, simplicity, and durability at a more affordable price. In an age when many cameras were beginning to rely on batteries to operate, it promised a reliable fully mechanical operation would never let you down. 
 
 ### My Camera
-This was my very first film camera, and I've put more rolls of film through it than anything else I own. I bought it at Southerlands Photo in Huntsville in mid‑2016 for about $150. It came bundled with the minimalist pancake 50mm f/1.8 and a 55mm f/3.5 macro lens. Over the next two years, while traveling extensively for work, I took this camera everywhere. This camera just works. It's small, reliable, take great glass, and I love it. 
+This was my very first film camera, and after a decade of shooting, it's hard to imagine a better first choice. I bought it in 2016 from Malcolm and Betsy at Southerlands Photo for about $150, and it came bundled with the minimalist pancake 50mm f/1.8 and a 55mm f/3.5 macro lens. 
+
+Over the next two years, I traveled extensively for work, and this camera came with me everywhere. It just simply works. It's small, reliable, it takes great glass, and I love it. 
+
+### Shooting Experience
+My Nikon FM and FM2 are some of my absolute favorite cameras to shoot, and they are the benchmark by which I judge every other camera in my collection. There is an absolute avalanche of information on them on the internet, so here I'll hit some of the highlights and less frequently mentioned features.
+
+**Light Meter**: Not everyone loves the LED light meter, instead preferring the needle found in the early F models and in the FE. I certainly see the point here, but frankly, looking through several hundred photos I've taken with my FM, I struggle to find a single poor exposure. If you've heard this brought up as a negative point, I wouldn't give it too much weight.
+
+**View Finder**: Almost perfect, with a split prism, a microprism, and both aperture and shutter speed displayed. Again, this is more or less the benchmark by which I judge other viewfinders. I will say though, that I do slightly prefer the professional F2 viewfinder's placement of the shutter and aperture. In the FM, the shutter is on the left, the aperture on the top, and the exposure on the right. However, in the F2, they are all clustered neatly together at the bottom.
+
+**Lens Compatibility**: Unlike the later FM2, the FM has a folding aperture interface lever that lets you mount the oldest non-ai lenses. If you are looking for maximum Nikon lens compatibility, the FM is one of the best bodies to get. I will say that I have personally modified 3 or 4 lenses for Ai compatibility, and it is pretty simple, so I wouldn't let this be a deciding factor if you are looking at at FM2 or FE2 instead.
+
+**Pancake Lenses**: The Series E pancake lenses were a cheaper and smaller alternative to the faster and more expensive Nikkor lenses. I own plenty of both varieties, and it is true that the Series E are cheaper and have more plastic. However, there are several versions of the Series E, including a kinda gross full plastic one. This is not the one I have, which has a chrome ring and is actually quite good. Despite the naysayers, they have a bit of a cult following because of how small, portable, and cheap they are. If there is one downside, it is that the 50/1.8 E has a minimum focusing distance of 0.6m, compared to 0.45m for the 50/1.4 AIS.
+
+**Shutter Lock**: All the Nikons have a shutter lock that is integrated with the film rewind. You slightly cock the film rewind to turn on the lightmeter and unlock the shutter button. Newcomers to the camera often struggle with this, but it is, in my opinion, a very elegant solution that is easy to use once you start shooting. Essentially, you just always rewind you film anyway after taking a shot. It saves battery and accidental exposures, and it's a feature I've found myself missing on other bodies.
 
 ### Tech Specs
-- **Dates Manufactured:** 1977–1982  
-- **Camera Type:** 35mm SLR 
-- **Shutter Speeds:** 1s to 1/1000s (with Bulb mode available)  
-- **Format:** 35mm  
-- **Primary Lens:** 50mm f/1.8 Series E Chrome Ring (3291471, from 1981–1985)  
-- **Serial Number:** FM 3091999  
-- **Key Features:**  
-  - 60/40 center weighted light metering.  
-  - Viewfinder displays both the shutter speed and aperture.
-
-### Final Thoughts
-**Light Meter**: Not everyone loves the LED light meter, instead preferring the needle found in the early F models. 
-
-**View Finder**: Almost perfect, with a split prism, a microprism, and both aperture and shutter speed displayed. I do slightly prefer the F2 viewfinder's placement of the shutter and aperture.
-
-**Lens Compatibility**: Unlike the later FM2, the FM has a folding aperture interface lever that lets you mount the oldest non-ai lenses.
-
-**Pancake Lenses**: The Series E pancake lenses were a cheaper and smaller alternative to the faster and more expensive Nikkor lenses. I own plenty of both varieties, and it is true that the Series E are cheaper and have more plastic. However, there are several versions of the Series E, including a kinda gross full plastic one and the one I have, which has a chrome ring and is actually quite good. Despite the naysayers, they have a bit of a cult following because of how small, portable, and cheap they are. If there is one huge downside, it is that the 50/1.8 E has a minimum focusing distance of 0.6m, compared to 0.45m for the 50/1.4 AIS.
-
-**Shutter Lock**: All the nikons have a shutter lock that is integrated with the film rewind. Newcomers to the camera often struggle with this, but it is a very elegant solution that is easy to use once you start shooting. Essentially, you always rewind you film anyway after taking a shot. Anytime you go to shoot, you just unlock the film rewind, and then after the shot, you easily wind the film.
+- **Dates Manufactured:** 1977–1982
+- **Camera Type:** SLR
+- **Format:** 35mm
+- **Primary Lens:** 50mm f/1.8 Series E Chrome Ring (3291471, from 1981–1985)
+- **Minimum Focusing Distance:** 0.6m
+- **Shutter Speeds:** 1s to 1/1000s, B
+- **Light Meter:** 60/40 center weighted, CdS (cadmium sulfide) 
+- **Country of Origin**: Japan
+- **Weight w/ Lens:** 729g
+- **Serial Number:** FM 3091999
 
 ### Photo Samples
 <div class="grid-container grid-2x2">
@@ -107,7 +112,7 @@ This was my very first film camera, and I've put more rolls of film through it t
     <div class="image-div">
         <img src="arst0023a.webp" alt="">
     </div>
-    <div class="caption">HP5 400 dec 2016, </div>
+    <div class="caption">HP5 400 dec 2016</div>
     <div class="caption">HP5 400 dec 2016</div>
 </div>
 <div class="grid-container grid-2x2">
@@ -140,7 +145,6 @@ This was my very first film camera, and I've put more rolls of film through it t
     <div class="caption">Delta 3200 Jan 2017, vegas</div>
     <div class="caption">Delta 3200 Jan 2017, vegas</div>
 </div>
-
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -197,31 +201,39 @@ This was my very first film camera, and I've put more rolls of film through it t
     <div class="caption"></div>
 </div>
 
-### Overview
+### Nikon FM2 Overview
 
-The Nikon FM2 is arguably one of the best manual film SLRs ever made. Introduced in 1982 and produced through various revisions until 2001, this camera was originally marketed to advanced amateur and semi-professional photographers who demanded absolute reliability and rugged performance. Debuting with a body‐only price around $364 (chrome version) and later climbing to around $745, it was built for those who wanted a fully mechanical tool—operable without batteries except for its light meter. Praised for its fast vertical‐travel shutter (capable of 1/4000 sec) and precise, minimalist design, the FM2 quickly earned a reputation as a “tank” that could shoot in the most extreme conditions. Notably, its robustness and simplicity even won over legendary photojournalists; fun fact, the iconic “Afghan Girl” portrait was taken with an FM2.
+The Nikon FM2 is arguably one of the best manual film SLRs ever made. Introduced in 1982 and produced through various revisions until 2001, this camera was originally marketed to advanced amateur and semi-professional photographers who demanded absolute reliability and rugged performance. 
 
-### Personal Story
+Debuting with a body‐only price around $364 (chrome version) and later climbing to around $745, it was built for those who wanted a fully mechanical tool—operable without batteries except for its light meter. Praised for its fast vertical‐travel shutter (capable of 1/4000 sec) and precise, minimalist design, the FM2 quickly earned a reputation as a “tank” that could shoot in the most extreme conditions. Notably, its robustness and simplicity even won over legendary photojournalists; fun fact, the iconic “Afghan Girl” portrait was taken with an FM2.
+
+### My Camera
 
 I purchased my Nikon FM2 right around the time I stopped traveling for work and shifted to medium format photography. Although that means I don’t have as many shots from my FM2 as from the FM, this is undeniably my desert island camera. With a fully mechanical design, a 50/1.4, and a top shutter speed of 1/4000s, it's very hard to argue with it's raw capabilities. It honestly makes it hard to convince myself to shoot with my some of my "cooler" cameras. It's everything that I love about my FM, but with slightly better technical specs. 
 
-I really cannot stress how OP this camera is. I've got a Leica iiif, a Fujica 645, Pentax 67, Voigtlander Prominent, Yashica D, Rollei 35, Zeiss Ikonta, Exakta VX...just so many cool cameras, and it is just painful sometimes to shoot them. I'll go to shoot my gorgeous Voigtlander wide open at 1.5 only to be thwarted by the 1/500s shutter speed. Or I'll be out and about with my compact Fujica 645 and it's shockingly huge negatives only realize that I can't focus any closer than 1m and have to rethink my shot. Or I'll be focusing my Pentax 67 through it's massive and chimney viewfinder, only to take my eyes away every time I want to adjust the aperture or the shutter speed.
+I really cannot stress how OP this camera is. I've got a Leica iiif, a Fujica 645, Pentax 67, Voigtlander Prominent, Yashica D, Rollei 35, Zeiss Ikonta, Exakta VX...just so many cool cameras, and sometimes it just hurts my soul to shoot them. 
+
+I'll go to take a shot with my gorgeous Voigtlander, wide open at 1.5 only to be thwarted by the 1/500s shutter speed. Or I'll be out and about with my compact Fujica 645 and it's shockingly huge negatives only realize that I can't focus any closer than 1m and have to rethink my shot. Or I'll be focusing my Pentax 67 through it's massive and chimney viewfinder, only to take my eyes away every time I want to adjust the aperture or the shutter speed.
+
+This camera has a freaking titanium honeycomb shutter, just so it can shoot at the insane 1/4000th of a second!
 
 I have 120+ film cameras, and I desperately want to be that guy with the crazy camera you stop and chat with on the street. But god help me if the FM2 doesn't make it hard to shoot anything else.
 
-### Specs
 
-- **Dates Manufactured:** 1982-2001, my copy 87-89 (need to confirm after I finish the current roll of film)
-- **Camera Type:** 35mm SLR  
+### Tech Specs
+Like the FM, there's a ton of information about this camera already on the internet. Instead of regurgitating it here's a [fantastic comparison](https://www.youtube.com/watch?v=OYqwdZe9dqM) between all of the FM and FM2 features.
+
+- **Dates Manufactured:** 1982-2001
+- **My Date:** 87-89 (need to confirm after I finish the current roll of film)
+- **Type:** SLR  
 - **Format:** 35mm  
-- **Shutter Speeds:** 1s to 1/4000s
-- **Light Meter:** 60/40 center weighted light metering, with upgraded sensor elements from the FM
 - **Primary Lens:** Nikkor 50mm/1.4 AIS, 1981-2005, 5220802, ~1985  
-- **Key Features:**  
-  - My copy has the titanium honeycomb shutter, which isn't technically better than the later aluminum shutter, but looks awesome whenever you change the film.
-  - Same great viewfinder as the FM, with display of both the selected shutter speed and aperture, and a split-prism + microprism focusing screen that makes critical focus a joy.
-  - 
-  - [Fantastic comparison](https://www.youtube.com/watch?v=OYqwdZe9dqM) between all of the FM and FM2 features.
+- **Minimum Focusing Distance:** 0.45m
+- **Shutter Speeds:** 1s to 1/4000s, B
+- **Light Meter:** 60/40 center weighted, SPD (silicon photodiodes)
+- **Country of Origin:** Japan
+- **Weight w/ Lens:** 799g
+- **Serial Number:** N 7612622
 
 ### Photo Samples
 <div class="grid-container grid-2x2">
@@ -261,25 +273,32 @@ I have 120+ film cameras, and I desperately want to be that guy with the crazy c
 ## Pentax K1000
 
 ### Overview 
-The Pentax K1000 is commonly cited as being _the_ most popular student photography camera to ever exist. It was manufactured for over 20 years, from 1976 to 1977, and it is estimated that over 3 million were made. With it's rugged metal construction, simple controls, and built in light meter, it is easy to see the appeal. The camera was typically bundled with a 50/2 lens, but the K mount offers plenty of nicer glass to choose from, including a 50/1.4, an 85/1.7, and a 135/2.8.  
+The Pentax K1000 is commonly cited as being _the_ most popular student photography camera to ever exist. It was manufactured for over 20 years, from 1976 to 1997, and it is estimated that over 3 million were made. With it's rugged metal construction, simple controls, and built in light meter, it is easy to see the appeal. The camera was typically bundled with a 50/2 lens, but the K mount offers plenty of nicer glass to choose from, including a 50/1.4, an 85/1.7, and a 135/2.8.  
 
 It is simple, it is reliable, and it is cheap. It takes perfectly good photos, and if you can pick one up for a budget price, you will not be disappointed.
 
 ### Shooting Experience
-However, if you are looking for the best 35mm SLR shooting experience, this is not it. In my estimation, it is inferior to my Nikons in almost every detail. The lens release button feels cheap and fragile, the max shutter speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no aperture preview, there is no view finder display of aperture or shutter speed, the shutter speed dial is significantly less easy to adjust, and at least on my copy, the viewfinder is inferior. While my FMs have both a split prism and a microprism, the K1000 only has a microprism, and in general it feels dimmer and worse.
+However, if you are looking for the best 35mm SLR shooting experience, this is not it. In my estimation, it is inferior to my Nikons in almost every detail. The lens release button feels cheap and fragile, the max shutter speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no aperture preview, there is no view finder display of aperture or shutter speed, and the shutter speed dial is significantly less easy to adjust. While my FMs have both a split prism and a microprism, the K1000 only has a microprism, and in general it feels dimmer and worse.
 
-To it's credit, some people prefer the Pentax's needle light meter to the Nikon FM and FM2 LEDs. However, the Pentax light meter is always on, unlike the Nikon, which is turned off via the film rewind lever. You can trick the Pentax light meter into not using as much electricity by using a lens cap, but I still find that my Pentax batteries are always dead, while my Nikons last years. 
+To it's credit, some people prefer the Pentax's needle light meter to the Nikon FM and FM2 LEDs. However, the Pentax light meter is always on, unlike the Nikon, which is turned off via the film advance lever. You can trick the Pentax light meter into not using as much electricity by using a lens cap, but I still find that my Pentax batteries are always dead, while my Nikons last years. 
 
 I've only shot one roll through my K1000, and that was enough for me. 
 
-### Tech Specs
-Serial Number: 7093688
-Date: 1982-1983
-Shutter Speeds: 1s - 1/1000
-Lens: SMC Pentax-M 28mm f/3.5, 6873910
-Weight: 606g
-
+### Miscellany
 Supposedly, if your Pentaprism says AHCO as mine does, then it was made in Japan, not Hong Kong. However, mine has a sticker on the bottom that clearly says "ASSEMBLED IN HONG KONG". Actually, while trying to track down my 50/2 which I'm sure I own for this camera, I discovered that I actually own TWO Pentax K1000s. My second must be a newer model, as it only says Pentax on the prism.
+
+### Tech Specs
+- **Dates Manufactured**: 1976-1997
+- **My Date**: 1982-1983
+- **Type**: SLR
+- **Format**: 35mm
+- **Primary Lens**: SMC Pentax-M 28mm f/3.5, 6873910
+- **Minimum Focusing Distance**: ?? 
+- **Shutter Speeds**: 1s - 1/1000, B
+- **Light Meter:** 60/40 center weighted, CdS (cadmium sulfide) 
+- **Country of Origin**: Japan
+- **Weight w/ Lens:** 785g
+- **Serial number**: 7093688
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -291,7 +310,6 @@ Supposedly, if your Pentaprism says AHCO as mine does, then it was made in Japan
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-
 
 <!-- 20250219_220444.webp long lens -->
 
@@ -315,39 +333,6 @@ _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
 
 
 ## Yashica D
-
-### Overview  
-Produced by Yashica from 1958 to 1972, the Yashica‑D stood as the company’s top knob wind twin‐lens reflex (TLR) model. It originally sold for [around $50](https://mikeeckman.com/2016/11/yashica-d-1970/), a 2025 price of $530. The Yashica D model would have been sold alongside the Yashica Mat LM, which included a light meter for $80 total. 
-
-From 1970-1972, the original 3 element Yashikor triplet lenses were replaced with the 4 element Tessar design Yashinon lenses, with the viewing lens increasing from f/3.5 to f/2.8. Paul Sokk has an excellent, and wonderfully obsessive, [site](http://yashicatlr.com/66ModelsPage6.html#yashicad) where he details every possible thing you could want to know about the Yashica line up.
-
-### Personal Story
-In January of 2017, I got it in my head that needed to start shooting medium format for the image quality, and a quick preusal of ebay revealed that TLRs were the sexiest cameras I had ever laid eyes on. They were like some steam punk fantasy that actually took great photos. Now Rollieflexes were way out of budget, but I still wanted the nicest quality I could get. Yashica sells a lot of models, the A, B, C, D, 124g, etc, with the D being the best fully mechanical version made. It comes with two lens options, the 3.5/3.5 Yashikor or the 2.8/3.5 Yashinon, which has an brighter viewing lens and improved taking optics. I didn't know this at the time, but apparently the Yashinon lenses were only made on the D between 1970 and 1972, making my model a bit of a rarity.
-
-So anyway, in my quest to get acquire a high-performance, medium format workhorse, I located a wildly expensive $276 Yashica D, complete with a recent CLA, and a freaking a six‐month warranty, which is insane for a 45 year old camera. Interestingly, my particular example has “9‐28‐78” penciled inside, likely a service date.
-
-### Shooting Experience
-The Yashica is a very charming camera to shoot with. It's often touted for it's bright viewing screen (especially the f/2.8 model), and I find that this is absolutely the case. The waist level view finder with the pop-up magnifier is a joy to use and makes focusing a breeze. The camera gets quite a bit of attention on the street, and people are uniformly impressed by the viewing experience.
-
-The controls are also quite nice. Symmetrically oriented on the front of the camera, you rotate the aperture and shutter dials with the thumb and index finger of your left hand, watching their progress in the perfectly positioned viewing window situated on top of the viewing lens. Meanwhile the right hand adjusts the focus, shutter, and film advance. If there is a downside, it is that careless procedure can lead to double exposures, which has ruined a few of my otherwise favorite shots. 
-
-It's unavoidable that it be compared with some of my other medium format cameras, and compared to something like the Pentax 67 system (with its faster lenses and better shutter speeds), the Yashica‑D lags in sheer performance. An 80mm f/3.5 with a shutter speed range of 1s to 1/500s is not exactly going to get you through the a range of different lighting conditions. the minimum focusing distance of 1m is also a far cry from the 0.45m of my Nikon 50/1.4, although it is inline with other medium format lenses such as the pentax 105/2.4. I will say. I've done some comparison shoots between it and the pentax 105/2.4, and there is really no comparison between their capabilities.
-
-Yet for me, there’s an undeniable charm to the TLR experience, and it's just such a delightful camera to carry around. Petty though it may be, it has a passerby wow factor that is almost unmatched in my camera collection. Honestly, writing this has reminded me just how enjoyable it is to use, and I’m already itching to take it out for another spin.
-
-
-### Specs  
-- **Dates Manufactured:** 1958 – 1972  
-- **My Approx. Production Date:** Likely post‐1970 (based on Yashinon viewing lens)  
-- **Camera Type:** Twin‐Lens Reflex (TLR)  
-- **Format:** 120 roll film (6×6 cm)  
-- **Shutter Speeds:** 1s – 1/500s + Bulb
-- **Lenses:**  
-  - **Viewing Lens:** Yashinon 80mm f/2.8  
-  - **Taking Lens:** Yashinon 80mm f/3.5
-- **Serial Number:** D 7122389  
-- **Country of Origin:** Japan
-
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250222_151128.webp" alt="">
@@ -359,6 +344,57 @@ Yet for me, there’s an undeniable charm to the TLR experience, and it's just s
     <div class="caption"></div>
 </div>
 
+### Yashica D Overview  
+Produced by Yashica from 1958 to 1972, the Yashica‑D stood as the company’s top knob wind twin‐lens reflex (TLR) model. It originally sold for [around $50](https://mikeeckman.com/2016/11/yashica-d-1970/), a 2025 price of $530. The Yashica D model would have been sold alongside the Yashica Mat LM, which included a light meter for $80 total. 
+
+From 1970-1972, the original 3 element Yashikor triplet lenses were replaced with the 4 element Tessar design Yashinon lenses, with the viewing lens increasing from f/3.5 to f/2.8. Paul Sokk has an excellent and wonderfully obsessive [site](http://yashicatlr.com/66ModelsPage6.html#yashicad) where he details every possible thing you could want to know about the Yashica line up.
+
+### Personal Story
+In January of 2017, I got it in my head that needed to start shooting medium format for the image quality, and a quick preusal of ebay revealed that TLRs were the sexiest cameras I had ever laid eyes on. They were like some steam punk fantasy that actually took great photos. 
+
+Now, obviously if you want a TRL you buy a Rollieflexes, but seeing as I don't have a money tree in my yard, my sights fell on Yashica. Yashica sells a lot of models, the A, B, C, D, 124g, etc, with the D being the best fully mechanical version made. It comes with two lens options, the 3.5/3.5 Yashikor or the 2.8/3.5 Yashinon, which has an brighter viewing lens and improved taking optics. I didn't know this at the time, but apparently the Yashinon lenses were only made on the D between 1970 and 1972, making my model a bit of a rarity.
+
+So anyway, in my quest to get acquire a high-performance, medium format workhorse, I located a wildly expensive $276 Yashica D, complete with a recent CLA and a freaking a six‐month warranty, which is insane for a 45 year old camera. 
+
+To give you an idea of the kind of quality I was expecting when I purchased it, I set up an oscilloscope and a light sensor to measure the shutter speeds. If I remember correctly, 1/500s is actually a little slow, but everything else was spot on.
+
+### Shooting Experience
+The Yashica is a very charming camera to shoot with. It's often touted for it's bright viewing screen (especially the f/2.8 model), and I find that this is absolutely the case. The waist level view finder with the pop-up magnifier is a joy to use and makes focusing a breeze. The camera gets quite a bit of attention on the street, and when you hand it to strangers, they are inevitably taken aback by the viewing experience.
+
+The controls are also quite nice. Symmetrically oriented on the front of the camera, you rotate the aperture and shutter dials with the thumb and index finger of your left hand, watching their progress in the perfectly positioned viewing window situated on top of the viewing lens. Meanwhile the right hand adjusts the focus, shutter, and film advance. If there is a downside, it is that careless procedure can lead to double exposures, which has ruined a few of my otherwise favorite shots. 
+
+It's unavoidable that it be compared with some of my other medium format cameras, and set against something like the Pentax 67 system (with its faster lenses and better shutter speeds), the Yashica‑D lags in sheer performance. An 80mm f/3.5 with a shutter speed range of 1s to 1/500s is not exactly going to get you through the a range of different lighting conditions. I've done some comparison shoots between it and the pentax 105/2.4, and there is really no comparison between their capabilities.
+
+Yet for me, there’s an undeniable charm to the TLR experience, and it's just such a delightful camera to carry around. Petty though it may be, it has a passerby wow factor that is almost unmatched in my camera collection. Honestly, writing this has reminded me just how enjoyable it is to use, and I’m already itching to take it out for another spin.
+
+### Miscellany
+Interestingly, my particular example has “9‐28‐78” penciled inside, likely a service date.
+
+### Specs  
+- **Dates Manufactured:** 1958 – 1972  
+- **My Date:** 1970-1972 (based on Yashinon viewing lens)  
+- **Camera Type:** TRL  
+- **Format:** 120, 6×6  
+- **Lenses:**  
+  - **Viewing Lens:** Yashinon 80mm f/2.8  
+  - **Taking Lens:** Yashinon 80mm f/3.5
+- **Minimum Focusing Distance:** 1m
+- **Shutter Speeds:** 1s – 1/500s + Bulb
+- **Country of Origin:** Japan
+- **Weight:** 946g
+- **Serial Number:** D 7122389  
+
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="51650005a.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="51640002a.webp" alt="">
+    </div>
+    <div class="caption">HP5 400, Washington, Nov 2017</div>
+    <div class="caption">HP5 400, Washington, Nov 2017</div>
+</div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="img018.webp" alt="">
@@ -377,16 +413,6 @@ Yet for me, there’s an undeniable charm to the TLR experience, and it's just s
         <img src="51650012a.webp" alt="">
     </div>
     <div class="caption"></div>
-    <div class="caption">HP5 400, Washington, Nov 2017</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="51650005a.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="51640002a.webp" alt="">
-    </div>
-    <div class="caption">HP5 400, Washington, Nov 2017</div>
     <div class="caption">HP5 400, Washington, Nov 2017</div>
 </div>
 
@@ -428,26 +454,47 @@ Although the famous 105mm f/2.4 with the wooden pistol grip is the most iconic l
 </div>
 
 ### Pentax 67 Overview
-Produced between 1969 and 2009, the Pentax 6x7 is one of the most iconic medium format systems in existence. With a 6x7 cm frame size, it offers negatives almost 4.5 times larger than 35mm film, but in a familiar SLR form factor. Originally costing 2-3 times more than its 35mm counterparts, the 6x7 was aimed at professionals and serious enthusiasts who needed the high-resolution benefits of medium format without abandoning the familiar SLR handling. It was famous for its use in high fashion and editorial photography, and it maintains a cult following into the digital age. 
+Produced between 1969 and 2009, the Pentax 6x7 is one of the most iconic medium format systems in existence. With a 6x7 cm frame size, it offers negatives almost 4.5 times larger than 35mm film, but in a familiar SLR form factor. Originally costing 2-3 times more than its 35mm counterparts, the 6x7 was aimed at professionals and serious enthusiasts who wanted the high-resolution benefits of medium format without abandoning the familiar SLR handling. It was famous for its use in high fashion and editorial photography, and it maintains a cult following into the digital age. 
 
-There are 4 versions to be aware of. The original 1969 6x7 was made for about a decade, until in 1976 the addition of mirror lockup attempted to address the prodigious mirror slap, along with improvements to the film advance system. In 1990, it was rebranded as the Pentax 67, with improvements to metering and shutter timing; and finally, the Pentax 67II arrived in 1999 with a major overhaul and more plasticy body.
+There are 4 versions to be aware of. The original 1969 6x7 was made for about a decade, until in 1976 the addition of mirror lockup attempted to address the prodigious mirror slap, along with adding improvements to the film advance system. In 1990, it was rebranded as the Pentax 67, with improvements to metering and shutter timing; and finally, the Pentax 67II arrived in 1999 with a major overhaul and more plasticy body.
 
-If you are going to buy one, the 6x7 MLU and the 67 represent the best balance of price and quality. The original 6x7 and its less reliable film advance and should be avoided if possible, and the 67II is significantly more expensive.
+If you are going to buy one, the 6x7 MLU and the 67 represent the best balance of price and quality. The original 6x7 and its less reliable film advance and should be avoided if possible, and the 67II is significantly more expensive and potentially harder to repair.
 
 ### Personal Story
 
-I personally first encountered the Pentax 67 at Central Camera in Chicago, and it took by breath away. After years of shooting a 35mm Nikon, seeing the Pentax was like realizing you could have a pet bear instead of a poodle. Although I'm usually very tentative about my purchases, I was on the verge of impulse buying it when the clerk demanded to know if I was there to buy or simply to ogle. Well, I went straight home and bought one on ebay instead, and since then I've dropped more than one and a half grand on the body, lenses, and various accessories. 
+I personally first encountered the Pentax 67 at Central Camera in Chicago, and it took by breath away. After years of shooting a 35mm Nikon, seeing the Pentax was like realizing you could have a pet bear instead of a poodle. Although I'm usually very tentative about my purchases, I was on the verge of impulse buying it on the spot when the clerk demanded to know if I was there to buy or simply to ogle. Needless to say, I did not buy it. I went straight home and bought one on ebay instead, and since then I've dropped more than one and a half grand on the body, lenses, and various accessories. 
 
 ### Accessories
+#### Overview
+I own a gratuitous number of accessories for this system. I'm going to list them here to give a general idea of what's available and to shame myself for spending so much money. If I had realized how much accessories cost separately, I would have waited for a camera that included them. 
+
+Interestingly, I have the nice, SMC 67, version for all the lens *except* the famous 105.
+
+|Accessory|Price|Notes|
+|---------|-----|-----|
+| Body | $297 | Seemed cheap at the time |
+| Burl Wood Right Hand Grip | $139 | Best investment you can make |
+| Factory Left Hand Grip | $130 | Useless but pretty |
+| Extension Tubes | $79 | Excellent for improving the min focus distance |
+| Chimney Finder | $50 | Incredible magnification, but no light meter |
+| TTL Prism Finder | $149 | Never use it |
+| Strap Lugs | $50 | I mean, you have to have them...but damn |
+| Quick Focus Ring A | $45 | Sigh |
+| 45mm f/4 | $258 | My favorite lens, incredible detail |
+| 105mm f/2.4 | $200 | The famous lens, but not as good as people say |
+| 165mm f/2.8 | $230 | Excellent portrait lens |
+| 200mm f/4 | $110 | It's ok? I never use it |
+
+
 #### Handles
 More than any other feature, people recognize the Pentax 67 by its ostentatious wooden handle. It gets tons of comments when walking around town, and it is touted as the perfect way to hold the boat anchor of a camera.
 
-But functionally? The handle is a monumental failure of human design. The engineers who first proposed this handle should be committed to an institution to protect the public from any further inventions. I can't believe this isn't more talked about, because seriously, the thing is useless. 
+But functionally? The handle is a monumental failure of human design. The engineers who first proposed this handle should be committed to an institution to protect the public from their ideas. I can't believe this isn't more talked about, because seriously, the thing is useless. 
 
-It's in exactly the wrong place for you to hold while shooting, since your right hand needs to adjust the aperture and focus. And yes, I do own the gimmicky focusing extension ring, which is a giant pain in the ass, inventing a solution for a problem that shouldn't exist. If you own this camera, do yourself a favor and skip the factory grip, and instead buy a _right hand_ grip. Mine is burl wood from the charmingly named, "Village no. 1" in Bangkok, but these days I think the place to shop is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. 
+It's in exactly the wrong place for you to hold while shooting, since your right hand needs to adjust the aperture and focus. And yes, I do own the gimmicky focusing extension ring, which is a giant pain in the ass, inventing a solution for a problem that shouldn't exist. If you own this camera, do yourself a favor and skip the factory grip, and instead buy a *right hand* grip. Mine is burl wood from the charmingly named, "Village no. 1" in Bangkok, but these days I think the place to shop is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. 
 
 #### Viewfinders
-There are at least four viewfinders for this camera. A standard prism, a TTL prism, a waist level, and the chimney finder. I own a TTL and the chimney finder, and I _adore_ the chimney. It provides the largest, most magnified, most beautiful viewfinder of any camera I own. Sadly, my Pentax has the fully matte focusing screen instead of the standard split prism, and I would be lost without the high magnification of the chimney finder.
+There are at least four viewfinders for this camera. A standard prism, a TTL prism, a waist level, and the chimney finder. I own a TTL and the chimney finder, and I *adore* the chimney. It provides the largest, most magnified, most beautiful viewfinder of any camera I own. Sadly, my Pentax has the fully matte focusing screen instead of the standard split prism, and I would be lost without the high magnification of the chimney finder.
 
 I would love to eventually pick up the waist level finder, but they are consistently $250 from Japan, and I haven't yet been able to stomach the expense.
 
@@ -456,17 +503,20 @@ If you are going to use the TTL finder, I have a 3d printed ribbed sleeve that I
 ### The Mythical 105mm f/2.4
 People buy the Pentax 67 just to use this one single lens. It has an unbelievable cult status in the world of film photography, famous for it's insane depth of field, beautiful rendering, and "3d pop"...Seriously, people online will rave endlessly about this lens, positively frothing while they declare that the look is impossible to achieve on 35mm. They will say that medium format has more bokeh than 35mm, or that the 105mm will be more compressed than the 50mm, giving better background separation.
 
-And it is a nice nice lens. But frankly, it is no different from a common 50mm f/1.2 on 35mm. There is absolutely nothing magical about it, and there is certainly no mystical 3d pop due to the lens itself. Essentially the 105mm f/2.4 on a 6x7 negative is roughly equivalent to a 50mm f1.2 on a 35mm negative, in terms of both framing and depth of field. But doesn't the 105 have more compression than the 50? Sadly no. Compression is not caused by the length of the lens, it is a function of the distance between the film plane and the subject. Since the 105 and the 50 are the same framing on their respective systems, the subject distance and therefore compression will be the same. 
+And it is a nice nice lens. 
+
+But frankly, it is no different from a common 50mm f/1.2 on 35mm. There is absolutely nothing magical about it, and there is certainly no mystical 3d pop due to the lens itself. Essentially the 105mm f/2.4 on a 6x7 negative is roughly equivalent to a 50mm f1.2 on a 35mm negative, in terms of both framing and depth of field. 
+
+But doesn't the 105 have more compression than the 50? Sadly no. Compression is not caused by the length of the lens, it is a function of the distance between the film plane and the subject. Since the 105 and the 50 are the same framing on their respective systems, the subject distance and therefore compression will be the same. 
 
 Yeah I know, I'm a dirty, pentax-hating apostate for even suggesting it. But seriously, check out this [comparison video](https://www.youtube.com/watch?v=UbU-w0J_7MM) by Julien Jarry if you don't believe me. 
 
 ### Why Bother?
 So if the famous lenses aren't really any better, then why bother with an expensive, heavy, massive camera that only gets 10 photos a roll? 
 
-Well for starter, the negatives are gigantic. On top of having way more detail and less grain, I find them easier to develop and easier to scan. Only 10 photos per roll certainly seems like a downside, but as a slow and deliberate shooter, I rather appreciate not struggling to take 36 photos on a 35mm roll. 
+Well for starter, the negatives are gigantic. On top of having way more detail and less grain, I find them easier to develop and easier to scan. Only 10 photos per roll certainly seems like a downside, but as a slow and deliberate shooter, I rather appreciate not struggling to take 36 photos on a 35mm roll. While looking though my cameras for this post, I discovered that I have 10 shots still left on my Pentax K1000 that have apparently been in the camera for EIGHT YEARS. This is not a problem you run into on the Pentax 67.
 
-And most importantly, you look like a badass when you shoot it.
-
+If I want to shoot a detailed landscape shot, there isn't a better camera in my collection than the Pentax 67 with the 45mm lens. The resolution and detail is just insane.
 
 ### Shooting Experience
 
@@ -474,7 +524,7 @@ If I’m heading out *specifically* to photos, the Pentax 67 is at the top of my
 
 However, if I’m out and about and want a camera “just in case,” the Pentax 67 stays at home. I could walk around with literally three Nikon FM2s hanging from my neck and they would take up less space than the Pentax. Carrying this thing slung over your shoulder for a day is enough to give you adult onset scoliosis.
 
-It also simply has limitations that my more fully featured 35mm systems do not. Looking through my various pentax photographs, I notice quite a few where I had to compromise on the exposure. It's not the biggest deal in the world, but a max shutter speed of 1/1000 and a max aperture of f/2.4 mean that unless you are also lugging around tripods and ND filters, then you will be hard pressed to shoot wide open in the day, and you will struggle to keep shooting as the sun goes down. A tip I would give for low light shoot slightly wider than you need to, engage the mirror lock up, and let yourself shoot a stop slower than you think you can.
+It also simply has limitations that my more fully featured 35mm systems do not. Looking through my various pentax photographs, I notice quite a few where I had to compromise on the exposure. It's not the biggest deal in the world, but a max shutter speed of 1/1000 and a max aperture of f/2.4 mean that unless you are also lugging around tripods and ND filters, then you will be hard pressed to shoot wide open in the day, and you will struggle to keep shooting as the sun goes down. A tip I would give for low light shooting is to engage the mirror lock up, and let yourself shoot a stop slower than you think you can.
 
 Finally, it really, *really* bears mentioning that the minimum focusing distance on almost all the lenses is miserable. Even if you get the 90/2.8 instead of the 105, the minimum focusing distance is still 0.65m, admitted a huge improvement over the 105's 1m but still a far cry from the 0.45m of my Nikon 50/1.4.
 
@@ -488,25 +538,28 @@ Finally, it really, *really* bears mentioning that the minimum focusing distance
 
 In all, the Pentax 67 is a fun camera and I love it. But unless you are specifically wanting hi-res, huge negatives, like for epic landscapes or studio portraits, then you really might consider taking a smaller and more fully featured camera.
 
+### 
+
 ### Tech Specs
-- **Dates Manufactured:** 1990-1999  
-- **Camera Type:** SLR 
+- **Dates Manufactured:**  
+- **Camera Type:** 
 - **Shutter Speeds:** 1s to 1/1000s
 - **Format:** 6x7 (actual 56x70mm)  
 - **Primary Lens:**  45/4, 105/2.8, 165/2.8
 
-
-<!-- body $297
-custom Grip $139
-hand grip $130
-extension tubes $79
-Chimney $50
-metering prism $149
-200/4 $110
-105/2.4 $200
-45mm/4 $258 
-165/2.8 $230
--->
+- **Dates Manufactured:**1990-1999 
+- **Camera Type:** SLR 
+- **Format:** 120, 6x7
+- **Primary Lens:** 150/2.4 5434074or 45/4
+- **Minimum Focusing Distance:** 1m
+- **Shutter Speeds:** 1s - 1/1000s, B
+- **Light Meter:** TTL, or None
+- **Country of Origin:** Japan
+- **Weight w/ Lens:** heavy as fuck
+    - 2040g, (chimney, right grip only, 45/4)
+    - 2556g, (TTL, right grip only, 104/2.4)
+- **Serial Number:** 4174966
+- **Manual**: [here](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -523,6 +576,8 @@ Even with inexpensive, medium quality scans, the resolution and detail in the Pe
 
 If you want to take gorgeous landscape shots and worry about cropping later, it's hard to beat a Pentax 67 with a 45mm lens.
 
+![000289470011](000289560002_new.webp)
+_cat!_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -534,42 +589,17 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-one
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="000289560009.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="1000022031.webp" alt="">
-    </div>
-    <div class="caption">some challenging lighting, handheld after sunset</div>
-    <div class="caption">light leaks on the film roll itself</div>
-</div>
-two
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img076-2.webp" alt="">
+        <img src="000289560009_dark.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289560002_new.webp" alt="cat nestled between two shipping containers">
-    </div>
-    <div class="caption">click on this one to see it full size</div>
-    <div class="caption"></div>
-</div>
-three
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="000289560010.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img010_1.webp" alt="">
+        <img src="000289510009_blacks.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-four
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -581,23 +611,22 @@ four
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-five
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="1000022030.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img010.webp" alt="">
+        <img src="img010_1.webp" alt="">
     </div>
     <div class="caption"></div>
-    <div class="caption">it's possible to get a lot of punch and contrast out of the system</div>
+    <div class="caption"></div>
 </div>
+four
 
-![000289480015](000289510007+(1).webp)
-_the wide 45mm lets you do nice long crops_
 
 ![000289480015](000289510008+(2).webp)
+_the wide 45mm lets you do nice long crops_
 
 
 ## Balda Fixfocus 6x9
@@ -614,10 +643,11 @@ _the wide 45mm lets you do nice long crops_
 </div>
 
 ### Overview
-I have a lot of 1900s-1930s folders floating around the house, very few of which I have actually bothered to run film through. A big problem is that many of them take weird film formats that have been since discontinued. Take a look at this table of formats
+I have a lot of 1900s-1930s folders floating around the house, very few of which I have actually bothered to run film through. A big problem is that many of them take weird film formats that were discontinued decades ago. Just take a look at this table of formats
 
 | Format | Introduced | Image Size                | Availability | Notes                            |
 |----------|------------|------------------|----------------|----------------------------------|
+| *Roll Film* | | | | |
 | **120**  | 1901       | 6×4.5, 6×6, 6×9 cm | Available      | Dominant medium format today |
 | **620**  | 1931       | 6×4.5, 6×6, 6×9 cm | Discontinued   | 120, but with smaller spool |
 | **127**  | 1912       | 4×6.5 cm          | Limited availability | still produced by niche manufacturers |
@@ -625,31 +655,35 @@ I have a lot of 1900s-1930s folders floating around the house, very few of which
 | **616**  | 1932       | 6.5×11 cm         | Discontinued   | 116, but with smaller spool |
 | **122**  | 1903       | 9×14 cm           | Discontinued   | Large negatives; difficult to source |
 | **127**  | 1912       | 4×6.5 cm          | Limited availability | Compact cameras; limited availability |
-| **135 (35mm)** | 1934 (still) | 24×36 mm | Widely available | Dominant film format today |
-| **Sheet Film** | | | | |
-| 2¼×3¼" (6×9 cm) | Early 1900s | 2¼×3¼ inches | Available | Commonly used small sheet film, especially in press cameras and small folders. |
-| 3¼×4¼" | Early 1900s | 3¼×4¼ inches | Limited availability | Less common today but historically widely used in folding press cameras. |
+| **135 (35mm)** | 1934 | 24×36 mm | Widely available | Dominant film format today |
+| *Sheet Film* | | | | |
+| **2¼×3¼" (6×9 cm)** | Early 1900s | 2¼×3¼ inches | Available | Commonly used small sheet film, especially in press cameras and small folders. |
+| **3¼×4¼"** | Early 1900s | 3¼×4¼ inches | Limited availability | Less common today but historically widely used in folding press cameras. |
 
-The camera is unbranded but the film viewing window cover bears the marks: "DRGM" and "BW". This leads me to identify it as a Balda 6x9 of unknown model, probably a Fixfocus, produced between 1933 and 1938. 
+This particular camera is unbranded, but the film viewing window cover bears the marks: "DRGM" and "BW". This leads me to identify it as a Balda 6x9 of unknown model, probably a Fixfocus, produced between 1933 and 1938. 
 
-I came across a few nice resources while researching it, including this page on the [Fixfocus specifically](https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html), a lovely [interactive timeline of the Balda Camera](https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda) models, and an in depth review of a [newer iteration of my camera](https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/). 
+I came across a few nice resources while researching it, including this page on the [Fixfocus specifically](https://www.collection-appareils.fr/x/html/camera-2451-Balda_Fixfocus.html), a lovely [interactive timeline of the Balda Camera models](https://www.collection-appareils.fr/Timeline/frise.php?Marque=Balda), and an in depth review of a [newer iteration of my camera](https://schneidan.com/2015/11/09/all-about-the-balda-pontina-probably-camera/). 
 HP5+ 400
 
 ### Shooting Experience
-I took two of my 6x9 folders on a trip with me to Nevada in 2017, and I'm pretty sure these are the photos from the Balda. They've got a very interesting lo-fi images look to them, which I believe is caused by light leaks from the body, possibly through the film viewing holes. The bellows on this camera don't have any pinholes, so I don't think they are to blame.
+I took two of my 6x9 folders on a trip with me to Nevada in 2017, and I'm pretty sure these are the photos from the Balda. They've got an interesting lo-fi look to them, which I believe is caused by light leaks from the body, possibly through the film viewing holes. The bellows on this camera don't have any pinholes, so I don't think they are to blame.
 
-Shooting this camera is a bit of a pain. It has no lightmeter, no way to see if the subject is in focus, no shutter release on the body, no double exposure interlock, a max aperture of only f/4.5, and a max shutter speed of only 1/125th. For all that though, the rotating viewing window is actually very bright and clean, a rarity in these old cameras, as they are typically dim and hard to see through, often with mirror issues.
+Shooting this camera is a bit of a pain. It has no light meter, no way to see if the subject is in focus, no shutter release on the body, no double exposure interlock, a max aperture of only f/4.5, and a max shutter speed of only 1/125th. For all that though, the rotating viewing window is actually very bright and clean, a rarity in these old cameras, as they are typically dim and hard to see through, often with mirror issues.
 
-The shutter cocking is also really nice. The cocking lever moves from left to right, and then as soon as it is cocked, you find your thumb conveniently placed over the shutter release, which you can continue to press to fire the camera. On many, many of my leaf shutter cameras, the cocking lever is in some unintuitive place that you have to hunt for, and then the shutter release is in some other random location. Not so in the Balda.
+The shutter cocking is also really nice. The cocking lever moves from left to right, and then as soon as it is cocked, you find your thumb conveniently placed over the shutter release, which you can continue to press to fire the camera. On many, many of my leaf shutter cameras, the cocking lever is in some unintuitive place that you have to hunt for, and then the shutter release is in some other random location. Not so in the Balda. Your fingers just naturally land in the perfect place.
 
 ### Tech Specs
 - **Dates Manufactured:** 1933-1938  
-- **Camera Type:** 6x9 Folder 
-- **Film:** 120mm  
-- **Format:** 6x9, or 6x4.5 with a mask
+- **Camera Type:** Folder 
+- **Format:** 120, 6x9
+- **Lens:** Schneider-Krieuznoach Radionar 10.5 cm f/4.5
+- **Minimum Focusing Distance:**
+- **Light Meter:** lol
 - **Shutter** Prontor
 - **Shutter Speeds:** 1/25 - 1/125, with T and Bulb
-- **Lens:** Schneider-Krieuznoach Radionar 10.5 cm f/4.5
+- **Country of Origin:** Germany
+- **Weight:** 590g
+- **Serial Number:** None
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -679,7 +713,7 @@ The viewfinder is top notch. It deploys by the aid of a small knob on the back, 
 
 The taking lens is a 3 element coated Agfa Color Apotar 45mm f/2.8, with a minimum focusing distance of 0.9m, and the leaf shutter goes from 1-1/500s. 
 
-Mike Eckman has a great [writeup](https://mikeeckman.com/2020/11/agfa-flexilette-1960/) on the camera that goes into more detail than I have here. He talks a lot about it's general place in history, and the state of the german camera market.
+Mike Eckman has a great [writeup](https://mikeeckman.com/2020/11/agfa-flexilette-1960/) on the camera that goes into more detail than I have here. He talks a lot about it's general place in history, and the state of the German camera market.
 
 Inside it has a little advertisement for Agfa Isopan Agfacolor IF 17, Pat 36
 
@@ -1299,6 +1333,21 @@ Zeiss Jena lens numbers start with 3.000.000
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
+        <img src="img076-2.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000289560010.webp" alt="">
+    </div>
+    <div class="caption">click on this one to see it full size</div>
+    <div class="caption"></div>
+</div>
+
+![img010.webp](img010.webp)
+![000289480015](000289510007+(1).webp)
+
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
         <img src="000289500007 (1).webp" alt="">
     </div>
     <div class="image-div">
@@ -1366,8 +1415,18 @@ Zeiss Jena lens numbers start with 3.000.000
 ![000289470011](img053-2.webp)
 ![000289470001](000289470001.webp)
 ![000289470011](img062-2.webp)
-![000289470011](img074_new.webp)
-![000289470011](img082.webp)
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img082.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img074_new.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
 <!-- 20250219_215427.webp kodak automatic
 20250219_215411.webp kodak automatic side
 20250219_214644.webp fdeckel munchen compur folding 35mm
@@ -1422,6 +1481,22 @@ assam
 
 bishwash bangalore
 - mysore daytrip
+
+
+
+
+### Tech Specs
+- **Dates Manufactured:**
+- **Camera Type:**
+- **Format:**
+- **Primary Lens:**
+- **Minimum Focusing Distance:**
+- **Shutter Speeds:**
+- **Light Meter:**
+- **Country of Origin:**
+- **Weight w/ Lens:**
+- **Serial Number:**
+- **Manual:** [here](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
 
 
 
