@@ -675,7 +675,7 @@ The shutter cocking is also really nice. The cocking lever moves from left to ri
 ### Tech Specs
 - **Dates Manufactured:** 1933-1938  
 - **Camera Type:** Folder 
-- **Format:** 120, 6x9
+- **Format:** 120, 6x9 or 6x4.5 with mask
 - **Lens:** Schneider-Krieuznoach Radionar 10.5 cm f/4.5
 - **Minimum Focusing Distance:**
 - **Light Meter:** lol
@@ -703,31 +703,34 @@ Made for only one year in 1960, the Agfa Flexilette is one of a select few 35mm 
 
 In case the pictures don't make it obvious, it's a TLR, where the bottom lens is used to take the photo and the top lens is used to compose the shot. It's a weird mix of obviously well-thought out engineering and uncomfortable ergonomics. The film advance lever is gorgeously machined into the perfect shape for your thumb, with just the right amount of knurling. It's not a piece of flat stock that has been bent; it looks machined from a solid piece of metal. It would not be an exaggeration to call it one of the most premium advance levers in my entire collection; I'm frankly shocked they choose to manufacture it this way. 
 
-Meanwhile, the focus and aperture controls are...questionable at best. Yes, they've done an excellent job packing all the controls into a thin, pancake lens, but at the cost of them actually being big enough to comfortably use with your soft human fingers. The focus ring is knurled and scalloped and only 2.25mm thick, which is a literal pain to use. Perhaps in the 65 years since it's manufacture the lens grease has stiffened, but reading online this is an almost universal complaint. 
+Meanwhile, the focus and aperture controls are...questionable at best. Yes, they've done an excellent job packing all the controls into a thin, pancake lens, but at the cost of them actually being big enough to comfortably use with your soft human fingers. The focus ring is knurled, scalloped, and only 2.25mm thick, and it is a literal pain to use. Perhaps in the 65 years since it's manufacture the lens grease has stiffened, but reading online this is an almost universal complaint. 
 
-The aperture ring is a bit better, but only because it moves more smoothly. It has the flaw of being too close to the body, presenting it's own difficulties. Charmingly, the shutter speed, which is flush with the body, should by rights be the hardest to adjust, but it is actually the easiest. They've added two large finger grips making it a breeze to adjust. 
+The aperture ring is a bit better, but only because it moves more smoothly. It has the flaw of being too close to the body, presenting it's own difficulties. Charmingly, the shutter speed, which is flush with the body, and should by rights be the hardest to adjust, is actually the easiest. They've added two large finger grips making it a breeze to turn. 
 
-To be fair, these controls are not all that better than operating, for instance, a Zeiss Contaflex but that doesn't excuse them..
+To be fair, other contempory cameras, such as the Zeiss Contaflex, as also a pain to operate, but I wouldn't say that that excuses either manufacturer.
 
-The viewfinder is top notch. It deploys by the aid of a small knob on the back, which my camera originally had but which fell off at some point. The deployment is firm and confident, and puts it in waistfinder mode. By flipping up the magnifier, you can do precision focusing or use the excellent sport finder. The sport finder really deserves praise for its lenses, which, quite unlike any other sportfinder in my collection, really elevates it over the normal metal frame. The viewfinder is bright and crisp, with a split prism in the center, that makes focusing trivial. The scene that you see through the magnifier is massive. Compared to my Nikon FM2, I think it might take up as much as 4x the physical area in my eye's field of view.
+Meanwhile, the viewfinder is absolutely top notch. It deploys by the aid of a small knob on the back, which sadly fell off my camera during my ownership. The deployment is firm and confident, and puts it in waistfinder mode. By flipping up the magnifier, you can do precision focusing or use the excellent sport finder. The sport finder really deserves praise for its lenses, which, quite unlike any other sportfinder in my collection, elevates it over the normal hollow metal frame. The viewfinder is bright and crisp, with a split prism in the center that makes focusing trivial. The scene that you see through the magnifier is massive. Compared to my Nikon FM2, I think it might take up as much as 4x the physical area in my eye's field of view.
 
 The taking lens is a 3 element coated Agfa Color Apotar 45mm f/2.8, with a minimum focusing distance of 0.9m, and the leaf shutter goes from 1-1/500s. 
 
 Mike Eckman has a great [writeup](https://mikeeckman.com/2020/11/agfa-flexilette-1960/) on the camera that goes into more detail than I have here. He talks a lot about it's general place in history, and the state of the German camera market.
 
-Inside it has a little advertisement for Agfa Isopan Agfacolor IF 17, Pat 36
+Inside, mine has a little advertisement for Agfa Isopan Agfacolor IF 17, Pat 36.
 
-It's a sort of weirdly positioned camera, with a premium build, and intermediate price, and it's not clear to me who the market was. Overall, despite the finicky controls, the unique design and the _excellent_ viewfinder make it a delightful little camera to shoot with, and I should honestly take it out more. 
+It's a sort of weirdly positioned camera, with a premium build and an intermediate price, and it's not clear to me who the market was. Despite the finicky controls, the unique design and the _excellent_ viewfinder make it a delightful little camera to shoot with, and I should honestly take it out more. 
 
+### Tech Specs
 
-**Dates Manufactured**: 1960
-**Type**: 35mm TLR
-**Format**: 35mm
-**Lens**: AGFA Color Apotar 45mm f/2.8
-**Shutter Speeds**: 1 - 1/500, B
-**Minimum Focusing Distance**: 0.9m
-**Serial number**: AC 3584
-**Country of Origin**: Germany
+- **Dates Manufactured:** 1960
+- **Camera Type:** TLR
+- **Format:** 35mm
+- **Primary Lens:** AGFA Color Apotar 45mm f/2.8
+- **Minimum Focusing Distance:** 0.9m
+- **Shutter Speeds:** 1 - 1/500, B
+- **Light Meter:** None
+- **Country of Origin:** Germany
+- **Weight w/ Lens:**
+- **Serial Number:** AC 3584
 **Manual**: [here](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
 
 <div class="grid-container grid-2x2">
@@ -771,10 +774,6 @@ It's a sort of weirdly positioned camera, with a premium build, and intermediate
 <!-- 20250219_222553.webp naked front -->
 <!-- 20250219_222447.webp naked side -->
 
-HP5+ 400
-
-Jan, 2017ish
-
 <div class="grid-container grid-3x2">
     <div class="image-div">
         <img src="0008arst.webp" alt="">
@@ -789,27 +788,30 @@ Jan, 2017ish
     <div class="caption"></div>
 </div>
 
-The Kodak Dualflex IV is an unabashaedly budget camera made from 1955 to 1960. It was marketed directly at family market to take snapshots of vacations, important moments, and life in general. With it's bright TLR viewfinder, it was meant to be an upgrade over the simple box cameras like the Brownie, while still being insanely affordable. The bodies are made mostly of bakelite with some metal features, and the lenses are incredibly simple meniscus designs. They have no focusing, a fixed aperture of around f/15, and a single fixed shutter speed of about 1/30 of a second.
+The Kodak Dualflex IV is an unabashaedly budget camera made from 1955 to 1960. It was marketed directly at families to take snapshots of vacations, important moments, and life in general. With it's bright TLR viewfinder, it was meant to be an upgrade over the simple box cameras like the Brownie, while still being insanely affordable. The bodies are made mostly of bakelite with some metal features, and the lenses are incredibly simple meniscus designs. They have no focusing, a fixed aperture of around f/15, and a single fixed shutter speed of about 1/30 of a second.
 
-It's really hard to get more simple than this camera. They were priced at $14.95 in 1960, which would make them about $160 in 2025. Mine is pictures with the flash unit, which would have brought the total cost up to $19.95. [Jeremy Mudd's post](https://www.jeremymuddphoto.com/blog/2023/8/27/kodak-duaflex-iv) shows a lot of great ads for these cameras.
+It's really hard to get more simple than this camera. They were priced at $14.95 in 1960, which would make them about $160 in 2025. Mine is pictures with the flash unit, which would have brought the total cost up to $19.95. [Jeremy Mudd's post](https://www.jeremymuddphoto.com/blog/2023/8/27/kodak-duaflex-iv) shows a lot of great ads for these cameras, and it's worth checking out.
 
-Despite looking like Yashicas or Rolliflexes, these cameras do _not_ take 120 film. Instead they take 620, which was probably a choice made by Kodak to lock you into their own film sales. 620 is actually the same film as 120, but it is wound on a smaller spool, which means if you want to shoot these cameras today, you need to unwind your 120 film and then rewind it onto a 620 spool. 
+Despite looking superficially like Yashicas or Rolliflexes, these cameras do _not_ take 120 film. Instead they take 620, which was probably a choice made by Kodak to lock you into their own film sales. 620 is the same physical film as 120, but it is wound on a smaller spool, which means if you want to shoot these cameras today, you need to unwind your 120 film and then rewind it onto a 620 spool. This is an endeavor that I have only bothered to do once, and one I am unlikely to repeat.
 
 It's pretty typical for these to come with dirty viewfinders and internal mirrors, and it is a very easy fix. I think this was the second or third film camera that I ever shot, and it was the first that I ever "repaired". 
 
 The actual shooting experience is pretty minimal. Aim camera, press shutter, wind film. You do need to plan your film and light with this camera, as the fixed aperture and shutter speed mean that you are at the mercy of the film's latitude at the sun's whims.
 
-
-
-**Dates Manufactured**: 1955-1960
-**Type**: 620 TRL
-**Format**: 620
-**Lens**: Kodet
-**Shutter Speeds**: Instant, Long
-**Minimum Focusing Distance**: ~5ft
-**Country of Origin**: 'Murica
+### Tech Specs
+- **Dates Manufactured:** 1955-1960
+- **Camera Type:** TLR
+- **Format:** 620, 2¼ x 2¼ ?
+- **Primary Lens:** Kodet
+- **Minimum Focusing Distance:** ~5ft
+- **Shutter Speeds:** Instant, Long
+- **Light Meter:** None
+- **Country of Origin:** 'Murica
+- **Weight w/ Lens:** 462
+- **Serial Number:** None
 
 ![000289480015](0001arst.webp)
+_HP5+ 400, ~Jan 2017_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -819,7 +821,7 @@ The actual shooting experience is pretty minimal. Aim camera, press shutter, win
         <img src="0003arst.webp" alt="">
     </div>
     <div class="caption"></div>
-    <div class="caption"></div>
+    <div class="caption">it's less hard than you would think to get shots in focus</div>
 </div>
 
 ## Leica iiia
@@ -838,7 +840,17 @@ The actual shooting experience is pretty minimal. Aim camera, press shutter, win
 Go here to date it....
 https://cameraquest.com/ltmnum.htm
 
-I came across this hidden in the back of an antique shop in Las Vegas for $175, and bought it without a second thought. It originally had haze in one of the internal elements which gave the photos a dreamy, low-contrast feel. I have since disassembled the lens and removed the mold, but I honestly wish I had just left it alone. 
+I came across this hidden in the back of an antique shop outside of Las Vegas for $175, and bought it without a second thought. At the time I didn't know the difference between the Leica M series and the Leica iii, and I was very worried that at that price I may have accidently bought a fake.
+
+There are, in fact, a shocking number of fake Leica iii's floating around in the world. This is one of the most directly copied cameras ever made, and it has direct immitations by FED Canon and others. Many of the Russian clones have been rebadged and sold as Leicas, so you'll want to look out if you are ever searching for one on ebay.
+
+But why all the copies?
+
+Well, I think my leica iii may have been one of, if not the, best 35mm camera in existence in when it was made in 1937. It has a magnified and accurate rangefinder, 1/1000 shutter speed, f/2.0 lens standard with f1.5 available, and it was built like an absolute tank. I have a lot of cameras, but when I want to impress a visitor with the mechanical beauty of a camera, I always show them my Leica.
+
+Interestingly, Leica was very consumer friendly; you could send your Leica back to the factory for upgrades instead of buying a new camera. For instance, I have a relatively early iiia, made in 1937. But in 1951, Leica introduced flash sync  but the iiif introduced flash sync. so someone sent mine back to the factory and had flash sync professionally installed by leica
+
+It originally had haze in one of the internal elements which gave the photos a dreamy, low-contrast feel. I have since disassembled the lens and removed the mold, but I honestly wish I had just left it alone. 
 
 When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. I've got plenty of cameras that can deliver sharp, perfect photos, but the dreamy, low-contrast look of the hazy lens was something unique.
 
@@ -1501,7 +1513,7 @@ bishwash bangalore
 
 
 Prompt 1:
-ok, i want you to research the historical context of the yashica D. what years it was manufactured, what was the price, who was the market, what was the critical reception
+ok, i want you to research the historical context of the leica iii c. what years it was manufactured, what was the price, who was the market, what was the critical reception
 
 Prompt 2:
 Ok, now research if there are any interesting facts about it. any famous photos taken with it, any interesting quirks, etc
