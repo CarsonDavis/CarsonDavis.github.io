@@ -1,7 +1,7 @@
 ---
 title: Wood Carving
 date: 2021-08-22
-last_modified_at: 2024-10-12
+last_modified_at: 2025-03-12
 categories: [crafting, woodcarving]
 tags: []
 description: A guide to woodcarving and some personal projects.
@@ -202,6 +202,8 @@ There's something simply delightful about the rotund softness of this wooden bea
     <div class="caption">finished</div>
 </div>
 
+## Recent Projects
+
 All the previous carvings on this page were from 2021, when I first started carving. These later ones are from October 2024, when I picked up the hobby again after a long absence. These little mushroom houses are very fun, and a think I'll be doing more of them, as well as maybe some mushroom faces. 
 
 Round doors are a massive pain to carve, and I doubt I will be making a habit of it.
@@ -246,6 +248,76 @@ I oiled with Tung oil first, and then painted it with [Arteza Metallic Acrylics]
     <div class="caption">a third house!</div>
 </div>
 
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20241015_220927.webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="image+(6).webp" alt="shortwave">
+    </div>
+    <div class="caption">teeth</div>
+    <div class="caption">a third house!</div>
+</div>
+
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20241019_120231.webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="20241019_133917.webp" alt="shortwave">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![20241017_203820.webp](20241017_203820.webp)
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="20241020_115910.webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="image+(4).webp" alt="shortwave">
+    </div>
+    <div class="image-div">
+        <img src="image+(5).webp" alt="shortwave">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+This little door was so satisfying.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="image+(3).webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="image+(7).webp" alt="shortwave">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20241222_170450.webp" alt="white light">
+    </div>
+    <div class="image-div">
+        <img src="20241222_171317.webp" alt="shortwave">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+These little Santas are great fun to make as gifts. I've done 3 so far, and enjoyed them all.
+
+![20250106_225645.webp](20250106_225645.webp)
+
+## Videos
 
 I also made some quick videos of my carvings on a rotating stand, which is a fun way to view them from all angles.
 
