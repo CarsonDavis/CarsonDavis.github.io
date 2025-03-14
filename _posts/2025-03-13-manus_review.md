@@ -62,7 +62,7 @@ Manus promises to be a general AI agent that can do your work while you relax. C
 In theory, it sounds absolutely awesome.
 
 ## Caveats
-So far, I've had it for exactly one day and was able to use it for two personal projects before meeting my quota. I'm writing this post so soon because I have a several friends and coworkers on the wait list who want to know my initial impressions. 
+So far, I've had it for exactly one day and was able to use it for two personal projects before meeting my quota. I'm writing this post so soon because I have several friends and coworkers on the wait list who want to know my initial impressions. 
 
 So, this is NOT a comprehensive review based on extensive usage. I've had to live within their quota system and will update this post as I continue to use it.
 
@@ -101,7 +101,7 @@ So let's try something harder.
 
 ## 16th Century Document Research
 ### Background
-I've recently been a little obsessed with the 1560 legal case of Martin Guerre, and I've been trying to read the original source material. Despite there being several modern books and movies on the case, I couldn't find a full transcription or translation of the original *Arrest mémorable* by judge Jean de Coras that included the judges annotations.
+I've recently been a little obsessed with the 1560 legal case of Martin Guerre, and I've been trying to read the original source material. Despite there being several modern books and movies on the case, I couldn't find a full transcription or translation of the original *Arrest mémorable* by judge Jean de Coras that included the judge's annotations.
 
 However, I'm on vacation right now, and Mistral just released a new "[document understanding API](https://mistral.ai/news/mistral-ocr)" which is supposed to have excellent OCR capabilities...so I figured I could have a bit of fun transcribing and translating the document myself.
 
