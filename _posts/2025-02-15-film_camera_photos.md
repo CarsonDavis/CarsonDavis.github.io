@@ -6,7 +6,7 @@ categories: [photography, film]
 tags: []
 description: Various film cameras and the photos they take
 media_subpath: /film-camera-photos/
-image: 20250219_212247.webp
+image: 20250313_185922.webp
 published: False
 ---
 
@@ -54,9 +54,14 @@ published: False
 </style>
 
 ## Introduction
-So I've got a lot of film cameras, something like 120 at last count. I've been collecting and shooting them for around a decade, and I've managed to amass a couple neat cameras and a few decent photos. 
 
-Sometime in the future I'll document each and every one of my film cameras and put them in their historical context, but this will not be that post. Here I'll just focus on the experience of shooting them, make some comparisons, maybe give some technical specs, and of course show some photos.
+I have an unhealthy number of film cameras. I used to think that I liked photography, but at this point I think it's time to accept that I just like hoarding cameras. 
+
+I have maybe 120 total? Some that work, some that don't, some I've taken photos with, and some that sit on shelves lookin' pretty. At some point, I'll make a post that covers each and every one of them, but since that'll take forever, this is the post you are getting instead.
+
+I'll go through each of my cameras that I've actually shot film through, give a brief overview, talk about the shooting experience, show some photos, maybe give some comparisons.
+
+Theres a table of contents if you want to jump to a specific camera, and you can also just click on the photos to view them full size as a slide show.
 
 ## Nikon FM
 
@@ -65,7 +70,7 @@ Sometime in the future I'll document each and every one of my film cameras and p
         <img src="20250219_214750.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_214852.webp" alt="">
+        <img src="20250313_183400.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -538,8 +543,6 @@ Finally, it really, *really* bears mentioning that the minimum focusing distance
 
 In all, the Pentax 67 is a fun camera and I love it. But unless you are specifically wanting hi-res, huge negatives, like for epic landscapes or studio portraits, then you really might consider taking a smaller and more fully featured camera.
 
-### 
-
 ### Tech Specs
 - **Dates Manufactured:**  
 - **Camera Type:** 
@@ -707,7 +710,7 @@ Meanwhile, the focus and aperture controls are...questionable at best. Yes, they
 
 The aperture ring is a bit better, but only because it moves more smoothly. It has the flaw of being too close to the body, presenting it's own difficulties. Charmingly, the shutter speed, which is flush with the body, and should by rights be the hardest to adjust, is actually the easiest. They've added two large finger grips making it a breeze to turn. 
 
-To be fair, other contempory cameras, such as the Zeiss Contaflex, as also a pain to operate, but I wouldn't say that that excuses either manufacturer.
+To be fair, other contemporary cameras, such as the Zeiss Contaflex, as also a pain to operate, but I wouldn't say that that excuses either manufacturer.
 
 Meanwhile, the viewfinder is absolutely top notch. It deploys by the aid of a small knob on the back, which sadly fell off my camera during my ownership. The deployment is firm and confident, and puts it in waistfinder mode. By flipping up the magnifier, you can do precision focusing or use the excellent sport finder. The sport finder really deserves praise for its lenses, which, quite unlike any other sportfinder in my collection, elevates it over the normal hollow metal frame. The viewfinder is bright and crisp, with a split prism in the center that makes focusing trivial. The scene that you see through the magnifier is massive. Compared to my Nikon FM2, I think it might take up as much as 4x the physical area in my eye's field of view.
 
@@ -731,7 +734,7 @@ It's a sort of weirdly positioned camera, with a premium build and an intermedia
 - **Country of Origin:** Germany
 - **Weight w/ Lens:**
 - **Serial Number:** AC 3584
-**Manual**: [here](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
+- **Manual**: [here](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -788,7 +791,7 @@ It's a sort of weirdly positioned camera, with a premium build and an intermedia
     <div class="caption"></div>
 </div>
 
-The Kodak Dualflex IV is an unabashaedly budget camera made from 1955 to 1960. It was marketed directly at families to take snapshots of vacations, important moments, and life in general. With it's bright TLR viewfinder, it was meant to be an upgrade over the simple box cameras like the Brownie, while still being insanely affordable. The bodies are made mostly of bakelite with some metal features, and the lenses are incredibly simple meniscus designs. They have no focusing, a fixed aperture of around f/15, and a single fixed shutter speed of about 1/30 of a second.
+The Kodak Dualflex IV is an unabashedly budget camera made from 1955 to 1960. It was marketed directly at families to take snapshots of vacations, important moments, and life in general. With it's bright TLR viewfinder, it was meant to be an upgrade over the simple box cameras like the Brownie, while still being insanely affordable. The bodies are made mostly of bakelite with some metal features, and the lenses are incredibly simple meniscus designs. They have no focusing, a fixed aperture of around f/15, and a single fixed shutter speed of about 1/30 of a second.
 
 It's really hard to get more simple than this camera. They were priced at $14.95 in 1960, which would make them about $160 in 2025. Mine is pictures with the flash unit, which would have brought the total cost up to $19.95. [Jeremy Mudd's post](https://www.jeremymuddphoto.com/blog/2023/8/27/kodak-duaflex-iv) shows a lot of great ads for these cameras, and it's worth checking out.
 
@@ -824,7 +827,7 @@ _HP5+ 400, ~Jan 2017_
     <div class="caption">it's less hard than you would think to get shots in focus</div>
 </div>
 
-## Leica iiia
+## Leica IIIa
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -839,29 +842,54 @@ _HP5+ 400, ~Jan 2017_
 
 Go here to date it....
 https://cameraquest.com/ltmnum.htm
+## Overview
+The original Leica was a ground breaking camera. You can read about a million articles on it's importance, so I don't want to rehash everything here. But to summarize, Leica defined the entire photographic industry for 100 years, transforming it from a world of large, medium format bellows cameras to the small, 35mm cameras that we all know and love today.
 
-I came across this hidden in the back of an antique shop outside of Las Vegas for $175, and bought it without a second thought. At the time I didn't know the difference between the Leica M series and the Leica iii, and I was very worried that at that price I may have accidently bought a fake.
+The Leica I was released in 1925, with a fixed lens and no range finder, and over the next decade various improvements were made until we get to what I have here, Leica IIIa with most of the modern features that we expect from a camera, minus a light meter.
 
-There are, in fact, a shocking number of fake Leica iii's floating around in the world. This is one of the most directly copied cameras ever made, and it has direct immitations by FED Canon and others. Many of the Russian clones have been rebadged and sold as Leicas, so you'll want to look out if you are ever searching for one on ebay.
+### My Camera
+I came across mine hidden in the back of an antique shop outside of Las Vegas for $175, and I bought it without a second thought. At the time I didn't know the difference between the Leica M series and the Leica III, and I was very worried that at that price I may have accidently bought a fake.
+
+There are, in fact, a shocking number of fake Leica III's floating around in the world. This is one of the most directly copied cameras ever made, and it has almost exact clones made by many contemporary manufacturers up through the 1950s. Many of the Russian clones have been rebadged and sold as Leicas, so you'll want to look out if you are ever searching for one on ebay.
 
 But why all the copies?
 
-Well, I think my leica iii may have been one of, if not the, best 35mm camera in existence in when it was made in 1937. It has a magnified and accurate rangefinder, 1/1000 shutter speed, f/2.0 lens standard with f1.5 available, and it was built like an absolute tank. I have a lot of cameras, but when I want to impress a visitor with the mechanical beauty of a camera, I always show them my Leica.
+Well, I think the Leica III may have been one of, if not the, best 35mm camera in existence in when it was made in 1937. It has a magnified and accurate rangefinder, 1/1000 shutter speed, f/2.0 lens standard with f1.5 available, and it was built like an absolute tank. I have a lot of cameras, but when I want to impress a visitor with the mechanical beauty of a camera, I always show them my Leica.
 
-Interestingly, Leica was very consumer friendly; you could send your Leica back to the factory for upgrades instead of buying a new camera. For instance, I have a relatively early iiia, made in 1937. But in 1951, Leica introduced flash sync  but the iiif introduced flash sync. so someone sent mine back to the factory and had flash sync professionally installed by leica
+Interestingly, Leica the company was very consumer friendly; you could send your Leica back to the factory for upgrades instead of buying a new camera. For instance, I have a relatively early IIIa, made in 1937, and it has no flash sync. It wouldn't be until 1951 with the IIIf that, Leica would introduce flash sync. When I found this out, I was greatly confused, because my particular Leica has an seamlessly installed flash sync on the back, right underneath the shoe mount. 
 
-It originally had haze in one of the internal elements which gave the photos a dreamy, low-contrast feel. I have since disassembled the lens and removed the mold, but I honestly wish I had just left it alone. 
+Apparenltly, it was common for both the Leica factory and third party shops to retrofit Leica cameras with flash syncs and other features. 
 
-When I bought this camera, it had a non-trivial amount of mold in the lens, which gave the photos a wonderful, soft look. I have since cleaned it out, but I almost wish I hadn't. I've got plenty of cameras that can deliver sharp, perfect photos, but the dreamy, low-contrast look of the hazy lens was something unique.
+### Shooting Experience
+When I bought my camera, it had some obvious haze on several of the internal elements which gave the photos a dreamy, low-contrast feel. As I mention later in the Zeiss Ikonta section, removing the haze on old lenses is typically quit and easy, so after owning it for a few years I did just that. 
 
+With all the benefits of hindsight, I now regret cleaning the haze. Frankly I have piles of cameras that can take sharp, contrasty photos, but the dreamy, low-contrast look of the hazy lens was something unique and special.
 
-I think my leica iii may have been one of, if not the, best 35mm camera in existence in 1937 when it was made
-magnified and accurate rangefinder, 1/1000 shutter speed, f/2.0 lens standard, f1.5 available
-plus, you could send it back to the factory for upgrades instead of buying a new camera. for instance, I have a iiic. but the iiif introduced flash sync. so someone sent mine back to the factory and had flash sync professionally installed by leica
+To actually shoot the camera, you famously have to cut the film leader and carefully insert it in the slide on back. The internet is divided on how much of a trial this truly represents, but I personally have never had an issue with it. 
 
-I quite like the zoomed-in rangefinder window with a separate viewfinder on the leica. unlike dual viewfinders, which try to both show you the field of view _and_ include a rangefinder patch, the leica has a separate rangefinder window that you can zoom in on. this makes it much easier to focus on a small object, and I find it much more accurate than the dual viewfinder system.
+The rangefinder also has some quirks. The user of any rangefinder made in the last 75 years will have come to expect that the viewfinder through which you see the subject is the same viewfinder through which you have a rangefinder patch to do focusing.
 
-My leica is a 1937, and I also have a 1937 zeiss super ikonta 531/2. it also has a zoomed in rangefinder, although not quite as zoomed as the lieca is. 
+Not so on the Leica. Instead, there are two windows. A wide viewfinder and a magnified rangefinder window. Although later cameras combined the two as a feature, I actually quite like the separated finders. The magnified rangefinder patch is wonderful, and makes nailing critical focus a breeze.
+
+For the sake of comparison, in addition to my 1937 Leica, I also have a 1937 Zeiss Super Ikonta 531/2. It also has a zoomed in rangefinder, although not quite as zoomed as the Lieca's. 
+
+The focusing on the camera is execellent. There's a rock solid knob that you can use to lock the focus at infinity, and then grip with your thumb during the actual act of focusing. It feels exellent, and combined with the magnified viewfinder, makes focusing a breeze. The film advance is similarly premium, with a large, knurled knob that feels exellent in the hand.
+
+Overall shooting the camera feels very modern, and carrying around such an engineering marvel is a joy.
+
+### Tech Specs
+- **Dates Manufactured:** 1935-193?
+- **My Date:** 1937
+- **Camera Type:** Rangefinder
+- **Format:** 35mm
+- **Primary Lens:** Summar 5cm 1:2, 334922
+- **Minimum Focusing Distance:** 1m
+- **Shutter Speeds:** 1s - 1/1000, B, T
+- **Light Meter:** No
+- **Country of Origin:** Germany
+- **Weight w/ Lens:**
+- **Serial Number:** 261451
+
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1056,6 +1084,8 @@ I love that they named the lenses like this. There is also the Ultron 50mm/2, an
 This camera would have been competing with the nikon s, the lieca m, etc, and it lost that war. Eventually it was truly killed off by the nikon f and the adoption of slrs.
 
 
+![LRM_EXPORT_717721688242510_20210123_141146315.webp](LRM_EXPORT_717721688242510_20210123_141146315.webp)
+
 50mm 1.5, tri-max 400
 
 ![000289480015](38770031.webp)
@@ -1192,6 +1222,19 @@ This is an astonishingly weird camera. Originally used for aerial photography, i
     <div class="caption"></div>
 </div>
 
+### Overview
+The Hasselblad Xpan is a panoramic rangefinder produced from around 1999-2003. It is insanely expensive, and is the grail camera for many a landscape photographer. 
+
+Instead of the usual 24x36mm shot, it takes gorgeous 24x65 panoramic images on 35mm film. The standard lens is has a 45mm f/4 lens
+
+It has a crystal clear viewfinder with a crisp range finder patch and generous margins to compose your shot.
+
+
+Composing shots is so difficult. While taking it out, I was constantly seeing wide shots that I though would be perfect, only to put the camera to my eye and realize I only filled 3/4 of the frame. This is the sort of camera where I think you could really benefit from spending a week scrolling through other people's photos to get a feel for what works and what doesn't.
+
+
+Shooting with it 
+It has every modern convenience, an
 
 The Hassleblad Xpan is truly a delightful camera. It has the best modern conveniences combined with the nostalgia of olden times.
 
@@ -1206,6 +1249,19 @@ The Hassleblad Xpan is truly a delightful camera. It has the best modern conveni
     <div class="caption">Street Eating, 2025</div>
 </div>
 
+
+### Tech Specs
+- **Dates Manufactured:** 1999-2003
+- **Camera Type:**
+- **Format:**
+- **Primary Lens:**
+- **Minimum Focusing Distance:**
+- **Shutter Speeds:**
+- **Light Meter:**
+- **Country of Origin:**
+- **Weight w/ Lens:**
+- **Serial Number:**
+
 ![000289480002](000289480002.webp)
 ![000289470007](000289470007.webp)
 
@@ -1213,23 +1269,6 @@ The Hassleblad Xpan is truly a delightful camera. It has the best modern conveni
 
 ## Fujica GS645 Pro
 
-A guy on ebay was asking $200 for this camera, but I offered him $150 and he accepted. He had test photos, but claimed it had a broken lightmeter, broken film advance, and a broken rangefinder, not to mention gross black stuff all over the logo. 
-
-Bought for $171.88 after tax and shipping in Jan 2021. It was listed as having a broken light meter. 
-
-This was during covid, and the perfect ones I was looking at were $700, so I figured even if I couldn't fix it, I could still use it as a zone focus camera, and find out if I wanted to spend real money.
-
-When i got it, there was mold in the lens, the rangefinder seemed to partially work but slip sometimes. the lightmeter seemed to have an electrical contact issue, because it would actually occassionally work when you pressed _almost_ to taking the photo.
-
-Apparently i cut a glass screen just to test the rangefinder, and confirmed that it worked perfectly.
-
-one time the shutter button stuck and the camera took a bunch of photos as i cocked the film without me realizing
-
-https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
-
-[bellows replacement](https://sites.google.com/view/fuji-gs645-repairs-and-info/home)
-
-![000289480015](fujica645_slow.gif)
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1241,6 +1280,120 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
+
+![000289480015](fujica645_slow.gif)
+
+### Risky Purchase
+This is one of my absolute favorite cameras.
+
+The year was 2021. We were all still working at home because of Covid, and anytime I went out for photos it was with the distgustingly gigantic Pentax 67. I had it in my mind that I wanted something small and light, something I could take anywhere and get awesome photos. I was originally looking for was Rollei 35 sized rangefinders, but nothing seemed to catch my eye, until finally I hit the jackpot, *folders*. 
+
+I've always been a sucker for unique cameras, and nothing flexes your photography cred quite as much as a camera with bellows. I quickly honed in on the Fujica GS645 Pro, a 6x4.5 medium format folder with a lightmeter, rangefinder, and a 75mm f/3.4 lens. It was the perfect combination of modern conveniences and old-timey charm, and I was in love.
+
+Except this was in the middle of Covid, everyone wanted cameras, and these Fujis were selling for $700+ in good condition. Since I dreamed of this being my new every day camera, I was not willing to compromise on quality. Sadly, I was also not willing to spend SEVEN HUNDRED DOLLARS.
+
+I have this friend Greg, who has completly different camera sensibilities than me, and he sent me an ebay listing to a GS645 being sold AS IS for parts. The seller had test photos, but claimed it had a broken lightmeter, broken film advance, and a broken rangefinder, not to mention gross black stuff all over the logo. 
+
+I think you literally could not have found a more broken camera. But...it was $200. I talked to Greg, and he was like, "dude has pictures with the camera...good enough for me". And I was like, "I have included a few photos I took *prior to the rangefinder breaking*". And Greg was like, "eh, probably a screw came out, and he's too nervous to take the lid off" before sending me the official [GS645 Service Manual](https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf). 
+
+I offered $150, and he accepted. 
+
+### Repairs
+It came in the mail, and it was, in fact, broken as fuck.
+
+There was mold in the lens, the rangefinder seemed to partially work but slip sometimes, the lightmeter has some kind of electrical contact issue, and the film advance didn't work. 
+
+**Rangefinder**
+
+I never did figure out what was wrong with the rangefinder. Originally the rangefinder seemed to slip, sometimes working, and sometimes not. I opened up the camera and cut a piece of ground glass to fit the back, then tested the focus. (Pro-tip when cutting ground glass, make sure your ruler isn't too tall for the cutting wheel.) And it turns out the focus was perfect at every distance, and the infinity stop was accurate. 
+
+Ultimately the rangefinder just stopped slipping on it's own, and I have no idea what changed.
+
+**Lightmeter**
+
+The lightmeter really was broken. It is supposed to work on a half-press of the shutter, but in my camera, you had to press it so far it took the photo, and *then* the lightmeter would turn on.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="202120210120_015814.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20210120_105407.webp" alt="">
+    </div>
+    <div class="caption">notice the silver round thing in the lid, and the corresponding hole in the body</div>
+    <div class="caption">iirc, the two wires in the middle of the frame make the lightmeter contact</div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20210120_110121.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20210120_113456.webp" alt="">
+    </div>
+    <div class="caption">when the silver tab contacts the black prong, the circut is completed</div>
+    <div class="caption">bent contact</div>
+</div>
+
+So you can enlage the photos to see what I'm talking about, but essentially the lightmeter is supposed to be activated when the shutter pushes down the silver tab so it comes into contact with the black prong. This wasn't happening soon enough, and I looked in vain for a way to adjust the contact. Finally, I yolo'd it and bent the underside of the shutter so it would push the silver tab down sooner. This worked, but it was a bit of a hack.
+
+**Film Advance**
+
+The film advance is essentially the only part of the camera that actually needed to work for it to be usable. I had somehow overlooked that this was broken and didn't notice it until I had already fixed the lightmeter and rangefinder, had reassembled the camera, and was incredibly excited to go use it.
+
+Here's a [video of the broken mechanism](https://youtube.com/shorts/krAUxdH37fI).
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20210120_214658.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20210120_215354.webp" alt="">
+    </div>
+    <div class="caption">wire not in the horizontal slot</div>
+    <div class="caption">wire in the horizontal slot</div>
+</div>
+
+It took me quite some time to figure out, but the fix was incredibly simple. I just replaced the wire into the slot it was supposed to be in, and it worked perfectly.
+
+**Bellows**
+
+It's a common saying on the internet that Fujica was ahead of their time...after all, on their top-of-the line GS645 Pro, they even included a biodegradable bellows.
+
+Mine, was riddled with little pinhole lightleaks. Now, there are replacement bellows you can buy for $70, but I was loathe to spend seventy extra dollars on a hundred dollar camera. So I did what any reasonable person would do, and I painted the bellows with liquid electrical tape.
+
+Greg likes to say that that the best industrial product are the ones that smell the most like they are going to give you cancer, and I can confirm that liquid electrical tape smells like death. But it worked, and I have no lightleaks.
+
+If you go down this route, I would recommend letting the bellows dry *completely* and then dust them in talc before closing them. I didn't do this, and half of my bellows fused into a solid unit. It still worked for several years, but over time I have developed new leaks, and ultimately I've bought the aftermarket bellows which I will eventually install.
+
+**Quirks**
+
+In addition to being broken, the camera has occassionaly done some wierd things to me. For example, one time the shutter button stuck and the camera took a bunch of photos as I cocked the film without me realizing. 
+
+Also, it's pretty easy to accidently ajust the aperture by accident.
+
+### Shooting Experience
+I have perhaps not made the best argument for this camera, but I absolutely adore it. It just takes such excellent photos.
+
+The lens is sharp and contrasty, the 6x4.5 format is the perfect upgrade over 35mm, the lightmeter is accurate, and the rangefinder is a joy to use. And it's so small and compact. Seriously, it will fit into the back pocket of a pair of jeans! This is one of those cameras that I would buy again without hesitation if my house burned down.
+
+I actually really enjoy the change to a vertical picture taking format.
+
+If there is one negative, it's that they have crammed all the controls within 1mm of each other in the exact same spot on the lens, and it's pretty easy to accidently adjust the shutter speed or aperture when you meant to do something else.
+
+
+### Tech Specs
+- **Dates Manufactured:** 1983-1985
+- **Camera Type:** Folding Rangefinder
+- **Format:** 120, 6x4.5
+- **Primary Lens:** 70mm f/3.4
+- **Minimum Focusing Distance:**
+- **Shutter Speeds:** 1s - 1/500s, B
+- **Light Meter:** Yes
+- **Country of Origin:** Japan
+- **Weight w/ Lens:** 1m
+- **Serial Number:** ???
+- **Documentation:** [Service Manual](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
 
 
 <div class="grid-container grid-2x2">
@@ -1278,26 +1431,105 @@ https://learncamerarepair.com/downloads/pdf/Fuji-GS645-Service-Manual.pdf
 
 
 ## Zeiss Super Ikonta 531/2
-Body D87318...D, E	1937
-Shutter 4150285
-Lens 2003386...1937	1,930,150	2,219,775
-Carl Zeiss Jenna Tessar 1:3.5 10.5cm 
-http://camera-wiki.org/wiki/Carl_Zeiss_serial_numbers
-http://camera-wiki.org/wiki/Zeiss_Ikon_serial_numbers
-Zeiss Jena lens numbers start with 3.000.000
 
-<div class="grid-container grid-2x2">
+<div class="grid-container grid-3x2">
     <div class="image-div">
-        <img src="000295660007+(1).webp" alt="">
+        <img src="20250313_183008.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="Screenshot_20250305_150229_Lightroom.webp" alt="">
+        <img src="20250313_183019.webp" alt="">
     </div>
+    <div class="image-div">
+        <img src="20250313_183048.webp" alt="">
+    </div>
+    <div class="caption"></div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
+
+### Background
+In the 30s and 40s, Zeiss manufactured a whole slew of folders in different configurations. They came in 6x9, 6x4.5, with rangefinders, without rangefinders, f/4.5, f/3.5, etc etc. 
+
+Back in 2017, I actually had the good fortune to pick up a mint Zeiss Ikonta 531 B2 for $25 from an antique store Chicago, and I have been forever impressed with the build quality and handfeel of the camera. It's a 6x4.5 model with a 75/4.5 lens, a max speed of 1/300, and sadly, no rangefinder. 
+
+Despite the obvious charms of this camera, I've always had a difficult time convincing myself to shoot it, due to the slow speeds and zone focusing. 
+
+However, like I said, Zeiss made a large variety of folders, and they also sold a premium version, the Zeiss Super Ikonta. The top-of-the-line models actually still fetch a pretty penny today, especially the 6x9 models, as they represent some of the one of the most "affordable" ways to take quality 6x9 photographs. 
+
+### My Camera
+
+Apparently I hate money, because I shopped around for a minty fresh Super Ikonta before finally settling on what seemed to be an absolutely perfect example for a whopping $340 after taxes and shipping from Japan. In the mean time, I passed up one that was $100 cheaper since it had obvious haze in the lens.
+
+Mine arrives at my door, I open the box, and it is...perfect. The whole camera looks like it was made yesterday, not before my grandma was born. Except for one, teensy tiny, itty bitty, little problem. The lens has haze.
+
+For those of you in the know, you may have been scratching you head this whole time, because an old uncoated lens like this with haze is a trivial fix. I too know this because I have literally repaired the haze in several lenses before...so why did I spend extra for a lens with no haze only to end up with a lens that has haze? God only knows.
+
+### Haze
+
+![20250303_162408.webp](20250303_162408.webp)
+
+Yep, there she is. This level of haze would absolutely affect the final photos, ruining the contrast and sharpness. It looks to be underneath the front element.
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="20250303_170230.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250303_164508.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250303_165357.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption">notice the mark made by the manufacturer that outlines the tab location</div>
+    <div class="caption"></div>
+</div>
+
+Since this is a coupled rangefinder, it is essential that you don't mess up the focus. You can see the focusing ring interfaces with the rangefinder prong via a slot, and it then screws onto the lens. 
+
+I think it would be possible to misinstall it in at least 6 different ways, once in betreen each screw hole pair, and then mirrored if you catch the wrong threads while screwing the lens back in. 
+
+It is definitely possible to screw it back in incorrectly. I had to try 3 times before I caught the threads correctly and ended up back in my starting position.
+
+![20250303_165342.webp](20250303_165342.webp)
+
+Thankfully there was only haze on the back of the front element, and it cleaned off easily with a glasses wipe and a q-tip.
+
+### Shooting Experience
+
+Shooting the camera is a rather deliberate affair. The whole thing is somewhat clunky and unergonomic, with a somewhat dim rangefinder patch, a stiff focusing adjustment, and an awkward shutter release on the left hand.
+
+You end up carefully metering, composing, and taking each shot, and in my experience the slow nature of shooting lends itself to better shots in the end. So far, I've only shot one roll of film (8 photos), and I quite liked 3 of them. 
+
+The camera has basically every 1930s feature you could ask for, including double exposure prevention. This is a *really* nice feature to have on one of these old knob-wind medium format roll cameras, as I can't tell you how many times I've accidently gotten double exposures on lesser cameras that don't include it. 
+
+I will say that the minimum focusing distance is a *brutal* 1.5 meters, so this is not the camera to use for headshots or closeups. 
+
+### Tech Specs
+- **Dates Manufactured:** 
+- **My Dates:** Body 1937, Lens 1937
+- **Camera Type:** Folding Rangefinder
+- **Format:** 120, 6x9
+- **Primary Lens:** Carl Zeiss Jenna Tessar 1:3.5 10.5cm 
+  - **Minimum Focusing Distance:** 1.5m
+  - 2003386, [dates](http://camera-wiki.org/wiki/Carl_Zeiss_serial_numbers)
+- **Shutter:** Compur Rapid
+  - 1s - 1/400s, B
+  - 4150285
+- **Light Meter:** None
+- **Country of Origin:** Germany
+- **Weight w/ Lens:** 
+- **Serial Number:** D87318, [dates](http://camera-wiki.org/wiki/Zeiss_Ikon_serial_numbers)
+
+
+![000295660007+(1).webp](000295660007+(1).webp)
+
 ![000289480015](000295660008+(2).webp)
+
+![Screenshot_20250305_150229_Lightroom.webp](Screenshot_20250305_150229_Lightroom.webp)
+
+
 ## Stuff
 ### Example Class
 
@@ -1513,7 +1745,7 @@ bishwash bangalore
 
 
 Prompt 1:
-ok, i want you to research the historical context of the leica iii c. what years it was manufactured, what was the price, who was the market, what was the critical reception
+ok, i want you to research the historical context of the Fujica GS645 Pro. what years it was manufactured, what was the price, who was the market, what was the critical reception
 
 Prompt 2:
 Ok, now research if there are any interesting facts about it. any famous photos taken with it, any interesting quirks, etc
