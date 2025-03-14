@@ -57,7 +57,7 @@ published: True
 ### Martin Guerre
 In 1548, Martin Guerre mysteriously disappeared from his small village in southwestern France, leaving behind his wife Bertrande and a young son. Eight years later, he finally returned, greeting everyone by name, reminiscing about old times, and getting back into the good graces of his wife and four sisters.
 
-Perhaps some of the villagers occasionally thought that something was off about the long-lost Martin, but he was generally accepted back into village life, and over the next three years had two children with his beautiful wife, of which one survived. He began doing business around the village, and it seemed like he might actually be on track to make him and his wife Bertrande into wealthy merchants.
+Perhaps some of the villagers occasionally thought that something was off about the long-lost Martin, but he was generally accepted back into village life, and over the next three years had two children with his beautiful wife, of which one survived. He began doing business around the village, and it seemed like he might actually be on track to make himself and his wife Bertrande into wealthy merchants.
 
 But then came his inheritance disputes with his uncle Pierre Guerre, and his world began to disintegrate. Pierre started telling anyone who would listen that the long-lost Martin was in fact an imposter. 
 
@@ -102,7 +102,7 @@ So, the plan is:
 2. Crop out the bad parts of the page and compress
 3. OCR the text
 4. Have an LLM fix any mistakes
-5. Haven an LLM translate the text
+5. Have an LLM translate the text
 
 
 ## Downloading the Images
