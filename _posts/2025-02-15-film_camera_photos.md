@@ -1014,7 +1014,7 @@ actual prices:
     <div class="caption">HP5 400, Huntsville, 2017</div>
 </div>
 
-## Voigtlander Prominent
+## Voigtländer Prominent
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1035,40 +1035,55 @@ I was in an antique store in Salt Lake City, when I caught a glimpse of it's gle
 I covertly checked the ebay prices, bargained the seller down to $400, and walked out with one of the prettiest and most capable old cameras in my collection. It is in absolutely mint condition and has basically every accessory you could want. Honestly, my copy has the look of something that sat in a display case for the past 75 years. If anyone ever did use this camera, they kept it wrapped in velvet the entire time. 
 
 ### Historical Context
+Voigtländer is an ancient name in optics. Founded in 1756 by the son of a carpenter, they originally made mathematical instruments. In the next hundred years, they broadened their scope to include not just precision instruments but optics. So in 1839, when first publicly announced and commercially viable photographic process, the daguerreotype, was released, they were perfectly positioned to capitalize. 
 
-The Voigtlander Prominent was produced between 1952 and 1958, until the release of the Prominent II. , It was designed to be a professional camera, and was priced as such. It was released in the same era as the Leica M3, the Contax, and the Nikon SP, and was in direct competition with them.
+You can see their hands all over the early photographic revolution. They collaborated with Joseph Petzval in 1840 to build the first mathematically calculated, precision objective in the history of photography. A revolutionary lens that had 22 times the light gathering abilities of the Daguerre's daguerreotype lens, it was important enough to attract the attention of the military. Also in 1840, they were the first to make all-metal daguerreotype cameras, and they began releasing photographic plate cameras shortly thereafter. 
 
-, putting it in direct competition with the Leica Ms, Contax, and Nikon SPsYou hear rangefinder with a Compur leaf shutter and expect some old folding camera with disentegrating leather, and instead you are met with the gleaming perfection of the Voigtlander Prominent.
+If you fast forward to the 1930s, you'll find that Voigtländer is still famous for their folding cameras, notably the Bessa medium format cameras. But by the 1950s, 35mm cameras were begining to take over the market, and so in 1952, Voigtländer released the Prominent, their 35mm rangefinder flagship.
 
-This camera is so wierd. I found it in an antique store in 
+It was their absolute best, top-of-the-line camera, and it was priced to match. Costing [$270 by 1954](https://www.flickr.com/photos/camerawiki/52442220390/in/pool-camerawiki/), this would put it at $3,200 in 2025. They were hoping to compete with the best of Leica and Contax, and on paper, they had a great chance. Voigtländer made some of the best lenses of the day, and they released the Prominent with an all new lens lineup, including their flagship Nokton 50mm f/1.5, the fastest asymmetric double Gauss lens offered by Voigtländer, comparable to Ludwig Bertele's Ernostar, the Leitz Summilux, and Zeiss Sonnar.
 
-It has this recto-circular lens hood which is 
+Many of the Voigtländer's competitors featured focal plane shutters, which could only flash sync at certain speeds. Meanwhile the Prominent had a Compur leaf shutter, and could sync at any speed. Although it was limited to a top speed of 1/500 instead of say, the 1/1000 of the Leica M3 (1954), remember that this was a time period in which common film speeds were 25, 50, and 100 ASA, and the flash was an integral part of many photographers' toolkits. 
 
-I paid $400 for it which was a steal. 
+But the Prominent was a limited commercial success. It had an unusual focusing knob on top of the camera and had a pitifully small viewfinder that could only be used with the 50mm lens. In 1958 they released the Prominent II to address the abysmal viewfinder, but it was too little, too late.
 
-### Usage
-Honestly, it's terrible to use. Despite being volumetrically about the same size my Nikon FM2, with film loaded the Voigtlander weighs a whopping 1144g to the Nikon's 820g. The viewfinder is incredibly far to the right in a way that makes it feel like you face is always in conflict with your hand, and good lord is is surprisingly tiny. I'd say it is about the same brightness and size as my 1937 Leica IIIa, but where the Leica has a magnified, high-accuracy second rangefinder window, the Voigtlander has a small, integrated patch in the middle of the tiny viewing window. 
+Just to illustrate the point, when I saw my own Voigtländer Prominent calling my name under the antique store glass, I literally had no idea what it was. Everyone knows about the Leica M3, and most photographers will similarly recognize the Nikon, Canon, and Contax rangefinders of the 1950s. But teh Prominent didn's sell well in it's day, and it's been largely forgotten by history.
 
-[Catalog](https://www.pacificrimcamera.com/rl/00544/00544.pdf)
-[Detailed Overview by Mike Eckman](https://mikeeckman.com/2018/11/voigtlander-prominent-1952/)
+### Shooting Experience
 
-For two years from 1952-1954, it made an interesting argument against the Leica iii and the Contax III, but with the release of the M3 in 
+If you ever have a chance to go out and shoot with a Voigtländer Prominent, I think you'll begin to understand the low sales numbers. Honestly, it's terrible to use. Despite being volumetrically about the same size my Nikon FM2, with film loaded the Voigtlander weighs a whopping 1144g to the Nikon's 820g. The viewfinder is incredibly far to the right in a way that makes it feel like you face is always in conflict with your hand, and good lord is the viewfinder shockingly tiny. I'd say it is about the same brightness and size as my 1937 Leica IIIa, but where the Leica has a magnified, high-accuracy second rangefinder window, the Voigtlander has a small, integrated patch in the middle of the tiny viewing window. 
 
-### Lenses
-"An advanced 7-element 5-group Double Gauss design with an achromatized front group to enhance its performance, (especially at wide apertures), the Nokton was reputed to be the best 50mm f/1.5 lens of the immediate post-WWII era, surpassing the 50mm f/1.5 Leitz Summarit (which was based on a prewar Schneider design) and even edging out the renowned 50mm f/1.5 Zeiss Sonnar." - Jason Schneider
+The focusing knob on top of the camera is an absolute mind fuck, and is unlike any other camera I own. To be sure, it is technically possible to get excellent results with it, but it just feels awful to use. Lest you think that it can't be any different from using knob focusing on say, a Yashica TLR, let me assure you, it is a far inferior experience. It rotates smoothly, yet it somehow jerks with the inertia of the lens, always straining your confidence. 
 
+With all that out of the way, the build quality is superb. And good god is the camera gorgeous. With a lens hood mounted and the optional Turnit viewfinder attached, you will have the coolest looking camera on any photo walk.
 
-only 7 lenses in the whole range. I have the :
-Lenses
+Emotionally, I love this camera. Practially, it's a mess. Despite the wonderful lenses, I rarely leave the house with it.
+
+### Accessories
+
+![LRM_EXPORT_717721688242510_20210123_141146315.webp](LRM_EXPORT_717721688242510_20210123_141146315.webp)
+
+I bought mine with just about every accessory under the sun, so let me take a moment to enumerate them here. 
+
+**Lenses**
+
 - Voigtlander Dynaron 100mm f/4.5
 - Voigtlander Skoparon 35mm f/3.5
 - Voigtlander Nokton 50mm f/1.5, 3837817
 
-Accessories
+There are actually only 7 lenses in the entire range, and I have 3 of them. They all have these awesome names, like the Ultron, the Ultragon, the Dynaron, etc. Reading on wikipedia about these lenses feels like perusing the fan-page of the latest Transformers villains.
+
+"An advanced 7-element 5-group Double Gauss design with an achromatized front group to enhance its performance, (especially at wide apertures), the Nokton was reputed to be the best 50mm f/1.5 lens of the immediate post-WWII era, surpassing the 50mm f/1.5 Leitz Summarit (which was based on a prewar Schneider design) and even edging out the renowned 50mm f/1.5 Zeiss Sonnar." - Jason Schneider
+
+**Accessories**
+
 - Turnit 3 Viewfinder
 - 310/49 lens hood
 
-Filters
+The Turnit viewfinder is a nifty accessory that mounts on the hotshoe and gives you a 35mm, 50mm, and 100mm frame lines. It has this lovely feature where you can flip down the back and rotate it in place to reverse the lenses and give a magnified 100mm view. On the back there is a little lever that lets you adjust between 1m, 3m, and infinity paralax correction.
+
+**Filters**
+
 - G2 49s, 302/49, yellow filter
 - UV 49s, 317/49
 - Focar 1 47mm, 303/47, magnifing snap on lens
@@ -1079,16 +1094,25 @@ It also came with two additional magnifiers, but I don't know what lens they go 
 
 Many of the accessories are stamped with "West Germany".
 
-I love that they named the lenses like this. There is also the Ultron 50mm/2, and the Ultragon 24mm/5.8, which I don't have
+### Tech Specs
+- **Dates Manufactured:** 1952-1958
+- **Camera Type:** Rangefinder
+- **Format:** 35mm
+- **Primary Lens:** Nokton 50mm f/1.5
+- **Minimum Focusing Distance:** ~3ft
+- **Shutter Speeds:** 1s - 1/500, B
+- **Light Meter:** None
+- **Country of Origin:** Germany
+- **Weight w/ Lens:** ~1144g
+- **Other Resourses:** 
+  - [Catalog](https://www.pacificrimcamera.com/rl/00544/00544.pdf)
+  - [Detailed Overview by Mike Eckman](https://mikeeckman.com/2018/11/voigtlander-prominent-1952/)
 
-This camera would have been competing with the nikon s, the lieca m, etc, and it lost that war. Eventually it was truly killed off by the nikon f and the adoption of slrs.
-
-
-![LRM_EXPORT_717721688242510_20210123_141146315.webp](LRM_EXPORT_717721688242510_20210123_141146315.webp)
-
-50mm 1.5, tri-max 400
+### Voigtländer Prominent Photos
 
 ![000289480015](38770031.webp)
+_50mm 1.5, tri-max 400, Salt Lake City_
+
 
 
 ## Rollei 35 S
