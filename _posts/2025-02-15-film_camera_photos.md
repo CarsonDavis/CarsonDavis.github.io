@@ -55,13 +55,50 @@ published: False
 
 ## Introduction
 
-I have an unhealthy number of film cameras. I used to think that I liked photography, but at this point I think it's time to accept that I just like hoarding cameras. 
+I have an unhealthy number of film cameras. 
 
-I have maybe 120 total? Some that work, some that don't, some I've taken photos with, and some that sit on shelves lookin' pretty. At some point, I'll make a post that covers each and every one of them, but since that'll take forever, this is the post you are getting instead.
+I used to think that I liked taking photos, but at this point I think it's time to accept that I just like hoarding the small metal boxes that take photos. I have maybe film cameras 120 total? Some that work, some that don't, some I've taken photos with, and some that sit on shelves just lookin' pretty. At some point, I'll make a post that covers each and every one of them, but since that'll take forever, this is the post you are getting instead.
 
-I'll go through each of my cameras that I've actually shot film through, give a brief overview, talk about the shooting experience, show some photos, maybe give some comparisons.
+These are the cameras that I've actually shot film through. I'm not going to keep to a strict structure, but for each camera I'll try to give a brief overview, talk about the shooting experience, show some photos, maybe give some comparisons.
 
 Theres a table of contents if you want to jump to a specific camera, and you can also just click on the photos to view them full size as a slide show.
+
+## Table of Contents
+- [Nikon FM](#nikon-fm)
+- [Nikon FM2](#nikon-fm2)
+- [Pentax K1000](#pentax-k1000)
+- [Yashica D](#yashica-d)
+- [Pentax 67](#pentax-67)
+- [Balda Fixfocus 6x9](#balda-fixfocus-6x9)
+- [Agfa Flexilette](#agfa-flexilette)
+- [Kodak DualFlex](#kodak-dualflex)
+- [Leica IIIa](#leica-iiia)
+- [Nikon F2](#nikon-f2)
+- [Voigtländer Prominent](#voigtländer-prominent)
+- [Rollei 35 S](#rollei-35-s)
+- [Rapid Omega 200](#rapid-omega-200)
+- [Hasselblad Xpan](#hasselblad-xpan)
+- [Fujica GS645 Pro](#fujica-gs645-pro)
+- [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
+
+
+1. [Nikon FM](#nikon-fm)
+2. [Nikon FM2](#nikon-fm2)
+3. [Pentax K1000](#pentax-k1000)
+4. [Yashica D](#yashica-d)
+5. [Pentax 67](#pentax-67)
+6. [Balda Fixfocus 6x9](#balda-fixfocus-6x9)
+7. [Agfa Flexilette](#agfa-flexilette)
+8. [Kodak DualFlex](#kodak-dualflex)
+9. [Leica IIIa](#leica-iiia)
+10. [Nikon F2](#nikon-f2)
+11. [Voigtländer Prominent](#voigtländer-prominent)
+12. [Rollei 35 S](#rollei-35-s)
+13. [Rapid Omega 200](#rapid-omega-200)
+14. [Hasselblad Xpan](#hasselblad-xpan)
+15. [Fujica GS645 Pro](#fujica-gs645-pro)
+16. [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
+
 
 ## Nikon FM
 
@@ -76,7 +113,7 @@ Theres a table of contents if you want to jump to a specific camera, and you can
     <div class="caption"></div>
 </div>
 
-### Nikon FM: Overview
+### Overview
 The Nikon FM was launched in 1977 as a fully mechanical 35mm SLR aimed at advanced amateurs. It was the lighter and more focused little brother of the professional Nikon F2, offering reliability, simplicity, and durability at a more affordable price. In an age when many cameras were beginning to rely on batteries to operate, it promised a reliable fully mechanical operation would never let you down. 
 
 ### My Camera
@@ -85,17 +122,35 @@ This was my very first film camera, and after a decade of shooting, it's hard to
 Over the next two years, I traveled extensively for work, and this camera came with me everywhere. It just simply works. It's small, reliable, it takes great glass, and I love it. 
 
 ### Shooting Experience
-My Nikon FM and FM2 are some of my absolute favorite cameras to shoot, and they are the benchmark by which I judge every other camera in my collection. There is an absolute avalanche of information on them on the internet, so here I'll hit some of the highlights and less frequently mentioned features.
+My Nikon FM and FM2 are some of my absolute favorite cameras to shoot, and they are the benchmark by which I judge every other camera in my collection. These are extremely popular cameras, and there is an absolute avalanche of information on them on the internet, so here I'll hit some of the highlights and less frequently mentioned features.
 
-**Light Meter**: Not everyone loves the LED light meter, instead preferring the needle found in the early F models and in the FE. I certainly see the point here, but frankly, looking through several hundred photos I've taken with my FM, I struggle to find a single poor exposure. If you've heard this brought up as a negative point, I wouldn't give it too much weight.
+**Light Meter**
 
-**View Finder**: Almost perfect, with a split prism, a microprism, and both aperture and shutter speed displayed. Again, this is more or less the benchmark by which I judge other viewfinders. I will say though, that I do slightly prefer the professional F2 viewfinder's placement of the shutter and aperture. In the FM, the shutter is on the left, the aperture on the top, and the exposure on the right. However, in the F2, they are all clustered neatly together at the bottom.
+Although considered technologically advanced at the time, today not everyone loves the LED light meter, instead preferring the needle found in the early F models and in the FE. People claim it's less accurate, or that it doesn't give you the same analog certainly of a needle. I certainly see the point here, but frankly, looking through several hundred photos I've taken with my FM, I struggle to find a single poor exposure. If you've ever heard this brought up as a negative point, I wouldn't give it too much weight.
 
-**Lens Compatibility**: Unlike the later FM2, the FM has a folding aperture interface lever that lets you mount the oldest non-ai lenses. If you are looking for maximum Nikon lens compatibility, the FM is one of the best bodies to get. I will say that I have personally modified 3 or 4 lenses for Ai compatibility, and it is pretty simple, so I wouldn't let this be a deciding factor if you are looking at at FM2 or FE2 instead.
+**View Finder**
 
-**Pancake Lenses**: The Series E pancake lenses were a cheaper and smaller alternative to the faster and more expensive Nikkor lenses. I own plenty of both varieties, and it is true that the Series E are cheaper and have more plastic. However, there are several versions of the Series E, including a kinda gross full plastic one. This is not the one I have, which has a chrome ring and is actually quite good. Despite the naysayers, they have a bit of a cult following because of how small, portable, and cheap they are. If there is one downside, it is that the 50/1.8 E has a minimum focusing distance of 0.6m, compared to 0.45m for the 50/1.4 AIS.
+For me, the viewfinder is one of the most important features of a camera. It's literally the lens through which you see your future photograph, it's how you focus, how you compose. It's your connection to the photo.
 
-**Shutter Lock**: All the Nikons have a shutter lock that is integrated with the film rewind. You slightly cock the film rewind to turn on the lightmeter and unlock the shutter button. Newcomers to the camera often struggle with this, but it is, in my opinion, a very elegant solution that is easy to use once you start shooting. Essentially, you just always rewind you film anyway after taking a shot. It saves battery and accidental exposures, and it's a feature I've found myself missing on other bodies.
+In my view, the Nikon FM's viewfinder is almost perfect, large and bright with a split prism, a microprism, and both aperture and shutter speed displayed. Like I've said about the camera itself, this is more or less the benchmark by which I judge other viewfinders. 
+
+I will say though, that I do slightly prefer the professional Nikon F2 viewfinder's placement of the shutter and aperture. In the FM, the shutter is on the left, the aperture on the top, and the exposure on the right. This forces you to move you eye across the frame to read all the information. However, in the F2, they are all clustered neatly together at the bottom.
+
+**Lens Compatibility**
+
+Basically every Nikon SLR lens made in the past 66 years will mount on the FM. Nikon's mount has remained the same for this entire time period, although the metering interface went through one major change in 1977, with the release of the AI lenses.
+
+Unlike the later FM2, the FM has a folding aperture interface lever that lets you mount the oldest non-ai lenses. If you are looking for maximum Nikon lens compatibility, the FM is one of the best bodies to get. I will say that I have personally modified 3 or 4 non-ai lenses for AI compatibility, and it is pretty simple, so I wouldn't let this be a deciding factor if you are looking at at FM2 or FE2 instead.
+
+**Pancake Lenses**
+
+The Series E pancake lenses were a cheaper and smaller alternative to the faster and more expensive Nikkor lenses. I own plenty of both varieties, and it is true that the Series E are cheaper and have more plastic. However, there are several versions of the Series E. Notoriously, there is cheap and underperforming full plastic one. 
+
+Avoid the full plastic one if you can. Instead, get what I have, which instead has a chrome ring and is actually quite good. Despite the naysayers, they have a bit of a cult following because of how small, portable, and cheap they are. If there is one downside, it is that the 50/1.8 E has a minimum focusing distance of 0.6m, compared to 0.45m for the 50/1.4 AIS.
+
+**Shutter Lock**
+
+All the Nikons have a shutter lock that is integrated with the film advance. You slightly cock the film advance to turn on the lightmeter and unlock the shutter button. Newcomers to the camera often struggle with this, but it is, in my opinion, a very elegant solution that is easy and natural to use once you start shooting. Essentially, you just always advance the film anyway after taking a shot, it feels seamless to prepare the lever ahead of time. This functionality also saves battery and accidental exposures, and it's a feature I've found myself missing on other bodies.
 
 ### Tech Specs
 - **Dates Manufactured:** 1977–1982
@@ -210,23 +265,24 @@ My Nikon FM and FM2 are some of my absolute favorite cameras to shoot, and they 
 
 The Nikon FM2 is arguably one of the best manual film SLRs ever made. Introduced in 1982 and produced through various revisions until 2001, this camera was originally marketed to advanced amateur and semi-professional photographers who demanded absolute reliability and rugged performance. 
 
-Debuting with a body‐only price around $364 (chrome version) and later climbing to around $745, it was built for those who wanted a fully mechanical tool—operable without batteries except for its light meter. Praised for its fast vertical‐travel shutter (capable of 1/4000 sec) and precise, minimalist design, the FM2 quickly earned a reputation as a “tank” that could shoot in the most extreme conditions. Notably, its robustness and simplicity even won over legendary photojournalists; fun fact, the iconic “Afghan Girl” portrait was taken with an FM2.
+Debuting with a body‐only price around $364 (chrome version) and later climbing to around $745, it was built for those who wanted a fully mechanical tool—operable without batteries (except for its light meter). Praised for its fast vertical‐travel shutter (capable of 1/4000 sec) and precise, minimalist design, the FM2 quickly earned a reputation as a “tank” that could shoot in the most extreme conditions. Notably, its robustness and simplicity even won over legendary photojournalists. If you've ever seen the iconic “Afghan Girl” portrait, this was taken with an FM2.
 
 ### My Camera
 
-I purchased my Nikon FM2 right around the time I stopped traveling for work and shifted to medium format photography. Although that means I don’t have as many shots from my FM2 as from the FM, this is undeniably my desert island camera. With a fully mechanical design, a 50/1.4, and a top shutter speed of 1/4000s, it's very hard to argue with it's raw capabilities. It honestly makes it hard to convince myself to shoot with my some of my "cooler" cameras. It's everything that I love about my FM, but with slightly better technical specs. 
+I purchased my Nikon FM2 right around the time I stopped traveling for work and shifted to medium format photography. Although that means I don’t have as many shots from my FM2 as from the FM, this is undeniably my desert island camera. With a fully mechanical design, a 50/1.4, and a top shutter speed of 1/4000s, it's very hard to argue with its raw capabilities. It honestly makes it hard to convince myself to shoot with any of my more exotic cameras. It's everything that I love about my FM, but with slightly better technical specs. 
 
-I really cannot stress how OP this camera is. I've got a Leica iiif, a Fujica 645, Pentax 67, Voigtlander Prominent, Yashica D, Rollei 35, Zeiss Ikonta, Exakta VX...just so many cool cameras, and sometimes it just hurts my soul to shoot them. 
+I really cannot stress how OP this camera is. I've got a Leica IIIa, Fujica 645, Pentax 67, Voigtländer Prominent, Yashica D, Rollei 35, Zeiss Ikonta, Exakta VX...just so many cool cameras, and yet sometimes it just hurts my soul to shoot them. 
 
-I'll go to take a shot with my gorgeous Voigtlander, wide open at 1.5 only to be thwarted by the 1/500s shutter speed. Or I'll be out and about with my compact Fujica 645 and it's shockingly huge negatives only realize that I can't focus any closer than 1m and have to rethink my shot. Or I'll be focusing my Pentax 67 through it's massive and chimney viewfinder, only to take my eyes away every time I want to adjust the aperture or the shutter speed.
+I'll go to take a shot with my gorgeous Voigtländer, wide open at 1.5, only to be thwarted by the 1/500s shutter speed. Or I'll be out and about with my compact Fujica 645, and it's gorgeously huge negatives, only realize that I can't focus any closer than 1m, and I have to rethink my shot. Or I'll be reveling in the crystal clear view of the world through my Pentax 67's massive chimney viewfinder, only to be forced to take my eyes away every time I want to adjust the aperture or the shutter speed.
 
-This camera has a freaking titanium honeycomb shutter, just so it can shoot at the insane 1/4000th of a second!
+Simply put, the FM2 is a camera that makes everything about shooting film easier, and you can't help but be reminded of it anytime you handle an inferior user interface.
 
-I have 120+ film cameras, and I desperately want to be that guy with the crazy camera you stop and chat with on the street. But god help me if the FM2 doesn't make it hard to shoot anything else.
-
+I have 120+ film cameras, in large part because I love cool and unique mechanical object. In my heart of hearts, I desperately want to be that guy with the crazy camera you stop and chat with on the street. But god help me if the FM2 doesn't make it hard to shoot anything else.
 
 ### Tech Specs
-Like the FM, there's a ton of information about this camera already on the internet. Instead of regurgitating it here's a [fantastic comparison](https://www.youtube.com/watch?v=OYqwdZe9dqM) between all of the FM and FM2 features.
+Like the FM, there's a ton of information about this camera already on the internet. Instead of regurgitating it, here's a [fantastic comparison](https://www.youtube.com/watch?v=OYqwdZe9dqM) between all of the FM and FM2 features.
+
+However, just in case you haven't already heard, this camera has a freaking titanium honeycomb shutter, just so it can shoot at the insane 1/4000th of a second!
 
 - **Dates Manufactured:** 1982-2001
 - **My Date:** 87-89 (need to confirm after I finish the current roll of film)
@@ -842,7 +898,8 @@ _HP5+ 400, ~Jan 2017_
 
 Go here to date it....
 https://cameraquest.com/ltmnum.htm
-## Overview
+
+### Overview
 The original Leica was a ground breaking camera. You can read about a million articles on it's importance, so I don't want to rehash everything here. But to summarize, Leica defined the entire photographic industry for 100 years, transforming it from a world of large, medium format bellows cameras to the small, 35mm cameras that we all know and love today.
 
 The Leica I was released in 1925, with a fixed lens and no range finder, and over the next decade various improvements were made until we get to what I have here, Leica IIIa with most of the modern features that we expect from a camera, minus a light meter.
@@ -1067,7 +1124,7 @@ Just to illustrate the point, when I saw my own Voigtländer Prominent calling m
 
 ### Shooting Experience
 
-If you ever have a chance to go out and shoot with a Voigtländer Prominent, I think you'll begin to understand the low sales numbers. Honestly, it's terrible to use. Despite being volumetrically about the same size my Nikon FM2, with film loaded the Voigtlander weighs a whopping 1144g to the Nikon's 820g. The viewfinder is incredibly far to the right in a way that makes it feel like you face is always in conflict with your hand, and good lord is the viewfinder shockingly tiny. I'd say it is about the same brightness and size as my 1937 Leica IIIa, but where the Leica has a magnified, high-accuracy second rangefinder window, the Voigtlander has a small, integrated patch in the middle of the tiny viewing window. 
+If you ever have a chance to go out and shoot with a Voigtländer Prominent, I think you'll begin to understand the low sales numbers. Honestly, it's terrible to use. Despite being volumetrically about the same size my Nikon FM2, with film loaded the Voigtländer weighs a whopping 1144g to the Nikon's 820g. The viewfinder is incredibly far to the right in a way that makes it feel like you face is always in conflict with your hand, and good lord is the viewfinder shockingly tiny. I'd say it is about the same brightness and size as my 1937 Leica IIIa, but where the Leica has a magnified, high-accuracy second rangefinder window, the Voigtländer has a small, integrated patch in the middle of the tiny viewing window. 
 
 The focusing knob on top of the camera is an absolute mind fuck, and is unlike any other camera I own. To be sure, it is technically possible to get excellent results with it, but it just feels awful to use. Lest you think that it can't be any different from using knob focusing on say, a Yashica TLR, let me assure you, it is a far inferior experience. It rotates smoothly, yet it somehow jerks with the inertia of the lens, always straining your confidence. 
 
@@ -1083,9 +1140,9 @@ I bought mine with just about every accessory under the sun, so let me take a mo
 
 **Lenses**
 
-- Voigtlander Dynaron 100mm f/4.5
-- Voigtlander Skoparon 35mm f/3.5
-- Voigtlander Nokton 50mm f/1.5, 3837817
+- Voigtländer Dynaron 100mm f/4.5
+- Voigtländer Skoparon 35mm f/3.5
+- Voigtländer Nokton 50mm f/1.5, 3837817
 
 There are actually only 7 lenses in the entire range, and I have 3 of them. They all have these awesome names, like the Ultron, the Ultragon, the Dynaron, etc. Reading on wikipedia about these lenses feels like perusing the fan-page of the latest Transformers villains.
 
