@@ -336,10 +336,10 @@ However, just in case you haven't already heard, this camera has a freaking tita
 ### Overview 
 The Pentax K1000 is commonly cited as being _the_ most popular student photography camera to ever exist. It was manufactured for over 20 years, from 1976 to 1997, and it is estimated that over 3 million were made. With it's rugged metal construction, simple controls, and built in light meter, it is easy to see the appeal. The camera was typically bundled with a 50/2 lens, but the K mount offers plenty of nicer glass to choose from, including a 50/1.4, an 85/1.7, and a 135/2.8.  
 
-It is simple, it is reliable, and it is cheap. It takes perfectly good photos, and if you can pick one up for a budget price, you will not be disappointed.
+It's simple, it's reliable, and it's cheap. It takes perfectly good photos, and if you can pick one up for a budget price, you will not be disappointed.
 
 ### Shooting Experience
-However, if you are looking for the best 35mm SLR shooting experience, this is not it. In my estimation, it is inferior to my Nikons in almost every detail. The lens release button feels cheap and fragile, the max shutter speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no aperture preview, there is no view finder display of aperture or shutter speed, and the shutter speed dial is significantly less easy to adjust. While my FMs have both a split prism and a microprism, the K1000 only has a microprism, and in general it feels dimmer and worse.
+However, if you are looking for the best 35mm SLR shooting experience, this is not it. In my estimation, it is inferior to my Nikons in almost every detail. The lens release button feels cheap and fragile, the max shutter speed it only 1/1000th, it lacks a shutter lock, there is no self timer, there is no aperture preview, there is no view finder display of aperture or shutter speed, and the shutter speed dial is significantly less easy to adjust. While my FMs have both a split prism and a microprism, the K1000 only has a microprism, and in general the viewfinder feels dimmer and worse.
 
 To it's credit, some people prefer the Pentax's needle light meter to the Nikon FM and FM2 LEDs. However, the Pentax light meter is always on, unlike the Nikon, which is turned off via the film advance lever. You can trick the Pentax light meter into not using as much electricity by using a lens cap, but I still find that my Pentax batteries are always dead, while my Nikons last years. 
 
@@ -405,26 +405,31 @@ _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
     <div class="caption"></div>
 </div>
 
-### Yashica D Overview  
-Produced by Yashica from 1958 to 1972, the Yashica‑D stood as the company’s top knob wind twin‐lens reflex (TLR) model. It originally sold for [around $50](https://mikeeckman.com/2016/11/yashica-d-1970/), a 2025 price of $530. The Yashica D model would have been sold alongside the Yashica Mat LM, which included a light meter for $80 total. 
+### Yashica D Overview
+
+When walking on the street with this camera, you will often get stopped by strangers who want to know, "is that a Rollei!?" Sadly, no, it is not. After World War II, the German camera industry was in shambles, with many of the major factories either bombed out or stripped of their equipment by the Soviet Union. Meanwhile, the Japanese economy was being supported by the United States, and Japanese camera companies began to rise to prominence. 
+
+The now-famous names of Canon and Nikon were just getting their start, and many of their first cameras were not original designs, but instead direct copies of well-respected German cameras from the 1930s. Yashica was no different, and the Yashica D is a none-too-subtle copy of the premium German Rolleiflex.
+
+Produced by Yashica from 1958 to 1972, the Yashica‑D stood as the company’s top knob wind twin‐lens reflex (TLR) model. It originally sold for [around $50](https://mikeeckman.com/2016/11/yashica-d-1970/), a 2025 price of $530. 
 
 From 1970-1972, the original 3 element Yashikor triplet lenses were replaced with the 4 element Tessar design Yashinon lenses, with the viewing lens increasing from f/3.5 to f/2.8. Paul Sokk has an excellent and wonderfully obsessive [site](http://yashicatlr.com/66ModelsPage6.html#yashicad) where he details every possible thing you could want to know about the Yashica line up.
 
 ### Personal Story
-In January of 2017, I got it in my head that needed to start shooting medium format for the image quality, and a quick preusal of ebay revealed that TLRs were the sexiest cameras I had ever laid eyes on. They were like some steam punk fantasy that actually took great photos. 
+In January of 2017, I got it in my head that needed to start shooting medium format for the image quality, and a quick perusal of ebay revealed that TLRs were the sexiest cameras I had ever laid eyes on. They were like some steam punk fantasy that actually took great photos. 
 
-Now, obviously if you want a TRL you buy a Rollieflexes, but seeing as I don't have a money tree in my yard, my sights fell on Yashica. Yashica sells a lot of models, the A, B, C, D, 124g, etc, with the D being the best fully mechanical version made. It comes with two lens options, the 3.5/3.5 Yashikor or the 2.8/3.5 Yashinon, which has an brighter viewing lens and improved taking optics. I didn't know this at the time, but apparently the Yashinon lenses were only made on the D between 1970 and 1972, making my model a bit of a rarity.
+Now, obviously if you want a TLR, the first thing that comes to mind is a Rollieflex, but seeing as I don't have a money tree in my backyard, my sights fell on Yashica. Yashica sells a lot of models, the A, B, C, D, 124g, etc, with the D being the best fully mechanical version made. It comes with two lens options, the 3.5/3.5 Yashikor or the 2.8/3.5 Yashinon, which has an brighter viewing lens and improved taking optics. I didn't know this at the time, but apparently the Yashinon lenses were only made on the D between 1970 and 1972, making my model a bit of a rarity.
 
 So anyway, in my quest to get acquire a high-performance, medium format workhorse, I located a wildly expensive $276 Yashica D, complete with a recent CLA and a freaking a six‐month warranty, which is insane for a 45 year old camera. 
 
 To give you an idea of the kind of quality I was expecting when I purchased it, I set up an oscilloscope and a light sensor to measure the shutter speeds. If I remember correctly, 1/500s is actually a little slow, but everything else was spot on.
 
 ### Shooting Experience
-The Yashica is a very charming camera to shoot with. It's often touted for it's bright viewing screen (especially the f/2.8 model), and I find that this is absolutely the case. The waist level view finder with the pop-up magnifier is a joy to use and makes focusing a breeze. The camera gets quite a bit of attention on the street, and when you hand it to strangers, they are inevitably taken aback by the viewing experience.
+The Yashica is a very charming camera to shoot with. It's often touted for it's bright viewing screen (especially the f/2.8 model), and I find that this is absolutely the case. The waist level view finder with the pop-up magnifier is a joy to use and makes focusing a breeze. The camera gets quite a bit of attention on the street, and when you hand it to strangers they are inevitably taken aback by the viewing experience.
 
-The controls are also quite nice. Symmetrically oriented on the front of the camera, you rotate the aperture and shutter dials with the thumb and index finger of your left hand, watching their progress in the perfectly positioned viewing window situated on top of the viewing lens. Meanwhile the right hand adjusts the focus, shutter, and film advance. If there is a downside, it is that careless procedure can lead to double exposures, which has ruined a few of my otherwise favorite shots. 
+The controls are also quite nice. Symmetrically oriented on the front of the camera, you rotate the aperture and shutter dials with the thumb and index finger of your left hand, watching their progress in the perfectly positioned viewing window situated on top of the viewing lens. Meanwhile, the right hand adjusts the focus, shutter, and film advance. If there is a downside, it is that careless procedure can lead to double exposures, which has ruined a few of my otherwise favorite shots. 
 
-It's unavoidable that it be compared with some of my other medium format cameras, and set against something like the Pentax 67 system (with its faster lenses and better shutter speeds), the Yashica‑D lags in sheer performance. An 80mm f/3.5 with a shutter speed range of 1s to 1/500s is not exactly going to get you through the a range of different lighting conditions. I've done some comparison shoots between it and the pentax 105/2.4, and there is really no comparison between their capabilities.
+It's unavoidable that it be compared with some of my other medium format cameras, and set against something like the Pentax 67 system (with its faster lenses and better shutter speeds), the Yashica‑D lags in sheer performance. An 80mm f/3.5 with a shutter speed range of 1s to 1/500s is not exactly going to give you the creative freedom of the Pentax. I've done some comparison shoots between it and the pentax 105/2.4, and there is really no comparison between their capabilities.
 
 Yet for me, there’s an undeniable charm to the TLR experience, and it's just such a delightful camera to carry around. Petty though it may be, it has a passerby wow factor that is almost unmatched in my camera collection. Honestly, writing this has reminded me just how enjoyable it is to use, and I’m already itching to take it out for another spin.
 
