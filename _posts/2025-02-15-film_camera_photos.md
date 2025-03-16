@@ -916,79 +916,95 @@ Overall shooting the camera feels very modern, and carrying around such an engin
     <div class="caption"></div>
 </div>
 
-Tech Heritage has some great videos covering most of the Nikon lineup, 
-F: [Tech Heritage](https://youtu.be/7v6nGn-mN9s?si=6PxCiR4mpfz3OGOL), Old Guy
-F2: [Tech Heritage](https://youtu.be/A_K5KyumVb4?si=flZWNbGUXfpuPEVS), Old Guy
-FE: [Tech Heritage](https://youtu.be/3MgPSZHF2Gg?si=q1PEOjfplCKkjcOf), Old Guy
-FM: [Tech Heritage](https://youtu.be/OYqwdZe9dqM?si=ALdiJHeyRXgQbDN1), Old Guy
-FM2: Tech Heritage, Old Guy
-K1000: [Tech Heritage](https://youtu.be/z1srTu6X490?si=R1igq4zp04zMD3Vz), Old Guy
-Rollei 35: [Tech Heritage](https://youtu.be/bEYDP3U3lbE?si=9NJRwsmGzhRkL2tR), Old Guy
-Pentax 67: Tech Heritage, [Old Guy](https://youtu.be/-MrBCjQiT48?si=eJMZEGhQc-i8NJeA)
 
+### Insane Luck
+It was 2017, and I was at a tradeshow in I think Seattle. I used to go to all these tradeshows for work and we would set up the booths ahead of the show. I was carrying my own film camera around on a strap when one of the union workers stopped me. It turns out he had also once been big into film photograhpy and we had one those execellent chats about days gone by. He mentioned he had an F2 that he no longer shot, and I told him that if he wanted, I could give it a new home.
 
+We settled on $150 for the body and three lenses, and he left on his lunch break to go get it. Frankly, this guy was a rough and tumble old-timer, and I was expecting a camera that had been through the ringer and back. But when he returned he was carrying a gorgeous leather camera bag, and inside was the most pristine Nikon I had ever seen. The camera had clearly spent it's whole life in one of those leather camera condoms, and it didn't even have any brassing or scuffs on the paint.
 
-(Tech Heritage, Nikon F Overview)[https://www.youtube.com/watch?v=7v6nGn-mN9s]
+And perhaps even better than being mint, it was all black. I *adore* the all black Nikons. One of these days I'll open up some space in my budget and buy an FE2 and F3 in all black, but until then I've got this absolute beauty.
 
+### History
+I'm a little burned out on writing about all these camera histories. Let me sumarize by saying that the Nikon F2 was an iconic professional camera with amazing glass and an unbelievably dedicated following. I'll highly recommend reading [Mike Eckman's post](https://mikeeckman.com/2021/06/nikon-f2-1971/) on the camera. He goes into incredible detail on why the camera was such a success. 
 
-https://youtu.be/7lHQCf06cg8?si=u_77-m58q34GTqaJ old guy with detailed videos
+If you are interesting in a video overview of the entire Nikon lineup, Tech Heritage has some great videos:
+- F: [Tech Heritage](https://youtu.be/7v6nGn-mN9s?si=6PxCiR4mpfz3OGOL)
+- F2: [Tech Heritage](https://youtu.be/A_K5KyumVb4?si=flZWNbGUXfpuPEVS)
+- FE: [Tech Heritage](https://youtu.be/3MgPSZHF2Gg?si=q1PEOjfplCKkjcOf)
+- FM, FM2: [Tech Heritage](https://youtu.be/OYqwdZe9dqM?si=ALdiJHeyRXgQbDN1)
 
-The Nikon F2 is the professional counterpart to the FM2. It's a larger and heavier camera in every dimension, and my verison wears a chonky metering prism. All of it's tiny details are more professional and refined
+### Comparisons
+I do, however, want to spend a little bit of time on some comparisons. 
 
-### Operation
-It's similar to the FM2, but with a few key differences. The light meter can be viewed from the top at waist level. The 
+The Nikon F2 is the successor to the F and the professional counterpart to the FM2. If you are in the market for mechanical Nikon film camera, it is very likely that the FM2 and F2 are at the top of your list. Let me start by saying that compared to the FM2, it's a larger and heavier camera in every dimension. However, all of it's tiny details are also more professional and refined.
+
+The operatino is similar, but there are a few key diffenrences. It's similar to the FM2, but with a few key differences. The light meter can be viewed from the top at waist level. The 
+
+**Light Meter/View Finder**
+
+- can be viewed from the top at waist level
+- has a needle instead of LEDs
+- viewfinder is interchangeable
+- HUD: instead of the shutter speed, lightmeter reading, and aperture being scattered across the viewfinder, the F2 consolidates all the information into the bottom right of the viewfinder. Additionally, while the FM2's shutter speed reading will be hard to see if you are pointing the camera at a dark backdrop, the F2 uses ambient light from the top and is consistently more viewable. As a side effect of this design, you can meter from the top of the camera without needing to look through the viewfinder
+
+**Shutter**
 
 - self timer: it lets you set specific times, 2-10 seconds, and has a reset button if you decide not to use the timer
-- aperture preview: replaces the FM2's plastic lever with fancy black and chrome button that matches the lens release
-- mirror lockup: adds this feature as a twisting lever on the aperture preview button
 - shutter lock: adds a second shutter lock as rotating dial around the shutter
+- mirror lockup: adds this feature as a twisting lever on the aperture preview button
 - T mode: adds a T mode to the shutter speed dial, which holds down the shutter button after it is pressed and can be used in conjunction with bulb mode
+- There are a few downsides. Namely, the 1/2000 shutter instead of the 1/4000
+
+**Controls**
+
 - film rewind: adds knurling to the film rewind knob
-- view finder HUD: instead of the shutter speed, lightmeter reading, and aperture being scattered across the viewfinder, the F2 consolidates all the information into the bottom right of the viewfinder. additionally, while the FM2's ss reading will be hard to see if you are pointing the camera at a dark backdrop, the F2 uses ambient light from the top and is consistently more viewable. as a side effect of this design, you can meter from the top of the camera without needing to look through the viewfinder
+- aperture preview: replaces the FM2's plastic lever with fancy black and chrome button that matches the lens release
 - ISO selection: goes slightly lower than the FM2, down to 6 instead of 12
-- Viewfinder: interchangeable
 
-There are a few downsides. Namely, the 1/2000 shutter instead of the 1/4000, and the added bulk and weight.
+### Lenses
+Nikon has one of the larger flange distances of any of the main SLR manufacturers, which means that you will be hard pressed to adapt another manufacturer's lenses to a Nikon body...thankfully Nikon is famous for having an incredible selection of excellent glass.
 
-DP-1 finder 651409
+I personally have an ungodly amount of Nikon glass, and since I haven't specifically mentioned it during my other camera writeups, I'll list it here:
+- Rokinon 14mm f/2.8
+- 24mm f/2.8, non-ai (converted), 500113
+- 28mm f/2.8, AI-S Series E, 2025368
+- 35mm f/2, non-ai, 884667
+- 50mm f/1.8 AI-S Series E, 3291471
+- 50mm f/1.4, non-ai, 321577, 1962-1967
+- 50mm f/1.4, AI-S, 5220802
+- 55mm f/3.5, non-ai (converted), 743637
+- 60mm f/2.8D, macro
+- 85mm f/1.8 non-ai, 430447, [1975-1977](http://www.photosynthesis.co.nz/nikon/serialno.html)
+- 85mm f/1.8D
+- 105mm f/2.8D, macro
 
-Rokinon 14mm f/2.8
-24mm f/2.8, non-ai (converted), 500113
-28mm f/2.8, AI-S Series E, 2025368
-35mm f/2, non-ai, 884667
-50mm f/1.8 AI-S Series E, 3291471
-50mm f/1.4, non-ai, 321577, 1962-1967
-50mm f/1.4, AI-S, 5220802
-55mm f/3.5, non-ai (converted), 743637
-60mm f/2.8D
-85mm f/1.8 non-ai, 430447, [1975-1977](http://www.photosynthesis.co.nz/nikon/serialno.html)
-85mm f/1.8D
-105mm f/2.8D 
+Of these, the 85, 24, and 35 all came bundled with my F2, making it probably one of my best Nikon purchases ever. I've also owned and sold another 85, 50, 18-140, and a 28-70. I'll always mildy regret selling the 28-70, as it was a great lens, but it spent most of its time on a digital body that sold to a friend.
+
+A standout lens in this lineup that doesn't get nearly enough press is the 105mm f/2.8D. It's sharp as a tac and takes beautiful portraits and macro shots. If I ever travel with my camera, this is the extra lens that I take with me.
 
 
-### Specs F1
-I have an F1, 6475548, from Nov 1961 to Feb 1962. You can date yours [here](http://www.destoutz.ch/typ_production_data_f.html).
 
-### Specs F2
-My F2 is 7704912, which dates it to Nov-Dec 1976. [Here](http://www.destoutz.ch/typ_production_data_f2.html).
-85mm/1.8, 430447, Mar 1975 - Feb 1977. [Here]()
+
 
 
 God, what a gorgeous camera.
 HP5+ 400
 October 2017ish
 
-I met a guy at a tradeshow who saw my camera and said, "I have a Nikon F2, but I never use it. I'll sell it to you for $200." I said, "I'll take it".
-
-It came with some beautiful glass, including an 85mm 1.8. It's in stupidly mint condition and I keep it as a shelf queen, but I did put at least one roll through it.
-
-
-actual prices:
-- nikon f2 with 4 lenses for 150
-- nikon f with 50/1.4 for $20
-- leica iiia for $200
-- spotmatic with 50/1.4 and 135/3.5? for $25
-- yashica d, $276, CLA'd with a warranty... Jan 2, 2017
+### Tech Specs
+- **Dates Manufactured:** 1971-1980
+- **My Date:** Nov-Dec 1976, [how to date](http://www.destoutz.ch/typ_production_data_f2.html)
+- **Camera Type:** SLR
+- **Format:** 35mm
+- **Primary Lens:** 85mm f/1.8, 430447, Mar 1975 - Feb 1977
+- **Minimum Focusing Distance:** ~0.85m
+- **Shutter Speeds:** 10s - 1/2000, B, T
+- **Light Meter:** DP-1 finder 651409
+- **Country of Origin:** Japan
+- **Weight**:
+  - Body: 850g
+  - w/ 85mm:** 1281g
+- **Serial Number:** 7704912
 
 ![000289480015](50710030a.webp)
 
@@ -1247,20 +1263,23 @@ This is an astonishingly weird camera. Originally used for aerial photography, i
 </div>
 
 ### Overview
-The Hasselblad Xpan is a panoramic rangefinder produced from around 1999-2003. It is insanely expensive, and is the grail camera for many a landscape photographer. 
+The Hasselblad Xpan is a panoramic rangefinder produced from around 1999-2003. It is insanely expensive (think $4,000-$6000), and is the grail camera for many a landscape photographer. Instead of the standard *boring* 24x36mm shot, it takes gorgeous 24x65 panoramic images on 35mm film. This camera is so iconic that when people modify their medium format cameras to take panoramic shots, they call them "Xpan mods".
 
-Instead of the usual 24x36mm shot, it takes gorgeous 24x65 panoramic images on 35mm film. The standard lens is has a 45mm f/4 lens
+The standard lens is a 45mm f/4. It has a crystal clear viewfinder with a crisp range finder patch and generous margins to compose your shot.
 
-It has a crystal clear viewfinder with a crisp range finder patch and generous margins to compose your shot.
+### Shooting Experience
 
+It feels amazing to shoot. It has literally every creature comfort you could want in a 35mm camera. The viewfinder is bright and clear, the rangefinder is crisp and accurate, it has aperture priority that nails every exposure, the film advances and rewinds automatically...the list goes on. 
 
-Composing shots is so difficult. While taking it out, I was constantly seeing wide shots that I though would be perfect, only to put the camera to my eye and realize I only filled 3/4 of the frame. This is the sort of camera where I think you could really benefit from spending a week scrolling through other people's photos to get a feel for what works and what doesn't.
+It's honestly a little silly how bright and clear the viewfinder is. Interestingly, it leavs a pretty massive amount of space around the frame, which is great for composing shots. 
 
+Something I didn't realize about the camera until I actually had it in my hands is that you don't have to take panoramic photos with it. You can turn a little knob on the back and switch between 24x36 and 24x65. This is a great feature, as it allows you to take normal shots when you want, and then switch to panoramic when you see a shot that would benefit from it. It also adjust the photo count and the frame lines in the viewfinder, so you always know what you are shooting.
 
-Shooting with it 
-It has every modern convenience, an
+People talk about how heavy the camera is, but it's not obtrusive. It's very densely packed into the body, and it actually weighs less than other brutes such as the F2. Wearing a 24mm/2.8, my F2 comes in at a hefty 1127g, while the Xpan with a 45mm/4 is only 999g. 
 
-The Hassleblad Xpan is truly a delightful camera. It has the best modern conveniences combined with the nostalgia of olden times.
+Actually composing panoramically is much more difficult than I expected. While taking it out, I was constantly seeing wide shots that I though would be perfect, only to put the camera to my eye and realize that my "wide shot" only filled 3/4 of the frame. This is the sort of camera where I think you could really benefit from spending a week scrolling through other people's photos to get a feel for what works and what doesn't.
+
+For a while, I put my phone camera in B&W in full screen mode (which is still not as wide as the Xpan) and walked around with it glued to my face just trying to understand what the wide shots would look like. 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1277,14 +1296,14 @@ The Hassleblad Xpan is truly a delightful camera. It has the best modern conveni
 ### Tech Specs
 - **Dates Manufactured:** 1999-2003
 - **Camera Type:**
-- **Format:**
-- **Primary Lens:**
+- **Format:** 35mm, 24x65
+- **Primary Lens:** Hasselblad 4/45, 8YSS21791
 - **Minimum Focusing Distance:**
 - **Shutter Speeds:**
-- **Light Meter:**
-- **Country of Origin:**
-- **Weight w/ Lens:**
-- **Serial Number:**
+- **Light Meter:** yes
+- **Country of Origin:** Japan
+- **Weight w/ Lens:** 999g
+- **Serial Number:** 11SV22752
 
 ![000289480002](000289480002.webp)
 ![000289470007](000289470007.webp)
@@ -1503,12 +1522,14 @@ Yep, there she is. This level of haze would absolutely affect the final photos, 
         <img src="20250303_164508.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250303_165357.webp" alt="">
+        <img src="20250303_165415.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption">notice the mark made by the manufacturer that outlines the tab location</div>
     <div class="caption"></div>
 </div>
+
+<!-- 20250303_165357.webp -->
 
 Since this is a coupled rangefinder, it is essential that you don't mess up the focus. You can see the focusing ring interfaces with the rangefinder prong via a slot, and it then screws onto the lens. 
 
@@ -1554,50 +1575,8 @@ I will say that the minimum focusing distance is a *brutal* 1.5 meters, so this 
 ![Screenshot_20250305_150229_Lightroom.webp](Screenshot_20250305_150229_Lightroom.webp)
 
 
-## Stuff
-### Example Class
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
-![000289480015]()
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
-<div class="grid-container grid-3x2">
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="image-div">
-        <img src="" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
-
-### Removed 
+## Removed 
+I removed these pictures as not good enough for the post. Let me know if you think differently.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1707,51 +1686,6 @@ I will say that the minimum focusing distance is a *brutal* 1.5 meters, so this 
     <img src="RolleiAd-4.jpg" alt="stand alone rollei add">
 </div> -->
 
-slesa remove
-alex
-candle girl
-railing
-cornfield, landscape
-seattle portrait
-sidewalk shadow
-downtown motel
-downtown alley
-
-
-bishwas
-alex
-lonely road
-robbie
-electric pole
-pentax cat
-robbie and majo
-chicago oblisk
-carson stare
-chicago alley
-robbie rock
-robbie rock 2
-add 50710006.JPG
-
-carson
-pentax cat
-robbie rock 1,2
-
-
-
-march 18 - apr 20
-
-may 5th, 2 weeks early..... apr 25?
-
-jaipur
-kerala (5 days)
-assam
-
-
-bishwash bangalore
-- mysore daytrip
-
-
-
 
 ### Tech Specs
 - **Dates Manufactured:**
@@ -1800,7 +1734,14 @@ Serial Number: FM 3091999
 Talk about the nice or bad features, like whether it has an internal light meter, or if the film is hard to rewind, etc, etc
 
 
+<!-- From a text with greg: actual prices:
+- nikon f2 with 4 lenses for 150 (I don't think this is true. what was the fourth lens?)
+- nikon f with 50/1.4 for $20
+- leica iiia for $200
+- spotmatic with 50/1.4 and 135/3.5? for $25
+- yashica d, $276, CLA'd with a warranty... Jan 2, 2017 -->
 
-
+<!-- ### Specs F1
+I have an F1, 6475548, from Nov 1961 to Feb 1962. You can date yours [here](http://www.destoutz.ch/typ_production_data_f.html). -->
 
 <!-- apparently https://zackscamerarepair.com/camera-repairs/ this is the guy to go to for weird camera repairs -->
