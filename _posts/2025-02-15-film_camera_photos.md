@@ -64,23 +64,6 @@ These are the cameras that I've actually shot film through. I'm not going to kee
 Theres a table of contents if you want to jump to a specific camera, and you can also just click on the photos to view them full size as a slide show.
 
 ## Table of Contents
-- [Nikon FM](#nikon-fm)
-- [Nikon FM2](#nikon-fm2)
-- [Pentax K1000](#pentax-k1000)
-- [Yashica D](#yashica-d)
-- [Pentax 67](#pentax-67)
-- [Balda Fixfocus 6x9](#balda-fixfocus-6x9)
-- [Agfa Flexilette](#agfa-flexilette)
-- [Kodak DualFlex](#kodak-dualflex)
-- [Leica IIIa](#leica-iiia)
-- [Nikon F2](#nikon-f2)
-- [Voigtländer Prominent](#voigtländer-prominent)
-- [Rollei 35 S](#rollei-35-s)
-- [Rapid Omega 200](#rapid-omega-200)
-- [Hasselblad Xpan](#hasselblad-xpan)
-- [Fujica GS645 Pro](#fujica-gs645-pro)
-- [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
-
 
 1. [Nikon FM](#nikon-fm)
 2. [Nikon FM2](#nikon-fm2)
@@ -528,17 +511,17 @@ If you are going to buy one, the 6x7 MLU and the 67 represent the best balance o
 
 ### Personal Story
 
-I personally first encountered the Pentax 67 at Central Camera in Chicago, and it took by breath away. After years of shooting a 35mm Nikon, seeing the Pentax was like realizing you could have a pet bear instead of a poodle. Although I'm usually very tentative about my purchases, I was on the verge of impulse buying it on the spot when the clerk demanded to know if I was there to buy or simply to ogle. Needless to say, I did not buy it. I went straight home and bought one on ebay instead, and since then I've dropped more than one and a half grand on the body, lenses, and various accessories. 
+I personally first encountered the Pentax 67 at Central Camera in Chicago, and it took my breath away. After years of shooting a 35mm Nikon, seeing the Pentax was like realizing you could have a pet bear instead of a poodle. Although I'm usually very tentative about my purchases, I was on the verge of impulse buying it on the spot when the clerk demanded to know if I was there to buy or simply to ogle. Needless to say, I did not buy it. I went straight home and bought one on ebay instead, and since then I've dropped a shameful amount of my disposable income on the body, lenses, and various accessories. 
 
 ### Accessories
 #### Overview
-I own a gratuitous number of accessories for this system. I'm going to list them here to give a general idea of what's available and to shame myself for spending so much money. If I had realized how much accessories cost separately, I would have waited for a camera that included them. 
+Like I said, I own a gratuitous number of accessories for this system. I'm going to list them here to give a general idea of what's available and to digitally flagellate myself for spending so much money. If I had realized how much accessories cost separately, I would have waited for a camera that included them. 
 
 Interestingly, I have the nice, SMC 67, version for all the lens *except* the famous 105.
 
 |Accessory|Price|Notes|
 |---------|-----|-----|
-| Body | $297 | Seemed cheap at the time |
+| Body | $297 | ...seemed cheap at the time |
 | Burl Wood Right Hand Grip | $139 | Best investment you can make |
 | Factory Left Hand Grip | $130 | Useless but pretty |
 | Extension Tubes | $79 | Excellent for improving the min focus distance |
@@ -553,18 +536,20 @@ Interestingly, I have the nice, SMC 67, version for all the lens *except* the fa
 
 
 #### Handles
-More than any other feature, people recognize the Pentax 67 by its ostentatious wooden handle. It gets tons of comments when walking around town, and it is touted as the perfect way to hold the boat anchor of a camera.
+More than any other feature, people recognize the Pentax 67 by its ostentatious wooden handle. It gets tons of comments when walking around town, and it is touted online as the perfect way to hold this boat anchor of a camera.
 
 But functionally? The handle is a monumental failure of human design. The engineers who first proposed this handle should be committed to an institution to protect the public from their ideas. I can't believe this isn't more talked about, because seriously, the thing is useless. 
 
-It's in exactly the wrong place for you to hold while shooting, since your right hand needs to adjust the aperture and focus. And yes, I do own the gimmicky focusing extension ring, which is a giant pain in the ass, inventing a solution for a problem that shouldn't exist. If you own this camera, do yourself a favor and skip the factory grip, and instead buy a *right hand* grip. Mine is burl wood from the charmingly named, "Village no. 1" in Bangkok, but these days I think the place to shop is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. 
+It's in exactly the wrong place for you to hold while shooting, since your right hand needs to adjust the aperture and focus. And yes, I do own the gimmicky Quick Focus Ring A, which is a giant pain in the ass, inventing a solution for a problem that shouldn't exist. 
+
+If you own this camera, do yourself a favor and skip the factory grip, and instead buy a *right hand* grip. Mine is burl wood shipped to me from the charmingly named, "Village no. 1" in Bangkok, but these days I think the place to shop is (Pimp my Pentax)[https://www.instagram.com/pimp_my_pentax] on Instagram. 
 
 #### Viewfinders
-There are at least four viewfinders for this camera. A standard prism, a TTL prism, a waist level, and the chimney finder. I own a TTL and the chimney finder, and I *adore* the chimney. It provides the largest, most magnified, most beautiful viewfinder of any camera I own. Sadly, my Pentax has the fully matte focusing screen instead of the standard split prism, and I would be lost without the high magnification of the chimney finder.
+There are at least four viewfinders for this camera. A standard prism, a TTL prism, a waist level, and the chimney finder. I own a TTL and a chimney finder, and I *adore* the chimney. It provides the largest, most magnified, most beautiful viewfinder of any camera I own. Sadly, my particular Pentax has the fully matte focusing screen instead of the standard split prism, but the chimney finder is so gigantically magnified that it makes precision focusing a breeze.
 
-I would love to eventually pick up the waist level finder, but they are consistently $250 from Japan, and I haven't yet been able to stomach the expense.
+I would love to eventually pick up the waist level finder, but they are a heart-stopping $250 from Japan, and I haven't yet been able to stomach the expense.
 
-If you are going to use the TTL finder, I have a 3d printed ribbed sleeve that I made for the shutter speed dial. It makes it much easier to adjust the shutter speed. 
+If you *are* going to use the TTL finder, I have a 3d printed ribbed sleeve that I made for the shutter speed dial. It makes it much easier to adjust the shutter speed. 
 
 ### The Mythical 105mm f/2.4
 People buy the Pentax 67 just to use this one single lens. It has an unbelievable cult status in the world of film photography, famous for it's insane depth of field, beautiful rendering, and "3d pop"...Seriously, people online will rave endlessly about this lens, positively frothing while they declare that the look is impossible to achieve on 35mm. They will say that medium format has more bokeh than 35mm, or that the 105mm will be more compressed than the 50mm, giving better background separation.
@@ -575,18 +560,20 @@ But frankly, it is no different from a common 50mm f/1.2 on 35mm. There is absol
 
 But doesn't the 105 have more compression than the 50? Sadly no. Compression is not caused by the length of the lens, it is a function of the distance between the film plane and the subject. Since the 105 and the 50 are the same framing on their respective systems, the subject distance and therefore compression will be the same. 
 
-Yeah I know, I'm a dirty, pentax-hating apostate for even suggesting it. But seriously, check out this [comparison video](https://www.youtube.com/watch?v=UbU-w0J_7MM) by Julien Jarry if you don't believe me. 
+Yes I know, I'm a dirty, pentax-hating apostate for even suggesting it. But seriously, check out this [comparison video](https://www.youtube.com/watch?v=UbU-w0J_7MM) by Julien Jarry if you don't believe me. 
+
+It also has a miserable minimum focusing distance of 1m, making it a pain to compose close artistic shots. It's bad enough that I've taken to carrying around an extension tube just to be able to focus on my subjects.
 
 ### Why Bother?
 So if the famous lenses aren't really any better, then why bother with an expensive, heavy, massive camera that only gets 10 photos a roll? 
 
-Well for starter, the negatives are gigantic. On top of having way more detail and less grain, I find them easier to develop and easier to scan. Only 10 photos per roll certainly seems like a downside, but as a slow and deliberate shooter, I rather appreciate not struggling to take 36 photos on a 35mm roll. While looking though my cameras for this post, I discovered that I have 10 shots still left on my Pentax K1000 that have apparently been in the camera for EIGHT YEARS. This is not a problem you run into on the Pentax 67.
+Well for starters, the negatives are gigantic. On top of having way more detail and less grain, I find them easier to develop and easier to scan. Only 10 photos per roll certainly seems like a downside, but as a slow and deliberate shooter, I rather appreciate not struggling to take 36 photos on a 35mm roll. While looking though my cameras for this post, I discovered that I have 10 shots still left on my Pentax K1000 that have apparently been in the camera for EIGHT YEARS. This is not a problem you run into on the Pentax 67.
 
 If I want to shoot a detailed landscape shot, there isn't a better camera in my collection than the Pentax 67 with the 45mm lens. The resolution and detail is just insane.
 
 ### Shooting Experience
 
-If I’m heading out *specifically* to photos, the Pentax 67 is at the top of my list. The massive negatives, the awesome lenses, the undeniable conversation factor...it's just so much fun.
+If I’m heading out *specifically* to shoot photos, the Pentax 67 is at the top of my list. The massive negatives, the awesome lenses, the undeniable conversation factor...it's just so much fun.
 
 However, if I’m out and about and want a camera “just in case,” the Pentax 67 stays at home. I could walk around with literally three Nikon FM2s hanging from my neck and they would take up less space than the Pentax. Carrying this thing slung over your shoulder for a day is enough to give you adult onset scoliosis.
 
@@ -605,16 +592,10 @@ Finally, it really, *really* bears mentioning that the minimum focusing distance
 In all, the Pentax 67 is a fun camera and I love it. But unless you are specifically wanting hi-res, huge negatives, like for epic landscapes or studio portraits, then you really might consider taking a smaller and more fully featured camera.
 
 ### Tech Specs
-- **Dates Manufactured:**  
-- **Camera Type:** 
-- **Shutter Speeds:** 1s to 1/1000s
-- **Format:** 6x7 (actual 56x70mm)  
-- **Primary Lens:**  45/4, 105/2.8, 165/2.8
-
 - **Dates Manufactured:**1990-1999 
 - **Camera Type:** SLR 
 - **Format:** 120, 6x7
-- **Primary Lens:** 150/2.4 5434074or 45/4
+- **Primary Lens:** 150/2.4 5434074 or 45/4
 - **Minimum Focusing Distance:** 1m
 - **Shutter Speeds:** 1s - 1/1000s, B
 - **Light Meter:** TTL, or None
@@ -623,7 +604,6 @@ In all, the Pentax 67 is a fun camera and I love it. But unless you are specific
     - 2040g, (chimney, right grip only, 45/4)
     - 2556g, (TTL, right grip only, 104/2.4)
 - **Serial Number:** 4174966
-- **Manual**: [here](https://www.cameramanuals.org/agfa_ansco/agfa_flexilette.pdf)
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
