@@ -120,9 +120,13 @@ I will say, I do slightly prefer the professional Nikon F2 viewfinder's placemen
 
 **Lens Compatibility**
 
-Basically, every Nikon SLR lens made in the past 66 years will mount on the FM. Nikon's mount has remained the same for this entire time period, although the metering interface went through one major change in 1977 with the release of the AI lenses.
+Nikon's core lens mount has remained the same since the introduction of the Nikon F in 1959. However, with the release of AI lenses in 1977, Nikon made a major change to the metering interface. AI lenses have additional material removed from the aperture ring along the rim of the lens which allows the camera to read the aperture setting. 
 
-Unlike the later FM2, the FM has a folding aperture interface lever that lets you mount the oldest non-AI lenses. If you are looking for maximum Nikon lens compatibility, the FM is one of the best bodies to get. I will say that I have personally modified three or four non-AI lenses for AI compatibility, and it is pretty simple, so I wouldn't let this be a deciding factor if you are looking at an FM2 or FE2 instead.
+This means that a pre-AI lens has "extra" material around the rim of the lens, which can prevent it from mounting on a camera with an AI metering prong. 
+
+However, unlike the later FM2, the FM has a folding aperture prong that can move out of the way and let you mount the oldest non-AI lenses. If you are looking for maximum Nikon lens compatibility, the FM is one of the best bodies to get. 
+
+That said, I have personally modified three or four non-AI lenses for AI compatibility, and it is pretty simple, so I wouldn't let this be a deciding factor if you are looking at an FM2 or FE2 instead.
 
 **Pancake Lenses**
 
