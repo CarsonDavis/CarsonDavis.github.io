@@ -221,7 +221,7 @@ All the Nikons have a shutter lock that is integrated with the film advance. You
         <img src="arst0094.webp" alt="">
     </div>
     <div class="caption">Portland</div>
-    <div class="caption">Huntsville, 2016?</div>
+    <div class="caption">D.C., 2016?</div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -261,7 +261,7 @@ I'll go to take a shot with my gorgeous Voigtländer, wide open at 1.5, only to 
 
 Simply put, the FM2 is a camera that makes everything about shooting film easier, and you can't help but be reminded of it anytime you handle an inferior user interface.
 
-I have 120+ film cameras, in large part because I love cool and unique mechanical object. In my heart of hearts, I desperately want to be that guy with the crazy camera you stop and chat with on the street. But god help me if the FM2 doesn't make it hard to shoot anything else.
+I have 120+ film cameras, in large part because I love cool and unique mechanical objects. In my heart of hearts, I desperately want to be that guy with the crazy camera you stop and chat with on the street. But god help me if the FM2 doesn't make it hard to shoot anything else.
 
 ### Tech Specs
 Like the FM, there's a ton of information about this camera already on the internet. Instead of regurgitating it, here's a [fantastic comparison](https://www.youtube.com/watch?v=OYqwdZe9dqM) between all of the FM and FM2 features.
@@ -983,7 +983,7 @@ Apparently, it was common for both the Leica factory and third-party shops to re
 
 
 ### Insane Luck
-It was 2017, and I was at a trade show somewhere in the Pacific Northwest—probably Seattle. I used to attend all these trade shows for work, and we would up the booth ahead of the event. Well, I was carrying my own film camera around on a strap when one of the union workers stopped me. It turned out he had also once been big into film photography, and we had one of those excellent chats about days gone by. He mentioned he had an F2 that he no longer shot, and I told him that if he wanted, I could give it a new home.
+It was 2017, and I was at a trade show somewhere in the Pacific Northwest—probably Seattle. I used to attend all these trade shows for work, and we would set up the booth ahead of the event. Well, I was carrying my own film camera around on a strap when one of the union workers stopped me. It turned out he had also once been big into film photography, and we had one of those excellent chats about days gone by. He mentioned he had an F2 that he no longer shot, and I told him that if he wanted, I could give it a new home.
 
 We settled on $150 for the body and three lenses, and he left on his lunch break to go get it. Frankly, this guy was a rough-and-tumble old-timer, and I was expecting a camera that had been through the wringer and back. But when he returned, he was carrying a gorgeous leather camera bag, and inside was the most pristine Nikon I had ever seen. The camera had clearly spent its whole life in one of those leather camera condoms, and it didn't even have any brassing or scuffs on the paint.
 
@@ -1176,7 +1176,7 @@ Many of the accessories are stamped with "West Germany".
   - [Catalog](https://www.pacificrimcamera.com/rl/00544/00544.pdf)
   - [Detailed Overview by Mike Eckman](https://mikeeckman.com/2018/11/voigtlander-prominent-1952/)
 
-### Voigtländer Prominent Photo Samples
+### Voigtländer Prominent Photo Sample
 
 ![000289480015](38770031.webp)
 _50mm 1.5, tri-max 400, Salt Lake City_
@@ -1418,7 +1418,7 @@ Sadly, the light meter really was broken, and no amount of opening the camera, a
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="202120210120_015814.webp" alt="">
+        <img src="20210120_015814.webp" alt="">
     </div>
     <div class="image-div">
         <img src="20210120_105407.webp" alt="">
@@ -1438,7 +1438,7 @@ Sadly, the light meter really was broken, and no amount of opening the camera, a
     <div class="caption">bent contact</div>
 </div>
 
-You can enlage the photos to see what I'm talking about, but essentially the lightmeter is supposed to be activated when the shutter pushes down the silver tab so it comes into contact with the black prong. This wasn't happening early enough en the downward motion of the shutter button, and I looked in vain for a way to adjust the height of the contact point. Finally, I yolo'd it and bent the underside of the shutter so it would push the silver tab down sooner. This worked, but it was a bit of a hack and I would not recommend it.
+You can enlage the photos to see what I'm talking about, but essentially the lightmeter is supposed to be activated when the shutter pushes down the silver tab so it comes into contact with the black prong. This wasn't happening early enough in the downward motion of the shutter button, and I looked in vain for a way to adjust the height of the contact point. Finally, I yolo'd it and bent the underside of the shutter so it would push the silver tab down sooner. This worked, but it was a bit of a hack and I would not recommend it.
 
 #### Film Advance
 With the rangefinder and light meter finally fixed, I fully reassembled the camera and was incredibly excited to finally use it when I realized I had forgotten one small detail. The film advance, essentially the only part of the camera that *absolutely* needs to work, was broken. I had somehow overlooked this fact and was crushed.
@@ -1555,7 +1555,7 @@ Except for one teensy-tiny, itty-bitty little problem. The lens had haze.
 
 For those of you in the know, you may have been scratching your head this whole time, because an old uncoated lens like this with haze is a trivial fix. I, too, know this—because I have literally repaired the haze in several lenses before.
 
-So why did I spend on hundred extra dollars for a lens with no haze only to end up with a lens _that has haze?_
+So why did I spend one hundred extra dollars for a lens with no haze only to end up with a lens _that has haze?_
 
 God only knows.
 
@@ -1584,7 +1584,7 @@ Yep, there she is. This level of haze would absolutely affect the final photos, 
 
 Since this is a coupled rangefinder, it is essential that you don't mess up the focus. You can see the focusing ring interfaces with the rangefinder prong via a slot, and it then screws onto the lens. 
 
-I think it would be possible to misinstall it in at least 6 different ways, once in betreen each screw hole pair, and then mirrored if you catch the wrong threads while screwing the lens back in. 
+I think it would be possible to misinstall it in at least 6 different ways, once in between each screw hole pair, and then mirrored if you catch the wrong threads while screwing the lens back in. 
 
 It is definitely possible to screw it back in incorrectly. I had to try 3 times before I caught the threads correctly and ended up back in my starting position.
 
