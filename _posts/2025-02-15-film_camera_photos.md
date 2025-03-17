@@ -1248,14 +1248,16 @@ As usual, Mike Eckman has an [excellent write-up](https://mikeeckman.com/2021/02
 
 ### Tech Specs
 
-**Dates Manufactured**: 
-**Type**:
-**Format**: 35mm
-**Lens**: Rollei-HFT Sonnar 2.8/40, 2555662
-**Shutter Speeds**:
-**Minimum Focusing Distance**:
-**Serial number**:
-**Country of Origin**: Germany
+- **Dates Manufactured**: 1974-1980
+- **My Date**: 1979, [how to date](https://rollei35.rolleigraphy.eu/rollei35numbers.php#r35s)
+- **Type**: 35mm
+- **Format**: 35mm
+- **Lens**: Rollei-HFT Sonnar 2.8/40, 2555662
+- **Shutter Speeds**: 1/2 - 1/500, B
+- **Minimum Focusing Distance**: 0.9m
+- **Serial number**: None
+- **Country of Origin**: Singapore
+- **Weight**: 353g
 
 ### Rollei 35 S Photo Samples
 
