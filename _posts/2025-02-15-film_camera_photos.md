@@ -316,6 +316,16 @@ However, just in case you haven't already heard, this camera has a freaking tita
 ![000095670015](000095670032.webp)
 
 ## Pentax K1000
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250219_222236.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250219_222250.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
 
 ### Overview
 The Pentax K1000 is commonly cited as being _the_ most popular student photography camera to ever exist. It was manufactured for over 20 years, from 1976 to 1997, and it is estimated that over 3 million were made. With its rugged metal construction, simple controls, and built-in light meter, it is easy to see the appeal. The camera was typically bundled with a 50/2 lens, but the K mount offers plenty of nicer glass to choose from, including a 50/1.4, an 85/1.7, and a 135/2.8.  
@@ -346,16 +356,6 @@ Supposedly, if your Pentaprism says AHCO, as mine does, then it was made in Japa
 - **Serial Number:** 7093688
 
 ### Pentax K1000 Photo Samples
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="20250219_222236.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="20250219_222250.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
 
 <!-- 20250219_220444.webp long lens -->
 
@@ -503,6 +503,8 @@ Although the famous 105mm f/2.4 with the wooden pistol grip is the most iconic l
     <div class="caption">my landscape loadout, ditching the default wooden handle and using a 45mm lens</div>
     <div class="caption">I also prefer the incredible magnification of the chimney finder, even at the expense of a light meter</div>
 </div>
+
+<!-- https://jeffandmichelephoto.com/learn/what-are-the-differences-between-pentax-67-models -->
 
 ### Pentax 67 Overview
 Produced between 1969 and 2009, the Pentax 6x7 is one of the most iconic medium format systems in existence. With a 6x7 cm frame size, it offers negatives almost 4.5 times larger than 35mm film but in a familiar SLR form factor. Originally costing two to three times more than its 35mm counterparts, the 6x7 was aimed at professionals and serious enthusiasts who wanted the high-resolution benefits of medium format without abandoning the familiar SLR handling. It was famous for its use in high fashion and editorial photography, and it maintains a cult following into the digital age.
