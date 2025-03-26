@@ -75,3 +75,6 @@ _Seattle at night_
 
 ![img_desc](LRM_EXPORT_20170702_122621.jpg)
 _Somewhere in California. The glow on the left is a distant forrest fire_
+
+![img_desc](DSC_7783.webp)
+
