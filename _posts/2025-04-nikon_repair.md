@@ -11,3 +11,5 @@ published: False
 ---
 
 Although I bought my Nikon S2 in "perfect working conditinon and film tested" when it arrived the rangefinder patch was broken and the winding lever didn't return on it's own.
+
+aaaaand, now it turns out that the shutter has light leaks as well...
