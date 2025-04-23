@@ -1,10 +1,10 @@
 ---
 title: Shooting Film
 date: 2025-03-16
-last_modified_at: 2025-03-16
+last_modified_at: 2025-04-22
 categories: [photography, film]
 tags: []
-description: reviews, history, and photos from 16 film cameras
+description: reviews, history, and photos from 18 film cameras
 media_subpath: /film-camera-photos/
 image: 20250313_185922.webp
 published: True
@@ -74,13 +74,15 @@ There's a table of contents if you want to jump to a specific camera, and you ca
 7. [Agfa Flexilette](#agfa-flexilette)
 8. [Kodak DualFlex](#kodak-dualflex)
 9. [Leica IIIa](#leica-iiia)
-10. [Nikon F2](#nikon-f2)
-11. [Voigtländer Prominent](#voigtländer-prominent)
-12. [Rollei 35 S](#rollei-35-s)
-13. [Rapid Omega 200](#rapid-omega-200)
-14. [Hasselblad Xpan](#hasselblad-xpan)
-15. [Fujica GS645 Pro](#fujica-gs645-pro)
-16. [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
+10. [Nikon S2](#nikon-s2)
+11. [Nikon F](#nikon-f)
+12. [Nikon F2](#nikon-f2)
+13. [Voigtländer Prominent](#voigtländer-prominent)
+14. [Rollei 35 S](#rollei-35-s)
+15. [Rapid Omega 200](#rapid-omega-200)
+16. [Hasselblad Xpan](#hasselblad-xpan)
+17. [Fujica GS645 Pro](#fujica-gs645-pro)
+18. [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
 
 ## Nikon FM
 
@@ -314,6 +316,23 @@ However, just in case you haven't already heard, this camera has a freaking tita
 </div>
 
 ![000095670015](000095670032.webp)
+
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="000306990032.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000306990028+(2).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000306990033.webp" alt="">
+    </div>
+    <div class="caption">apr 25, hwy 72</div>
+    <div class="caption">apr 25, sweetwater antiques</div>
+    <div class="caption">apr 25, hwy 72</div>
+</div>
+
 
 ## Pentax K1000
 <div class="grid-container grid-2x2">
@@ -968,6 +987,68 @@ Apparently, it was common for both the Leica factory and third-party shops to re
     <div class="caption">Vegas, HP5+ 400, october 2017ish.</div>
     <div class="caption">Vegas, HP5+ 400, october 2017ish.</div>
 </div>
+
+
+## Nikon S2
+### Nikon S2 Photo Samples
+![000306980036.webp](000306980036.webp)
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000306980012+(2).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000306980024.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![000306980023.webp](000306980023.webp)
+
+## Nikon F
+### Nikon F Photo Samples
+All these photos are taken with a new film stock I'm trying, LomoChrome Metropolis. I've been looking around for a color film that just oozes that *film* look, and this is a pretty strong contender. All taken with Nikon 50mm 1.4 on 4/19/25.
+
+![000310090011.webp](000310090011.webp)
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000310090035.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000310090007.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="000310090008.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000310090010+(2).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000310090024.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000310090013.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000310090022.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![000289470011](000310090018+(2).webp)
 
 
 ## Nikon F2
