@@ -486,6 +486,38 @@ Interestingly, my particular example has "9-28-78" penciled inside, likely a ser
     <div class="caption">HP5 400, Washington, Nov 2017</div>
 </div>
 
+## Yashica 44
+### How to Shoot with 35mm
+#### Camera Modifications
+I found that many instructions online for converting this camera to shoot with 35mm were rather simplistic. Suggesting that you could just throw in a 35mm roll and that would be it. However, at least on my copy, I found that the 127 film cradles were overly stressed by the 35mm cartridge, and that removing them completely gave a better fit. Additionally, I found that the film pressure plate would hit the edge of the 35mm cartridge, potentially damaging the plate and definitely not providing any tension on the film.
+
+I ended up printing a new [plate from Xlucine](https://www.printables.com/model/251162-yashica-44-35mm-conversion-kit), and it has worked quite well so far.
+
+#### Frame Spacing
+My Yashica is the winding lever variant, and I ran a roll through it while marking with sharpie to check the frame spacing. 
+1. shoot the first 5 shots without reseting, cranking TWO TIMES for each shot
+2. take all remaining shots by reseting and winding once
+
+Just to be abundantly clear about this process:
+- reads 1, shoot first shot
+- wind twice
+- reads 3, shoot second shot
+- wind twice
+- reads 5, shoot third shot
+- wind twice
+- reads 7, shoot fourth shot
+- wind twice
+- reads 9, shoot fifth shot
+- reset, wind once
+- reads 2 take sixth shot
+- reset, wind once
+- reads 2 take seventh shot
+
+### Yashica Sample Photos
+![20250423_190214.webp](20250423_190214.webp)
+
+_fun shot I took before getting the frame spacing figured out -- you can see the overlaping frames on top and bottom, but I think it gives it a vibe_
+
 ## Pentax 67
 
 <div class="grid-container grid-2x2">
