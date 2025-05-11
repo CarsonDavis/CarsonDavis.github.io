@@ -1,10 +1,10 @@
 ---
 title: Shooting Film
 date: 2025-03-16
-last_modified_at: 2025-04-22
+last_modified_at: 2025-05-10
 categories: [photography, film]
 tags: []
-description: reviews, history, and photos from 18 film cameras
+description: reviews, history, and photos from 19 film cameras
 media_subpath: /film-camera-photos/
 image: 20250313_185922.webp
 published: True
@@ -81,8 +81,9 @@ There's a table of contents if you want to jump to a specific camera, and you ca
 14. [Rollei 35 S](#rollei-35-s)
 15. [Rapid Omega 200](#rapid-omega-200)
 16. [Hasselblad Xpan](#hasselblad-xpan)
-17. [Fujica GS645 Pro](#fujica-gs645-pro)
-18. [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
+17. [Fuji GW690ii](#fuji-gw690ii)
+18. [Fujica GS645 Pro](#fujica-gs645-pro)
+19. [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
 
 ## Nikon FM
 
@@ -487,6 +488,17 @@ Interestingly, my particular example has "9-28-78" penciled inside, likely a ser
 </div>
 
 ## Yashica 44
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_170500.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_170320.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
 ### How to Shoot with 35mm
 #### Camera Modifications
 I found that many instructions online for converting this camera to shoot with 35mm were rather simplistic. Suggesting that you could just throw in a 35mm roll and that would be it. However, at least on my copy, I found that the 127 film cradles were overly stressed by the 35mm cartridge, and that removing them completely gave a better fit. Additionally, I found that the film pressure plate would hit the edge of the 35mm cartridge, potentially damaging the plate and definitely not providing any tension on the film.
@@ -734,6 +746,29 @@ _cat!_
 
 ![000289480015](000289510008+(2).webp)
 _the wide 45mm lets you do nice long crops_
+
+<!-- ## Mamiya RZ67
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_142042.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_142153.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_142450.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_142607.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div> -->
 
 
 ## Balda Fixfocus 6x9
@@ -1022,6 +1057,15 @@ Apparently, it was common for both the Leica factory and third-party shops to re
 
 
 ## Nikon S2
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_101251.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_101446.webp" alt="">
+    </div>
+</div>
+
 ### Nikon S2 Photo Samples
 ![000306980036.webp](000306980036.webp)
 
@@ -1039,6 +1083,31 @@ Apparently, it was common for both the Leica factory and third-party shops to re
 ![000306980023.webp](000306980023.webp)
 
 ## Nikon F
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_101628.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_102116.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_101908.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_101815.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+Seen here pictured with 3 different finders.
+
 ### Nikon F Photo Samples
 All these photos are taken with a new film stock I'm trying, LomoChrome Metropolis. I've been looking around for a color film that just oozes that *film* look, and this is a pretty strong contender. All taken with Nikon 50mm 1.4 on 4/19/25.
 
@@ -1055,17 +1124,13 @@ All these photos are taken with a new film stock I'm trying, LomoChrome Metropol
     <div class="caption"></div>
 </div>
 
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="000310090008.webp" alt="">
     </div>
     <div class="image-div">
         <img src="000310090010+(2).webp" alt="">
     </div>
-    <div class="image-div">
-        <img src="000310090024.webp" alt="">
-    </div>
-    <div class="caption"></div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
@@ -1199,6 +1264,21 @@ A standout lens in this lineup that doesn't get nearly enough press is the 105mm
     <div class="caption">HP5 400, Salt Lake, Aug 2017</div>
     <div class="caption">HP5 400, Huntsville, 2017</div>
 </div>
+
+## Exakta
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_104950.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_104937.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![20250510_133215.webp](20250510_133215.webp)
+
 
 ## Voigtländer Prominent
 
@@ -1483,6 +1563,46 @@ I sort of thought that the max aperture of f/4 would be a challenge, but for the
 ![000289470007](000289470007.webp)
 
 ![000289480015](000289480015.webp)
+
+## Fuji GW690ii
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="20250510_100742.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="20250510_100802.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+Pictured by itself, you don't really notice, but the Fuji GW690ii is a _massive_ camera, positively drawfing the normal sized Nikon S2.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="fuji_1.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="fuji_2.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+### Fuji GW690ii Example Photos
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000311630004+(1).webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="000311630006.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption">you can get really punchy results out of this lens</div>
+</div>
+
+![000311630002.webp](000311630002.webp)
+
 
 ## Fujica GS645 Pro
 
