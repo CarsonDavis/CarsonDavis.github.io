@@ -71,7 +71,7 @@ There's a table of contents if you want to jump to a specific camera, and you ca
 4. [Yashica D](#yashica-d)
 5. [Yashica 44](#yashica-44)
 6. [Pentax 67](#pentax-67)
-7. [Mamiya RZ67](#mamiya-rz67) -->
+7. [Mamiya RZ67](#mamiya-rz67)
 8. [Balda Fixfocus 6x9](#balda-fixfocus-6x9)
 9. [Agfa Flexilette](#agfa-flexilette)
 10. [Kodak DualFlex](#kodak-dualflex)
