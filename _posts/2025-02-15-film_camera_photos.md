@@ -1,10 +1,10 @@
 ---
 title: Shooting Film
 date: 2025-03-16
-last_modified_at: 2025-05-10
+last_modified_at: 2025-05-11
 categories: [photography, film]
 tags: []
-description: reviews, history, and photos from 19 film cameras
+description: reviews, history, and photos from 22 film cameras
 media_subpath: /film-camera-photos/
 image: 20250313_185922.webp
 published: True
@@ -69,23 +69,24 @@ There's a table of contents if you want to jump to a specific camera, and you ca
 2. [Nikon FM2](#nikon-fm2)
 3. [Pentax K1000](#pentax-k1000)
 4. [Yashica D](#yashica-d)
-5. [Pentax 67](#pentax-67)
-<!-- [Mamiya RZ67](mamiya-rz67) -->
-6. [Balda Fixfocus 6x9](#balda-fixfocus-6x9)
-7. [Agfa Flexilette](#agfa-flexilette)
-8. [Kodak DualFlex](#kodak-dualflex)
-9. [Leica IIIa](#leica-iiia)
-10. [Nikon S2](#nikon-s2)
-11. [Nikon F](#nikon-f)
-12. [Nikon F2](#nikon-f2)
+5. [Yashica 44](#yashica-44)
+6. [Pentax 67](#pentax-67)
+7. [Mamiya RZ67](mamiya-rz67) -->
+8. [Balda Fixfocus 6x9](#balda-fixfocus-6x9)
+9. [Agfa Flexilette](#agfa-flexilette)
+10. [Kodak DualFlex](#kodak-dualflex)
+11. [Leica IIIa](#leica-iiia)
+12. [Nikon S2](#nikon-s2)
+13. [Nikon F](#nikon-f)
+14. [Nikon F2](#nikon-f2)
 <!-- [Exakta](exakta) -->
-13. [Voigtländer Prominent](#voigtländer-prominent)
-14. [Rollei 35 S](#rollei-35-s)
-15. [Rapid Omega 200](#rapid-omega-200)
-16. [Hasselblad Xpan](#hasselblad-xpan)
-17. [Fuji GW690ii](#fuji-gw690ii)
-18. [Fujica GS645 Pro](#fujica-gs645-pro)
-19. [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
+15. [Voigtländer Prominent](#voigtländer-prominent)
+16. [Rollei 35 S](#rollei-35-s)
+17. [Rapid Omega 200](#rapid-omega-200)
+18. [Hasselblad Xpan](#hasselblad-xpan)
+19. [Fuji GW690ii](#fuji-gw690ii)
+21. [Fujica GS645 Pro](#fujica-gs645-pro)
+22. [Zeiss Super Ikonta 531/2](#zeiss-super-ikonta-5312)
 
 ## Nikon FM
 
@@ -688,8 +689,30 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 ### Pentax 67 Photo Samples
 
-![000289470011](000289560002_new.webp)
-_cat!_
+![000289470011](img20250510_21195625.webp)
+
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img20250510_21361458-2.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img20250510_21395335-2.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="000289560002_new.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img20250510_21163622.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -749,7 +772,7 @@ _cat!_
 ![000289480015](000289510008+(2).webp)
 _the wide 45mm lets you do nice long crops_
 
-<!-- ## Mamiya RZ67
+## Mamiya RZ67
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="20250510_142042.webp" alt="">
@@ -770,8 +793,22 @@ _the wide 45mm lets you do nice long crops_
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
-</div> -->
+</div>
 
+### Mamiya RZ67 Example Photos
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="img20250510_22135648.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="img20250510_21524300-2.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+![img20250510_21470425.webp](img20250510_21470425.webp)
 
 ## Balda Fixfocus 6x9
 
