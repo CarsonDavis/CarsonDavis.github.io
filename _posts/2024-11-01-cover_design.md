@@ -1,12 +1,12 @@
 ---
 title: Cover Design
-date: 2024-11-02
-last_modified_at: 2024-11-02
+date: 2025-05-23
+last_modified_at: 2025-05-25
 categories: [bookbinding, projects log]
 tags: []
-description: Designing book covers in Affinity Design 2.
+description: Designing book covers in Affinity Design 2 and cutting with Silhouette Cameo.
 media_subpath: /cover-design/
-image: header_image.webp
+image: cover_photo_2.webp
 published: False
 ---
 <style>
@@ -53,17 +53,76 @@ published: False
 </style>
 
 
-# Tips and Tricks for Making Cover Art in Affinity Designer 2 and Silhouette Cameo
-
 ## Overview
 
 I've made around a half dozen covers in Affinity, and it feels like every time I walk away for more than a month all my hard-won knowledge evaporates, and I'm back to making rookie mistakes. 
 
-This post will not teach you every single thing you need to know to make covers. It's more of a reference for some common techniques and operations.
+In this post, I've tried to consolidate a rough overview of my process, with some tips and tricks along the way, to finally break me out of the relearning cycle.
 
-If you are completely new to Affinity and Silhouette, you are going to need some additional resources other than this post. When I was first learning, I really enjoyed the videos by [Design Made Simple](https://www.youtube.com/watch?v=tAiAOprFNtU).
+If you are completely new to Affinity and Silhouette, it's probably a good idea to at least watch a couple tutorials online. I personally really enjoyed working through the videos by [Design Made Simple](https://www.youtube.com/watch?v=tAiAOprFNtU).
+
+## Rough Overview
+**Setup**
+1. Brainstorm and design cover art with pen and paper and AI
+2. Create a canvas in Affinity 
+3. Carefully measure book and create template
+
+**Art**
+4. Draw the coverart, tracing from assets when it makes sense
+5. Shape the title font
+
+**Cutting**
+6. Prepare document for cutting
+7. Position and flip in Silhouette, then cut
+
+**Application**
+8. Peel and position HTV on cover
+9. Heat press
+
+
+| Stage           | Step | Task                                             |
+| --------------- | ---- | ------------------------------------------------ |
+| **Setup**       | 1    | Brainstorm cover art with pen and paper and AI   |
+|                 | 2    | Create a canvas in Affinity                      |
+|                 | 3    | Carefully measure book and create template       |
+| **Art**         | 4    | Draw the cover art                               |
+|                 | 5    | Shape the title font                             |
+| **Cutting**     | 6    | Prepare document for cutting                     |
+|                 | 7    | Position and flip in Silhouette, then cut        |
+| **Application** | 8    | Peel and position HTV on cover                   |
+|                 | 9    | Heat press                                       |
+ 
 
 ## Initial Setup
+
+### Design Process
+Although I'm sure some people can just hop in Affinity and smash out a cover from scratch, I'm just a lowly engineer and often need a bit of inspiration. Sometimes I like to simply modify the original cover into something more vector friendly, like with Making of the Fittest. Others I will, in fact, draw almost completly from scratch, like with Demon Haunted World. I especially like using AI image generation as a springboard to flesh out ideas or even make basic assets I can trace into vectors, like with Empire of Cotton. 
+
+If I had to outline a consistent process, it would look something like this:
+1. Brainstorm initial concepts
+2. Use AI tools like ChatGPT for design ideation
+3. Import reference materials and inspiration into Affinity
+4. Create the cover
+
+
+If you've never used a high-quality llm like OpenAi to get the creative juices flowing, I highly recommend it. You can prompt something like: "draw me a line art of a book cover for empire of cotton." It might be too complicated, so you can follow up with, "another one, simpler this time, with bold designs and clean lines"
+
+<div class="grid-container grid-3x2">
+    <div class="image-div">
+        <img src="chatgpt_output.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="chatgpt_output_2.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="final_design_square.webp" alt="">
+    </div>
+    <div class="caption">initial ChatGPT design</div>
+    <div class="caption">simpler ChatGPT design</div>
+    <div class="caption">my final Affinity drawing</div>
+</div>
+
+This back and forth is excellent for helping me narrow down on the vibe that I want, and I can sometimes even get designs components I like enough to directly trace into vectors. You can see how helpful the two chatgpt covers were in pointing me towards my final design.
 
 ### Document Settings in Affinity Designer 2
 
@@ -76,6 +135,23 @@ Create a custom "Book Cover" preset. These usually work well for me:
 >**Pro Tip:** These settings provide ample workspace while maintaining print quality. Save this as a preset to ensure consistency across projects.
 {: .prompt-info }
 
+![layout.webp](layout.webp)
+
+This is a screen shot of Affinity. You can see how I have multiple artboards for different versions, starting with the initial faithful vector conversion and then moving on to the final design that fits everything better within the page.
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="Screenshot_20241030_181734_Lightroom.jpg" alt="">
+    </div>
+    <div class="image-div">
+        <img src="Screenshot_20241030_181837_Lightroom.jpg" alt="">
+    </div>
+    <div class="caption">front</div>
+    <div class="caption">back</div>
+</div>
+
+And, of course, here we have the final cover. 
+
 ### Workspace Organization
 With complicated covers or multiples versions, you can quickly become organizationally overwhelmed. 
 
@@ -86,19 +162,6 @@ With complicated covers or multiples versions, you can quickly become organizati
 3. Save custom workspaces for different stages of the design process
 
 Later, when we get to the export stage, it will be easy to hide the print components and select a workspace to export.
-
-## Design Process
-I'm sure everyone has their own techniques. This is how I've been doing it. 
-
-### 1. Design Conceptualization
-1. Brainstorm initial concepts
-2. Use AI tools like ChatGPT for design ideation
-3. Gather reference materials and inspiration
-4. Sketch rough layouts before moving to digital
-
-Since I'm an infrequent user of Affinity, doing as much as possible in the brainstorming stage is essential. I like to make rouch sketches and upload them to ChatGPT to flesh out, and sometimes I even just describe what I found meaningful in the book and ask for ideas. 
-
-This back and forth is excellent for helping me narrow down on the vibe that I want, and I can sometimes even get designs components I like enough to directly trace into vectors.
 
 ### 2. Creating the Base Structure
 
@@ -120,15 +183,88 @@ A lot of my covers feature a border of some kind around the perimeter, slightly 
 
 Using the contour tool allows you to skip doing a bunch of math.
 
-### 4. Advanced Design Techniques
 
-#### Using the Pen Tool
-- Press 'A' to select/edit nodes
-- Press 'V' to select shapes
-- Press 'P' to activate pen tool
-- Blue-highlighted nodes indicate connection points
-- Hold Shift for straight lines
-- Double-click curves for quick adjustments
+## Pen Tool and Node Manipulation
+
+### The Basics
+**Pen Tool Basics**
+
+1. Press **P** to activate the Pen Tool.
+2. Click to place **sharp nodes** (corner points) with straight segments between them.
+3. Hold **Shift** while clicking or dragging to constrain new segments to 45° increments.
+
+**Converting to Curves**
+
+1. Switch to the Node Tool (**A**).
+2. Hover over a straight segment until you see the little squiggle cursor.
+3. Click & drag that segment to pull it into a single-handle curve (creates one tangent handle).
+
+**Smooth vs. Sharp Nodes**
+
+* **Sharp nodes** have no handles and always form corners.
+* **Smooth nodes** maintain C¹ continuity:
+
+  1. Double-click an untouched node (in Node Tool) to convert it to Smooth.
+  2. Two handles appear, linked 180° opposite—dragging one moves both, affecting both adjacent segments.
+
+**Breaking Continuity**
+
+* Hold **Alt** (Option on Mac) and drag **one** handle to move it independently (break the link).
+* Add **Shift** to lock that handle’s movement to 45° increments.
+
+**Adding & Removing Nodes**
+
+* **Add a node**: While in the node tool, hover the mouse over a line until you see a squiggle then click and release.
+* **Remove a handle**: Double-click a handle (or Alt-click) to delete it and restore a corner.
+
+### Cheat Sheet
+
+| Action                          | Shortcut (Win)                       | Shortcut (Mac)                          |
+| ------------------------------- | ------------------------------------ | --------------------------------------- |
+| Activate Pen Tool               | `P`                                  | `P`                                     |
+| Activate Node Tool              | `A`                                  | `A`                                     |
+| Activate Move Tool              | `V`                                  | `V`                                     |
+| Constrain line or handle to 45° | `Shift`                              | `Shift`                                 |
+| Generate Curve                  | Hover for squiggle, click and drag   | Hover for squiggle, click and drag      |
+| Convert node: Smooth ↔ Sharp    | Double-click node                    | Double-click node                       |
+| Drag one handle independently   | `Alt` + drag                         | `Option` + drag                         |
+| Remove a handle                 | Double-click handle (or `Alt`+click) | Double-click handle (or `Option`+click) |
+
+---
+
+## Tracing
+### The Basics
+1. **Import Reference** at \~50% opacity on its own layer. Lock the reference layer
+2. **Map Major Points**: place a node at each key corner or curve start/end (avoid clicking mid-curve)
+3. **Curve Segments**: hover for the squiggle, click & drag to shape.
+4. **Refine Nodes**: switch to **A**, convert critical nodes to Smooth, tweak handles; use **Alt** to break continuity where necessary.
+5. **Finalize**: adjust stroke weight, join segments, and clean up any stray nodes.
+6. **Group Components**: group meaningful components so they can be moved and locked together
+
+>**Node Placement:** I create a node at every major change in the drawing: new curve, new straight line, etc. I do _not_ click in the middle of existing curves. I create nodes at the beginning and end of a curve. 
+{: .prompt-info }
+
+>**Curve Dragging:** Creating smooth nodes and manipulating the handles directly isn't always needed. Instead, I hover until I see the squiggly and just drag the line to the correct curve. Only later will manipulate node handles.
+{: .prompt-info }
+
+---
+
+
+## Tips for Using Affinity
+
+### Selecting Objects
+Sometimes, the object you are trying to select just won't seem to activate. 
+
+#### Theory
+- Locking layers
+- Contained within groups
+
+If you have pressed V to enter the Move Tool, and you are clicking on a shape but nothing happens, it is probably either locked or within a group. You need to double click on groups to enter further within the structure so that you can then click on individual components.
+
+#### Theory Explanation
+
+#### How I Trace
+
 
 #### Vector Tracing Tips
 1. Import reference image at 50% opacity
