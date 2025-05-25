@@ -63,7 +63,7 @@ This guide walks through the complete process of designing and cutting book cove
 
 ### Document Settings in Affinity Designer 2
 
-Create a custom "Book Cover" preset with these specifications:
+Create a custom "Book Cover" preset. These usually work well for me:
 - Width: 350mm
 - Height: 300mm
 - DPI: 144
@@ -99,8 +99,8 @@ For optimal workflow in AD2:
 #### Measuring and Layout
 1. Measure physical book dimensions precisely using calipers
 2. Create cover shapes:
-   - Main cover: Usually 144x218mm
-   - Spine: Typically 24x218mm
+   - Main cover: ~ 150x220mm
+   - Spine: ~ 25x220mm
    - **Always measure the actual book and adjust accordingly**
 
 #### Border Creation
@@ -141,7 +141,7 @@ For optimal workflow in AD2:
    - STIX Two Text
    - Plantagenet Cherokee
 
-### 5. Spine Design
+### 5. Spine Designa
 
 #### Creating Spine Bands
 1. Design single band template
@@ -154,6 +154,9 @@ For optimal workflow in AD2:
 {: .prompt-info }
 
 ### 6. Export and Silhouette Cameo Preparation
+
+#### Add Layout Marks
+Actually aligning the cover with the book can be a nightmare with no reference marks. I like to look at the exact dimensions of the front cover boards, not including the spine or the gap, and add indexing markers here.
 
 #### Exporting from AD2
 1. Hide Print Components layer
@@ -190,6 +193,27 @@ For optimal workflow in AD2:
 - Leverage alignment tools for consistent spacing
 - Group related elements before final positioning
 
+### Object Overlapping
+So, often I have the problem that I used overlapping objects to hide areas of the stroke during drawing, and when I get to the cutting stage it wants to cut all those hidden object. Since I am always cutting out of one color, it seems like there should just be an easy way to select all gold and cut around it, but I haven't found this option in a way that works. 
+
+Using Affinity Design's Select by fill color doesn't behave how I expected, and the exported selections still contain things not in the fill.
+
+So, instead, what I do is go through the entire drawing and expand everything into real shapes, then use subtraction to cut away all the parts I was previously hiding with mere colors. 
+
+- convert all objects to curves, Layer → Convert to Curves
+- expand all strokes, Layer → Expand Stroke
+  - this gives everything an external geometry instead of internal line
+- any background color areas that were hiding parts of the foreground now need to be subtracted.
+  - start at the lowest layer and select it, then the layer that is masking it
+  - subtract
+  - if weird stuff happens, one of your layers was not correctly expanded to strokes
+Now is also the time to tidy up any of your overlaps. Once things are expanded to strokes, it becomes easier to manipulate every egde and corner. You might want to think about deleting some nodes, moving them around, or tweaking their handles. 
+Sometimes wierd things happen when expanding, so always go back through your shapes and add and subtract them one by one until you get the finished item.
+
+Another problem I've seen in this phase is that previously even and constant width strokes will suddenly become triangular after expand to stroke. I have been able to fix this by changing the cap fom circular to square extending beyond the point. This effect is also seen sometimes when importing an unexpanded curve into Silouhette. 
+
+I have also fixed this problem by opening the pressure menu in stroke and clicking reset. It turned out that in my supposedly "uniform" pressure curve, I actually had 3 points instead of 2.
+
 ## Resource List
 
 ### Recommended Tutorials
@@ -215,6 +239,12 @@ For optimal workflow in AD2:
 >**Workflow Tip:** Develop a consistent naming convention for your files and layers. This becomes crucial when working on multiple book covers or revisiting projects months later.
 {: .prompt-info }
 
+## Materials
+- If you accidently heat for longer than the recommended time, you may see bubling on your HTV. In this case, DO NOT peel immediately. As the glue will still be tacky. Instead, allow it to cool before peeling. 
+
+- Siser HTV Metal Bronze
+  - Silhouette Settings: Heat Transfer, Reflective
+  - Blade Depth 1, Force 10, Speed 6, Passes 1
 
 # Notes
 
