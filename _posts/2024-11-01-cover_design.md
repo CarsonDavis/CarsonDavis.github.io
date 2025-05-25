@@ -53,11 +53,15 @@ published: False
 </style>
 
 
-# Comprehensive Guide to Book Cover Design with Affinity Designer 2 and Silhouette Cameo
+# Tips and Tricks for Making Cover Art in Affinity Designer 2 and Silhouette Cameo
 
 ## Overview
 
-This guide walks through the complete process of designing and cutting book covers using Affinity Designer 2 (AD2) and Silhouette Cameo (SC). While the principles apply to other software like Adobe Illustrator or Cricut, specific tips and techniques focus on AD2 and SC workflows.
+I've made around a half dozen covers in Affinity, and it feels like every time I walk away for more than a month all my hard-won knowledge evaporates, and I'm back to making rookie mistakes. 
+
+This post will not teach you every single thing you need to know to make covers. It's more of a reference for some common techniques and operations.
+
+If you are completely new to Affinity and Silhouette, you are going to need some additional resources other than this post. When I was first learning, I really enjoyed the videos by [Design Made Simple](https://www.youtube.com/watch?v=tAiAOprFNtU).
 
 ## Initial Setup
 
@@ -69,19 +73,22 @@ Create a custom "Book Cover" preset. These usually work well for me:
 - DPI: 144
 - Document Units: mm
 
->**Pro Tip:** These settings provide ample workspace while maintaining print quality. Always save this as a preset to ensure consistency across projects.
+>**Pro Tip:** These settings provide ample workspace while maintaining print quality. Save this as a preset to ensure consistency across projects.
 {: .prompt-info }
 
 ### Workspace Organization
+With complicated covers or multiples versions, you can quickly become organizationally overwhelmed. 
 
-For optimal workflow in AD2:
 1. Create two main layer groups:
-   - Book Components (visible elements)
-   - Print Components (technical elements)
+   - Book Components (cover, spine, bands, etc)
+   - Print Components (design, art, title, etc)
 2. Keep your layers panel organized with clear naming conventions
 3. Save custom workspaces for different stages of the design process
 
+Later, when we get to the export stage, it will be easy to hide the print components and select a workspace to export.
+
 ## Design Process
+I'm sure everyone has their own techniques. This is how I've been doing it. 
 
 ### 1. Design Conceptualization
 1. Brainstorm initial concepts
@@ -89,29 +96,29 @@ For optimal workflow in AD2:
 3. Gather reference materials and inspiration
 4. Sketch rough layouts before moving to digital
 
-### 2. Asset Collection and Preparation
-1. Source assets from AD2 stock library
-2. Import and organize external assets
-3. Convert all assets to appropriate format (vector/raster)
+Since I'm an infrequent user of Affinity, doing as much as possible in the brainstorming stage is essential. I like to make rouch sketches and upload them to ChatGPT to flesh out, and sometimes I even just describe what I found meaningful in the book and ask for ideas. 
 
-### 3. Creating the Base Structure
+This back and forth is excellent for helping me narrow down on the vibe that I want, and I can sometimes even get designs components I like enough to directly trace into vectors.
+
+### 2. Creating the Base Structure
 
 #### Measuring and Layout
 1. Measure physical book dimensions precisely using calipers
-2. Create cover shapes:
+2. Create two initial cover shapes. They'll be similar to this:
    - Main cover: ~ 150x220mm
    - Spine: ~ 25x220mm
-   - **Always measure the actual book and adjust accordingly**
+
+>**Measure What?:** Don't include the gutter or the spine in your cover measurements. I only measure the surface of the board. 
+{: .prompt-info }
 
 #### Border Creation
-1. Use the Contour tool for professional borders:
+A lot of my covers feature a border of some kind around the perimeter, slightly inset from the edges. The contour tool can be great for this. Something like:
    - Inset: 7.5mm
    - Stroke width: 2.5-3pt
    - Fill: Transparent
    - Stroke color: Match your design scheme
 
->**Technical Note:** When creating borders, using the Contour tool rather than manual drawing ensures perfect alignment and consistent spacing.
-{: .prompt-info }
+Using the contour tool allows you to skip doing a bunch of math.
 
 ### 4. Advanced Design Techniques
 
