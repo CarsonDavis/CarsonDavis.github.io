@@ -1,8 +1,8 @@
 ---
-title: Cover Design
+title: Book Cover Design
 date: 2025-05-23
 last_modified_at: 2025-05-25
-categories: [bookbinding, projects log]
+categories: [bookbinding, cover design]
 tags: []
 description: Designing book covers in Affinity Design 2 and cutting with Silhouette Cameo.
 media_subpath: /cover-design/
@@ -61,7 +61,7 @@ In this post, I've tried to consolidate a rough overview of my process, with som
 
 If you are completely new to Affinity and Silhouette, it's probably a good idea to at least watch a couple tutorials online. I personally really enjoyed working through the videos by [Design Made Simple](https://www.youtube.com/watch?v=tAiAOprFNtU).
 
-## Rough Overview
+<!-- ## Rough Overview
 **Setup**
 1. Brainstorm and design cover art with pen and paper and AI
 2. Create a canvas in Affinity 
@@ -90,22 +90,20 @@ If you are completely new to Affinity and Silhouette, it's probably a good idea 
 | **Cutting**     | 6    | Prepare document for cutting                     |
 |                 | 7    | Position and flip in Silhouette, then cut        |
 | **Application** | 8    | Peel and position HTV on cover                   |
-|                 | 9    | Heat press                                       |
+|                 | 9    | Heat press                                       | -->
  
 
-## Initial Setup
+## Design Process
+Although I'm sure some people can just hop in Affinity and smash out a cover from scratch, I'm just a lowly engineer and often need a bit of inspiration. Sometimes I like to simply modify the original cover into something more vector friendly, like with Making of the Fittest. Sometimes I really will draw almost completly from scratch, like with Demon Haunted World. However, I especially like using AI image generation as a springboard to flesh out ideas or even make basic assets I can trace into vectors, like with Empire of Cotton. 
 
-### Design Process
-Although I'm sure some people can just hop in Affinity and smash out a cover from scratch, I'm just a lowly engineer and often need a bit of inspiration. Sometimes I like to simply modify the original cover into something more vector friendly, like with Making of the Fittest. Others I will, in fact, draw almost completly from scratch, like with Demon Haunted World. I especially like using AI image generation as a springboard to flesh out ideas or even make basic assets I can trace into vectors, like with Empire of Cotton. 
-
-If I had to outline a consistent process, it would look something like this:
+If I had to outline my process, it would look something like this:
 1. Brainstorm initial concepts
 2. Use AI tools like ChatGPT for design ideation
 3. Import reference materials and inspiration into Affinity
 4. Create the cover
 
 
-If you've never used a high-quality llm like OpenAi to get the creative juices flowing, I highly recommend it. You can prompt something like: "draw me a line art of a book cover for empire of cotton." It might be too complicated, so you can follow up with, "another one, simpler this time, with bold designs and clean lines"
+If you've never used a high-quality llm like OpenAi to get the creative juices flowing, I highly recommend it. You can prompt something like: "draw me a line art of a book cover for empire of cotton." ...which might be too complicated to cut with a silouette, so you can follow up with, "another one, simpler this time, with bold designs and clean lines"
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
@@ -124,9 +122,12 @@ If you've never used a high-quality llm like OpenAi to get the creative juices f
 
 This back and forth is excellent for helping me narrow down on the vibe that I want, and I can sometimes even get designs components I like enough to directly trace into vectors. You can see how helpful the two chatgpt covers were in pointing me towards my final design.
 
-### Document Settings in Affinity Designer 2
 
-Create a custom "Book Cover" preset. These usually work well for me:
+## Setting Up Affinity
+When the design phase is over, it's time to get everything set up nicely within Affinity.
+
+### Document Settings
+I use a custom "Book Cover" preset that gives me enough room to work with and specifies the same units that I like using when measuring books.
 - Width: 350mm
 - Height: 300mm
 - DPI: 144
@@ -135,9 +136,15 @@ Create a custom "Book Cover" preset. These usually work well for me:
 >**Pro Tip:** These settings provide ample workspace while maintaining print quality. Save this as a preset to ensure consistency across projects.
 {: .prompt-info }
 
+### Workspace Organization
+
+#### Artboards
+
+Once I'm actually working in Affinity and creating different verions of the covers, I will create arboards. I copy and paste different major versions on each artboard, and this lets me easily make comparisons, create print versions, etc.
+
 ![layout.webp](layout.webp)
 
-This is a screen shot of Affinity. You can see how I have multiple artboards for different versions, starting with the initial faithful vector conversion and then moving on to the final design that fits everything better within the page.
+Here you can see my multiple artboards for different versions, starting with the initial faithful vector conversion and then moving on to the modified final design.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -152,29 +159,47 @@ This is a screen shot of Affinity. You can see how I have multiple artboards for
 
 And, of course, here we have the final cover. 
 
-### Workspace Organization
-With complicated covers or multiples versions, you can quickly become organizationally overwhelmed. 
+#### Groups
 
-1. Create two main layer groups:
-   - Book Components (cover, spine, bands, etc)
-   - Print Components (design, art, title, etc)
+Even when using artboards, you can be quickly overwhelmed by the number of curves and shapes. I try to very deliberately name and group curves that I would later want to move or edit together. 
+
+So I might have top level groups for:
+  - Book Components (cover, spine, bands, etc)
+  - Print Components (design, art, title, etc)
+
+And then within Print Components I would have groups for
+  - Title
+  - Candle
+  - Light Beams
+  - etc 
 2. Keep your layers panel organized with clear naming conventions
 3. Save custom workspaces for different stages of the design process
 
-Later, when we get to the export stage, it will be easy to hide the print components and select a workspace to export.
+>**Printing** Entire groups can be hidden or locked together, making it easy to lock the book cover so you don't accidently move it, or to hide the spine when exporting the text.
+{: .prompt-info }
 
-### 2. Creating the Base Structure
+## Creating the Book Template
 
-#### Measuring and Layout
+### Measuring and Layout
 1. Measure physical book dimensions precisely using calipers
 2. Create two initial cover shapes. They'll be similar to this:
    - Main cover: ~ 150x220mm
    - Spine: ~ 25x220mm
 
->**Measure What?:** Don't include the gutter or the spine in your cover measurements. I only measure the surface of the board. 
+>**Measure What??** Don't include the gutter or the spine in your cover measurements. I only measure the surface of the board. 
 {: .prompt-info }
 
-#### Border Creation
+### Creating Spine Bands
+1. Design single band template
+2. Position at spine top
+3. Duplicate for additional bands
+4. Use Transform panel for precise spacing
+5. Measure from physical book for accuracy
+
+>**Measurement Tip:** When spacing spine bands, measure from the top of the spine to each band's top edge on the physical book. Use these measurements in the Transform panel for perfect positioning.
+{: .prompt-info }
+
+### Border Creation
 A lot of my covers feature a border of some kind around the perimeter, slightly inset from the edges. The contour tool can be great for this. Something like:
    - Inset: 7.5mm
    - Stroke width: 2.5-3pt
@@ -183,10 +208,9 @@ A lot of my covers feature a border of some kind around the perimeter, slightly 
 
 Using the contour tool allows you to skip doing a bunch of math.
 
+## Drawing
+### Pen Tool and Node Manipulation
 
-## Pen Tool and Node Manipulation
-
-### The Basics
 **Pen Tool Basics**
 
 1. Press **P** to activate the Pen Tool.
@@ -217,7 +241,7 @@ Using the contour tool allows you to skip doing a bunch of math.
 * **Add a node**: While in the node tool, hover the mouse over a line until you see a squiggle then click and release.
 * **Remove a handle**: Double-click a handle (or Alt-click) to delete it and restore a corner.
 
-### Cheat Sheet
+**Cheat Sheet**
 
 | Action                          | Shortcut (Win)                       | Shortcut (Mac)                          |
 | ------------------------------- | ------------------------------------ | --------------------------------------- |
@@ -230,10 +254,9 @@ Using the contour tool allows you to skip doing a bunch of math.
 | Drag one handle independently   | `Alt` + drag                         | `Option` + drag                         |
 | Remove a handle                 | Double-click handle (or `Alt`+click) | Double-click handle (or `Option`+click) |
 
----
 
-## Tracing
-### The Basics
+### Tracing
+
 1. **Import Reference** at \~50% opacity on its own layer. Lock the reference layer
 2. **Map Major Points**: place a node at each key corner or curve start/end (avoid clicking mid-curve)
 3. **Curve Segments**: hover for the squiggle, click & drag to shape.
@@ -247,33 +270,46 @@ Using the contour tool allows you to skip doing a bunch of math.
 >**Curve Dragging:** Creating smooth nodes and manipulating the handles directly isn't always needed. Instead, I hover until I see the squiggly and just drag the line to the correct curve. Only later will manipulate node handles.
 {: .prompt-info }
 
----
+
+### Shapes
+Shapes are the downfall of a new Affinity user. I don't want to tell you how long I struggled to wrap my head around consistent shape additions and subtractions. 
+
+The idea is simple: you draw two shapes and then you can subtract one from the other, either by selecting and pressing the subtract button, or by using the shape builder tool. However, not every drawn item in Affinity can be combined, and there are a few gotchas to consider along the way.
+
+The most important thing to know it that the only thing being subtracted are fills, _not_ strokes. When you expand something from curves, it will automatically be closed shape made by vectors that have no stroke width. But if you have drawn shapes from scratch, it is possible they have a stroke width which will wreck havoc on you shape subtraction.
+
+**Guidelines**:
+- all objects need to have fill (either native shapes or expanded strokes)
+- native shapes should be drawn with no stroke, just fill
 
 
-## Tips for Using Affinity
-
-### Selecting Objects
-Sometimes, the object you are trying to select just won't seem to activate. 
-
-#### Theory
-- Locking layers
-- Contained within groups
-
-If you have pressed V to enter the Move Tool, and you are clicking on a shape but nothing happens, it is probably either locked or within a group. You need to double click on groups to enter further within the structure so that you can then click on individual components.
-
-#### Theory Explanation
-
-#### How I Trace
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="shapes_nodes.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="shapes_no_nodes.webp" alt="">
+    </div>
+    <div class="caption">nodes selected</div>
+    <div class="caption">unselected</div>
+</div>
 
 
-#### Vector Tracing Tips
-1. Import reference image at 50% opacity
-2. Create new layer above
-3. Trace key elements with pen tool
-4. Use node tool (A) for refinements
-5. Apply appropriate fills/strokes
+Here's an actual problem I ran into while making the Empire of Cotton cover. The left images show the nodes selected, so you can clearly see the vectors. Click on them to enlarge.
 
-#### Text and Typography
+- **Vectors**: The original shape I drew for the cover. Works great when you are still changing the sizes of everything.
+- **Expanded**: The strokes are now expanded so that they can be subtracted.
+- **Fill has Stroke**: Since the bulb had a stroke, you can see that after subtraction it followed into the cutouts, making them almost completely disappear.
+- **No Stroke**: I've removed the stroke from the bulb and enlarged it to match the orignal size. Now the subtraction finally works as expected.
+
+>**Too Late?** If you have already made a bunch of shapes with stroke widths, don't worry! 
+- Duplicate the shape in a contrasting color.
+- Remove the stroke, making it smaller. 
+- Use the contor tool to increase the size until it matches the original.
+{: .prompt-info }
+
+
+## Text and Typography
 1. Use the Warp tool for curved text:
    - Easy method: Text Studio panel
    - Advanced method: Custom path warping
@@ -284,42 +320,44 @@ If you have pressed V to enter the Move Tool, and you are clicking on a shape bu
    - STIX Two Text
    - Plantagenet Cherokee
 
-### 5. Spine Designa
+## Export and Silhouette Cameo Preparation
 
-#### Creating Spine Bands
-1. Design single band template
-2. Position at spine top
-3. Duplicate for additional bands
-4. Use Transform panel for precise spacing
-5. Measure from physical book for accuracy
-
->**Measurement Tip:** When spacing spine bands, measure from the top of the spine to each band's top edge on the physical book. Use these measurements in the Transform panel for perfect positioning.
-{: .prompt-info }
-
-### 6. Export and Silhouette Cameo Preparation
-
-#### Add Layout Marks
+### Add Layout Marks
 Actually aligning the cover with the book can be a nightmare with no reference marks. I like to look at the exact dimensions of the front cover boards, not including the spine or the gap, and add indexing markers here.
 
-#### Exporting from AD2
+### Exporting from Affinity
 1. Hide Print Components layer
-2. Export as PDF
-3. Ensure all text is converted to curves
-4. Verify vector integrity
+2. Ensure all text is converted to curves
+3. Ensure all shapes are converted to curves
+4. Finalize any shape subtraction (see shapes section above)
+5. Export as PDF
 
-#### Silhouette Cameo Import Settings
+### Silhouette Cameo Import Settings
 1. Import as vector
 2. Uncheck "Group objects"
 3. Position with 10mm minimum margins
 4. Mirror horizontally (Object → Mirror → Flip Horizontal)
 
-#### Critical Cutting Settings
+### Critical Cutting Settings
 - Text elements: Use outline cutting
 - Solid shapes: Use center-line cutting
 - Verify cut preview before proceeding
 - Place material shiny side down
 
+### Materials
+- If you accidently heat for longer than the recommended time, you may see bubling on your HTV. In this case, DO NOT peel immediately. As the glue will still be tacky. Instead, allow it to cool before peeling. 
+
+- Siser HTV Metal Bronze
+  - Silhouette Settings: Heat Transfer, Reflective
+  - Blade Depth 1, Force 10, Speed 6, Passes 1
+
 ## Troubleshooting Common Issues
+
+### Selection Troubleshooting
+
+Sometimes, the object you are trying to select just won't seem to activate. 
+
+If you have pressed V to enter the Move Tool, and you are clicking on a shape but nothing happens, it is probably either locked or within a group. You need to double click on groups to enter further within the structure so that you can then click on individual components.
 
 ### Vector Fill Problems
 - Ensure objects have proper fill, not just strokes
@@ -335,6 +373,12 @@ Actually aligning the cover with the book can be a nightmare with no reference m
 - Use snap-to-grid for precise positioning
 - Leverage alignment tools for consistent spacing
 - Group related elements before final positioning
+
+### Expand to Stroke Shennanigans
+
+Another problem I've seen in this phase is that previously even and constant width strokes will suddenly become triangular after expand to stroke. I have been able to fix this by changing the cap fom circular to square extending beyond the point. This effect is also seen sometimes when importing an unexpanded curve into Silouhette. 
+
+I have also fixed this problem by opening the pressure menu in stroke and clicking reset. It turned out that in my supposedly "uniform" pressure curve, I actually had 3 points instead of 2.
 
 ### Object Overlapping
 So, often I have the problem that I used overlapping objects to hide areas of the stroke during drawing, and when I get to the cutting stage it wants to cut all those hidden object. Since I am always cutting out of one color, it seems like there should just be an easy way to select all gold and cut around it, but I haven't found this option in a way that works. 
@@ -353,9 +397,6 @@ So, instead, what I do is go through the entire drawing and expand everything in
 Now is also the time to tidy up any of your overlaps. Once things are expanded to strokes, it becomes easier to manipulate every egde and corner. You might want to think about deleting some nodes, moving them around, or tweaking their handles. 
 Sometimes wierd things happen when expanding, so always go back through your shapes and add and subtract them one by one until you get the finished item.
 
-Another problem I've seen in this phase is that previously even and constant width strokes will suddenly become triangular after expand to stroke. I have been able to fix this by changing the cap fom circular to square extending beyond the point. This effect is also seen sometimes when importing an unexpanded curve into Silouhette. 
-
-I have also fixed this problem by opening the pressure menu in stroke and clicking reset. It turned out that in my supposedly "uniform" pressure curve, I actually had 3 points instead of 2.
 
 ## Resource List
 
@@ -371,93 +412,16 @@ I have also fixed this problem by opening the pressure menu in stroke and clicki
 - Hold Shift: Constrain proportions
 - Hold Alt: Copy while dragging
 
-## Final Tips and Best Practices
 
-1. Always work with backup copies
-2. Test cut settings on scrap material
-3. Maintain organized layer structure
-4. Document successful settings for future reference
-5. Regular saving and versioning
 
->**Workflow Tip:** Develop a consistent naming convention for your files and layers. This becomes crucial when working on multiple book covers or revisiting projects months later.
-{: .prompt-info }
 
-## Materials
-- If you accidently heat for longer than the recommended time, you may see bubling on your HTV. In this case, DO NOT peel immediately. As the glue will still be tacky. Instead, allow it to cool before peeling. 
-
-- Siser HTV Metal Bronze
-  - Silhouette Settings: Heat Transfer, Reflective
-  - Blade Depth 1, Force 10, Speed 6, Passes 1
 
 # Notes
-
-
-I want to write a post on my processes for designing book covers using affinity design 2 and siloutte cameo.
-the tutorial will be applicable to other software, such as illustrator or cricut, but will have many specific tips for AD2 and SC.
-
-the overview of my process is something like this:
-1. brainstorm ideas for the cover and go back and forth with chatgpt on possible designs
-2. use any assets from GPT or the affinity design stock images that i can
-3. make a document with my book preset
-4. measure the book with calipers/ruler and draw the cover and spine
-5. use the outline? tool to trace any art (need to give tips here)
-6. add text
-7. export as PDF
-8. import into siloutte cameo
-
 There are several things that i think i have specific tips on such as:
-- using the pen tool
-- using the contour tool
-- using the shape builder tool
 - using the text tool
 - using warp to make nice shapes with text (there was an easy and a hard way iirc)
-- using the stock images in affinity
-- the exact document settings that I use
-- how to organize the layers in affinity
-- how to organize workspaces in affinity
-- how to import the PDF into siloutte cameo (grouped or not grouped, etc)
-- how you can change the text or lines so that they cut correctly in siloutte cameo...there is something special about whether it is rasterized or not that i think is in my notes
-   - if it isn't, you have to treat it differently when you are in siloutte cameo, because some things will cut the outline, and others will cut the line in the middle
-- tips on filling in shapes and good and bad ways to do it 
  
 ------------------
-
-here is an example of how i do tips and formatting in other posts:
-
-#### 6. **Scoop and Chill the Dough:**
-1. Using a **¼-cup measure**, scoop dough portions onto a parchment-lined baking sheet.  
-2. Cover tightly with plastic wrap and refrigerate for **12 to 48 hours**.  
-
->**Rest the Dough:** It doesn't need to be a baking sheet -- I shove mine into tubberware. But you must let them sit at least overnight. In my experience, the flavors continue to merge and the final texture improves for up to about 2 days.
-{: .prompt-info }
-
-
-#### 7. **Prepare the Oven and Bake:**
-1. Preheat oven to **350°F**.  
-2. Place **6–8 dough balls** on an aluminum foil-lined baking sheet.  
-3. Bake for **15–18 minutes**.  
-4. Let them crystalize! Rest them for about 3 minutes, and they will be warm, gooey, and perfectly crunchy. Eat them too soon and they will just be too hot and soft.
-
->**Baking:** Baking is maybe the most important part of any cookie. You can have the best recipe, but if you don't bake it right, it won't shine. I usually take them out around 15-16 minutes. The goal is some softness in the center but a nice crunch on the outside. The tops should have a nice golden brown color. If the cookie isn't the perfect mix of gooey and crunchy, then you need to adjust your baking times. 
-{: .prompt-info }
-
---------------------------------
-
-here are some notes that I took while learning affinity design and taking tutorials:
-Cutting Objects
-If you are going to subtract objects from each other, they need to have fill, not just curves. Its good to do it like this:
-the base object should be crafted from the start with no stoke, just fill
-if you are already far into your project, you can duplicate, remove stroke off one, and use the contour tool to increase the size to remake it like the original
-if you need to subtract any strokes, you can Layer => Expand Stroke
-this will convert a stroke to a fill
-then arrange the objects in the layers panel, subtract on top, and 
-
-sick t shirts guy
-what the hell are artboards??
-
-
-HOLY SHIT
-incredible video of dude making a mushroom character in vector art with shading and stuff
 
 Selecting
 click an object, go to the select menu, then select same
@@ -471,12 +435,6 @@ Making Objects
 When sizing an object, hold shift or control to lock the aspect ratio or scale from the middle
 Hold shift key while rotating to lock to 15 degree increments
 
-Using the Pen Tool
-You can hold shift to lock the line
-You can drag while placing a point to make it curved
-
-Pencil Tool
-the pencil tool automatically makes curves that match a softened version of what you drew
 
 Brush Tool
 take a shape and apply a brush to it
