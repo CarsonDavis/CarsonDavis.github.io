@@ -69,11 +69,8 @@ If you are _completely_ new to Affinity and Silhouette, it's probably a good ide
 * [Setting Up Affinity](#setting-up-affinity)
 * [Creating the Book Template](#creating-the-book-template)
 * [Drawing](#drawing)
-* [Text and Typography](#text-and-typography)
 * [Export and Silhouette Cameo Preparation](#export-and-silhouette-cameo-preparation)
 * [Troubleshooting Common Issues](#troubleshooting-common-issues)
-* [Resource List](#resource-list)
-
 
 ## Design Process
 Although I'm sure some people can just hop into Affinity and smash out a cover from scratch, I'm just a lowly engineer and often need a bit of inspiration. Sometimes I like to simply modify the original cover into something more vector friendly, like with Making of the Fittest. Sometimes I really will draw almost completly from scratch, like with Demon Haunted World. However, I especially like using AI image generation as a springboard to flesh out ideas - or even make basic assets I can trace into vectors, like with Empire of Cotton. 
