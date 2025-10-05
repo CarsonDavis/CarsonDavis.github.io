@@ -1,7 +1,7 @@
 ---
-title: Nikon Repair
+title: Human Evolution
 date: 2025-09-25
-last_modified_at: 2025-09-25
+last_modified_at: 2025-10-05
 categories: []
 tags: []
 description: 
@@ -28,14 +28,14 @@ https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0131055&utm_
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4920293/?utm_source=chatgpt.com
 https://docs.google.com/presentation/d/1V3NXCO2bk4gP78U8qCWdrDs3e0SRLnYuBmrqaSM6-6s/edit?slide=id.p#slide=id.p
 
-## Homo neanderthalensisn
-### Homo neanderthalensis: La Ferrassie 1
+## Homo neanderthalensis
+### La Ferrassie 1
 [Sketchfab: Jorge Zárate](https://sketchfab.com/3d-models/homo-neanderthal-c5b18842080f479889fb04133c5f701f)
 [bone clones info](https://boneclones.com/product/homo-neanderthalensis-skull-la-ferrassie-1-BH-019)
 no information on the model page
 Location: files/neandertal/homo-neanderthalensis-la-ferrassie-1/source/LaFerrasie_1/LaFerrasie_1.obj
 
-### Homo neadnerthalensis: Shanidar 1
+### Shanidar 1
 [Sketchfab: Person](https://sketchfab.com/3d-models/neanderthal-skull-9b3c92418e564edc8cc84dda42e6c761)
 [bone clones info](https://boneclones.com/product/shanidar-1-skull-BH-050)
 [Length source](https://www.academia.edu/figures/7188879/table-2-selected-measurements-from-the-shanidar-and-crania)
@@ -160,10 +160,14 @@ the model was sized at 181.55, and so i printed a 50% scale of that
 - **Reference**
   - [Sketchfab](https://sketchfab.com/3d-models/homo-heidelbergensis-8b07fb8f41a74d589be05e7152a79612) — great detail, includes jaw
 
+Scale
+https://sci-hub.ru/https://doi.org/10.1006/jhev.1997.0133
+the published GOL here is 185, so after rotating the skull and cutting we get a y:92.5. this gives an x:73.73 and a scale of 761.32
+
 **Decision**
 - Status: ⭐ Wishlist  
 - Rationale: detailed specimen, but not top priority — eventually worth printing
-
+- I think this is the same as the erectus with a jaw that i printed??
 ---
 
 ### Broken Hill (Rhodesian Man)
@@ -212,8 +216,12 @@ the model was sized at 181.55, and so i printed a 50% scale of that
 ### KNM-ER 732 (face fragment)
 **Links**
 - **Reference**
-  - [African Fossils](https://africanfossils.org/hominids/knmer-732?o=1) — half-face fragment, looks awesome  
+  - [African Fossils](https://africanfossils.org/hominids/knmer-732?o=1) — half-face fragment, looks awesome. final analysis, this is the higher quality one
   - [Sketchfab (2501.1rp46)](https://sketchfab.com/3d-models/australopithecus-boisei-25011rp46-fb12e13b384b48609a5c0a0bf29591ee) — same fragment, might be higher quality
+
+has been printed
+Scale
+Both of these had the same size, so i trust it
 
 **Decision**
 - Status: 🖨️ To Print  
@@ -247,7 +255,7 @@ need to request download. this looks pretty nice. graet to compare the jaws and 
 - printed at 50%, looks pretty accurate
 
 **Decision**
-- Status: 🖨️ To Print
+- Status: 🖨️ Printed
 - Rationale: distinctive anatomical fragment, really like this one as a quiz piece
 
 
@@ -273,7 +281,8 @@ DNH-7-Vault.stl
 this is a pretty neat and very high quality x-rayed cranium fragment with tons of interesting fractures
 
 https://www.morphosource.org/concern/media/000163331?locale=en
-here is the face from the same individual
+here is the face from the same individual. also seems to be the right scale 
+search for 000163331 in downloads. this is the one i tried to print and had some trouble with. it's a pretty cool piece, should definitely be one of the first fragments on my list to print.
 
 ---
 
@@ -319,7 +328,7 @@ excellent, excellent, excellent
 ## Afarensis
 [sizing](https://sketchfab.com/3d-models/australopithecus-afarensis-cranium-4562f063aba647d290abb5808d66f20a) ugly model, but has okish looking sizing (x: 56*2)
 
-[good?](https://www.thingiverse.com/thing:4826086/files)this looks suprisingly good? it seems to be a reconstruction but with nice texture in the model. should give this a second look at hink about printing
+[good?](https://www.thingiverse.com/thing:4826086/files)this looks suprisingly good? it seems to be a reconstruction but with nice texture in the model. should give this a second look at hink about printingif
 
 [morphosource](https://www.morphosource.org/concern/media/000005729?locale=en). this is an xray, like the other morphosources from douglas boyer. need to request. pretty major reconstruction, but has definitely good details
 
@@ -358,7 +367,7 @@ ok, so ardi is supposedly ~325 cc compared to habilis 1813 of ~500. also, is it 
 Turkana child
 
 [fragment](https://sketchfab.com/3d-models/homo-ergaster-cranium-f461dbb45add4a0d944060b2d0a49f78)
-this appears to be KNM ER 3883
+this appears to be KNM ER 3883 - i think i printed this
 
 [turkan child](https://sketchfab.com/3d-models/homo-ergaster-skull-turkana-child-0ef67e21a9ab43d483134d8edd6535b4)
 
