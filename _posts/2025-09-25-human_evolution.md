@@ -22,7 +22,8 @@ published: False
 
 ## Dimensions
 - https://evolutionaryanthropology.duke.edu/sites/evolutionaryanthropology.duke.edu/files/site-images/Sebiba%20Berger%20et%20al.pdf
-- https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf?utm_source=chatgpt.com
+- https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf
+  - nice table with about 30 GOL. mostly of sapiens, neand, erect, habilis, and boisei
 
 https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0131055&utm_source=chatgpt.com
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4920293/?utm_source=chatgpt.com
@@ -30,51 +31,129 @@ https://docs.google.com/presentation/d/1V3NXCO2bk4gP78U8qCWdrDs3e0SRLnYuBmrqaSM6
 
 ## Homo neanderthalensis
 ### La Ferrassie 1
-[Sketchfab: Jorge Zárate](https://sketchfab.com/3d-models/homo-neanderthal-c5b18842080f479889fb04133c5f701f)
-[bone clones info](https://boneclones.com/product/homo-neanderthalensis-skull-la-ferrassie-1-BH-019)
-no information on the model page
-Location: files/neandertal/homo-neanderthalensis-la-ferrassie-1/source/LaFerrasie_1/LaFerrasie_1.obj
+**Links**
+- **Reference**
+  - [Sketchfab: Jorge Zárate](https://sketchfab.com/3d-models/homo-neanderthal-c5b18842080f479889fb04133c5f701f) - this is the one that I printed
+  - [Bone Clones info (BH-019)](https://boneclones.com/product/homo-neanderthalensis-skull-la-ferrassie-1-BH-019)
+
+**Scaling**
+- I printed two of these. One at y:~100mm, and one matching a more reasonable GOL. I can't seem to find my source but, I measured the print at ~101mm GOL. Note that this gives a much larger y.
+
+**Decision**
+- Status: ✅ Printed 
+- Scale: used actual GOL?
+
+---
 
 ### Shanidar 1
-[Sketchfab: Person](https://sketchfab.com/3d-models/neanderthal-skull-9b3c92418e564edc8cc84dda42e6c761)
-[bone clones info](https://boneclones.com/product/shanidar-1-skull-BH-050)
-[Length source](https://www.academia.edu/figures/7188879/table-2-selected-measurements-from-the-shanidar-and-crania)
-Location: files/neandertal/shanindar-reconstruction/neanderthal_skull.stl
-- GOL: 207
-- XCB: 154
-- XFB: 128
+**Links**
+- **Reference**
+  - [Sketchfab](https://sketchfab.com/3d-models/neanderthal-skull-9b3c92418e564edc8cc84dda42e6c761)
+  - [Bone Clones info (BH-050)](https://boneclones.com/product/shanidar-1-skull-BH-050)
+  - [Measurement source (table 2)](https://www.academia.edu/figures/7188879/table-2-selected-measurements-from-the-shanidar-and-crania)
+  - [Human Origins: Shanidar 3 skeleton](https://humanorigins.si.edu/evidence/human-fossils/shanidar-3-neanderthal-skeleton)
+  - Location: files/neandertal/shanindar-reconstruction/neanderthal_skull.stl
 
-https://humanorigins.si.edu/evidence/human-fossils/shanidar-3-neanderthal-skeleton cool information
+**Scaling worksheet**
+- This was one of my first prints and I didn't know what I was doing, so I used a y:97.5, which is much too small.
 
-*note* Shanidar 5 has the same XFB, but no other mearusements recorded
+**Decision**
+- Status: ✅ Printed  
+- Scale: printed at y:97.5 mm  
+- Open issues: Hugely difficult skull to paint, but would be nice to print actual size in the future.
 
-However, what I actually used was 97.5 as the length, based on ChatGPT saying 195mm for the Maximum cranial length (glabella-opistocranion). Idk where it got this.
+---
 
-No information on the model page.
-### more? 
-[another cool neanderthal?](https://sketchfab.com/3d-models/crane-de-neandertal-ce29a98485a148bd928d5d43886fb577) should look into printing this one
-[ANOTHER one](https://sketchfab.com/3d-models/homo-neanderthalensis-433rp7-94d6d0d89da44fae9201dbaf5250d6dc)
+### La Chapelle-aux-Saints 1 (LCS 1)
+**Links**
+- **Reference**
+  - [“Crâne de Néandertal”](https://sketchfab.com/3d-models/crane-de-neandertal-ce29a98485a148bd928d5d43886fb577)
+  - [Another model](https://sketchfab.com/3d-models/homo-neanderthalensis-433rp7-94d6d0d89da44fae9201dbaf5250d6dc)
+
+**Decision**
+- Status: ⭐ Wishlist
+- Rationale: this is a cool one, missing a bunch of teeth, has a massive chunk missing from the top of the cranium, otherwise a very complete skull
+
 
 ## Homo erectus
-Length: 210mm (bone clones)
 
-[with jaw](https://sketchfab.com/3d-models/homo-erectus-georgicus-438a06818f954f8191da677303ac7987) - high detail, should print this one. might have model problems, not sure.
-ok, so it was a bit of work for this one. i made a copy rotated the skull and slicd off the front to get the actual GOL measurment of 165/2=83.5. then the width of the skull was 65.84, so i copied that over to the non-cut skull (giving a y: of 95.34 and a scale of 467.61%) it should have a cc of ~560, and it looks about right next to la fareassi on the print bed
+### Homo erectus georgicus D2700
+**Links**
+- **Reference**
+  - [Sketchfab (with jaw)](https://sketchfab.com/3d-models/homo-erectus-georgicus-438a06818f954f8191da677303ac7987)
 
-[link](https://sketchfab.com/3d-models/homo-erectus-skull-d645e45ff307403e9d2073a6390fc353) - i think this is the one that i printed, but need to load it into the slicer and check.
+**Scaling worksheet**
+- http://hesp.irmacs.sfu.ca/sites/hesp.irmacs.sfu.ca/files/lordkipanidze_et_al_2013_science.pdf
+  - this is a good paper, has info for 5 different skulls from Dmanisi Georgia, but sadly only measurements on D4500, not my D2700
+- Rotated skull and sliced off the front to measure actual GOL: 165 / 2 = 83.5 mm  
+- This gives a y:65.84 mm and a scale of 467.61%  
+- Based on the estimated cranial capacity of ~560 cc, it looks right next to La Ferrassie on the print bed
 
-[excellent](https://www.morphosource.org/media/000005791) this is from morphosource and it is the one that i requested the download of. it looks execellent, but need to get it into the softwar before i start requesting a lot of downloads. has some big ole cracks in it, big chunks missing. actually, this looks like a partial reconstruction of Sangiran 17
+**Decision**
+- Status: ✅ Printed
 
-[great](https://sketchfab.com/3d-models/homo-erectus-pithecanthrope-de-javasangiran17-e2e8335158e942448f5ac879e8067602) this is a nice 75% cranium from Sangiran 17. definitely print this one.
+---
 
-the size of the model on this one compared to my two habilis skulls is insanley huge, at x:71.5. what's freaking crazy tho is the measurements from https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf give an XCB of fucking 161. at this point I simply don't care, i can't keep obsessing. i'll print it as is, at 50%, which is supposedly even smaller than the real skull
+### Sawyer Reconstruction
+**Links**
+- **Reference**
+  - [Sketchfab](https://sketchfab.com/3d-models/homo-erectus-skull-d645e45ff307403e9d2073a6390fc353)
 
-[skull cap](https://sketchfab.com/3d-models/homo-erectus-trinil-2-1979rp4-b83a24e9d57143b3a3257058f1b16eb9) interesting skull cap 
+**Decision**
+- Status: ✅ Printed
+- Scale: too small - printed this before I understood how to do the measurements
 
+---
 
-[awesome skull cap](https://sketchfab.com/3d-models/homo-erectus-pekinensis-skullcap-60ef90a4f4c742ee95786e6ee0d68b38) - - wierd fbx format. seems to be correctly scaled. printed at 50%. contains the brow ridge and the left side of the skull, but no face. big ole sutures. 
+### Sangiran 17
+**Links**
+- **Printed**
+  - [Sketchfab (Sangiran 17)](https://sketchfab.com/3d-models/homo-erectus-pithecanthrope-de-javasangiran17-e2e8335158e942448f5ac879e8067602) — nice 75% cranium from Sangiran 17; printed this one; scaled from the site
+- **Reference**
+  - [MorphoSource](https://www.morphosource.org/media/000005791) — partial reconstruction of Sangiran 17, not the one that I printed
 
-"A scan of a rare replica from the 1930s of the Zhoukoudian III Homo erectus pekinensis skull. Sadly the temporal and sphenoid bones on the right have been lost on the replica. The original fossils of the Zhoukoudian skull have been lost before WWII. Only a number of replicas now remain. This species of human lived during the Middle Pleistocene in northern China. Also known as Peking Man."
+**Measurements (published)**
+- GOL: 206 mm (Gordon et al. 2008, PNAS supp.)  
+- XCB: 161 mm (same source)
+
+**Scaling worksheet**
+- Full-size model's GOL ~201 mm → close enough to the published 206 mm from https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf 
+
+**Notes**
+this is one of the first big skulls that i trusted the measurement of. notes at the time read: the size of the model on this one compared to my two habilis skulls is insanley huge, at x:71.5. what's freaking crazy tho is the measurements from https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf give an XCB of fucking 161. at this point I simply don't care, i can't keep obsessing. i'll print it as is, at 50%, which is supposedly even smaller than the real skull
+
+**Decision**
+- Final print: ✅ Printed
+- Scale: 50% of model scale
+
+---
+
+### Trinil 2 (skull cap)
+**Links**
+- **Reference**
+  - [Sketchfab](https://sketchfab.com/3d-models/homo-erectus-trinil-2-1979rp4-b83a24e9d57143b3a3257058f1b16eb9) — interesting skull cap with a strange base
+
+**Decision**
+- Status: ⭐ Wishlist  
+- Rationale: intriguing partial specimen; worth printing later to compare with Sangiran 17’s vault structure
+
+---
+
+### Zhoukoudian III (“Peking Man” skullcap)
+**Links**
+- **Printed**
+  - [Sketchfab](https://sketchfab.com/3d-models/homo-erectus-pekinensis-skullcap-60ef90a4f4c742ee95786e6ee0d68b38) — weird FBX format, seems correctly scaled; printed at 50%. Includes brow ridge and left side of skull, no face, large sutures  
+  - Description from page:  
+    > “A scan of a rare replica from the 1930s of the Zhoukoudian III Homo erectus pekinensis skull. Sadly the temporal and sphenoid bones on the right have been lost on the replica. The original fossils of the Zhoukoudian skull have been lost before WWII. Only a number of replicas now remain. This species of human lived during the Middle Pleistocene in northern China. Also known as Peking Man.”
+
+**Scaling worksheet**
+- Appeared correctly scaled from source  
+- Printed at 50% of original model scale
+
+**Decision**
+- Final print: ✅ Printed
+- Scale: 50%
+
 
 ## Australopithicus sediba
 https://www.morphosource.org/concern/media/000010462
@@ -445,6 +524,7 @@ This list compiles each species I printed, with a record of which fossil or reco
   - Tattersall-Sawyer Reconstruction
   - Sangiran 17
   - Zhoukoudian III Skull cap
+  - Georgicus
 - Homo heidelbergensis
   - Rhodesian Man, Broken Hill 1 (from cast RLA 2501.1rp35)
   - Steinheim Skull
