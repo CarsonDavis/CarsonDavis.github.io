@@ -10,6 +10,8 @@ image: 20250313_185922.webp
 published: False
 ---
 
+australopithecus
+
 ## Resources
 
 - [Artifact Map](https://africanfossils.org/artifact-map)
@@ -19,6 +21,23 @@ published: False
   - [mystery skull interactive](https://humanorigins.si.edu/evidence/human-fossils/mystery-skull-interactive)
 - [fossil comparisons](https://archaeology.sites.unc.edu/home/ca/teaching-resources/anth-148-human-origins/recitation-5-fossil-hominins/r5-station-1/)
 [TEETH](https://human-fossil-record.org/index.php?/category/5549)
+- [digital atlas](https://www.museumoftheearth.org/human-origins/3d-models) nice page with interactive models through evolutionary time. definitely should start here and then go to the learn more section as I begin writing about each skull
+
+## Download Sites
+### Worthwhile Sites
+- [Sketchfab]() - best site I know of. tons of great models, but not always available for download
+- [Morphosource]() - when they have the model, this is the best by far. Many x-ray scans with insane detail. Also incredible for modern crania
+- [africanfossils](https://africanfossils.org/search) - not the biggest collection, but they have pretty decent scans of actual fossils and fragments
+- [yeggi](https://www.yeggi.com/) - search aggregator, decent search
+- [Printables](https://www.printables.com/) - small selection, but worth checking
+- [nepos](https://archiv.neanderthal.de/) - might be good? i've signed up for it
+
+### Dead Sites
+- [DigiMorph](https://digimorph.org/resources/STLs.phtml) - made back in 2006, this used to have ct scans specifically ready for 3d printing, but they no longer seem to have any live links
+- [cgtrader](https://www.cgtrader.com/) - high prices
+- [turbosquid](https://www.turbosquid.com/) - high prices, and sells skulls that are free elsewhere
+- [free3d](https://free3d.com/) - nothing good
+- [Smithsonian 3d Digitization](https://3d.si.edu/object/3d/australopithecus-afarensis-cranium) - nothing actually available for download here
 
 ## Dimensions
 - https://evolutionaryanthropology.duke.edu/sites/evolutionaryanthropology.duke.edu/files/site-images/Sebiba%20Berger%20et%20al.pdf
@@ -68,12 +87,39 @@ https://docs.google.com/presentation/d/1V3NXCO2bk4gP78U8qCWdrDs3e0SRLnYuBmrqaSM6
 **Links**
 - **Reference**
   - [“Crâne de Néandertal”](https://sketchfab.com/3d-models/crane-de-neandertal-ce29a98485a148bd928d5d43886fb577)
-  - [Another model](https://sketchfab.com/3d-models/homo-neanderthalensis-433rp7-94d6d0d89da44fae9201dbaf5250d6dc)
+  - https://sketchfab.com/3d-models/homo-neanderthalensis-cranium-d1c26eba568f4c1098e5434c992b54b7 - no scale (this is the one to print)
+  - https://sketchfab.com/3d-models/homo-neanderthalensis-mandible-61757a736c2849a98824550fca19509d - jaw (should go with the no scale, but it has DIFFERENT SCALE. 125 seems close, but ultimatedly i decided not to print)
+  - https://sketchfab.com/3d-models/primate-homo-neanderthalensis-cf6caab2981d423582ef14bec9fefd0c - with jaw. might revist if i feel like a single piece. the jaw is really nice, you can see how the teeth are missing during life
+  - https://sketchfab.com/3d-models/homo-neanderthalensis-433rp7-94d6d0d89da44fae9201dbaf5250d6dc - not really as good
+
+https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf lists 206 for the GOL. doing the normal rotate and cut, this gives us a scale of 2392.39%, and an x: 75.8
+
 
 **Decision**
-- Status: ⭐ Wishlist
+- Status: ⭐ printing
 - Rationale: this is a cool one, missing a bunch of teeth, has a massive chunk missing from the top of the cranium, otherwise a very complete skull
 
+[Engis2](https://sketchfab.com/3d-models/engis2-the-neanderthal-child-of-belgium-c5ca8c0a08f24939b4a51040e33cc417) - partial child cranium, really cool (first neandertal ever discovered?) - definitely not the right scale, although it is the right order of magnitude. welp, i stand corrected. the expected 50% GOL is 88, and my GOL at 50% is 88.88, so i'll keep it at 50%
+
+https://biblio.naturalsciences.be/associated_publications/anthropologica-prehistorica/bulletin-de-la-societe-royale-belge-d-anthropologie-et-de-prehistoire/ap-094-1983/ap94_51-75.pdf - GOL 176
+
+
+
+## teshik-tash child
+- https://sketchfab.com/3d-models/homo-neanderthalensis-skull-80d3195e886d4afc8c5827d2f34511bb
+
+**scale**
+- https://www.jstor.org/stable/3628554 - "the greatest breadth of the skull is 125", brain volume estimated at 1490cc
+- [bone clones](https://boneclones.com/product/homo-neanderthalensis-child-skull-teshik-tash-BH-027?utm_source=chatgpt.com) - gives a width of 139cm 
+- so, imo if the cc is correct, there is no way that breadth measurement from the paper is right. 
+- meanwhile, if we take the width from bone clones, we get a very reasonable looking cc compared to the ~1620 LCS 1 
+- https://biblio.naturalsciences.be/associated_publications/anthropologica-prehistorica/bulletin-de-la-societe-royale-belge-d-anthropologie-et-de-prehistoire/ap-094-1983/ap94_51-75.pdf ok, this has a nice table which includes both the engis 2 and the taeshik. the GOL is 185. this actually looks really excellent, and gives an x: of 71.5 at a scale of 219.77%
+
+gibraltar 1
+- https://sketchfab.com/3d-models/homo-neanderthalensis-gibraltar-1-1979rp35-1dd9654eb62347a88452accf4373cc98 - i think this is the right scale? at a minimum, the size on the bed matches the size listed in the description. it also scales about the same as LCS 1
+
+mt circeo 1
+- https://sketchfab.com/3d-models/homo-neanderthalensis-mt-circeo-1-1979rp36-10c83a34e13749b1b88fc78c4d4722fb - not on bed, very smooth model, don't love it
 
 ## Homo erectus
 
@@ -155,15 +201,33 @@ this is one of the first big skulls that i trusted the measurement of. notes at 
 - Scale: 50%
 
 
-## Australopithicus sediba
-https://www.morphosource.org/concern/media/000010462
-wrote down 145 for the juvenile length
-- XCB: 109
-mine's width is about ~50mm, so a little too small
-UW88-50
+## Australopithecus sediba
 
-https://www.morphosource.org/concern/media/000008393?locale=en (need to request)
-awesome hand of dediba
+### UW88-50 (juvenile cranium)
+**Links**
+- **Printed**
+  - [MorphoSource model](https://www.morphosource.org/concern/media/000010462)
+
+**Scaling worksheet**
+- Model appeared correctly scaled as downloaded  
+
+**Decision**
+- Final print: ✅ Printed  
+- Scale: 50% model size
+
+---
+
+### Hand of sediba
+**Links**
+- **Reference**
+  - [MorphoSource (hand model)](https://www.morphosource.org/concern/media/000008393?locale=en) — awesome hand of sediba; need to request access before downloading
+
+**Decision**
+- Status: ⭐ Wishlist  
+- Rationale: great anatomical addition to accompany the skull once access is granted
+
+## Australopithecus anaminsis
+- https://cults3d.com/en/3d-model/art/australopithecus-anamensis-skull-reconstruction - paid model at $18.83. reconstruction with jaw. dude has 3 total models
 
 ## Australopithicus africanus
 
@@ -214,6 +278,7 @@ the model was sized at 181.55, and so i printed a 50% scale of that
 ## Homo Florensis
 - [should print](https://sketchfab.com/3d-models/homo-floresiensis-crane-et-mandibule-97b4975b1464401a824c6513234dd45a)
   - this is a scaled cranum with jaw. and it looks like it is even higher quality than the one that i printed, with deep sutures
+ok, so although this seems scaled, the GOL is 130, whereas Gordon publishes 143. So I scaled the model to actual 143, which was 110.05%
 
 
 ## Homo heidelbergensis
@@ -229,7 +294,7 @@ the model was sized at 181.55, and so i printed a 50% scale of that
 - model page said y197 x129 z131, so I did x:64.5, which gave 1974.87%
 
 **Decision**
-- Status: Printed
+- Status: ✅ Printed
 - Rationale: good broken detail, adds variation compared to more complete crania
 
 ---
@@ -244,7 +309,7 @@ https://sci-hub.ru/https://doi.org/10.1006/jhev.1997.0133
 the published GOL here is 185, so after rotating the skull and cutting we get a y:92.5. this gives an x:73.73 and a scale of 761.32
 
 **Decision**
-- Status: ⭐ Wishlist  
+- Status: ✅ Printed 
 - Rationale: detailed specimen, but not top priority — eventually worth printing
 - I think this is the same as the erectus with a jaw that i printed??
 ---
@@ -255,6 +320,7 @@ the published GOL here is 185, so after rotating the skull and cutting we get a 
   - [Sketchfab](https://sketchfab.com/3d-models/homo-sapiens-25011rp35-cranium-96ce6fa86a01479d907f7032e3e8f9b1) - has a neat broken left side that I can paint black, cast number RLA 2501.1rp35
 - **Reference**
   - [Sketchfab (alternative)](https://sketchfab.com/3d-models/homo-heidelbergensis-broken-hill-1979rp9-91c4a28787c04df39540a290528794fa) — this had more detail, but reconstructed
+  - [morpho](https://www.morphosource.org/concern/media/000005747) - possibly the most detail of all. reconstructed. would need to request from douglas
 
 **Scaling notes**
 - Dimensions listed on site: 231 × 145 × 145 mm — seemed huge  
@@ -263,7 +329,8 @@ the published GOL here is 185, so after rotating the skull and cutting we get a 
 - My measurment of the printed model is ~61 at the widest x
 
 **Decision**
-- Final print: ✅ Printed (scaled to ~100 mm long)  
+- Status: ✅ Printed
+- Scaled to ~100 mm long 
 - Rationale: scaled for comparability rather than absolute dimensions  
 - Open issues: might consider reprinting this the correct size...
 ---
@@ -283,13 +350,11 @@ the published GOL here is 185, so after rotating the skull and cutting we get a 
   - [morphosource](https://www.morphosource.org/concern/media/000005731?locale=en). this looks really damn high quality. should request this if i decide to do any full sized prints
 
 **Scaling worksheet**
-- Anchor metric: none used yet  
-- Model scale: printed as-is  
+- Scale: not sure how I scaled this one, as the model loaded tiny. the final print has a measured x: 71.38
 
 **Decision**
-- Final print: ✅ Printed (from 2501.1rp74-1 model)   
-- Scale: not sure how I scaled this one, as the model loaded tiny. the final print has a measured x: 71.38
-- Open issues: revisit mislabeled higher-quality scan if reprinting
+- Status: ✅ Printed (from 2501.1rp74-1 model)   
+- Open issues: revisit mislabeled higher-quality scan if reprinting. also scale correctly...
 ---
 
 ### KNM-ER 732 (face fragment)
@@ -303,7 +368,7 @@ Scale
 Both of these had the same size, so i trust it
 
 **Decision**
-- Status: 🖨️ To Print  
+- Status: ✅ Printed  
 - Rationale: really cool fragment of the entire left side of the face and some of the skull cap
 
 ---
@@ -334,7 +399,7 @@ need to request download. this looks pretty nice. graet to compare the jaws and 
 - printed at 50%, looks pretty accurate
 
 **Decision**
-- Status: 🖨️ Printed
+- Status: ✅ Printed
 - Rationale: distinctive anatomical fragment, really like this one as a quiz piece
 
 
@@ -392,7 +457,15 @@ ok, so this one didn't have a scale, but the two other ones did have a scale, so
 
 note that the usual RLA that i print from didn't actually have the best quality model, instead Geoffrey did. I went to his page do see if he had any other good models, but there were only a couple. Need to recheck what they were.
 
+## Homo antecesor
+[face](https://sketchfab.com/3d-models/homo-antecesor-optimizado-skull-fossil-4285b5e74982473c8b14c947d07e4590). this guy has some nice stuff, but it isn't public. he has a website, etc, and i messaged him on his insta https://www.instagram.com/garcia_avila_m. we'll see what comes of it..
 
+still need to look at morpho for this
+
+## Homo Longi
+- [Denosivan Harbin Cranium](https://sketchfab.com/3d-models/denosivan-harbin-cranium-homo-longidragonman-5a62c69bf0b545a2989a75bea9baffe8)
+- [remix](https://sketchfab.com/3d-models/denisovan-harbin-cranium-0620fb7e802b4a04bf5bbbb3ae7a9d16) - this is a remix which tries to improve the eyes, etc
+- these guys are actively working on this as of literally 7 hours ago, so should probably wait to see how the dust settles
 
 ## Keyanthropus platyops
 costs $4 and might be open, maybe hold off on this one https://www.fab.com/listings/78029783-d33d-48f6-bcc5-db3d2fe5d08c
@@ -410,6 +483,8 @@ excellent, excellent, excellent
 [good?](https://www.thingiverse.com/thing:4826086/files)this looks suprisingly good? it seems to be a reconstruction but with nice texture in the model. should give this a second look at hink about printingif
 
 [morphosource](https://www.morphosource.org/concern/media/000005729?locale=en). this is an xray, like the other morphosources from douglas boyer. need to request. pretty major reconstruction, but has definitely good details
+
+- (https://cults3d.com/en/3d-model/art/australopithecus-afarensis-skull-reconstruction) paid reconstruction at $11.26. looks pretty nice though
 
 ## Rudolfensis
 
@@ -501,9 +576,13 @@ all of them were sized by the model itself
 ## Naledi
 [skull cap](https://www.morphosource.org/concern/media/000084599?locale=en) this is neat, seems to be sized correctly - WITS - Lesedi Chamber - U.W. 102a-011
 [skull with jawa](https://www.morphosource.org/concern/media/000054666?locale=en) seems to be sized correctly too - LES1 - Homo naledi 'Neo' - Reconstruction of cranium 
-
+nfenis
 
 - i'm printing both of these at their actual listed sizes
+
+## cats
+
+[fossil lion thing??](https://sketchfab.com/3d-models/panthera-gombaszoegensis-8db4f6bff5bd431cb490b2dc6c57fd4a) this is a neat big cat fossil
 
 ## Hippo
 
@@ -520,14 +599,16 @@ This list compiles each species I printed, with a record of which fossil or reco
 - Homo neanderthalensis
   - La Ferrassie 1
   - Shanidar 1
+  - La Chapelle-aux-Saints 1
 - Homo erectus
   - Tattersall-Sawyer Reconstruction
   - Sangiran 17
   - Zhoukoudian III Skull cap
-  - Georgicus
+  - Georgicus with Jaw, D2700
 - Homo heidelbergensis
   - Rhodesian Man, Broken Hill 1 (from cast RLA 2501.1rp35)
   - Steinheim Skull
+  - Atapuerca 5
 - Homo ergaster
   - KNM ER 3883
 - Homo rudolfensis
@@ -542,11 +623,13 @@ This list compiles each species I printed, with a record of which fossil or reco
   - official reconstruction
 - Paranthropus boisei
   - Zinj, OH 5 (from cast RLA 2501.1rp74)
+  - KNM-ER 732 (face fragment)
+  - Ear fragment (2501.1rp20-5)
 - Parantrhopus robustus
   - SK 48 (male, from cast RLA 2501.1rp23)
   - DNH 7 (female)
 - Paranthropus aethiopicus
-  - KNM-WT 17000
+  - KNM-WT 17000, black skull
 - Kenyanthropus platyops
   - KNM-WT 40000
 - Australopithecus afarensis
@@ -563,21 +646,14 @@ This list compiles each species I printed, with a record of which fossil or reco
 - Chimp
   - Male from cast RLA 2501.1rp4-1
 
-printing sunday morning
-Erectus
+sunday night
+La Chapelle-aux-Saints 1
 
+monday day
+- engis2
+- teshik
+- gibraltar
 
-Monday Night
- - naledicap-earpiece-model_0.6n_0.2mm_PLA_MK3S_2h43m.gcode
- - this has also been carefully edited
- - ear piece
- - naledi skull cap
-
-Monday Night
-- strong supports
-
-Tuesday Day
-- femurs
 
 
 
@@ -591,7 +667,14 @@ Age: 120,000 - 80,000 years B.P.
 Dimensions: length, 221 mm; width, 147 mm; height, 149 mm.
 x: 73.5
 
-
 [Mladeč 1 Skull (NHMW-ANTHRO-OSTE-5454)
 ](https://sketchfab.com/3d-models/mladec-1-skull-nhmw-anthro-oste-5454-509f150ada6d4e92962bba97d50fffe7)
 this had a scale, but it was _MASSIVE_ so i put it to an x dead in between of the other two at x:75
+
+
+[qafezh](https://sketchfab.com/3d-models/qafzeh-9-cranium-cast-f876e0b0fe974e38bd17a759cdeb48a8)
+I messaged dennis on facebook: https://www.facebook.com/drmeanderthal
+
+He also has heidelbergensis bodo https://sketchfab.com/3d-models/bodo-cranium-38819d5d02fe4db4af22801d43585294, homo idaltu.
+
+there is another idaltu from UCFanthropology https://sketchfab.com/3d-models/homo-sapiens-idaltu-cranium-d1dc845f48c5464292a8351075ed93f5. Need to message them for some of their skulls... 
