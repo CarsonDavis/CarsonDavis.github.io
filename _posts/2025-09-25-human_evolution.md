@@ -118,7 +118,7 @@ https://biblio.naturalsciences.be/associated_publications/anthropologica-prehist
 gibraltar 1
 - https://sketchfab.com/3d-models/homo-neanderthalensis-gibraltar-1-1979rp35-1dd9654eb62347a88452accf4373cc98 - i think this is the right scale? at a minimum, the size on the bed matches the size listed in the description. it also scales about the same as LCS 1
 
-mt circeo 1
+mt circeo 1g
 - https://sketchfab.com/3d-models/homo-neanderthalensis-mt-circeo-1-1979rp36-10c83a34e13749b1b88fc78c4d4722fb - not on bed, very smooth model, don't love it
 
 ## Homo erectus
@@ -280,6 +280,15 @@ the model was sized at 181.55, and so i printed a 50% scale of that
   - this is a scaled cranum with jaw. and it looks like it is even higher quality than the one that i printed, with deep sutures
 ok, so although this seems scaled, the GOL is 130, whereas Gordon publishes 143. So I scaled the model to actual 143, which was 110.05%
 
+https://os.pennds.org/archaeobib_filestore/pdf_articles/JHE/2011_61_6_Kaifuetal.pdf
+excellent write up on the skull. notes that there are two GOLs, 139 and 143. it's a 40 page paper, really great, need to read
+
+
+
+scale marker which is 100 is 45.82
+the 139 is 59.78
+the ??? is 62.63
+
 
 ## Homo heidelbergensis
 
@@ -327,6 +336,9 @@ the published GOL here is 185, so after rotating the skull and cutting we get a 
 - Printed instead at same size as my Neanderthal skulls (~100 mm long)
 - PPS: Looking back later, it's possible these big sizes were correct. It seems a lot of them really are supposed to be in the 70s for XCB
 - My measurment of the printed model is ~61 at the widest x
+
+**Scaling Notes: Updated**
+So, both of the models have the same size on the bed. I measured the GOL and it clocks in at 213mm at 100% scale for the RLA reconstruction. Gordon has this marked at 206mm, so I have scaled slightly to 96.75% to match this GOL measurement
 
 **Decision**
 - Status: ✅ Printed
@@ -504,6 +516,7 @@ excellent, excellent, excellent
 ## Gorllia
 [skull with jaw](https://sketchfab.com/3d-models/gorilla-sp-male-crane-et-mandibule-9a37fbf556bd4f52b0b98ec3b9e3ad5b) should look for somethinglike this to print
 
+[laser](https://sketchfab.com/3d-models/gorilla-sp-male-crane-et-mandibule-9a37fbf556bd4f52b0b98ec3b9e3ad5b) this is a laser scan, but it has hollow with nice details? 
 
 https://www.morphosource.org/concern/media/000102891?locale=en
 weird skull with wierd crest. search for the number to find the file
@@ -538,7 +551,7 @@ africanfossils lists Dimensions:  x=168.00; y=112.00; z=114.00 mm
 boneclones lists as 171,118,116
 paper gives the XCB as 113mm, or 56.5
 i'm printing at 56.5, or 271.71% scale
-whoa - https://www.morphosource.org/concern/media/000005965. need to revist this print. super high qlality of this fossil i think. i have requested for download. 
+whoa - https://www.morphosource.org/concern/media/000005965. need to revist this print. super high qlality of this fossil i think. scale looks to be basically dead on of gordon's published 149 
 
 
 [twiggy, OH 24](https://sketchfab.com/3d-models/homo-habilis-twiggy-255074b073074c81a2d9764dc8ff21a2) decent. once you slice it it's not bad x:58 @50%
