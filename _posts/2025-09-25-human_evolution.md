@@ -551,6 +551,9 @@ model is in the final folder. the model GOL is 156mm. can't find the actual
 https://www.morphosource.org/concern/media/000102891?locale=en
 weird skull with wierd crest. search for the number to find the file
 
+primate phenotypes on morphosource sorted by cranium https://www.morphosource.org/media-lists/000656244?utf8=%E2%9C%93&locale=en&per_page=100&sort=part_ssi+asc&q=cranium. DEFINITELY go through this page
+
+
 ## Ardipithecus ramidus
 
 [Sketchfab: Digital Atlas of Ancient Life: Ardipithecus ramidus cranium](https://sketchfab.com/3d-models/ardipithecus-ramidus-cranium-1b55fb758d164a60bab6a7d57f750b01)
@@ -728,3 +731,14 @@ I messaged dennis on facebook: https://www.facebook.com/drmeanderthal
 He also has heidelbergensis bodo https://sketchfab.com/3d-models/bodo-cranium-38819d5d02fe4db4af22801d43585294, homo idaltu.
 
 there is another idaltu from UCFanthropology https://sketchfab.com/3d-models/homo-sapiens-idaltu-cranium-d1dc845f48c5464292a8351075ed93f5. Need to message them for some of their skulls... 
+
+
+nice collection of age and gender separated sapiens. not sure how well the models will print https://sketchfab.com/anabucchi/models
+
+
+primate hips and femurs, looks execellent, definitely need to download and print this https://sketchfab.com/3d-models/comparaison-bassins-de-primates-80c521120b1741199130b7670ff04aa8
+some more - https://sketchfab.com/3d-models/comparaison-bassins-chimpanzehumaingorille-593a7743282f4d7380f794be74ff4b36
+need to check out the rest of this guy's models too -- he has a ton of gooda animal stuff and fossils
+
+
+some more human skulls https://sketchfab.com/3d-models/malar-tubercle-466477fa65a84e9a999675c23284843e. these seem to be mt scans and this lady has more stuff on here page which would be good to look at. a ton of comparative collections
