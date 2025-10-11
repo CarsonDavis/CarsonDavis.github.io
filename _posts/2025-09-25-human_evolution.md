@@ -48,6 +48,21 @@ https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0131055&utm_
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4920293/?utm_source=chatgpt.com
 https://docs.google.com/presentation/d/1V3NXCO2bk4gP78U8qCWdrDs3e0SRLnYuBmrqaSM6-6s/edit?slide=id.p#slide=id.p
 
+https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.25413
+- this has photos of human skulls with a scale in the photo
+
+https://ars.els-cdn.com/content/image/1-s2.0-S2666675821000552-mmc1.pdf
+- harbin, dali, jinniushan, maba, xuchang, narmada, broken hill, irhoud GOLs
+
+
+### Unavailable But Promising
+Weinert (1936), Der Urmenschenschädel von Steinheim (Z. Morphol. Anthropol. 35:463–518)
+- Probably has the Steinheim GOL, never mind I found it
+
+
+
+
+
 ## Homo neanderthalensis
 ### La Ferrassie 1
 **Links**
@@ -57,6 +72,8 @@ https://docs.google.com/presentation/d/1V3NXCO2bk4gP78U8qCWdrDs3e0SRLnYuBmrqaSM6
 
 **Scaling**
 - I printed two of these. One at y:~100mm, and one matching a more reasonable GOL. I can't seem to find my source but, I measured the print at ~101mm GOL. Note that this gives a much larger y.
+
+file in folder. GOL from gordon is 208mm
 
 **Decision**
 - Status: ✅ Printed 
@@ -75,6 +92,9 @@ https://docs.google.com/presentation/d/1V3NXCO2bk4gP78U8qCWdrDs3e0SRLnYuBmrqaSM6
 
 **Scaling worksheet**
 - This was one of my first prints and I didn't know what I was doing, so I used a y:97.5, which is much too small.
+file in final folder. 
+
+scale update: gordon GOL: 207.2, scale looks absolutely perfect
 
 **Decision**
 - Status: ✅ Printed  
@@ -92,8 +112,8 @@ https://docs.google.com/presentation/d/1V3NXCO2bk4gP78U8qCWdrDs3e0SRLnYuBmrqaSM6
   - https://sketchfab.com/3d-models/primate-homo-neanderthalensis-cf6caab2981d423582ef14bec9fefd0c - with jaw. might revist if i feel like a single piece. the jaw is really nice, you can see how the teeth are missing during life
   - https://sketchfab.com/3d-models/homo-neanderthalensis-433rp7-94d6d0d89da44fae9201dbaf5250d6dc - not really as good
 
-https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf lists 206 for the GOL. doing the normal rotate and cut, this gives us a scale of 2392.39%, and an x: 75.8
-
+https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf lists 206 for the GOL. doing the normal rotate and cut, this gives us an x: 75.8
+file in final folder
 
 **Decision**
 - Status: ⭐ printing
@@ -299,8 +319,13 @@ the ??? is 62.63
 
   meningioma tumor
 
+  read this: https://www.johnhawks.net/p/a-look-at-the-fossil-skull-from-steinheim, has the story
+
+fuck yes. this has a diagram where they have caliper readings. the diagram measures 187mm, which is 188.8 compared to how i usually do GOL. also, the model is perfectly sized already, matching the 187 from the diagram when oriented the same way
+https://www.academia.edu/72751586/Die_Defekt_und_Verformungsspuren_am_Sch%C3%A4del_des_Urmenschen_von_Steinheim_an_der_Murr
+
 **Scaling**
-- model page said y197 x129 z131, so I did x:64.5, which gave 1974.87%
+- model page said y197 x129 z131, so I did x:64.5, which gave 1974.87% (seems like prusa doesn't always bring in the right size?)
 
 **Decision**
 - Status: ✅ Printed
@@ -355,7 +380,7 @@ So, both of the models have the same size on the bed. I measured the GOL and it 
 
 **Links**
 - **Printed**
-  - [Sketchfab: RLA Archaeology (2501.1rp74-1)](https://sketchfab.com/3d-models/paranthropus-boisei-25011rp74-1-cranium-9b0fe239afbc49e9a2bec1bb05dbd55c) — this is the one I printed, no scale?
+  - [Sketchfab: RLA Archaeology (2501.1rp74-1)](https://sketchfab.com/3d-models/paranthropus-boisei-25011rp74-1-cranium-9b0fe239afbc49e9a2bec1bb05dbd55c) — this is the one I printed, no scale? totally has a scale, must have been prusa. later prints i checked and the GOL of the model is 172, so dead on.
 
 - **Reference**
   - [Sketchfab: RLA Archaeology (2501.1rp10, mislabeled as robustus)](https://sketchfab.com/3d-models/paranthropus-robustus-25011rp10-0b541e124a8e41c285020329ef000283) — really nice type specimen, excellent ridge, Despite the title, this is not robustus but boisei. Sadly, I didn't realize this at the time and so printed the other one.
@@ -363,6 +388,7 @@ So, both of the models have the same size on the bed. I measured the GOL and it 
 
 **Scaling worksheet**
 - Scale: not sure how I scaled this one, as the model loaded tiny. the final print has a measured x: 71.38
+gordon says 173mm GOL, and 143mm XCB
 
 **Decision**
 - Status: ✅ Printed (from 2501.1rp74-1 model)   
@@ -478,6 +504,9 @@ still need to look at morpho for this
 - [Denosivan Harbin Cranium](https://sketchfab.com/3d-models/denosivan-harbin-cranium-homo-longidragonman-5a62c69bf0b545a2989a75bea9baffe8)
 - [remix](https://sketchfab.com/3d-models/denisovan-harbin-cranium-0620fb7e802b4a04bf5bbbb3ae7a9d16) - this is a remix which tries to improve the eyes, etc
 - these guys are actively working on this as of literally 7 hours ago, so should probably wait to see how the dust settles
+- this seems to be the latest https://sketchfab.com/3d-models/dragon-man-homo-longi-denisovan-skull-fc84db0469474423a02c14b774d72250
+gonna print this bad boi for now. it is in the folder as dragon man.stl
+221.3mm based on https://ars.els-cdn.com/content/image/1-s2.0-S2666675821000552-mmc1.pdf
 
 ## Keyanthropus platyops
 costs $4 and might be open, maybe hold off on this one https://www.fab.com/listings/78029783-d33d-48f6-bcc5-db3d2fe5d08c
@@ -503,6 +532,7 @@ excellent, excellent, excellent
 [uliege](https://sketchfab.com/3d-models/homo-rudolfensis-efdb526f504842828d4e6133cf8b5f02) 
 - KMN ER-1470
 - sized from the model, x:61.86
+model is in the final folder. the model GOL is 156mm. can't find the actual
 
 [fragments](https://sketchfab.com/3d-models/homo-habilis-25011rp48-1-cranial-fragment-9805e109b6d14a9499485d0672710cbf) buncha fragments from this guy. well, 3. they make up the skull and would be neat to print
 
@@ -533,10 +563,15 @@ ok, so ardi is supposedly ~325 cc compared to habilis 1813 of ~500. also, is it 
 ## Homo ergaster
 Turkana child
 
-[fragment](https://sketchfab.com/3d-models/homo-ergaster-cranium-f461dbb45add4a0d944060b2d0a49f78)
+[partial cranium with eyes and face stub](https://sketchfab.com/3d-models/homo-ergaster-cranium-f461dbb45add4a0d944060b2d0a49f78)
 this appears to be KNM ER 3883 - i think i printed this
 
 [turkan child](https://sketchfab.com/3d-models/homo-ergaster-skull-turkana-child-0ef67e21a9ab43d483134d8edd6535b4)
+model in folder, hard time finding the GOL
+also known as KNM-WT 15000
+here's a paper with photos of the fossil https://sci-hub.ru/https://doi.org/10.1038/316788a0. i measured off the image and got what seems to be a gol of 165mm. lotta assumptions here tho.
+for my most recent prints, i have scaled to a gol of 165 (which is 514.91%) 
+
 
 i have no fucking idea on either of these sizes. i looked up the brain volumes and they are 
 - sanigran 17: 1004
@@ -546,31 +581,33 @@ i have no fucking idea on either of these sizes. i looked up the brain volumes a
 (i printed all these at the same time). basically, 17 was scaled and seems to match the literature, and so was 1813. so i but the two ergaster as slightly smaller, at x:65. with turkana being 253% and 3883 at 2243%.
 
 ## Habilis
+### KNM-ER 1813
 [real fossil](https://africanfossils.org/hominids/knmer-1813?o=1&utm_source=chatgpt.com) good features, but not high poly KNMER 1813. it also seems to be sized correctly. x:55 at 50%
 africanfossils lists Dimensions:  x=168.00; y=112.00; z=114.00 mm
 boneclones lists as 171,118,116
 paper gives the XCB as 113mm, or 56.5
 i'm printing at 56.5, or 271.71% scale
-whoa - https://www.morphosource.org/concern/media/000005965. need to revist this print. super high qlality of this fossil i think. scale looks to be basically dead on of gordon's published 149 
-
-
-[twiggy, OH 24](https://sketchfab.com/3d-models/homo-habilis-twiggy-255074b073074c81a2d9764dc8ff21a2) decent. once you slice it it's not bad x:58 @50%
-the paper gives the XCB as 120mm, or 60
-i'm printing at x:60, or scale 51.37% (actually, i'm going to revisit this one later, still need to print this one)
-
-need to look at bone clones to see how to paint this one https://boneclones.com/product/homo-habilis-skull-oh-24-BH-010
-
+whoa - https://www.morphosource.org/concern/media/000005965. need to revist this print. super high qlality of this fossil i think. scale looks to be basically dead on of gordon's published 149. interestingly, this seems to be missing part of the eye which I see on other models as being original? 
 
 
 [great detail](https://sketchfab.com/3d-models/homo-habilis-0c7485037f7b4511a470c32b05aa5912) also 1813, but missing two teeth?
 
 [also great detail](https://sketchfab.com/3d-models/skull-replica-homo-habilis-f1bb5aedac164a5c82ae8ba775cc7e9d) this one has the missing teeth?? need to see what the deal is, maybe they were broken off that one museums cast or something...
 
-https://www.albany.edu/~ag856732/Gordonetal2008PNASsupplemental.pdf
-this gives sizes for the fossils
-sangiran 17: xcb: 
 
-both of these seem on the small side...need to check
+### OH 24
+[twiggy, OH 24](https://sketchfab.com/3d-models/homo-habilis-twiggy-255074b073074c81a2d9764dc8ff21a2) decent. once you slice it it's not bad x:58 @50%
+the paper gives the XCB as 120mm, or 60.
+
+i'm printing at x:60, or scale 51.37% (actually, i'm going to revisit this one later, still need to print this one)
+
+need to look at bone clones to see how to paint this one https://boneclones.com/product/homo-habilis-skull-oh-24-BH-010
+
+Gordon gives the GOL as 145. model is ~143 so, totally fine
+
+
+
+
 
 ## Laetoli Footprints
 [link](https://sketchfab.com/3d-models/laetoli-footprints-65a1ec6d0af740fe97189bd761055a60)
