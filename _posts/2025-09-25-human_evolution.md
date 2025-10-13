@@ -54,12 +54,14 @@ https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.25413
 https://ars.els-cdn.com/content/image/1-s2.0-S2666675821000552-mmc1.pdf
 - harbin, dali, jinniushan, maba, xuchang, narmada, broken hill, irhoud GOLs
 
+https://www.researchgate.net/publication/382115698_The_taxonomy_of_Sahelanthropus_tchadensis_from_a_craniometric_perspective
+this has a table of average values for all the main species, plus the value for tchadensis. also it has gorilla, chimp, and pongo
 
 ### Unavailable But Promising
 Weinert (1936), Der Urmenschenschädel von Steinheim (Z. Morphol. Anthropol. 35:463–518)
 - Probably has the Steinheim GOL, never mind I found it
 
-
+B. Wood 1991. Koobi Fora Research Project Volume 4. Hominid Cranial Remains. this is the big one that i want to find. maybe ask a librarian
 
 
 
@@ -295,6 +297,12 @@ Location: files/sahelanthropus-tchandensis/museo_historia_natural/sahelanthropus
 Length: 183mm, based on the nature paper
 the model was sized at 181.55, and so i printed a 50% scale of that
 
+ok, so https://www.researchgate.net/publication/382115698_The_taxonomy_of_Sahelanthropus_tchadensis_from_a_craniometric_perspective has some nice tables. it quotes from: https://sci-hub.ru/10.1038/nature03397. it has a much larger GOL than the fossil scan at 173mm. i don't think this is correct
+
+ok, here is the original paper from brunet, and it has a photo with a scale https://sci-hub.ru/10.1038/nature00879
+measurement off the image gives me a rough GOL of 155mm of the non-reconstructed fossil. the GOL of the model is roughly 158, so i will keep the scale as is
+
+
 ## Homo Florensis
 - [should print](https://sketchfab.com/3d-models/homo-floresiensis-crane-et-mandibule-97b4975b1464401a824c6513234dd45a)
   - this is a scaled cranum with jaw. and it looks like it is even higher quality than the one that i printed, with deep sutures
@@ -311,6 +319,10 @@ the ??? is 62.63
 
 
 ## Homo heidelbergensis
+
+### ??
+https://sketchfab.com/3d-models/homo-heidelbergensis-florisbad-1979rp24-b6d88ce34c0843499c3c0321554a7228
+should check out this one when i get a chance
 
 ### Steinheim skull
 **Links**
@@ -364,6 +376,7 @@ the published GOL here is 185, so after rotating the skull and cutting we get a 
 
 **Scaling Notes: Updated**
 So, both of the models have the same size on the bed. I measured the GOL and it clocks in at 213mm at 100% scale for the RLA reconstruction. Gordon has this marked at 206mm, so I have scaled slightly to 96.75% to match this GOL measurement
+ok, so i have two of these from different sources, and they are scaled identically, so i'm just keeping their scales
 
 **Decision**
 - Status: ✅ Printed
@@ -398,7 +411,7 @@ gordon says 173mm GOL, and 143mm XCB
 ### KNM-ER 732 (face fragment)
 **Links**
 - **Reference**
-  - [African Fossils](https://africanfossils.org/hominids/knmer-732?o=1) — half-face fragment, looks awesome. final analysis, this is the higher quality one
+  - [African Fossils](https://africanfossils.org/hominids/knmer-732?o=1) — half-face fragment, looks awesome. final analysis, this is the higher quality one. i think i have this one in the folder now, but might be the other one, haven't checked
   - [Sketchfab (2501.1rp46)](https://sketchfab.com/3d-models/australopithecus-boisei-25011rp46-fb12e13b384b48609a5c0a0bf29591ee) — same fragment, might be higher quality
 
 has been printed
@@ -448,9 +461,14 @@ need to request download. this looks pretty nice. graet to compare the jaws and 
 - **Printed**
   - [Sketchfab: RLA Archaeology](https://sketchfab.com/3d-models/paranthropus-robustus-25011rp23-63b6f246e55e411492bb8a4615f2bee0) — maybe the most interesting specimen, missing many teeth, smashed skull, slight ridge. cast number RLA 2501.1rp23
 
+
+
 **Scaling worksheet**
 - printed at x: 71.63 mm  
 - Published bizygomatic breadth: 143 mm  
+
+**scaling revisited**
+model page reads 178x147x102. basically, the measurement to trust here is the width (get the eyes level and then scale it), and then you can rotate it until it is flat and the other two come out exactly as advertised. i haven't yet looked up the GOL for this guy, since the RLA numbers tend to be accurate, but i will do this when i print full size.
 
 **Decision**
 - Final print: ✅ Printed  
@@ -460,7 +478,7 @@ need to request download. this looks pretty nice. graet to compare the jaws and 
 ---
 https://www.morphosource.org/concern/media/000163333?locale=en
 DNH-7-Vault.stl
-this is a pretty neat and very high quality x-rayed cranium fragment with tons of interesting fractures
+this is a pretty neat and very high quality x-rayed cranium fragment with tons of interesting fractures. definitely should add this to the list to print
 
 https://www.morphosource.org/concern/media/000163331?locale=en
 here is the face from the same individual. also seems to be the right scale 
@@ -478,6 +496,10 @@ search for 000163331 in downloads. this is the one i tried to print and had some
 - x (slicer): 63.02 mm (at 50% of model size)  
 - Appears accurate at that scaling
 
+**updated scaleing**
+printing the small ones at 50% too
+
+
 **Decision**
 - Final print: ✅ Printed  
 - Rationale: good female counterpart to SK 48, excellent surface detail with cracks  
@@ -494,6 +516,9 @@ ok, so this one didn't have a scale, but the two other ones did have a scale, so
 - x: 75mm
 
 note that the usual RLA that i print from didn't actually have the best quality model, instead Geoffrey did. I went to his page do see if he had any other good models, but there were only a couple. Need to recheck what they were.
+
+**updated**
+for the small ones, i am actually printing the RLA. it has massively better detail on the bottom. idk. also, i'm keeping the rla scale
 
 ## Homo antecesor
 [face](https://sketchfab.com/3d-models/homo-antecesor-optimizado-skull-fossil-4285b5e74982473c8b14c947d07e4590). this guy has some nice stuff, but it isn't public. he has a website, etc, and i messaged him on his insta https://www.instagram.com/garcia_avila_m. we'll see what comes of it..
