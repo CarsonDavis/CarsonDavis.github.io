@@ -144,6 +144,30 @@ mt circeo 1g
 - https://sketchfab.com/3d-models/homo-neanderthalensis-mt-circeo-1-1979rp36-10c83a34e13749b1b88fc78c4d4722fb - not on bed, very smooth model, don't love it
 
 ## Homo erectus
+### Dmanisi
+Here are the published GOLs (glabella–opisthocranion lengths):
+
+Skull 5 (D4500): 165 mm. Reported in Table 1 of Lordkipanidze et al. (2013, Science). 
+hesp.irmacs.sfu.ca. x: 138.9
+
+Skull 4 (D3444): 163 mm. Listed as “Cranial length” in Table 1 for the Dmanisi crania. x: 136.4
+figures.academia-assets.com
+
+skull 3, 2700: 155mm 
+
+Skull 2 (D2282): can't find this one. from the diagrams, it is about the same as skull 5, a little larger. smaller than skull 1 tho. so inbetween 165-177. maybe call it 170. there is a diagram that i could measure off of. it's pretty wierd that they left this mearusement out of the table. 
+ah, here we go: https://ftp.soest.hawaii.edu/engels/Stanley/Textbook_update/Science_297/Vekua-02.pdf. marks as 167 approximated. x: 140.89
+
+so, all of these are pretty strange. i ended up resizing them to 98.39, 95.84, 90.47% 2,4,5 respectively. there is a ct image in the paper, and tbh, neither scaling is blatantly incorrect to the eye, 100, 100, 100 or what i have. ok, actualy i took some caliper measurements, and my scales seem closer. YOLO, i'm using mine
+
+http://hesp.irmacs.sfu.ca/sites/hesp.irmacs.sfu.ca/files/lordkipanidze_et_al_2013_science.pdf
+
+lotsa goodies in here
+https://figures.academia-assets.com/30523188/table_001.jpg?response-content-disposition=attachment%3B+filename%3Dtable-1-cranial-measurements-mm-for-the-dmanisi-hominins-and
+
+
+
+30.65 = 30.55
 
 ### Homo erectus georgicus D2700
 **Links**
@@ -156,7 +180,7 @@ mt circeo 1g
 - Rotated skull and sliced off the front to measure actual GOL: 165 / 2 = 83.5 mm  
 - This gives a y:65.84 mm and a scale of 467.61%  
 - Based on the estimated cranial capacity of ~560 cc, it looks right next to La Ferrassie on the print bed
-
+r
 **Decision**
 - Status: ✅ Printed
 
@@ -552,6 +576,16 @@ excellent, excellent, excellent
 
 - (https://cults3d.com/en/3d-model/art/australopithecus-afarensis-skull-reconstruction) paid reconstruction at $11.26. looks pretty nice though
 
+### A.L. 444-2
+178mm
+Kimbel, W.H., Rak, Y., & Johanson, D.C. (2004).
+The Skull of Australopithecus afarensis.
+Oxford University Press.
+→ In their metric tables (Table 6.2, p. 137), they list GOL = 178 mm for A.L. 444-2.
+this is the one i got from florida
+
+this skull comes aligned but not scaled, and this gives 176 in the x direction
+
 ## Rudolfensis
 
 [uliege](https://sketchfab.com/3d-models/homo-rudolfensis-efdb526f504842828d4e6133cf8b5f02) 
@@ -744,6 +778,7 @@ from the site 220 mm; width, 155 mm; height, 152 mm, printed at x: 77.5
 Age: 120,000 - 80,000 years B.P.
 Dimensions: length, 221 mm; width, 147 mm; height, 149 mm.
 x: 73.5
+https://sketchfab.com/3d-models/homo-sapiens-skhul-5-1979rp32-16a4af9ab9254153acaadd9755cbbd2c - reconstructed
 
 [Mladeč 1 Skull (NHMW-ANTHRO-OSTE-5454)
 ](https://sketchfab.com/3d-models/mladec-1-skull-nhmw-anthro-oste-5454-509f150ada6d4e92962bba97d50fffe7)
