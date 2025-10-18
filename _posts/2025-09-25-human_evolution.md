@@ -57,6 +57,9 @@ https://ars.els-cdn.com/content/image/1-s2.0-S2666675821000552-mmc1.pdf
 https://www.researchgate.net/publication/382115698_The_taxonomy_of_Sahelanthropus_tchadensis_from_a_craniometric_perspective
 this has a table of average values for all the main species, plus the value for tchadensis. also it has gorilla, chimp, and pongo
 
+https://www.researchgate.net/publication/249319139_Homo_erectus_and_Middle_Pleistocene_hominins_Brain_size_skull_form_and_species_recognition
+jesus this has a ton. 34 skulls
+
 ### Unavailable But Promising
 Weinert (1936), Der Urmenschenschädel von Steinheim (Z. Morphol. Anthropol. 35:463–518)
 - Probably has the Steinheim GOL, never mind I found it
@@ -647,6 +650,9 @@ i have no fucking idea on either of these sizes. i looked up the brain volumes a
 https://sketchfab.com/3d-models/homo-ergaster-4ebd93d29e594baa8e85fff95fee9cc3
 https://sketchfab.com/3d-models/homo-ergaster-55a65f8d568d425e939a94d3d0d81a0d - not available
 should get one of these
+
+https://www.researchgate.net/publication/249319139_Homo_erectus_and_Middle_Pleistocene_hominins_Brain_size_skull_form_and_species_recognition
+GOL 182
 
 ## Habilis
 ### KNM-ER 1813
