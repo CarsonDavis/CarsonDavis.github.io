@@ -642,6 +642,12 @@ i have no fucking idea on either of these sizes. i looked up the brain volumes a
 - 15000: 880
 (i printed all these at the same time). basically, 17 was scaled and seems to match the literature, and so was 1813. so i but the two ergaster as slightly smaller, at x:65. with turkana being 253% and 3883 at 2243%.
 
+
+### 3733
+https://sketchfab.com/3d-models/homo-ergaster-4ebd93d29e594baa8e85fff95fee9cc3
+https://sketchfab.com/3d-models/homo-ergaster-55a65f8d568d425e939a94d3d0d81a0d - not available
+should get one of these
+
 ## Habilis
 ### KNM-ER 1813
 [real fossil](https://africanfossils.org/hominids/knmer-1813?o=1&utm_source=chatgpt.com) good features, but not high poly KNMER 1813. it also seems to be sized correctly. x:55 at 50%
@@ -789,6 +795,8 @@ this had a scale, but it was _MASSIVE_ so i put it to an x dead in between of th
 I messaged dennis on facebook: https://www.facebook.com/drmeanderthal
 
 He also has heidelbergensis bodo https://sketchfab.com/3d-models/bodo-cranium-38819d5d02fe4db4af22801d43585294, homo idaltu.
+this guy lists 215x155x125, and i took measurements off of an image from https://in-africa.org/wp-content/uploads/2012/12/Rightmire-1996-JHE-Bodo.pdf to give me 121mm between the two sharp parts of the eye. my scaling gave me 215.8, which is insanely close to his measurement, so i'm happy. 149.28 for my width
+
 
 there is another idaltu from UCFanthropology https://sketchfab.com/3d-models/homo-sapiens-idaltu-cranium-d1dc845f48c5464292a8351075ed93f5. Need to message them for some of their skulls... 
 
