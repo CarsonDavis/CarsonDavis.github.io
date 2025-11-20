@@ -74,6 +74,8 @@ B. Wood 1991. Koobi Fora Research Project Volume 4. Hominid Cranial Remains. thi
 - **Reference**
   - [Sketchfab: Jorge Zárate](https://sketchfab.com/3d-models/homo-neanderthal-c5b18842080f479889fb04133c5f701f) - this is the one that I printed
   - [Bone Clones info (BH-019)](https://boneclones.com/product/homo-neanderthalensis-skull-la-ferrassie-1-BH-019)
+  - [richardcynanjones, neanderthalskull](https://sketchfab.com/3d-models/neanderthal-skull-6464cda832bb4a19bfb34fb146e52154) - has a nice jaw, might need some work on the cracks in blender
+
 
 **Scaling**
 - I printed two of these. One at y:~100mm, and one matching a more reasonable GOL. I can't seem to find my source but, I measured the print at ~101mm GOL. Note that this gives a much larger y.
@@ -652,7 +654,7 @@ https://sketchfab.com/3d-models/homo-ergaster-55a65f8d568d425e939a94d3d0d81a0d -
 should get one of these
 
 https://www.researchgate.net/publication/249319139_Homo_erectus_and_Middle_Pleistocene_hominins_Brain_size_skull_form_and_species_recognition
-GOL 182
+GOL 182. so the GOL of the model is 177
 
 ## Habilis
 ### KNM-ER 1813
