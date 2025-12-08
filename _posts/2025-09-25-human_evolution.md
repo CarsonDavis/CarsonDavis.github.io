@@ -209,6 +209,8 @@ r
 - **Reference**
   - [MorphoSource](https://www.morphosource.org/media/000005791) — partial reconstruction of Sangiran 17, not the one that I printed
 
+[awesome original paper with photos](https://www.columbia.edu/~rlh2/IndonHerectAJPA1981.pdf)
+
 **Measurements (published)**
 - GOL: 206 mm (Gordon et al. 2008, PNAS supp.)  
 - XCB: 161 mm (same source)
