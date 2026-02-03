@@ -1617,6 +1617,35 @@ I sort of thought that the max aperture of f/4 would be a challenge, but for the
 
 Pictured by itself, you don't really notice, but the Fuji GW690ii is a _massive_ camera, positively drawfing the normal sized Nikon S2.
 
+
+<!-- ## Who Really Needs all the Shutter Speeds Anyway?
+I first learned film photography back in ~2015 from This camera has been on my radar for the better part of a decade. 
+
+This camera was a little bit of a ride. Greg Randall, the guy who more or less taught me film photography, carried a 690iii for years, and so this camera has been on my radar for the better part of a decade. In early 2025 I was expaning some of my medium format line up and really got the itch for some 6x9s. If memory serves, I started with a Zeiss Ikonta, a lovely 6x9 folding rangefinder that takes photos with a very definite *film* look to them. But I couldn't help but think that what I really wanted was *quality* 6x9 photos. The sort of thing you could take landscape with and blow away your digital friends. 
+
+Now of course, unless you want to absolutely hemorage money, the Texas Leica is more or less the only choice for there requirements. Now, there are a couple of versions of this camera, and I very specifically wanted the ii, since it is supposed to be better quality than the i, but looks more vintage than the plasticy iii. So, I spent a month or two stalking ebay, and that's how I ended up with a very affordable ~$650 Fuji GW690ii.
+
+A very broken Fuji GW690ii. 
+
+As soon as I got in in my hands and started thumbing through the shutter, it just sounded *wrong*. Eventually I did some high speed photography comparisons with my Fuji GW645 and confirmed that the shutter was in fact very broken. Thankfully the seller gave me a substantial refund, and this camera ended up only costing me $335 after taxes and shipping. 
+
+However, the shutter is limited enough to make this a good lighting only camera. Nothing too bright and nothing too dim. 
+
+April 20th with greg. -->
+
+
+<!-- this is mamiya 645
+I bought an adaptor that i had to machine. sometime around may 14th
+With my pentax lenses, this gives me
+
+28/2.5
+50/1.2
+65/1.5
+102/1.7
+135/2.5
+
+it came with a broken light meter and the seller gave me back 200 for a total cost of $500 -->
+
 <div class="grid-container grid-2x2">
     <div class="image-div">
         <img src="fuji_1.webp" alt="">
