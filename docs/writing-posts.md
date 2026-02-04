@@ -1,22 +1,97 @@
 # Writing Posts with the Image System
 
+## Making a New Post
+
+Create a new file in `_posts/` with the naming convention `YYYY-MM-DD-post_name.md`. Use this frontmatter template:
+
+```yaml
+---
+title: Post Title
+date: 2025-01-01
+categories: [category1, category2]
+tags: []
+description: Brief description of the post.
+media_subpath: /post-name/
+image: cover_image.webp
+published: False
+---
+```
+
+Set `published: False` while drafting. The `media_subpath` should match the S3 folder name (see below).
+
+If the post uses image grids, include the standard grid CSS block:
+
+```html
+<style>
+    .grid-2x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px;
+        justify-items: center;
+    }
+    .grid-3x2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 20px;
+        justify-items: center;
+    }
+    .grid-container {
+        justify-items: center;
+    }
+    .grid-container > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100%;
+    }
+    .grid-container .image-div {
+        justify-content: flex-end;
+    }
+    .grid-container img {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        object-fit: cover;
+        display: block;
+        margin-bottom: 5px;
+    }
+    .grid-container .caption {
+        display: block;
+        text-align: center;
+        font-style: normal;
+        font-size: 80%;
+        padding: 0;
+        color: #6d6c6c;
+    }
+</style>
+```
+
 ## Uploading Images
 
-Upload originals (any format) to the post's `original/` folder in S3:
+Create an S3 folder for the post based on the post filename. The folder name is the slug portion of the filename with hyphens instead of underscores:
+
+| Post filename | S3 folder |
+|---------------|-----------|
+| `2025-02-15-film_camera_photos.md` | `film-camera-photos` |
+| `2024-02-14-kitchen_knives.md` | `kitchen-knives` |
+
+Upload originals (any format) to the `original/` subfolder:
 
 ```bash
-aws s3 sync ./my-photos/ s3://made-by-carson-images/my-new-post/original/
+aws s3 sync ./my-photos/ s3://made-by-carson-images/film-camera-photos/original/ --profile personal
 ```
 
 The Lambda will automatically generate:
-- `s3://made-by-carson-images/my-new-post/webp/{stem}.webp` — full-size WebP
-- `s3://made-by-carson-images/my-new-post/lqip/{stem}.webp` — 16px thumbnail
+- `s3://made-by-carson-images/film-camera-photos/webp/{stem}.webp` — 60% quality WebP
+- `s3://made-by-carson-images/film-camera-photos/lqip/{stem}.webp` — 16px thumbnail
 
 Wait a few seconds for processing, then verify:
 
 ```bash
-aws s3 ls s3://made-by-carson-images/my-new-post/webp/
-aws s3 ls s3://made-by-carson-images/my-new-post/lqip/
+aws s3 ls s3://made-by-carson-images/film-camera-photos/webp/ --profile personal
+aws s3 ls s3://made-by-carson-images/film-camera-photos/lqip/ --profile personal
 ```
 
 ## Image Tag Format
@@ -25,7 +100,7 @@ Every image in a post uses this HTML tag:
 
 ```html
 <img src="lqip/photo.webp" data-full="webp/photo.webp" alt="A useful description"
-     style="aspect-ratio: 4000 / 3000;" class="lqip" loading="lazy">
+     class="lqip" loading="lazy">
 ```
 
 The post's `media_subpath` frontmatter prepends the S3 URL automatically, so `src` and `data-full` are relative to the post's image folder.
@@ -35,43 +110,17 @@ The post's `media_subpath` frontmatter prepends the S3 URL automatically, so `sr
 | Attribute | Value | Purpose |
 |-----------|-------|---------|
 | `src` | `lqip/photo.webp` | Points to the ~300-byte thumbnail. Loads instantly. |
-| `data-full` | `webp/photo.webp` | The full-size image URL. JS reads this when the image enters the viewport. |
+| `data-full` | `webp/photo.webp` | The full-size image URL. JS loads this when the image enters the viewport. |
 | `alt` | Description text | Accessibility. Screen readers, broken images, SEO. |
-| `style="aspect-ratio: W / H;"` | Original pixel dimensions | Reserves layout space before any image loads. Prevents CLS. |
 | `class="lqip"` | — | Applies blur CSS and registers the image with the IntersectionObserver. |
 | `loading="lazy"` | — | Native browser lazy loading as a fallback if JS is disabled. |
 
-## Getting Aspect Ratios
-
-You need the original image's width and height for the `aspect-ratio` style. Options:
-
-**From the command line:**
-
-```bash
-# Using Pillow (via uv)
-uv run python -c "from PIL import Image; i=Image.open('photo.jpg'); print(f'{i.width} / {i.height}')"
-
-# Using macOS sips
-sips -g pixelWidth -g pixelHeight photo.jpg
-
-# Using ImageMagick
-identify -format '%w / %h' photo.jpg
-```
-
-**From S3 (if you only have the WebP):**
-
-```bash
-# Download and check
-aws s3 cp s3://made-by-carson-images/my-post/webp/photo.webp /tmp/photo.webp
-uv run python -c "from PIL import Image; i=Image.open('/tmp/photo.webp'); print(f'{i.width} / {i.height}')"
-```
-
-The values don't need to be the exact original dimensions — they just need the correct ratio. `4000 / 3000` is the same as `400 / 300` or `4 / 3`.
+No `aspect-ratio` is needed — the LQIP thumbnail is small enough (~300 bytes) to load almost instantly, and once loaded the browser knows the image dimensions from the file itself.
 
 ## How the Blur Transition Works
 
-1. Page loads → browser fetches each `src` (the tiny LQIP thumbnail, ~300 bytes)
-2. CSS `filter: blur(10px)` and `scale(1.05)` make the thumbnail look like a blurred preview
+1. Page loads — browser fetches each `src` (the tiny LQIP thumbnail, ~300 bytes)
+2. CSS `filter: blur(10px)` makes the thumbnail look like a blurred preview. `scale(1.05)` slightly oversizes it to hide the soft edges that blur creates at image borders.
 3. As the user scrolls, `lqip-loader.js` detects images approaching the viewport (200px margin)
 4. JS creates a hidden `Image()` object to preload the full-size image from `data-full`
 5. Once loaded, JS swaps `src` to the full image and adds class `lqip-loaded`
@@ -85,23 +134,27 @@ If the LQIP doesn't exist yet (Lambda hasn't processed it), the `onerror` handle
 
 ```html
 <img src="lqip/sunset.webp" data-full="webp/sunset.webp" alt="Sunset over the lake"
-     style="aspect-ratio: 4000 / 2667;" class="lqip" loading="lazy">
+     class="lqip" loading="lazy">
 ```
 
 ### Grid Layout
 
-Wrap images in a div with your grid CSS. Each image gets its own LQIP tag:
-
 ```html
-<div class="image-grid">
-  <img src="lqip/photo1.webp" data-full="webp/photo1.webp" alt="Photo 1"
-       style="aspect-ratio: 3000 / 2000;" class="lqip" loading="lazy">
-  <img src="lqip/photo2.webp" data-full="webp/photo2.webp" alt="Photo 2"
-       style="aspect-ratio: 3000 / 2000;" class="lqip" loading="lazy">
-  <img src="lqip/photo3.webp" data-full="webp/photo3.webp" alt="Photo 3"
-       style="aspect-ratio: 3000 / 2000;" class="lqip" loading="lazy">
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="lqip/photo1.webp" data-full="webp/photo1.webp" alt="Photo 1"
+             class="lqip" loading="lazy">
+    </div>
+    <div class="image-div">
+        <img src="lqip/photo2.webp" data-full="webp/photo2.webp" alt="Photo 2"
+             class="lqip" loading="lazy">
+    </div>
+    <div class="caption">Caption 1</div>
+    <div class="caption">Caption 2</div>
 </div>
 ```
+
+Use `grid-2x2` for two columns, `grid-3x2` for three.
 
 ### Markdown Fallback
 
@@ -111,7 +164,7 @@ If you don't need the blur transition (quick draft, non-critical image):
 ![Description](webp/photo.webp)
 ```
 
-This still works — it just loads the full image immediately without LQIP. The `media_subpath` resolves the URL the same way.
+This loads the full image immediately without LQIP. The `media_subpath` resolves the URL the same way.
 
 ## Fallback Behavior
 
