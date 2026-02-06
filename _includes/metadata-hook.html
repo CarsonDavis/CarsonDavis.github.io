@@ -1,0 +1,15 @@
+<!-- LQIP (Low-Quality Image Placeholder) Styles -->
+<style>
+  img.lqip {
+    filter: blur(10px);
+    transform: scale(1.05);
+    transition: filter 0.3s ease, transform 0.3s ease;
+  }
+  img.lqip.lqip-loaded {
+    filter: blur(0);
+    transform: scale(1);
+  }
+</style>
+
+<!-- LQIP Loader Script -->
+<script src="{{ '/assets/js/lqip-loader.js' | relative_url }}" defer></script>

@@ -50,6 +50,25 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: Smoke test critical features
+        run: |
+          set -e
+          SITE="_site${{ steps.pages.outputs.base_path }}"
+
+          echo "Checking theme JS is loaded..."
+          grep -q 'assets/js/dist/theme.min.js' "$SITE/index.html"
+
+          echo "Checking LQIP loader is present..."
+          grep -q 'lqip-loader.js' "$SITE/index.html"
+
+          echo "Checking dark/light mode toggle works..."
+          grep -q 'data-mode' "$SITE/index.html"
+
+          echo "Checking MathJax loads on math posts..."
+          grep -q 'MathJax-script' "$SITE/posts/ml_metrics/index.html"
+
+          echo "All smoke tests passed"
+
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
