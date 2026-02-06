@@ -16,6 +16,7 @@ For migrating old posts, move existing WebPs directly to webp/
 and the LQIP generator will fire automatically.
 """
 
+import json
 import logging
 import os
 import subprocess
@@ -39,13 +40,29 @@ CACHE_CONTROL = "max-age=31536000"  # 1 year
 s3 = boto3.client("s3")
 
 
+def extract_s3_records(event):
+    """Extract S3 records from either a direct S3 event or an SNS-wrapped event.
+
+    Direct S3 event: {"Records": [{"s3": {...}}]}
+    SNS-wrapped:     {"Records": [{"Sns": {"Message": "{\"Records\": [{\"s3\": {...}}]}"}}]}
+    """
+    s3_records = []
+    for record in event.get("Records", []):
+        if "s3" in record:
+            s3_records.append(record)
+        elif "Sns" in record:
+            inner = json.loads(record["Sns"]["Message"])
+            s3_records.extend(inner.get("Records", []))
+    return s3_records
+
+
 # =============================================================================
 # Image Compressor - converts originals to WebP
 # =============================================================================
 
 def compressor_handler(event, context):
     """Process uploads to /original/ - convert to WebP."""
-    for record in event.get("Records", []):
+    for record in extract_s3_records(event):
         raw_key = record["s3"]["object"]["key"]
         key = unquote_plus(raw_key)
 
@@ -151,7 +168,7 @@ def compress_image(key):
 
 def lqip_handler(event, context):
     """Process uploads to /webp/ - generate LQIP thumbnails."""
-    for record in event.get("Records", []):
+    for record in extract_s3_records(event):
         raw_key = record["s3"]["object"]["key"]
         key = unquote_plus(raw_key)
 
