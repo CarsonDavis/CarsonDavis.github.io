@@ -36,8 +36,7 @@
             img.classList.add(LOADED_CLASS);
           };
           fullImg.onerror = function () {
-            // On error, still try to load the full image directly
-            // This handles cases where the LQIP might not exist yet
+            // On error loading the full image, swap src anyway and remove blur
             img.src = fullSrc;
             img.classList.add(LOADED_CLASS);
           };

@@ -126,7 +126,7 @@ No `aspect-ratio` is needed — the LQIP thumbnail is small enough (~300 bytes) 
 5. Once loaded, JS swaps `src` to the full image and adds class `lqip-loaded`
 6. CSS transitions blur to 0 and scale to 1 over 0.3 seconds
 
-If the LQIP doesn't exist yet (Lambda hasn't processed it), the `onerror` handler falls back to loading the full image directly. The page still works — you just don't get the blur effect.
+If the full image fails to preload, the `onerror` handler swaps to the full image URL anyway — graceful degradation. The page still works; you just don't get the blur effect.
 
 ## Common Patterns
 
@@ -200,7 +200,7 @@ brew install exiftool
 | Scenario | What happens |
 |----------|-------------|
 | LQIP exists, full image exists | Normal blur-to-sharp transition |
-| LQIP doesn't exist yet | `onerror` fires, full image loads directly (no blur) |
+| Full image preload fails | `onerror` fires, swaps to full image URL anyway (no blur) |
 | Full image doesn't exist | Broken image icon (same as any missing image) |
 | JavaScript disabled | `loading="lazy"` provides native lazy loading; LQIP thumbnail displays permanently |
 | Very old browser (no IntersectionObserver) | LQIP thumbnail displays, no swap occurs |

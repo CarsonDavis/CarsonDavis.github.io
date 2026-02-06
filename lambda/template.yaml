@@ -1,0 +1,98 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Image processing pipeline — two Lambda functions:
+  1. Compressor: converts uploads in /original/ to WebP via cwebp
+  2. LQIP Generator: creates 16px thumbnails from WebPs in /webp/
+
+Globals:
+  Function:
+    Timeout: 120
+    MemorySize: 1024
+
+Resources:
+  # Dead Letter Queues
+  CompressorDLQ:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: image-processor-CompressorDLQ
+      MessageRetentionPeriod: 1209600  # 14 days
+
+  LqipGeneratorDLQ:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: image-processor-LqipGeneratorDLQ
+      MessageRetentionPeriod: 1209600  # 14 days
+
+  # Image Compressor Function
+  ImageCompressorFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: image-compressor
+      PackageType: Image
+      ImageConfig:
+        Command: ["app.compressor_handler"]
+      Architectures:
+        - x86_64
+      EphemeralStorage:
+        Size: 1024
+      ReservedConcurrentExecutions: 10
+      DeadLetterQueue:
+        Type: SQS
+        TargetArn: !GetAtt CompressorDLQ.Arn
+      EventInvokeConfig:
+        MaximumRetryAttempts: 2
+      Policies:
+        - S3CrudPolicy:
+            BucketName: made-by-carson-images
+      Environment:
+        Variables:
+          S3_BUCKET: made-by-carson-images
+    Metadata:
+      Dockerfile: Dockerfile
+      DockerContext: ./image_processor
+      DockerTag: latest
+
+  # LQIP Generator Function
+  LqipGeneratorFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lqip-generator
+      PackageType: Image
+      ImageConfig:
+        Command: ["app.lqip_handler"]
+      Architectures:
+        - x86_64
+      MemorySize: 512  # LQIP generation is lighter weight
+      EphemeralStorage:
+        Size: 512
+      ReservedConcurrentExecutions: 10
+      DeadLetterQueue:
+        Type: SQS
+        TargetArn: !GetAtt LqipGeneratorDLQ.Arn
+      EventInvokeConfig:
+        MaximumRetryAttempts: 2
+      Policies:
+        - S3CrudPolicy:
+            BucketName: made-by-carson-images
+      Environment:
+        Variables:
+          S3_BUCKET: made-by-carson-images
+    Metadata:
+      Dockerfile: Dockerfile
+      DockerContext: ./image_processor
+      DockerTag: latest
+
+Outputs:
+  ImageCompressorFunctionArn:
+    Description: ARN of the image compressor Lambda function
+    Value: !GetAtt ImageCompressorFunction.Arn
+  LqipGeneratorFunctionArn:
+    Description: ARN of the LQIP generator Lambda function
+    Value: !GetAtt LqipGeneratorFunction.Arn
+  CompressorDLQUrl:
+    Description: URL of the compressor dead letter queue
+    Value: !Ref CompressorDLQ
+  LqipGeneratorDLQUrl:
+    Description: URL of the LQIP generator dead letter queue
+    Value: !Ref LqipGeneratorDLQ

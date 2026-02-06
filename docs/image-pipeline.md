@@ -35,7 +35,7 @@ The old workflow was also manual: convert to WebP locally with `cwebp`, upload, 
 ┌─────────────────────────────────────────────────────────────────┐
 │                 Lambda: Image Compressor                        │
 ├─────────────────────────────────────────────────────────────────┤
-│  Trigger: files created in */original/*                         │
+│  Trigger: s3:ObjectCreated:* (filtered in handler to */original/*)│
 │                                                                 │
 │  1. Download from S3                                            │
 │  2. Convert to WebP via cwebp (quality 60, ICC preserved)       │
@@ -50,7 +50,7 @@ The old workflow was also manual: convert to WebP locally with `cwebp`, upload, 
 ┌─────────────────────────────────────────────────────────────────┐
 │                 Lambda: LQIP Generator                          │
 ├─────────────────────────────────────────────────────────────────┤
-│  Trigger: files created in */webp/*                             │
+│  Trigger: s3:ObjectCreated:* (filtered in handler to */webp/*)   │
 │                                                                 │
 │  1. Download WebP from S3                                       │
 │  2. Generate 16px thumbnail (Pillow, quality 20)                │
@@ -64,7 +64,7 @@ The old workflow was also manual: convert to WebP locally with `cwebp`, upload, 
 │  1. Images start with LQIP src (tiny, instant load)             │
 │  2. CSS blur(10px) hides pixelation                             │
 │  3. IntersectionObserver triggers when image nears viewport     │
-│  4. Full image loads in background, then crossfades in          │
+│  4. Full image loads in background, then transitions blur→sharp  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -74,7 +74,7 @@ Each post gets a top-level folder in the bucket. Within it:
 
 | Path | Contents | Who creates it |
 |------|----------|----------------|
-| `{folder}/original/` | Source files (JPG, PNG, TIFF, WebP) | You, via `aws s3 sync` |
+| `{folder}/original/` | Source files (JPG, PNG, TIFF, WebP) | You, via `upload_images.py` |
 | `{folder}/webp/` | Full-size WebP conversions | Lambda |
 | `{folder}/lqip/` | 16px thumbnails (~200–500 bytes) | Lambda |
 
@@ -114,13 +114,13 @@ The chain works automatically: upload to `original/` triggers the Compressor, wh
 | Extension | Handling |
 |-----------|----------|
 | `.jpg`, `.jpeg` | Convert to WebP quality 60, preserve ICC profile, apply EXIF rotation |
-| `.png` | Convert RGBA→RGB, then to WebP quality 60 |
+| `.png` | Convert to WebP quality 60 |
 | `.tiff`, `.tif` | Convert to WebP quality 60, preserve ICC profile |
 | `.webp` | Copy as-is to `webp/` folder (no re-encoding), generate LQIP only |
 
 ## WebP Conversion Spec
 
-The Lambda uses `cwebp` directly — the same tool and flags as the local `convert_to_webp.py` script, producing identical output.
+The Lambda uses `cwebp` with the same flags as the local `convert_to_webp.py` script. EXIF rotation handling differs (Lambda uses Pillow's `exif_transpose`).
 
 ```
 cwebp -q 60 -metadata icc -mt -exact -m 6 input.jpg -o output.webp
@@ -171,7 +171,7 @@ An IIFE that:
 - Creates an `IntersectionObserver` with `rootMargin: "200px"` (starts loading 200px before the image scrolls into view)
 - For each `.lqip` image entering the margin, creates a hidden `Image()` to preload the full-size URL from `data-full`
 - On successful load, swaps `src` to the full image and adds `lqip-loaded` class (triggers CSS transition)
-- On error (LQIP doesn't exist yet), still swaps to full image — graceful degradation
+- On preload error, still swaps to full image URL — graceful degradation
 - Unobserves each image after triggering to avoid duplicate work
 
 ### 3. HTML tag format
@@ -186,8 +186,8 @@ No `aspect-ratio` is needed — the LQIP thumbnail loads almost instantly (~300 
 ## Day-to-Day Workflow
 
 ```bash
-# 1. Upload originals to S3
-aws s3 sync ./my-photos/ s3://made-by-carson-images/my-new-post/original/
+# 1. Upload originals to S3 (handles deduplication, collision renaming, and WebP polling)
+uv run scripts/upload_images.py ./my-photos/ my-new-post
 
 # 2. Lambda automatically creates:
 #    s3://made-by-carson-images/my-new-post/webp/photo1.webp
@@ -206,10 +206,10 @@ That's it. No local conversion, no manual thumbnail generation.
 | Filename with spaces: `70820002 (1).jpg` | `unquote_plus()` decodes URL-encoded keys from S3 events |
 | Filename with plus/parens: `arst0064+(2).webp` | Same URL decoding |
 | WebP uploaded to `original/` | Copied as-is to `webp/` folder (no re-encoding), LQIP still generated |
-| PNG with transparency (RGBA) | Converted to RGB before WebP encoding |
-| Large TIFF (50+ MB) | 1024 MB memory + 1024 MB ephemeral storage + 120s timeout handle this |
+| PNG with transparency (RGBA) | LQIP generator converts to RGB for thumbnail; compressor passes to `cwebp` as-is |
+| Large TIFF (50+ MB) | Compressor has 1024 MB memory + 1024 MB storage; the resulting WebP is much smaller, handled by LQIP generator's 512 MB limits |
 | EXIF orientation tag | Applied via `ImageOps.exif_transpose()` before encoding |
 | Compressor output triggers LQIP Generator | By design — `webp/` trigger fires the LQIP Generator |
 | LQIP output doesn't trigger anything | `/lqip/` doesn't match either trigger path |
 | Lambda fails after retries | Message goes to SQS dead letter queue (14-day retention) |
-| LQIP doesn't exist yet when page loads | `onerror` handler in JS falls back to loading the full image directly |
+| Full image preload fails | `onerror` handler in JS swaps to full image URL anyway — graceful degradation |
