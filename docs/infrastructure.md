@@ -143,34 +143,150 @@ aws iam create-role \
 
 #### 3. Attach Permissions to the Role
 
-The role needs permissions for SAM deployments and S3 access:
+The role uses a single inline policy (`sam-deploy-policy`) scoped to only the resources SAM needs. Replace `ACCOUNT_ID` with your AWS account ID:
 
 ```bash
-# CloudFormation and SAM deployment permissions
-aws iam attach-role-policy \
+aws iam put-role-policy \
   --role-name github-actions-role \
-  --policy-arn arn:aws:iam::aws:policy/AWSCloudFormationFullAccess
-
-aws iam attach-role-policy \
-  --role-name github-actions-role \
-  --policy-arn arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryFullAccess
-
-aws iam attach-role-policy \
-  --role-name github-actions-role \
-  --policy-arn arn:aws:iam::aws:policy/AWSLambda_FullAccess
-
-aws iam attach-role-policy \
-  --role-name github-actions-role \
-  --policy-arn arn:aws:iam::aws:policy/AmazonSQSFullAccess
-
-aws iam attach-role-policy \
-  --role-name github-actions-role \
-  --policy-arn arn:aws:iam::aws:policy/AmazonS3FullAccess
-
-aws iam attach-role-policy \
-  --role-name github-actions-role \
-  --policy-arn arn:aws:iam::aws:policy/IAMFullAccess
+  --policy-name sam-deploy-policy \
+  --policy-document '{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "CloudFormation",
+        "Effect": "Allow",
+        "Action": [
+          "cloudformation:CreateStack",
+          "cloudformation:UpdateStack",
+          "cloudformation:DeleteStack",
+          "cloudformation:DescribeStacks",
+          "cloudformation:DescribeStackEvents",
+          "cloudformation:DescribeStackResource",
+          "cloudformation:DescribeStackResources",
+          "cloudformation:GetTemplate",
+          "cloudformation:GetTemplateSummary",
+          "cloudformation:ListStackResources",
+          "cloudformation:CreateChangeSet",
+          "cloudformation:DescribeChangeSet",
+          "cloudformation:ExecuteChangeSet",
+          "cloudformation:DeleteChangeSet"
+        ],
+        "Resource": [
+          "arn:aws:cloudformation:us-east-1:ACCOUNT_ID:stack/image-processor*",
+          "arn:aws:cloudformation:us-east-1:ACCOUNT_ID:stack/aws-sam-cli-managed-default/*"
+        ]
+      },
+      {
+        "Sid": "CloudFormationTransform",
+        "Effect": "Allow",
+        "Action": "cloudformation:CreateChangeSet",
+        "Resource": "arn:aws:cloudformation:us-east-1:aws:transform/Serverless-2016-10-31"
+      },
+      {
+        "Sid": "S3",
+        "Effect": "Allow",
+        "Action": "s3:*",
+        "Resource": [
+          "arn:aws:s3:::aws-sam-cli-managed-default-samclisourcebucket-*",
+          "arn:aws:s3:::aws-sam-cli-managed-default-samclisourcebucket-*/*"
+        ]
+      },
+      {
+        "Sid": "Lambda",
+        "Effect": "Allow",
+        "Action": [
+          "lambda:CreateFunction",
+          "lambda:UpdateFunctionCode",
+          "lambda:UpdateFunctionConfiguration",
+          "lambda:DeleteFunction",
+          "lambda:GetFunction",
+          "lambda:GetFunctionConfiguration",
+          "lambda:ListTags",
+          "lambda:TagResource",
+          "lambda:UntagResource",
+          "lambda:PutFunctionConcurrency",
+          "lambda:DeleteFunctionConcurrency",
+          "lambda:PutFunctionEventInvokeConfig",
+          "lambda:UpdateFunctionEventInvokeConfig",
+          "lambda:DeleteFunctionEventInvokeConfig"
+        ],
+        "Resource": [
+          "arn:aws:lambda:us-east-1:ACCOUNT_ID:function:image-compressor",
+          "arn:aws:lambda:us-east-1:ACCOUNT_ID:function:image-compressor:*",
+          "arn:aws:lambda:us-east-1:ACCOUNT_ID:function:lqip-generator",
+          "arn:aws:lambda:us-east-1:ACCOUNT_ID:function:lqip-generator:*"
+        ]
+      },
+      {
+        "Sid": "ECR",
+        "Effect": "Allow",
+        "Action": [
+          "ecr:CreateRepository",
+          "ecr:BatchCheckLayerAvailability",
+          "ecr:GetDownloadUrlForLayer",
+          "ecr:BatchGetImage",
+          "ecr:PutImage",
+          "ecr:InitiateLayerUpload",
+          "ecr:UploadLayerPart",
+          "ecr:CompleteLayerUpload",
+          "ecr:DescribeRepositories",
+          "ecr:DeleteRepository",
+          "ecr:SetRepositoryPolicy",
+          "ecr:GetRepositoryPolicy",
+          "ecr:ListTagsForResource",
+          "ecr:TagResource",
+          "ecr:PutLifecyclePolicy"
+        ],
+        "Resource": "*"
+      },
+      {
+        "Sid": "ECRToken",
+        "Effect": "Allow",
+        "Action": "ecr:GetAuthorizationToken",
+        "Resource": "*"
+      },
+      {
+        "Sid": "SQS",
+        "Effect": "Allow",
+        "Action": [
+          "sqs:CreateQueue",
+          "sqs:DeleteQueue",
+          "sqs:GetQueueAttributes",
+          "sqs:SetQueueAttributes",
+          "sqs:GetQueueUrl",
+          "sqs:ListQueueTags",
+          "sqs:TagQueue",
+          "sqs:UntagQueue"
+        ],
+        "Resource": "arn:aws:sqs:us-east-1:ACCOUNT_ID:image-processor-*"
+      },
+      {
+        "Sid": "IAMRoles",
+        "Effect": "Allow",
+        "Action": [
+          "iam:CreateRole",
+          "iam:DeleteRole",
+          "iam:GetRole",
+          "iam:PassRole",
+          "iam:AttachRolePolicy",
+          "iam:DetachRolePolicy",
+          "iam:PutRolePolicy",
+          "iam:DeleteRolePolicy",
+          "iam:GetRolePolicy",
+          "iam:TagRole",
+          "iam:UntagRole"
+        ],
+        "Resource": "arn:aws:iam::ACCOUNT_ID:role/image-processor-*"
+      }
+    ]
+  }'
 ```
+
+Key scoping details:
+- **CloudFormation**: `image-processor*` (no slash — covers both the main stack and `image-processor-*-CompanionStack`)
+- **Lambda**: Each function ARN includes a `:*` variant for qualifier-scoped actions like `PutFunctionEventInvokeConfig` on `$LATEST`
+- **S3**: Only the SAM-managed artifact bucket, not the images bucket
+- **IAM**: Only `image-processor-*` roles (SAM-generated execution roles)
 
 #### 4. Add Repository Secret
 
