@@ -70,29 +70,29 @@ If the post uses image grids, include the standard grid CSS block:
 
 ## Uploading Images
 
-Create an S3 folder for the post based on the post filename. The folder name is the slug portion of the filename with hyphens instead of underscores:
+The S3 folder for a post is based on the post filename — the slug portion with hyphens instead of underscores:
 
 | Post filename | S3 folder |
 |---------------|-----------|
 | `2025-02-15-film_camera_photos.md` | `film-camera-photos` |
 | `2024-02-14-kitchen_knives.md` | `kitchen-knives` |
 
-Upload originals (any format) to the `original/` subfolder:
+Use the upload script to send a folder of images to S3:
 
 ```bash
-aws s3 sync ./my-photos/ s3://made-by-carson-images/film-camera-photos/original/ --profile personal
+# Preview what will be uploaded
+uv run scripts/upload_images.py ./my-photos/ film-camera-photos --dry-run
+
+# Upload, wait for Lambda processing, and open preview in browser
+uv run scripts/upload_images.py ./my-photos/ film-camera-photos
 ```
 
-The Lambda will automatically generate:
-- `s3://made-by-carson-images/film-camera-photos/webp/{stem}.webp` — 60% quality WebP
-- `s3://made-by-carson-images/film-camera-photos/lqip/{stem}.webp` — 16px thumbnail
-
-Wait a few seconds for processing, then verify:
-
-```bash
-aws s3 ls s3://made-by-carson-images/film-camera-photos/webp/ --profile personal
-aws s3 ls s3://made-by-carson-images/film-camera-photos/lqip/ --profile personal
-```
+The script:
+1. Scans the local folder for image files
+2. Checks for filename stem collisions against what's already in S3 — renames automatically (e.g. `sunset_2.jpg`) to avoid overwriting
+3. Uploads to `original/`, which triggers the Lambda chain
+4. Polls `webp/` until all WebPs are generated
+5. Opens a browser preview showing all the images with their filenames
 
 ## Image Tag Format
 
@@ -165,6 +165,35 @@ If you don't need the blur transition (quick draft, non-critical image):
 ```
 
 This loads the full image immediately without LQIP. The `media_subpath` resolves the URL the same way.
+
+## Links
+
+Internal link to another post:
+```
+[Phone Meter Repair]({% link _posts/2018-06-24-phone_meter.md %})
+```
+
+Link to a specific header:
+```
+[nipping press]({% link _posts/2023-08-26-bookbinding_equipment.md %}#nipping-press)
+```
+
+## Image Metadata
+
+View geographic location data:
+```bash
+exiftool -GPSPosition image.jpg
+```
+
+Get coordinates in Google Maps format:
+```bash
+exiftool -c "%.6f" -GPSPosition image.jpg
+```
+
+Install with:
+```bash
+brew install exiftool
+```
 
 ## Fallback Behavior
 

@@ -1,165 +1,45 @@
-# Writing Guide
-I've put together a quick guide to the most common things I need to do on the blog.
+# CarsonDavis.github.io
 
-## Post Header
-Each post needs to have some stuff at the top. Not all of it is required. 
+Personal blog built with Jekyll and the Chirpy theme. Images are hosted on S3 with an automated Lambda pipeline that generates WebPs and LQIP thumbnails.
 
-```
----
-title: Fluorescent Rocks
-date: 2020-01-02
-last_modified_at: 2024-05-18
-categories: []
-tags: []
-media_subpath: /Fluorescent+Rocks/
-description: Details on my small collection of fluorescent rocks.
-image: 20200213_002700.jpg
----
-```
-## Links
-### Internal Links
-Links to another post
-```
-[Phone Meter Repair]({% link _posts/2018-06-24-phone_meter.md %})
+## Getting Started
+
+### Prerequisites
+
+Follow the [Jekyll installation docs](https://jekyllrb.com/docs/installation/) and install [Git](https://git-scm.com/).
+
+### Installation
+
+```bash
+bundle install
 ```
 
-Links with a specific header
-```
-[nipping press]({% link _posts/2023-08-26-bookbinding_equipment.md % }#nipping-press)
-```
+See the [Chirpy theme docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation) for theme-specific details.
 
-### Simple image links
-`![20240516_225034](Fluorecent+Rocks.jpg)`
+## Running Locally
 
-### Images Side by Side
-
-```
-<style>
-    .grid-2x2 {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: auto auto;
-        gap: 20px;
-        justify-items: center;
-    }
-    .grid-3x2 {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: auto auto;
-        gap: 20px;
-        justify-items: center;
-    }
-    .grid-container {
-        justify-items: center;
-    }
-    .grid-container img {
-        width: auto;
-        max-width: 100%;
-        height: auto;
-        object-fit: cover;
-        display: block;
-    }
-    .grid-container .caption {
-        text-align: center;
-        align-self: start;
-    }
-</style>
-
-<div class="grid-container grid-2x2">
-    <div>
-        <img src="image1.jpg" alt="image1">
-    </div>
-    <div>
-        <img src="image2.jpg" alt="image2">
-    </div>
-    <div class="caption">
-        <p>Caption 1</p>
-    </div>
-    <div class="caption">
-        <p>Caption 2</p>
-    </div>
-</div>
-
-<div class="grid-container grid-3x2">
-    <div>
-        <img src="rock.PNG" alt="white light">
-    </div>
-    <div>
-        <img src="20200213_002157.jpg" alt="shortwave">
-    </div>
-    <div>
-        <img src="20200213_003144.jpg" alt="shortwave">
-    </div>
-    <div class="caption">
-        <p>white light</p>
-    </div>
-    <div class="caption">
-        <p>shortwave</p>
-    </div>
-    <div class="caption">
-        <p>shortwave</p>
-    </div>
-</div>
-```
-
-
-## Running and Debugging
-The basic command I've been running is:
-```
+```bash
 bundle exec jekyll serve --unpublished
 ```
 
-However, if weird stuff is happening with the build, sometimes I'll burn the old site down and rebuild it.
-```
+If the build is acting up, burn the cache and rebuild:
+
+```bash
 rm -rf .jekyll-cache _site
 bundle exec jekyll build --trace
 ```
 
-And then I'll replicate the tests run on github actions.
-
-```
- bundle exec htmlproofer ./_site --disable-external
-```
-
-## Getting Started on a New Computer
-
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
-
-## Installation
-You won't have any of the gems installed, so you'll need to run the following command to install them.
-```
-bundle install
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Images
-
-### Converting to WebP
-
-I've been using the `cwebp` command to convert images to webp format. You can install it with homebrew.
+Replicate the GitHub Actions HTML validation:
 
 ```bash
-brew install webp
+bundle exec htmlproofer ./_site --disable-external
 ```
 
-This command converts a jpeg to a webp file at 70% compression:
+## Documentation
 
-```bash
-cwebp -q 70 -metadata icc image.jpeg -o image.webp
-```
-
-### Batch Converting an Entire Folder of Images to WebP
-
-If you have a whole folder of images you want to convert to WebP format, you can use the `convert_to_webp.py` script. It will take all `.jpeg` and `.jpg` files in a folder, convert them to `.webp`, and place them in a new subfolder called `webp_images` inside the same folder.
-
-To use the Python script, run the following command:
-
-```bash
-python convert_to_webp.py /path/to/your/images_folder
-```
+| Doc | Contents |
+|-----|----------|
+| [Writing Posts](docs/writing-posts.md) | Frontmatter, image tags, grid layouts, upload workflow |
+| [Image Pipeline](docs/image-pipeline.md) | S3 folder structure, Lambda architecture, LQIP specs |
+| [Infrastructure](docs/infrastructure.md) | AWS resources, SAM template, CI/CD, monitoring |
+| [Migration](docs/migration.md) | Migrating old posts to the new image system |

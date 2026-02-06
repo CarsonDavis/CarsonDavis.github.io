@@ -16,37 +16,45 @@ The old workflow was also manual: convert to WebP locally with `cwebp`, upload, 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                         S3 Bucket                               │
-│              made-by-carson-images.s3.amazonaws.com              │
+│              made-by-carson-images.s3.amazonaws.com             │
 ├─────────────────────────────────────────────────────────────────┤
 │  /film-camera-photos/                                           │
-│  ├── original/              ← YOU upload here                   │
+│  ├── original/              ← YOU upload here (new posts)       │
 │  │   ├── photo1.jpg                                             │
 │  │   └── photo2.png                                             │
-│  ├── webp/                  ← Lambda generates (full-size)      │
-│  │   ├── photo1.webp                                            │
+│  ├── webp/                  ← Compressor generates, or you      │
+│  │   ├── photo1.webp           move existing WebPs here         │
 │  │   └── photo2.webp                                            │
-│  └── lqip/                  ← Lambda generates (thumbnails)     │
+│  └── lqip/                  ← LQIP Generator creates            │
 │      ├── photo1.webp        (~300 bytes, 16px wide)             │
 │      └── photo2.webp                                            │
 └─────────────────────────────────────────────────────────────────┘
           │
-          │ S3 ObjectCreated event
+          │ S3 ObjectCreated events
           ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                       AWS Lambda                                │
+│                 Lambda: Image Compressor                        │
 ├─────────────────────────────────────────────────────────────────┤
-│  Trigger: any file created in the S3 bucket                     │
-│  Guard:   only processes files in */original/* paths            │
+│  Trigger: files created in */original/*                         │
 │                                                                 │
-│  For each uploaded image:                                       │
 │  1. Download from S3                                            │
-│  2. Apply EXIF rotation, convert to RGB                         │
-│  3. Generate full-size WebP (quality 60) → /{folder}/webp/      │
-│  4. Generate 16px LQIP (quality 20) → /{folder}/lqip/          │
-│  5. Upload both back to S3                                      │
+│  2. Convert to WebP via cwebp (quality 60, ICC preserved)       │
+│  3. Apply EXIF rotation                                         │
+│  4. Upload to /{folder}/webp/                                   │
 │                                                                 │
 │  If source is already .webp: copy as-is (no re-encoding)        │
-│  Originals stay in /original/ for archival                      │
+└─────────────────────────────────────────────────────────────────┘
+          │
+          │ Output triggers next Lambda
+          ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                 Lambda: LQIP Generator                          │
+├─────────────────────────────────────────────────────────────────┤
+│  Trigger: files created in */webp/*                             │
+│                                                                 │
+│  1. Download WebP from S3                                       │
+│  2. Generate 16px thumbnail (Pillow, quality 20)                │
+│  3. Upload to /{folder}/lqip/                                   │
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
@@ -72,21 +80,34 @@ Each post gets a top-level folder in the bucket. Within it:
 
 Originals are never deleted. They serve as the archival source of truth.
 
-## How the Lambda Processes Images
+## How the Lambdas Process Images
 
-When an image lands in `original/`, the S3 event triggers the Lambda. Processing steps:
+Two Lambda functions run as container images (Dockerfile based on `public.ecr.aws/lambda/python:3.12`) with `cwebp` installed.
+
+### Image Compressor
+
+Triggered when files are created in `/original/`. Processing steps:
 
 1. **URL-decode the object key** — S3 events URL-encode filenames, so `photo (1).jpg` arrives as `photo+%281%29.jpg`. The handler uses `unquote_plus()` to decode.
-2. **Guard: skip if not in `/original/`** — prevents infinite loops from the Lambda's own output.
+2. **Guard: skip if not in `/original/`** — prevents processing other paths.
 3. **Guard: skip unsupported extensions** — only `.jpg`, `.jpeg`, `.png`, `.tiff`, `.tif`, `.webp` are processed.
-4. **Parse paths** — extract the folder name and stem filename from the key.
-5. **Download** — fetch the source image from S3 to Lambda's `/tmp`.
-6. **Open with Pillow** — load into memory.
-7. **Apply EXIF orientation** — camera rotation tags are applied so the image displays correctly.
-8. **Convert color mode** — RGBA/P (PNG transparency) converted to RGB.
-9. **Generate full-size WebP** — see spec below. WebP sources are copied as-is.
-10. **Generate LQIP thumbnail** — see spec below.
-11. **Upload both** — written back to S3 with 1-year cache headers.
+4. **Download** — fetch the source image from S3 to Lambda's `/tmp`.
+5. **Convert to WebP via `cwebp`** — same flags as the local `convert_to_webp.py` script. WebP sources are copied as-is.
+6. **Apply EXIF rotation** — camera rotation tags are applied via Pillow so the image displays correctly.
+7. **Upload to `/webp/`** — written to S3 with 1-year cache headers.
+
+### LQIP Generator
+
+Triggered when files are created in `/webp/`. Processing steps:
+
+1. **URL-decode the object key**
+2. **Guard: skip if not in `/webp/`** — prevents processing other paths.
+3. **Guard: skip if not `.webp`** — only WebP files are processed.
+4. **Download** — fetch the WebP from S3.
+5. **Generate 16px thumbnail** — via Pillow (see spec below).
+6. **Upload to `/lqip/`** — written to S3 with 1-year cache headers.
+
+The chain works automatically: upload to `original/` triggers the Compressor, which writes to `webp/`, which triggers the LQIP Generator, which writes to `lqip/`.
 
 ## Supported Input Formats
 
@@ -99,13 +120,19 @@ When an image lands in `original/`, the S3 event triggers the Lambda. Processing
 
 ## WebP Conversion Spec
 
-| Setting | Value | Notes |
-|---------|-------|-------|
-| Quality | 60 | Matches the old `cwebp -q 60` |
-| Method | 6 | Best compression (slowest encode, smallest file) |
-| ICC profile | Preserved | `icc_profile=img.info.get("icc_profile")` |
+The Lambda uses `cwebp` directly — the same tool and flags as the local `convert_to_webp.py` script, producing identical output.
 
-The old local workflow used `cwebp` with `-exact` (preserve exact color values). Pillow doesn't have an equivalent, but the difference is negligible for web delivery. Outputs won't be byte-identical to `cwebp` but are visually equivalent.
+```
+cwebp -q 60 -metadata icc -mt -exact -m 6 input.jpg -o output.webp
+```
+
+| Flag | Value | Purpose |
+|------|-------|---------|
+| `-q` | 60 | Quality level |
+| `-m` | 6 | Best compression method (slowest encode, smallest file) |
+| `-metadata` | `icc` | Preserve ICC color profile |
+| `-mt` | — | Multi-threaded encoding |
+| `-exact` | — | Preserve exact RGB color values |
 
 ## LQIP Thumbnail Spec
 
@@ -151,10 +178,10 @@ An IIFE that:
 
 ```html
 <img src="lqip/photo.webp" data-full="webp/photo.webp" alt="description"
-     style="aspect-ratio: 4000 / 3000;" class="lqip" loading="lazy">
+     class="lqip" loading="lazy">
 ```
 
-The `aspect-ratio` style reserves space in the layout before anything loads, preventing CLS.
+No `aspect-ratio` is needed — the LQIP thumbnail loads almost instantly (~300 bytes), and the browser reads the image dimensions from the file itself.
 
 ## Day-to-Day Workflow
 
@@ -182,6 +209,7 @@ That's it. No local conversion, no manual thumbnail generation.
 | PNG with transparency (RGBA) | Converted to RGB before WebP encoding |
 | Large TIFF (50+ MB) | 1024 MB memory + 1024 MB ephemeral storage + 120s timeout handle this |
 | EXIF orientation tag | Applied via `ImageOps.exif_transpose()` before encoding |
-| Lambda output triggers another S3 event | `/original/` guard prevents processing — `webp/` and `lqip/` paths never contain `/original/` |
+| Compressor output triggers LQIP Generator | By design — `webp/` trigger fires the LQIP Generator |
+| LQIP output doesn't trigger anything | `/lqip/` doesn't match either trigger path |
 | Lambda fails after retries | Message goes to SQS dead letter queue (14-day retention) |
 | LQIP doesn't exist yet when page loads | `onerror` handler in JS falls back to loading the full image directly |

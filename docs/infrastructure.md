@@ -2,22 +2,23 @@
 
 ## Resource Overview
 
-The image pipeline runs on four AWS resources:
+The image pipeline runs on these AWS resources:
 
 | Resource | Type | Purpose |
 |----------|------|---------|
-| `ImageProcessorFunction` | Lambda function | Processes images on upload |
-| S3 event notification | Bucket trigger | Fires Lambda when objects are created |
-| `ImageProcessorDLQ` | SQS queue | Captures failed invocations |
-| `ImageProcessorFunctionRole` | IAM role | Scoped permissions for the Lambda |
+| `ImageCompressorFunction` | Lambda function | Converts originals to WebP |
+| `LqipGeneratorFunction` | Lambda function | Creates 16px thumbnails |
+| S3 event notifications | Bucket triggers | Fires Lambdas when objects are created |
+| `CompressorDLQ` | SQS queue | Captures failed compressor invocations |
+| `LqipGeneratorDLQ` | SQS queue | Captures failed LQIP generator invocations |
 
-Everything except the S3 trigger is defined in the SAM template and deployed as a CloudFormation stack.
+Everything except the S3 triggers is defined in the SAM template and deployed as a CloudFormation stack.
 
 ## SAM Template Walkthrough
 
 The template lives at `lambda/template.yaml`. SAM (Serverless Application Model) is a CloudFormation superset purpose-built for Lambda. It was chosen over alternatives because:
 
-- Simplest option for a single Lambda + trigger
+- Simplest option for Lambda + triggers
 - No state files to manage (unlike Terraform)
 - No CDK boilerplate
 - Two commands: `sam build` + `sam deploy`
@@ -25,20 +26,29 @@ The template lives at `lambda/template.yaml`. SAM (Serverless Application Model)
 
 ### Resources
 
-**`ImageProcessorDLQ`** — SQS queue with 14-day message retention. When the Lambda fails all retry attempts, the event gets sent here instead of being lost. Check this queue when debugging missing images.
+**`CompressorDLQ` / `LqipGeneratorDLQ`** — SQS queues with 14-day message retention. When a Lambda fails all retry attempts, the event gets sent here instead of being lost. Check these queues when debugging missing images.
 
-**`ImageProcessorFunction`** — The Lambda function itself. Key properties:
+**`ImageCompressorFunction`** — Converts images from `original/` to WebP in `webp/`. Deployed as a container image with `cwebp` installed.
 
 | Setting | Value | Why |
 |---------|-------|-----|
-| Runtime | `python3.12` | Latest stable Python runtime |
+| Package type | Container image | Allows installing system binaries like `cwebp` |
+| Base image | `public.ecr.aws/lambda/python:3.12` | AWS-managed Lambda runtime |
 | Memory | 1024 MB | Large TIFFs and medium-format scans need room |
 | Timeout | 120 seconds | Large files need time to download, process, and upload |
 | Ephemeral storage | 1024 MB | `/tmp` space for large source files |
 | Reserved concurrency | 10 | Prevents runaway invocations on bulk uploads |
 | Retry attempts | 2 | Try twice more before sending to DLQ |
 
-The function uses a `DeadLetterQueue` policy pointing to the SQS queue, so failed invocations are captured automatically.
+**`LqipGeneratorFunction`** — Creates 16px thumbnails from WebPs in `webp/`, writes to `lqip/`. Uses the same container image but with a different handler.
+
+| Setting | Value | Why |
+|---------|-------|-----|
+| Memory | 512 MB | Thumbnails are lightweight |
+| Ephemeral storage | 512 MB | Only downloading small WebPs |
+| Other settings | Same as compressor | — |
+
+Both functions use a `DeadLetterQueue` policy pointing to their respective SQS queues.
 
 **IAM permissions** — SAM generates a role automatically. The template adds an S3 policy:
 
@@ -52,100 +62,209 @@ This grants read/write to the specific bucket only. No `s3:*` wildcards.
 
 ### Outputs
 
-The template exports `ImageProcessorFunctionArn` — needed by `setup_s3_trigger.sh` to wire the S3 event notification.
+The template exports `ImageCompressorFunctionArn` and `LqipGeneratorFunctionArn` — needed by `setup_s3_trigger.sh` to wire the S3 event notifications.
 
 ## S3 Trigger Wiring
 
 **Why it's a separate step:** SAM can create S3 event triggers, but only for buckets it also creates. Since `made-by-carson-images` already exists, SAM can't attach events to it directly. The workaround is:
 
-1. Deploy the Lambda via SAM (creates the function + IAM + DLQ)
+1. Deploy the Lambdas via SAM (creates the functions + IAM + DLQs)
 2. Run `setup_s3_trigger.sh` to call `aws s3api put-bucket-notification-configuration`
-3. The script also adds a Lambda resource-based policy (`aws lambda add-permission`) so S3 is allowed to invoke the function
+3. The script also adds Lambda resource-based policies (`aws lambda add-permission`) so S3 is allowed to invoke both functions
 
-This only needs to happen once. After that, any object created in the bucket will trigger the Lambda.
+This only needs to happen once. After that, any object created in the bucket will trigger the appropriate Lambda.
 
-The trigger fires on `s3:ObjectCreated:*` — covers `PUT`, `POST`, multipart upload completion, and `COPY`.
+Both triggers fire on `s3:ObjectCreated:*` — covers `PUT`, `POST`, multipart upload completion, and `COPY`. The Lambdas themselves filter by path (`/original/` vs `/webp/`).
 
-## Deployment Steps
+## CI/CD Deployment
 
-### Prerequisites
+The Lambda is deployed automatically via GitHub Actions when changes are pushed to `lambda/` on `main`.
 
-- AWS CLI configured with credentials (`aws configure`)
-- SAM CLI installed (`brew install aws-sam-cli`)
-- Docker running (SAM builds Pillow inside a Linux container to match Lambda's architecture)
+**Workflow:** `.github/workflows/lambda-deploy.yml`
 
-### First-Time Deploy
+**Triggers:**
+- Push to `main` that changes any file in `lambda/`
+- Manual trigger via workflow_dispatch
+
+**What it does:**
+1. Checks out the repo
+2. Sets up Python 3.12 and SAM CLI
+3. Authenticates to AWS via OIDC (no static credentials)
+4. Runs `sam build` (builds the container image)
+5. Runs `sam deploy` (pushes to ECR, updates CloudFormation stack)
+
+### First-Time Setup (One-Time)
+
+Before CI/CD will work, you need to set up OIDC authentication between GitHub and AWS.
+
+#### 1. Create the GitHub OIDC Identity Provider in AWS
+
+```bash
+aws iam create-open-id-connect-provider \
+  --url https://token.actions.githubusercontent.com \
+  --client-id-list sts.amazonaws.com \
+  --thumbprint-list 6938fd4d98bab03faadb97b34396831e3780aea1
+```
+
+#### 2. Create the IAM Role
+
+Create a file `github-actions-trust-policy.json`:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "Federated": "arn:aws:iam::ACCOUNT_ID:oidc-provider/token.actions.githubusercontent.com"
+      },
+      "Action": "sts:AssumeRoleWithWebIdentity",
+      "Condition": {
+        "StringEquals": {
+          "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
+        },
+        "StringLike": {
+          "token.actions.githubusercontent.com:sub": "repo:CarsonDavis/CarsonDavis.github.io:*"
+        }
+      }
+    }
+  ]
+}
+```
+
+Replace `ACCOUNT_ID` with your AWS account ID, then create the role:
+
+```bash
+aws iam create-role \
+  --role-name github-actions-role \
+  --assume-role-policy-document file://github-actions-trust-policy.json
+```
+
+#### 3. Attach Permissions to the Role
+
+The role needs permissions for SAM deployments and S3 access:
+
+```bash
+# CloudFormation and SAM deployment permissions
+aws iam attach-role-policy \
+  --role-name github-actions-role \
+  --policy-arn arn:aws:iam::aws:policy/AWSCloudFormationFullAccess
+
+aws iam attach-role-policy \
+  --role-name github-actions-role \
+  --policy-arn arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryFullAccess
+
+aws iam attach-role-policy \
+  --role-name github-actions-role \
+  --policy-arn arn:aws:iam::aws:policy/AWSLambda_FullAccess
+
+aws iam attach-role-policy \
+  --role-name github-actions-role \
+  --policy-arn arn:aws:iam::aws:policy/AmazonSQSFullAccess
+
+aws iam attach-role-policy \
+  --role-name github-actions-role \
+  --policy-arn arn:aws:iam::aws:policy/AmazonS3FullAccess
+
+aws iam attach-role-policy \
+  --role-name github-actions-role \
+  --policy-arn arn:aws:iam::aws:policy/IAMFullAccess
+```
+
+#### 4. Add Repository Secret
+
+In your GitHub repo, go to Settings → Secrets and variables → Actions, and add:
+
+- `AWS_ACCOUNT_ID`: Your 12-digit AWS account ID
+
+#### 5. Wire the S3 Trigger
+
+After the first CI/CD deploy completes:
 
 ```bash
 cd lambda
-
-# Build the Lambda package (compiles Pillow for Linux)
-make build
-
-# Deploy to AWS (interactive first time — sets stack name, region, confirms)
-make deploy
-
-# Wire S3 events to the Lambda (one-time)
 make setup-trigger
 ```
 
-On first `sam deploy --guided`, you'll be prompted for:
-- Stack name → `image-processor`
-- Region → `us-east-1` (or wherever your bucket is)
-- Confirm changeset → yes
+This only needs to happen once. After that, pushes to `lambda/` deploy automatically.
 
-SAM saves these choices to `samconfig.toml` so subsequent deploys are non-interactive.
+### Local Development
 
-### Updating the Lambda
-
-**Code changes** (modifying `app.py`):
+For testing changes locally before pushing:
 
 ```bash
 cd lambda
-make build && make deploy
+make build                    # Build container image
+make test-compressor          # Test compressor with sample event
+make test-lqip                # Test LQIP generator with sample event
+
+# Watch logs
+sam logs -n ImageCompressorFunction --stack-name image-processor --tail
+sam logs -n LqipGeneratorFunction --stack-name image-processor --tail
 ```
 
-**Config changes** (memory, timeout, etc.): edit `template.yaml`, then same build + deploy.
+### Making Changes
 
-**Adding Python dependencies**: add to `requirements.txt`, then build + deploy. SAM handles packaging.
+**Code changes** — edit files in `lambda/`, push to `main`. CI/CD deploys automatically.
+
+**Config changes** (memory, timeout, etc.) — edit `template.yaml`, push to `main`.
+
+**Python dependencies** — add to `requirements.txt`, push to `main`.
+
+**System dependencies** — add to the `RUN dnf install` line in `image_processor/Dockerfile`, push to `main`.
 
 ## Monitoring
 
 ### CloudWatch Logs
 
-Every Lambda invocation writes to CloudWatch Logs under `/aws/lambda/image-processor-ImageProcessorFunction-*`. Each invocation logs:
-- The S3 key being processed
-- Whether it was skipped (not in `/original/`, unsupported extension)
-- What outputs were generated
-- Any errors
+Each Lambda writes to its own CloudWatch log group:
+- `/aws/lambda/image-compressor`
+- `/aws/lambda/lqip-generator`
+
+Each invocation logs the S3 key being processed, whether it was skipped, what outputs were generated, and any errors.
 
 ```bash
 # Tail live logs
-sam logs -n ImageProcessorFunction --stack-name image-processor --tail
+sam logs -n ImageCompressorFunction --stack-name image-processor --tail
+sam logs -n LqipGeneratorFunction --stack-name image-processor --tail
 ```
 
-### Dead Letter Queue
+### Dead Letter Queues
 
-Check the DLQ for failed events:
+Check the DLQs for failed events:
 
 ```bash
+# Compressor failures
 aws sqs receive-message \
-  --queue-url $(aws sqs get-queue-url --queue-name image-processor-ImageProcessorDLQ --query 'QueueUrl' --output text) \
+  --queue-url $(aws sqs get-queue-url --queue-name image-processor-CompressorDLQ --query 'QueueUrl' --output text) \
+  --max-number-of-messages 10
+
+# LQIP generator failures
+aws sqs receive-message \
+  --queue-url $(aws sqs get-queue-url --queue-name image-processor-LqipGeneratorDLQ --query 'QueueUrl' --output text) \
   --max-number-of-messages 10
 ```
 
 Common failure causes:
 - Image is corrupted or truncated
-- Unsupported format that Pillow can't open
-- File exceeds ephemeral storage (1 GB)
+- Unsupported format that `cwebp` or Pillow can't handle
+- File exceeds ephemeral storage
 
 ### What to Check When Images Are Missing
 
-1. Was the file uploaded to `original/`? (not the root folder)
+**WebP missing (compressor issue):**
+1. Was the file uploaded to `original/`?
 2. Is the extension supported? (`.jpg`, `.jpeg`, `.png`, `.tiff`, `.tif`, `.webp`)
-3. Check CloudWatch logs for the invocation
-4. Check DLQ for the failed event
-5. Try re-uploading the file — the Lambda is idempotent
+3. Check compressor CloudWatch logs
+4. Check compressor DLQ
+
+**LQIP missing (generator issue):**
+1. Does the WebP exist in `webp/`?
+2. Check LQIP generator CloudWatch logs
+3. Check LQIP generator DLQ
+
+Both Lambdas are idempotent — re-uploading the source file will regenerate outputs.
 
 ## Cost
 
@@ -161,29 +280,23 @@ Effectively $0 for a personal blog.
 
 Even outside the free tier, costs would be pennies per month.
 
-## GitHub Action Safety Net
-
-`.github/workflows/lqip-generator.yml` runs the `scripts/lqip_generator.py` backfill script:
-
-- **On push to main** (when `_posts/` changes) — catches cases where new posts reference images
-- **Weekly schedule** (Sunday 6am UTC) — catches direct S3 uploads that the Lambda might have missed
-- **Manual trigger** — process a specific folder on demand
-
-The Action uses repository secrets for AWS credentials (`AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`).
-
-After confirming the Lambda is working reliably, the schedule can be reduced to monthly or removed entirely.
-
 ## File Inventory
 
 ```
 lambda/
 ├── template.yaml                 # SAM infrastructure-as-code
-├── Makefile                      # build, deploy, setup-trigger shortcuts
-├── setup_s3_trigger.sh           # One-time: wires S3 events → Lambda
+├── samconfig.toml                # Deploy configuration (stack name, region)
+├── Makefile                      # build, test, setup-trigger shortcuts
+├── setup_s3_trigger.sh           # One-time: wires S3 events → both Lambdas
 ├── image_processor/
+│   ├── Dockerfile                # Container image: Python 3.12 + cwebp
 │   ├── __init__.py               # Package marker
-│   ├── app.py                    # Lambda handler (all processing logic)
-│   └── requirements.txt          # Pillow dependency
+│   ├── app.py                    # Both handlers: compressor_handler, lqip_handler
+│   └── requirements.txt          # Pillow, boto3
 └── events/
-    └── test_event.json           # For local testing with sam local invoke
+    ├── compressor_test.json      # Test event for compressor
+    └── lqip_test.json            # Test event for LQIP generator
+
+.github/workflows/
+└── lambda-deploy.yml             # CI/CD: deploys Lambdas on push to lambda/
 ```
