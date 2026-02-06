@@ -9,7 +9,7 @@ This doc covers migrating old posts to the new image system. New posts use the L
 | Convert images locally with `cwebp` | Upload originals to S3 `original/`, Lambda converts automatically |
 | WebPs in folder root | WebPs in `webp/` subfolder |
 | No placeholders | LQIP thumbnails in `lqip/` subfolder |
-| `<img src="photo.webp">` | `<img src="lqip/photo.webp" data-full="webp/photo.webp" class="lqip" loading="lazy">` |
+| `<img src="photo.webp">` | `<img src="webp/photo.webp" lqip="lqip/photo.webp">` |
 
 ## New Posts vs Old Posts
 
@@ -77,7 +77,8 @@ uv run scripts/migrate_to_lqip.py _posts/2025-02-15-film_camera_photos.md
 ```
 
 The script:
-- Converts `<img src="photo.jpg">` to `<img src="lqip/photo.webp" data-full="webp/photo.webp" class="lqip" loading="lazy">`
+- Updates frontmatter `image: photo.jpg` to `image: webp/photo.webp` (cover/header image)
+- Converts `<img src="photo.jpg">` to `<img src="webp/photo.webp" lqip="lqip/photo.webp">`
 - Converts `![alt](photo.jpg)` to the same HTML format
 - Changes any image extension (`.jpg`, `.png`, etc.) to `.webp` in the output paths
 - Skips external URLs and already-migrated images

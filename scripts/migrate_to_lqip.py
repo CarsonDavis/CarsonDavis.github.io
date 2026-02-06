@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-LQIP Migration Script - Transform existing image references to use LQIP pattern.
+LQIP Migration Script - Transform existing image references to use Chirpy's built-in LQIP.
 
 This script transforms:
-1. HTML images: <img src="photo.jpg" ...> -> <img src="lqip/photo.webp" data-full="webp/photo.webp" class="lqip" loading="lazy" ...>
-2. Markdown images: ![alt](photo.jpg) -> <img src="lqip/photo.webp" data-full="webp/photo.webp" alt="alt" class="lqip" loading="lazy">
+1. Frontmatter image: image: photo.jpg -> image: webp/photo.webp
+2. HTML images: <img src="photo.jpg" ...> -> <img src="webp/photo.webp" lqip="lqip/photo.webp" ...>
+3. Markdown images: ![alt](photo.jpg) -> <img src="webp/photo.webp" lqip="lqip/photo.webp" alt="alt">
 
 All image extensions are converted to .webp in the output paths, since the
 Lambda pipeline produces WebPs regardless of the source format.
@@ -37,8 +38,8 @@ def has_media_subpath(content: str) -> bool:
 
 
 def is_already_migrated(tag: str) -> bool:
-    """Check if an image tag is already migrated (has data-full attribute)."""
-    return "data-full=" in tag
+    """Check if an image tag is already migrated (has lqip attribute)."""
+    return "lqip=" in tag
 
 
 def is_external_url(src: str) -> bool:
@@ -47,8 +48,8 @@ def is_external_url(src: str) -> bool:
 
 
 def is_lqip_path(src: str) -> bool:
-    """Check if the source already points to an LQIP."""
-    return src.startswith("lqip/") or "/lqip/" in src
+    """Check if the source already points to a webp/ path (already migrated)."""
+    return src.startswith("webp/") or "/webp/" in src
 
 
 def to_webp_stem(filename: str) -> str:
@@ -62,10 +63,10 @@ def to_webp_stem(filename: str) -> str:
 
 def migrate_html_image(match: re.Match) -> str:
     """
-    Migrate an HTML image tag to LQIP format.
+    Migrate an HTML image tag to Chirpy LQIP format.
 
     Input: <img src="photo.jpg" alt="desc">
-    Output: <img src="lqip/photo.webp" data-full="webp/photo.webp" alt="desc" class="lqip" loading="lazy">
+    Output: <img src="webp/photo.webp" lqip="lqip/photo.webp" alt="desc">
     """
     full_tag = match.group(0)
 
@@ -87,39 +88,34 @@ def migrate_html_image(match: re.Match) -> str:
     if not src.lower().endswith(IMAGE_EXTENSIONS):
         return full_tag
 
-    # Skip if already an LQIP path
+    # Skip if already a webp/ path
     if is_lqip_path(src):
         return full_tag
 
     # Build new paths — always .webp regardless of source extension
     webp_name = to_webp_stem(src)
+    webp_src = f"webp/{webp_name}"
     lqip_src = f"lqip/{webp_name}"
-    full_src = f"webp/{webp_name}"
 
-    # Replace src with lqip src and add data-full
+    # Replace src with webp src and add lqip attribute
     new_tag = full_tag
-    new_tag = re.sub(r'src="[^"]+"', f'src="{lqip_src}" data-full="{full_src}"', new_tag)
+    new_tag = re.sub(r'src="[^"]+"', f'src="{webp_src}" lqip="{lqip_src}"', new_tag)
 
-    # Add class="lqip" - handle existing class attribute
-    if 'class="' in new_tag:
-        new_tag = re.sub(r'class="([^"]*)"', r'class="\1 lqip"', new_tag)
-    else:
-        # Add class before the closing >
-        new_tag = re.sub(r"(/?>)$", r' class="lqip"\1', new_tag)
+    # Remove class="lqip" if present (Chirpy manages classes)
+    new_tag = re.sub(r'\s*class="[^"]*lqip[^"]*"', "", new_tag)
 
-    # Add loading="lazy" if not present
-    if 'loading="' not in new_tag:
-        new_tag = re.sub(r"(/?>)$", r' loading="lazy"\1', new_tag)
+    # Remove loading="lazy" if present (Chirpy manages lazy loading)
+    new_tag = re.sub(r'\s*loading="lazy"', "", new_tag)
 
     return new_tag
 
 
 def migrate_markdown_image(match: re.Match) -> str:
     """
-    Migrate a Markdown image to HTML with LQIP format.
+    Migrate a Markdown image to HTML with Chirpy LQIP format.
 
     Input: ![alt text](photo.jpg)
-    Output: <img src="lqip/photo.webp" data-full="webp/photo.webp" alt="alt text" class="lqip" loading="lazy">
+    Output: <img src="webp/photo.webp" lqip="lqip/photo.webp" alt="alt text">
     """
     full_match = match.group(0)
     alt_text = match.group(1)
@@ -132,32 +128,62 @@ def migrate_markdown_image(match: re.Match) -> str:
     if not src.lower().endswith(IMAGE_EXTENSIONS):
         return full_match
 
-    # Skip if already an LQIP path
+    # Skip if already a webp/ path
     if is_lqip_path(src):
         return full_match
 
     # Build new paths — always .webp regardless of source extension
     webp_name = to_webp_stem(src)
+    webp_src = f"webp/{webp_name}"
     lqip_src = f"lqip/{webp_name}"
-    full_src = f"webp/{webp_name}"
 
     # Escape alt text for HTML attribute
     alt_escaped = alt_text.replace('"', "&quot;")
 
-    return f'<img src="{lqip_src}" data-full="{full_src}" alt="{alt_escaped}" class="lqip" loading="lazy">'
+    return f'<img src="{webp_src}" lqip="{lqip_src}" alt="{alt_escaped}">'
+
+
+def migrate_frontmatter_image(content: str) -> tuple[str, int]:
+    """
+    Migrate the frontmatter image: field to point to webp/ subfolder.
+
+    Input:  image: photo.jpg
+    Output: image: webp/photo.webp
+
+    Skips if already pointing to webp/, or if the value is an external URL.
+    """
+    def replace_image(m: re.Match) -> str:
+        prefix = m.group(1)  # "image: " (with any whitespace)
+        value = m.group(2).strip()
+
+        if is_external_url(value):
+            return m.group(0)
+        if not value.lower().endswith(IMAGE_EXTENSIONS):
+            return m.group(0)
+        if value.startswith("webp/") or "/webp/" in value:
+            return m.group(0)
+
+        webp_name = to_webp_stem(value)
+        return f"{prefix}webp/{webp_name}"
+
+    new_content, count = re.subn(
+        r"^(image:\s*)(.+)$", replace_image, content, count=1, flags=re.MULTILINE
+    )
+    return new_content, count if new_content != content else 0
 
 
 def migrate_content(content: str) -> tuple[str, int]:
     """
-    Migrate all image references in content to LQIP format.
+    Migrate all image references in content to Chirpy LQIP format.
 
     Returns:
         Tuple of (migrated_content, number_of_changes)
     """
     changes = 0
 
-    # Track original content to count changes
-    original = content
+    # Migrate frontmatter image: field
+    content, fm_changes = migrate_frontmatter_image(content)
+    changes += fm_changes
 
     # Migrate HTML images: <img src="..." ...>
     # This regex matches <img tags with various attributes

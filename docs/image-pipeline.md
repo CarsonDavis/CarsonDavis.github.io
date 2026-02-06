@@ -60,11 +60,11 @@ The old workflow was also manual: convert to WebP locally with `cwebp`, upload, 
 ┌─────────────────────────────────────────────────────────────────┐
 │                    Frontend (Browser)                           │
 ├─────────────────────────────────────────────────────────────────┤
-│  lqip-loader.js loaded on all pages:                            │
-│  1. Images start with LQIP src (tiny, instant load)             │
-│  2. CSS blur(10px) hides pixelation                             │
-│  3. IntersectionObserver triggers when image nears viewport     │
-│  4. Full image loads in background, then transitions blur→sharp  │
+│  Chirpy's built-in LQIP system (post.min.js):                   │
+│  1. Build: refactor-content.html converts lqip= to data-lqip   │
+│  2. LQIP thumbnail shown as blurred placeholder                 │
+│  3. Chirpy JS lazy-loads full image as user scrolls              │
+│  4. Blur removed with smooth transition on load                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -147,41 +147,28 @@ cwebp -q 60 -metadata icc -mt -exact -m 6 input.jpg -o output.webp
 
 ## How the Frontend Loads Images
 
-Three pieces work together:
+Chirpy's built-in LQIP system handles everything. No custom JS or CSS is needed.
 
-### 1. CSS (in `_includes/head.html`)
+### Build time (`refactor-content.html`)
 
-```css
-img.lqip {
-  filter: blur(10px);
-  transform: scale(1.05);
-  transition: filter 0.3s ease, transform 0.3s ease;
-}
-img.lqip.lqip-loaded {
-  filter: blur(0);
-  transform: scale(1);
-}
-```
+Chirpy's include transforms the `lqip` attribute at build time:
+- `<img src="webp/X.webp" lqip="lqip/X.webp">` becomes `<img data-src="webp/X.webp" data-lqip="lqip/X.webp">`
+- The image is wrapped in `<a class="blur">` (not `shimmer`, because `data-lqip` is present)
 
-The `scale(1.05)` hides blur edge artifacts. When loaded, both blur and scale animate to their final values.
+### Runtime (`post.min.js`)
 
-### 2. JavaScript (`assets/js/lqip-loader.js`)
+Chirpy's JS handles the lazy load and transition:
+- Detects images with `data-src` approaching the viewport
+- Loads the full image in the background
+- Swaps `data-src` to `src` and removes the blur class on load
 
-An IIFE that:
-- Creates an `IntersectionObserver` with `rootMargin: "200px"` (starts loading 200px before the image scrolls into view)
-- For each `.lqip` image entering the margin, creates a hidden `Image()` to preload the full-size URL from `data-full`
-- On successful load, swaps `src` to the full image and adds `lqip-loaded` class (triggers CSS transition)
-- On preload error, still swaps to full image URL — graceful degradation
-- Unobserves each image after triggering to avoid duplicate work
-
-### 3. HTML tag format
+### HTML tag format
 
 ```html
-<img src="lqip/photo.webp" data-full="webp/photo.webp" alt="description"
-     class="lqip" loading="lazy">
+<img src="webp/photo.webp" lqip="lqip/photo.webp" alt="description">
 ```
 
-No `aspect-ratio` is needed — the LQIP thumbnail loads almost instantly (~300 bytes), and the browser reads the image dimensions from the file itself.
+No `class`, `loading`, or `data-*` attributes needed — Chirpy adds them at build time.
 
 ## Day-to-Day Workflow
 
@@ -212,4 +199,4 @@ That's it. No local conversion, no manual thumbnail generation.
 | Compressor output triggers LQIP Generator | By design — `webp/` trigger fires the LQIP Generator |
 | LQIP output doesn't trigger anything | `/lqip/` doesn't match either trigger path |
 | Lambda fails after retries | Message goes to SQS dead letter queue (14-day retention) |
-| Full image preload fails | `onerror` handler in JS swaps to full image URL anyway — graceful degradation |
+| Full image preload fails | Chirpy's JS handles the error; LQIP placeholder remains visible |

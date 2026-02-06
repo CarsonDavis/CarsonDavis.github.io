@@ -99,42 +99,35 @@ The script:
 Every image in a post uses this HTML tag:
 
 ```html
-<img src="lqip/photo.webp" data-full="webp/photo.webp" alt="A useful description"
-     class="lqip" loading="lazy">
+<img src="webp/photo.webp" lqip="lqip/photo.webp" alt="A useful description">
 ```
 
-The post's `media_subpath` frontmatter prepends the S3 URL automatically, so `src` and `data-full` are relative to the post's image folder.
+The post's `media_subpath` frontmatter prepends the S3 URL automatically, so `src` and `lqip` are relative to the post's image folder.
 
 ### What Each Attribute Does
 
 | Attribute | Value | Purpose |
 |-----------|-------|---------|
-| `src` | `lqip/photo.webp` | Points to the ~300-byte thumbnail. Loads instantly. |
-| `data-full` | `webp/photo.webp` | The full-size image URL. JS loads this when the image enters the viewport. |
+| `src` | `webp/photo.webp` | Points to the full-size image. Chirpy converts this to `data-src` for lazy loading. |
+| `lqip` | `lqip/photo.webp` | The ~300-byte thumbnail. Chirpy converts this to `data-lqip` and uses it as a blur placeholder. |
 | `alt` | Description text | Accessibility. Screen readers, broken images, SEO. |
-| `class="lqip"` | — | Applies blur CSS and registers the image with the IntersectionObserver. |
-| `loading="lazy"` | — | Native browser lazy loading as a fallback if JS is disabled. |
 
-No `aspect-ratio` is needed — the LQIP thumbnail is small enough (~300 bytes) to load almost instantly, and once loaded the browser knows the image dimensions from the file itself.
+Chirpy's `refactor-content.html` include processes these attributes at build time, wrapping the image in `<a class="blur">` with `data-src` and `data-lqip` attributes. The theme's `post.min.js` handles the lazy load and blur-to-sharp transition automatically.
 
 ## How the Blur Transition Works
 
-1. Page loads — browser fetches each `src` (the tiny LQIP thumbnail, ~300 bytes)
-2. CSS `filter: blur(10px)` makes the thumbnail look like a blurred preview. `scale(1.05)` slightly oversizes it to hide the soft edges that blur creates at image borders.
-3. As the user scrolls, `lqip-loader.js` detects images approaching the viewport (200px margin)
-4. JS creates a hidden `Image()` object to preload the full-size image from `data-full`
-5. Once loaded, JS swaps `src` to the full image and adds class `lqip-loaded`
-6. CSS transitions blur to 0 and scale to 1 over 0.3 seconds
-
-If the full image fails to preload, the `onerror` handler swaps to the full image URL anyway — graceful degradation. The page still works; you just don't get the blur effect.
+1. Page loads — Chirpy's `refactor-content.html` transforms `<img src="X" lqip="Y">` into a lazy-loading structure with `data-src` and `data-lqip`
+2. The LQIP thumbnail is shown as a blurred placeholder
+3. As the user scrolls, Chirpy's JS detects images approaching the viewport
+4. The full image loads in the background
+5. Once loaded, the blur is removed with a smooth transition
 
 ## Common Patterns
 
 ### Single Image
 
 ```html
-<img src="lqip/sunset.webp" data-full="webp/sunset.webp" alt="Sunset over the lake"
-     class="lqip" loading="lazy">
+<img src="webp/sunset.webp" lqip="lqip/sunset.webp" alt="Sunset over the lake">
 ```
 
 ### Grid Layout
@@ -142,12 +135,10 @@ If the full image fails to preload, the `onerror` handler swaps to the full imag
 ```html
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="lqip/photo1.webp" data-full="webp/photo1.webp" alt="Photo 1"
-             class="lqip" loading="lazy">
+        <img src="webp/photo1.webp" lqip="lqip/photo1.webp" alt="Photo 1">
     </div>
     <div class="image-div">
-        <img src="lqip/photo2.webp" data-full="webp/photo2.webp" alt="Photo 2"
-             class="lqip" loading="lazy">
+        <img src="webp/photo2.webp" lqip="lqip/photo2.webp" alt="Photo 2">
     </div>
     <div class="caption">Caption 1</div>
     <div class="caption">Caption 2</div>
@@ -199,8 +190,7 @@ brew install exiftool
 
 | Scenario | What happens |
 |----------|-------------|
-| LQIP exists, full image exists | Normal blur-to-sharp transition |
-| Full image preload fails | `onerror` fires, swaps to full image URL anyway (no blur) |
+| LQIP exists, full image exists | Normal blur-to-sharp transition via Chirpy's built-in JS |
 | Full image doesn't exist | Broken image icon (same as any missing image) |
-| JavaScript disabled | `loading="lazy"` provides native lazy loading; LQIP thumbnail displays permanently |
-| Very old browser (no IntersectionObserver) | LQIP thumbnail displays, no swap occurs |
+| JavaScript disabled | Images don't load (Chirpy requires JS for `data-src` swap) |
+| No `lqip` attribute | Chirpy uses shimmer animation placeholder instead of blur |

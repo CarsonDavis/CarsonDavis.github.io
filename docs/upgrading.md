@@ -30,7 +30,7 @@ bundle exec jekyll build
 # 3. Run the CI smoke tests locally (same checks that run in GitHub Actions)
 set -e
 grep -q 'assets/js/dist/theme.min.js' _site/index.html
-grep -rq 'lqip-loader.js' _site/index.html
+grep -q 'data-lqip' _site/posts/plane-collection/index.html
 grep -q 'data-mode' _site/index.html
 grep -q 'MathJax-script' _site/posts/ml_metrics/index.html
 echo "All smoke tests passed"
@@ -47,7 +47,7 @@ After upgrading, verify these JS-dependent features still work:
 |---------|--------------|----------------|
 | Theme JS (search, sidebar, TOC) | Page loads without console errors, search works | Stale `_includes/head.html` override blocking theme scripts |
 | MathJax | Open [ML Metrics](/posts/ml_metrics/) — equations render | Missing `mathjax.js` data file or broken head includes |
-| LQIP placeholders | Images show blur-to-sharp transition | `metadata-hook.html` not included, or `lqip-loader.js` missing |
+| LQIP placeholders | Images show blur-to-sharp transition | Chirpy's `refactor-content.html` or `post.min.js` broken |
 | Dark/light mode | Toggle works, persists on reload | `theme.min.js` not loaded, `data-mode` attribute missing |
 | Clipboard (code blocks) | Click copy button on a code block | `commons.min.js` not loaded |
 | Search | Type in search box, results appear | `simple-jekyll-search` CDN script missing |
@@ -58,7 +58,7 @@ Chirpy supports two kinds of customization:
 
 | Type | Location | Risk | Example |
 |------|----------|------|---------|
-| **Extension points** (safe) | `_includes/metadata-hook.html`, `_includes/custom-head.html` | Low — theme never overwrites these | LQIP styles and script tag |
+| **Extension points** (safe) | `_includes/metadata-hook.html`, `_includes/custom-head.html` | Low — theme never overwrites these | Custom metadata, extra head tags |
 | **Full-file overrides** (fragile) | Any `_includes/`, `_layouts/`, `_sass/` file that shadows the gem | High — theme updates won't apply | Copying `_includes/head.html` to add a script tag |
 
 ### Listing current overrides
@@ -88,7 +88,7 @@ Current overrides in this repo:
 
 | File | Type | Purpose |
 |------|------|---------|
-| `_includes/metadata-hook.html` | Extension point | LQIP styles + `lqip-loader.js` script tag |
+| `_includes/metadata-hook.html` | Extension point | Empty (no-op, reserved for future use) |
 | `_includes/embedded_plotly_graph.html` | Extension point | Plotly embed helper |
 
 If you ever need to override a full file (like `head.html`), prefer using the extension points instead. If a full override is unavoidable, add it to this table and check it against the gem on every upgrade.

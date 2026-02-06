@@ -58,8 +58,8 @@ jobs:
           echo "Checking theme JS is loaded..."
           grep -q 'assets/js/dist/theme.min.js' "$SITE/index.html"
 
-          echo "Checking LQIP loader is present..."
-          grep -q 'lqip-loader.js' "$SITE/index.html"
+          echo "Checking Chirpy LQIP processing works..."
+          grep -q 'data-lqip' "$SITE/posts/plane-collection/index.html"
 
           echo "Checking dark/light mode toggle works..."
           grep -q 'data-mode' "$SITE/index.html"
