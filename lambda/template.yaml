@@ -63,7 +63,7 @@ Resources:
         Command: ["app.lqip_handler"]
       Architectures:
         - x86_64
-      MemorySize: 512  # LQIP generation is lighter weight
+      MemorySize: 1024
       EphemeralStorage:
         Size: 512
       ReservedConcurrentExecutions: 10
