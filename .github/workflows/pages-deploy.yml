@@ -59,7 +59,7 @@ jobs:
           grep -q 'assets/js/dist/theme.min.js' "$SITE/index.html"
 
           echo "Checking Chirpy LQIP processing works..."
-          grep -q 'data-lqip' "$SITE/posts/plane-collection/index.html"
+          grep -q 'data-lqip' "$SITE/posts/plane_collection/index.html"
 
           echo "Checking dark/light mode toggle works..."
           grep -q 'data-mode' "$SITE/index.html"
