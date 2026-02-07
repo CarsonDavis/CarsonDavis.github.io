@@ -13,6 +13,7 @@ Usage:
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 import tempfile
@@ -61,6 +62,21 @@ def get_existing_stems(folder: str) -> set[str]:
     return stems
 
 
+def sanitize_filename(name: str) -> str:
+    """Sanitize a filename stem for use in URLs and markdown.
+
+    - Replaces spaces with underscores
+    - Strips parentheses
+    - Collapses multiple underscores
+    - Strips leading/trailing underscores
+    """
+    name = name.replace(" ", "_")
+    name = re.sub(r"[()]", "", name)
+    name = re.sub(r"_+", "_", name)
+    name = name.strip("_")
+    return name
+
+
 def deduplicate_stem(stem: str, taken: set[str]) -> str:
     """Return a unique stem by appending _2, _3, etc. if needed."""
     if stem not in taken:
@@ -93,7 +109,8 @@ def build_upload_plan(local_dir: Path, folder: str) -> list[tuple[Path, str]]:
 
     for local_path in local_files:
         original_stem = local_path.stem
-        stem = deduplicate_stem(original_stem, taken)
+        stem = sanitize_filename(original_stem)
+        stem = deduplicate_stem(stem, taken)
         taken.add(stem)
 
         s3_key = f"{folder}/original/{stem}{local_path.suffix}"
