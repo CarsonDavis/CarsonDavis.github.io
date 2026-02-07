@@ -47,7 +47,7 @@ After upgrading, verify these JS-dependent features still work:
 |---------|--------------|----------------|
 | Theme JS (search, sidebar, TOC) | Page loads without console errors, search works | Stale `_includes/head.html` override blocking theme scripts |
 | MathJax | Open [ML Metrics](/posts/ml_metrics/) — equations render | Missing `mathjax.js` data file or broken head includes |
-| LQIP placeholders | Images show blur-to-sharp transition | Chirpy's `refactor-content.html` or `post.min.js` broken |
+| LQIP placeholders | Images show blur-to-sharp transition, placeholders fill container width (not 16px) | Chirpy's `refactor-content.html` or `post.min.js` broken; `metadata-hook.html` missing `a.blur` width fix |
 | Dark/light mode | Toggle works, persists on reload | `theme.min.js` not loaded, `data-mode` attribute missing |
 | Clipboard (code blocks) | Click copy button on a code block | `commons.min.js` not loaded |
 | Search | Type in search box, results appear | `simple-jekyll-search` CDN script missing |
@@ -88,7 +88,7 @@ Current overrides in this repo:
 
 | File | Type | Purpose |
 |------|------|---------|
-| `_includes/metadata-hook.html` | Extension point | Empty (no-op, reserved for future use) |
+| `_includes/metadata-hook.html` | Extension point | LQIP layout shift fix — forces `a.blur` and its image to `width: 100%` so 16px LQIP thumbnails fill the container instead of rendering at natural size |
 | `_includes/embedded_plotly_graph.html` | Extension point | Plotly embed helper |
 
 If you ever need to override a full file (like `head.html`), prefer using the extension points instead. If a full override is unavoidable, add it to this table and check it against the gem on every upgrade.

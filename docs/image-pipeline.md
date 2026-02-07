@@ -147,20 +147,32 @@ cwebp -q 60 -metadata icc -mt -exact -m 6 input.jpg -o output.webp
 
 ## How the Frontend Loads Images
 
-Chirpy's built-in LQIP system handles everything. No custom JS or CSS is needed.
+Chirpy's built-in LQIP system handles the blur-to-sharp transition. A small CSS fix in `metadata-hook.html` prevents layout shift.
 
 ### Build time (`refactor-content.html`)
 
 Chirpy's include transforms the `lqip` attribute at build time:
-- `<img src="webp/X.webp" lqip="lqip/X.webp">` becomes `<img data-src="webp/X.webp" data-lqip="lqip/X.webp">`
-- The image is wrapped in `<a class="blur">` (not `shimmer`, because `data-lqip` is present)
+- `<img src="webp/X.webp" lqip="lqip/X.webp">` becomes `<img data-src="webp/X.webp" data-lqip="true" src="lqip/X.webp">`
+- The image is wrapped in `<a class="popup img-link blur">`
+- Images without `lqip` get `shimmer` (animated gradient) instead of `blur`
 
 ### Runtime (`post.min.js`)
 
 Chirpy's JS handles the lazy load and transition:
-- Detects images with `data-src` approaching the viewport
-- Loads the full image in the background
-- Swaps `data-src` to `src` and removes the blur class on load
+- Swaps `data-src` to `src` for all LQIP images
+- When the full image loads, removes the `blur` class from the wrapper
+- CSS transition animates from blurred to sharp
+
+### Layout shift fix (`metadata-hook.html`)
+
+Chirpy's `.img-link` wrapper uses `display: inline-flex`, which shrink-wraps to its content. Since LQIP thumbnails are only 16px wide, the image renders at 16px and then jumps to full size when the real image loads. The fix in `_includes/metadata-hook.html` forces the blur wrapper and its image to fill the container width:
+
+```css
+a.blur { width: 100%; }
+a.blur img { width: 100%; }
+```
+
+When Chirpy's JS removes `blur` after the full image loads, these rules stop applying and the image falls back to Chirpy's default `max-width: 100%; height: auto`.
 
 ### HTML tag format
 
