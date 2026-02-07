@@ -6,7 +6,7 @@ categories: [photography, film]
 tags: []
 description: reviews, history, and photos from 22 film cameras
 media_subpath: /film-camera-photos/
-image: 20250313_185922.webp
+image: webp/20250313_185922.webp
 published: True
 ---
 
@@ -92,10 +92,10 @@ There's a table of contents if you want to jump to a specific camera, and you ca
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_214750.webp" alt="">
+        <img src="webp/20250219_214750.webp" lqip="lqip/20250219_214750.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250313_183400.webp" alt="">
+        <img src="webp/20250313_183400.webp" lqip="lqip/20250313_183400.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -159,40 +159,40 @@ All the Nikons have a shutter lock that is integrated with the film advance. You
 ### Nikon FM Photo Samples
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="arst0064+(2).webp" alt="">
+        <img src="webp/arst0064+(2).webp" lqip="lqip/arst0064+(2).webp" alt="">
     </div>
     <div class="image-div">
-        <img src="arst0023a.webp" alt="">
+        <img src="webp/arst0023a.webp" lqip="lqip/arst0023a.webp" alt="">
     </div>
     <div class="caption">HP5 400 dec 2016</div>
     <div class="caption">HP5 400 dec 2016</div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="arst0010.webp" alt="">
+        <img src="webp/arst0010.webp" lqip="lqip/arst0010.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="23750019.webp" alt="">
-    </div>
-    <div class="caption">HP5 400 july 2016</div>
-    <div class="caption">HP5 400 july 2016</div>
-</div>
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="23730001.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="23740021+(2).webp" alt="">
+        <img src="webp/23750019.webp" lqip="lqip/23750019.webp" alt="">
     </div>
     <div class="caption">HP5 400 july 2016</div>
     <div class="caption">HP5 400 july 2016</div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="73360005.webp" alt="">
+        <img src="webp/23730001.webp" lqip="lqip/23730001.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="73360006.webp" alt="">
+        <img src="webp/23740021+(2).webp" lqip="lqip/23740021+(2).webp" alt="">
+    </div>
+    <div class="caption">HP5 400 july 2016</div>
+    <div class="caption">HP5 400 july 2016</div>
+</div>
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="webp/73360005.webp" lqip="lqip/73360005.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="webp/73360006.webp" lqip="lqip/73360006.webp" alt="">
     </div>
     <div class="caption">Delta 3200 Jan 2017, vegas</div>
     <div class="caption">Delta 3200 Jan 2017, vegas</div>
@@ -200,10 +200,10 @@ All the Nikons have a shutter lock that is integrated with the film advance. You
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="98530017.webp" alt="">
+        <img src="webp/98530017.webp" lqip="lqip/98530017.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="98530019.webp" alt="">
+        <img src="webp/98530019.webp" lqip="lqip/98530019.webp" alt="">
     </div>
     <div class="caption">Huntsville, 2016?</div>
     <div class="caption">Huntsville, 2016?</div>
@@ -211,30 +211,30 @@ All the Nikons have a shutter lock that is integrated with the film advance. You
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="01450001.webp" alt="">
+        <img src="webp/01450001.webp" lqip="lqip/01450001.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="01450018.webp" alt="">
+        <img src="webp/01450018.webp" lqip="lqip/01450018.webp" alt="">
     </div>
     <div class="caption">Huntsville, 2016?</div>
     <div class="caption">Huntsville, 2016?</div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="23750016.webp" alt="">
+        <img src="webp/23750016.webp" lqip="lqip/23750016.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="arst0094.webp" alt="">
+        <img src="webp/arst0094.webp" lqip="lqip/arst0094.webp" alt="">
     </div>
     <div class="caption">Portland</div>
     <div class="caption">D.C., 2016?</div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="47780021.webp" alt="47780021.webp">
+        <img src="webp/47780021.webp" lqip="lqip/47780021.webp" alt="47780021.webp">
     </div>
     <div class="image-div">
-        <img src="70820002 (1).webp" alt="">
+        <img src="webp/70820002 (1).webp" lqip="lqip/70820002 (1).webp" alt="">
     </div>
     <div class="caption">the suspicious gentleman who sold me my Nikon FM2, Portland, 2017</div>
     <div class="caption">Wears Valley</div>
@@ -244,10 +244,10 @@ All the Nikons have a shutter lock that is integrated with the film advance. You
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213546.webp" alt="">
+        <img src="webp/20250219_213546.webp" lqip="lqip/20250219_213546.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_213614.webp" alt="">
+        <img src="webp/20250219_213614.webp" lqip="lqip/20250219_213614.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -289,20 +289,20 @@ However, just in case you haven't already heard, this camera has a freaking tita
 ### Nikon FM2 Photo Samples
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="51660011a.webp" alt="">
+        <img src="webp/51660011a.webp" lqip="lqip/51660011a.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="51660010a.webp" alt="">
+        <img src="webp/51660010a.webp" lqip="lqip/51660010a.webp" alt="">
     </div>
     <div class="caption">Kentmere 400, Nov 2017 </div>
     <div class="caption">Kentmere 400, Nov 2017 </div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="51660009.webp" alt="">
+        <img src="webp/51660009.webp" lqip="lqip/51660009.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="51660006a+edit.webp" alt="">
+        <img src="webp/51660006a+edit.webp" lqip="lqip/51660006a+edit.webp" alt="">
     </div>
     <div class="caption">Kentmere 400, Nov 2017 </div>
     <div class="caption">Kentmere 400, Nov 2017 </div>
@@ -310,27 +310,27 @@ However, just in case you haven't already heard, this camera has a freaking tita
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000095670005.webp" alt="">
+        <img src="webp/000095670005.webp" lqip="lqip/000095670005.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000095670013.webp" alt="">
+        <img src="webp/000095670013.webp" lqip="lqip/000095670013.webp" alt="">
     </div>
     <div class="caption">my sister's wedding</div>
     <div class="caption">reading the vows</div>
 </div>
 
-![000095670015](000095670032.webp)
+<img src="webp/000095670032.webp" lqip="lqip/000095670032.webp" alt="000095670015">
 
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
-        <img src="000306990032.webp" alt="">
+        <img src="webp/000306990032.webp" lqip="lqip/000306990032.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000306990028+(2).webp" alt="">
+        <img src="webp/000306990028+(2).webp" lqip="lqip/000306990028+(2).webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000306990033.webp" alt="">
+        <img src="webp/000306990033.webp" lqip="lqip/000306990033.webp" alt="">
     </div>
     <div class="caption">apr 25, hwy 72</div>
     <div class="caption">apr 25, sweetwater antiques</div>
@@ -341,10 +341,10 @@ However, just in case you haven't already heard, this camera has a freaking tita
 ## Pentax K1000
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_222236.webp" alt="">
+        <img src="webp/20250219_222236.webp" lqip="lqip/20250219_222236.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_222250.webp" alt="">
+        <img src="webp/20250219_222250.webp" lqip="lqip/20250219_222250.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -382,7 +382,7 @@ Supposedly, if your Pentaprism says AHCO, as mine does, then it was made in Japa
 
 <!-- 20250219_220444.webp long lens -->
 
-![000289480015](70830014.webp)
+<img src="webp/70830014.webp" lqip="lqip/70830014.webp" alt="000289480015">
 _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
 
 <div class="grid-container grid-3x2">
@@ -390,7 +390,7 @@ _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
         <img src="" alt="">
     </div>
     <div class="image-div">
-        <img src="70830024 edit.webp" alt="">
+        <img src="webp/70830024 edit.webp" lqip="lqip/70830024 edit.webp" alt="">
     </div>
     <div class="image-div">
         <img src="" alt="">
@@ -404,10 +404,10 @@ _Jan 2017, Fujicolor Superia xtra400, Huntsville, Al_
 ## Yashica D
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250222_151128.webp" alt="">
+        <img src="webp/20250222_151128.webp" lqip="lqip/20250222_151128.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250222_151143.webp" alt="">
+        <img src="webp/20250222_151143.webp" lqip="lqip/20250222_151143.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -461,30 +461,30 @@ Interestingly, my particular example has "9-28-78" penciled inside, likely a ser
 ### Yashica D Photo Samples
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="51650005a.webp" alt="">
+        <img src="webp/51650005a.webp" lqip="lqip/51650005a.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="51640002a.webp" alt="">
+        <img src="webp/51640002a.webp" lqip="lqip/51640002a.webp" alt="">
     </div>
     <div class="caption">HP5 400, Washington, Nov 2017</div>
     <div class="caption">HP5 400, Washington, Nov 2017</div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img018.webp" alt="">
+        <img src="webp/img018.webp" lqip="lqip/img018.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="81200005 edit.webp" alt="">
+        <img src="webp/81200005 edit.webp" lqip="lqip/81200005 edit.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption">HP5 400, New Orleans, Feb 2017</div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img021.webp" alt="">
+        <img src="webp/img021.webp" lqip="lqip/img021.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="51650012a.webp" alt="">
+        <img src="webp/51650012a.webp" lqip="lqip/51650012a.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption">HP5 400, Washington, Nov 2017</div>
@@ -493,10 +493,10 @@ Interestingly, my particular example has "9-28-78" penciled inside, likely a ser
 ## Yashica 44
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_170500.webp" alt="">
+        <img src="webp/20250510_170500.webp" lqip="lqip/20250510_170500.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_170320.webp" alt="">
+        <img src="webp/20250510_170320.webp" lqip="lqip/20250510_170320.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -529,7 +529,7 @@ Just to be abundantly clear about this process:
 - reads 2 take seventh shot
 
 ### Yashica Sample Photos
-![20250423_190214.webp](20250423_190214.webp)
+<img src="webp/20250423_190214.webp" lqip="lqip/20250423_190214.webp" alt="20250423_190214.webp">
 
 _fun shot I took before getting the frame spacing figured out -- you can see the overlaping frames on top and bottom, but I think it gives it a vibe_
 
@@ -537,10 +537,10 @@ _fun shot I took before getting the frame spacing figured out -- you can see the
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250222_134457.webp" alt="">
+        <img src="webp/20250222_134457.webp" lqip="lqip/20250222_134457.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250222_134701.webp" alt="">
+        <img src="webp/20250222_134701.webp" lqip="lqip/20250222_134701.webp" alt="">
     </div>
     <div class="caption">classic configuration, with 105/2.4, TTL, and wood handle</div>
     <div class="caption">dwarfing the Nikon FM2</div>
@@ -548,10 +548,10 @@ _fun shot I took before getting the frame spacing figured out -- you can see the
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213356.webp" alt="">
+        <img src="webp/20250219_213356.webp" lqip="lqip/20250219_213356.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250222_134739.webp" alt="">
+        <img src="webp/20250222_134739.webp" lqip="lqip/20250222_134739.webp" alt="">
     </div>
     <div class="caption">sporting a custom wood handle and the chimney finder</div>
     <div class="caption">god this camera is huge</div>
@@ -561,10 +561,10 @@ Although the famous 105mm f/2.4 with the wooden pistol grip is the most iconic l
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_215955.webp" alt="">
+        <img src="webp/20250219_215955.webp" lqip="lqip/20250219_215955.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_220025.webp" alt="">
+        <img src="webp/20250219_220025.webp" lqip="lqip/20250219_220025.webp" alt="">
     </div>
     <div class="caption">my landscape loadout, ditching the default wooden handle and using a 45mm lens</div>
     <div class="caption">I also prefer the incredible magnification of the chimney finder, even at the expense of a light meter</div>
@@ -674,10 +674,10 @@ In all, the Pentax 67 is a fun camera, and I love it. But unless you specificall
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289570005_rectangle_2.webp" alt="">
+        <img src="webp/000289570005_rectangle_2.webp" lqip="lqip/000289570005_rectangle_2.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289570005+(3).webp" alt="">
+        <img src="webp/000289570005+(3).webp" lqip="lqip/000289570005+(3).webp" alt="">
     </div>
     <div class="caption">Joshua Tree. Deceptively massive boulders stretch into the distance.</div>
     <div class="caption">Notice the two people in this super zoomed in shot.</div>
@@ -689,15 +689,15 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 ### Pentax 67 Photo Samples
 
-![000289470011](img20250510_21195625.webp)
+<img src="webp/img20250510_21195625.webp" lqip="lqip/img20250510_21195625.webp" alt="000289470011">
 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img20250510_21361458-2.webp" alt="">
+        <img src="webp/img20250510_21361458-2.webp" lqip="lqip/img20250510_21361458-2.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img20250510_21395335-2.webp" alt="">
+        <img src="webp/img20250510_21395335-2.webp" lqip="lqip/img20250510_21395335-2.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -705,10 +705,10 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289560002_new.webp" alt="">
+        <img src="webp/000289560002_new.webp" lqip="lqip/000289560002_new.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img20250510_21163622.webp" alt="">
+        <img src="webp/img20250510_21163622.webp" lqip="lqip/img20250510_21163622.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -716,10 +716,10 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="97000004.webp" alt="">
+        <img src="webp/97000004.webp" lqip="lqip/97000004.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="97000001.webp" alt="">
+        <img src="webp/97000001.webp" lqip="lqip/97000001.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -727,10 +727,10 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289560009_dark.webp" alt="">
+        <img src="webp/000289560009_dark.webp" lqip="lqip/000289560009_dark.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289510009_blacks.webp" alt="">
+        <img src="webp/000289510009_blacks.webp" lqip="lqip/000289510009_blacks.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -738,10 +738,10 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img077.webp" alt="">
+        <img src="webp/img077.webp" lqip="lqip/img077.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img068-2.webp" alt="">
+        <img src="webp/img068-2.webp" lqip="lqip/img068-2.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -749,10 +749,10 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="1000022030.webp" alt="">
+        <img src="webp/1000022030.webp" lqip="lqip/1000022030.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img010_1.webp" alt="">
+        <img src="webp/img010_1.webp" lqip="lqip/img010_1.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -760,25 +760,25 @@ If you want to take gorgeous landscape shots and worry about cropping later, it'
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img082.webp" alt="">
+        <img src="webp/img082.webp" lqip="lqip/img082.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img074_new.webp" alt="">
+        <img src="webp/img074_new.webp" lqip="lqip/img074_new.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
-![000289480015](000289510008+(2).webp)
+<img src="webp/000289510008 (2).webp" lqip="lqip/000289510008 (2).webp" alt="000289480015">
 _the wide 45mm lets you do nice long crops_
 
 ## Mamiya RZ67
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_142042.webp" alt="">
+        <img src="webp/20250510_142042.webp" lqip="lqip/20250510_142042.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_142153.webp" alt="">
+        <img src="webp/20250510_142153.webp" lqip="lqip/20250510_142153.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -786,10 +786,10 @@ _the wide 45mm lets you do nice long crops_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_142450.webp" alt="">
+        <img src="webp/20250510_142450.webp" lqip="lqip/20250510_142450.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_142607.webp" alt="">
+        <img src="webp/20250510_142607.webp" lqip="lqip/20250510_142607.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -799,25 +799,25 @@ _the wide 45mm lets you do nice long crops_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img20250510_22135648.webp" alt="">
+        <img src="webp/img20250510_22135648.webp" lqip="lqip/img20250510_22135648.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img20250510_21524300-2.webp" alt="">
+        <img src="webp/img20250510_21524300-2.webp" lqip="lqip/img20250510_21524300-2.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
-![img20250510_21470425.webp](img20250510_21470425.webp)
+<img src="webp/img20250510_21470425.webp" lqip="lqip/img20250510_21470425.webp" alt="img20250510_21470425.webp">
 
 ## Balda Fixfocus 6x9
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_215222.webp" alt="">
+        <img src="webp/20250219_215222.webp" lqip="lqip/20250219_215222.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_215233.webp" alt="">
+        <img src="webp/20250219_215233.webp" lqip="lqip/20250219_215233.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -868,10 +868,10 @@ This is not the sort of camera I would take out a second time, but I had fun run
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="50760007a.webp" alt="">
+        <img src="webp/50760007a.webp" lqip="lqip/50760007a.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="50760004a.webp" alt="">
+        <img src="webp/50760004a.webp" lqip="lqip/50760004a.webp" alt="">
     </div>
     <div class="caption">Nevada, HP5+ 400, October, 2017</div>
     <div class="caption">Nevada, HP5+ 400, October, 2017</div>
@@ -883,10 +883,10 @@ Pay attention to the wide shot of the river, as I took the same photo with the l
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_223509.webp" alt="">
+        <img src="webp/20250219_223509.webp" lqip="lqip/20250219_223509.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_223452.webp" alt="">
+        <img src="webp/20250219_223452.webp" lqip="lqip/20250219_223452.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -937,10 +937,10 @@ Inside, mine has a little advertisement for Agfa Isopan Agfacolor IF 17, Pat 36.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="50700026a.webp" alt="">
+        <img src="webp/50700026a.webp" lqip="lqip/50700026a.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="50700029a.webp" alt="">
+        <img src="webp/50700029a.webp" lqip="lqip/50700029a.webp" alt="">
     </div>
     <div class="caption">Tri-X 400?</div>
     <div class="caption">Tri-X 400?</div>
@@ -950,10 +950,10 @@ Inside, mine has a little advertisement for Agfa Isopan Agfacolor IF 17, Pat 36.
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_222653.webp" alt="">
+        <img src="webp/20250219_222653.webp" lqip="lqip/20250219_222653.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_222708.webp" alt="">
+        <img src="webp/20250219_222708.webp" lqip="lqip/20250219_222708.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -964,13 +964,13 @@ Inside, mine has a little advertisement for Agfa Isopan Agfacolor IF 17, Pat 36.
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
-        <img src="0008arst.webp" alt="">
+        <img src="webp/0008arst.webp" lqip="lqip/0008arst.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="0009arst.webp" alt="">
+        <img src="webp/0009arst.webp" lqip="lqip/0009arst.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="0010arst.webp" alt="">
+        <img src="webp/0010arst.webp" lqip="lqip/0010arst.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1000,15 +1000,15 @@ The actual shooting experience is pretty minimal: aim the camera, press the shut
 
 ### Kodak DualFlex Photo Samples
 
-![000289480015](0001arst.webp)
+<img src="webp/0001arst.webp" lqip="lqip/0001arst.webp" alt="000289480015">
 _HP5+ 400, ~Jan 2017_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="0007arst.webp" alt="">
+        <img src="webp/0007arst.webp" lqip="lqip/0007arst.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="0003arst.webp" alt="">
+        <img src="webp/0003arst.webp" lqip="lqip/0003arst.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption">it's less difficult than you would think to get shots in focus</div>
@@ -1018,10 +1018,10 @@ _HP5+ 400, ~Jan 2017_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213457.webp" alt="">
+        <img src="webp/20250219_213457.webp" lqip="lqip/20250219_213457.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_213520.webp" alt="">
+        <img src="webp/20250219_213520.webp" lqip="lqip/20250219_213520.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1085,10 +1085,10 @@ Apparently, it was common for both the Leica factory and third-party shops to re
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="50690004a.webp" alt="">
+        <img src="webp/50690004a.webp" lqip="lqip/50690004a.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="50690009a.webp" alt="">
+        <img src="webp/50690009a.webp" lqip="lqip/50690009a.webp" alt="">
     </div>
     <div class="caption">Vegas, HP5+ 400, october 2017ish.</div>
     <div class="caption">Vegas, HP5+ 400, october 2017ish.</div>
@@ -1098,37 +1098,37 @@ Apparently, it was common for both the Leica factory and third-party shops to re
 ## Nikon S2
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_101251.webp" alt="">
+        <img src="webp/20250510_101251.webp" lqip="lqip/20250510_101251.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_101446.webp" alt="">
+        <img src="webp/20250510_101446.webp" lqip="lqip/20250510_101446.webp" alt="">
     </div>
 </div>
 
 ### Nikon S2 Photo Samples
-![000306980036.webp](000306980036.webp)
+<img src="webp/000306980036.webp" lqip="lqip/000306980036.webp" alt="000306980036.webp">
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000306980012+(2).webp" alt="">
+        <img src="webp/000306980012+(2).webp" lqip="lqip/000306980012+(2).webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000306980024.webp" alt="">
+        <img src="webp/000306980024.webp" lqip="lqip/000306980024.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
-![000306980023.webp](000306980023.webp)
+<img src="webp/000306980023.webp" lqip="lqip/000306980023.webp" alt="000306980023.webp">
 
 ## Nikon F
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_101628.webp" alt="">
+        <img src="webp/20250510_101628.webp" lqip="lqip/20250510_101628.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_102116.webp" alt="">
+        <img src="webp/20250510_102116.webp" lqip="lqip/20250510_102116.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1136,10 +1136,10 @@ Apparently, it was common for both the Leica factory and third-party shops to re
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_101908.webp" alt="">
+        <img src="webp/20250510_101908.webp" lqip="lqip/20250510_101908.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_101815.webp" alt="">
+        <img src="webp/20250510_101815.webp" lqip="lqip/20250510_101815.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1150,14 +1150,14 @@ Seen here pictured with 3 different finders.
 ### Nikon F Photo Samples
 All these photos are taken with a new film stock I'm trying, LomoChrome Metropolis. I've been looking around for a color film that just oozes that *film* look, and this is a pretty strong contender. All taken with Nikon 50mm 1.4 on 4/19/25.
 
-![000310090011.webp](000310090011.webp)
+<img src="webp/000310090011.webp" lqip="lqip/000310090011.webp" alt="000310090011.webp">
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000310090035.webp" alt="">
+        <img src="webp/000310090035.webp" lqip="lqip/000310090035.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000310090007.webp" alt="">
+        <img src="webp/000310090007.webp" lqip="lqip/000310090007.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1165,36 +1165,36 @@ All these photos are taken with a new film stock I'm trying, LomoChrome Metropol
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000310090008.webp" alt="">
+        <img src="webp/000310090008.webp" lqip="lqip/000310090008.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000310090010+(2).webp" alt="">
+        <img src="webp/000310090010+(2).webp" lqip="lqip/000310090010+(2).webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000310090013.webp" alt="">
+        <img src="webp/000310090013.webp" lqip="lqip/000310090013.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000310090022.webp" alt="">
+        <img src="webp/000310090022.webp" lqip="lqip/000310090022.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
-![000289470011](000310090018+(2).webp)
+<img src="webp/000310090018 (2).webp" lqip="lqip/000310090018 (2).webp" alt="000289470011">
 
 
 ## Nikon F2
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213647.webp" alt="">
+        <img src="webp/20250219_213647.webp" lqip="lqip/20250219_213647.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_213714.webp" alt="">
+        <img src="webp/20250219_213714.webp" lqip="lqip/20250219_213714.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1280,14 +1280,14 @@ A standout lens in this lineup that doesn't get nearly enough press is the 105mm
 
 ### Nikon F2 Photo Samples
 
-![000289480015](50710030a.webp)
+<img src="webp/50710030a.webp" lqip="lqip/50710030a.webp" alt="000289480015">
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="50710012a.webp" alt="">
+        <img src="webp/50710012a.webp" lqip="lqip/50710012a.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="50710008a.webp" alt="">
+        <img src="webp/50710008a.webp" lqip="lqip/50710008a.webp" alt="">
     </div>
     <div class="caption">HP5 400, Huntsville, 2017</div>
     <div class="caption">HP5 400, Salt Lake, Aug 2017</div>
@@ -1295,10 +1295,10 @@ A standout lens in this lineup that doesn't get nearly enough press is the 105mm
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="50710005a.webp" alt="">
+        <img src="webp/50710005a.webp" lqip="lqip/50710005a.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="50710001a.webp" alt="">
+        <img src="webp/50710001a.webp" lqip="lqip/50710001a.webp" alt="">
     </div>
     <div class="caption">HP5 400, Salt Lake, Aug 2017</div>
     <div class="caption">HP5 400, Huntsville, 2017</div>
@@ -1307,26 +1307,26 @@ A standout lens in this lineup that doesn't get nearly enough press is the 105mm
 <!-- ## Exakta
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_104950.webp" alt="">
+        <img src="webp/20250510_104950.webp" lqip="lqip/20250510_104950.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_104937.webp" alt="">
+        <img src="webp/20250510_104937.webp" lqip="lqip/20250510_104937.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
 
-![20250510_133215.webp](20250510_133215.webp) -->
+<img src="webp/20250510_133215.webp" lqip="lqip/20250510_133215.webp" alt="20250510_133215.webp"> -->
 
 
 ## Voigtländer Prominent
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213746.webp" alt="">
+        <img src="webp/20250219_213746.webp" lqip="lqip/20250219_213746.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_213813.webp" alt="">
+        <img src="webp/20250219_213813.webp" lqip="lqip/20250219_213813.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1366,7 +1366,7 @@ Emotionally, I love this camera. Practically, it's a mess. Despite its wonderful
 
 ### Accessories
 
-![LRM_EXPORT_717721688242510_20210123_141146315.webp](LRM_EXPORT_717721688242510_20210123_141146315.webp)
+<img src="webp/LRM_EXPORT_717721688242510_20210123_141146315.webp" lqip="lqip/LRM_EXPORT_717721688242510_20210123_141146315.webp" alt="LRM_EXPORT_717721688242510_20210123_141146315.webp">
 
 I bought mine with just about every accessory under the sun, so let me take a moment to enumerate them here.
 
@@ -1412,7 +1412,7 @@ Many of the accessories are stamped with "West Germany".
 
 ### Voigtländer Prominent Photo Sample
 
-![000289480015](38770031.webp)
+<img src="webp/38770031.webp" lqip="lqip/38770031.webp" alt="000289480015">
 _50mm 1.5, tri-max 400, Salt Lake City_
 
 
@@ -1421,10 +1421,10 @@ _50mm 1.5, tri-max 400, Salt Lake City_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_214457.webp" alt="">
+        <img src="webp/20250219_214457.webp" lqip="lqip/20250219_214457.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_214515.webp" alt="">
+        <img src="webp/20250219_214515.webp" lqip="lqip/20250219_214515.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1432,10 +1432,10 @@ _50mm 1.5, tri-max 400, Salt Lake City_
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="rollei-35-camera-advert-in-a-natgeo-magazine-july-1969-2PCEKXC.jpg" alt="">
+        <img src="webp/rollei-35-camera-advert-in-a-natgeo-magazine-july-1969-2PCEKXC.webp" lqip="lqip/rollei-35-camera-advert-in-a-natgeo-magazine-july-1969-2PCEKXC.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="4104508626_337122d980_h.jpg" alt="">
+        <img src="webp/4104508626_337122d980_h.webp" lqip="lqip/4104508626_337122d980_h.webp" alt="">
     </div>
     <div class="caption">Originally advertised as the "World's smallest 35mm camera" -Natgeo, July 1969</div>
     <div class="caption">As electronic miniture cameras were released, this was changed to "World's smallest 35mm precision camera" -Oct 1976</div>
@@ -1495,14 +1495,14 @@ As usual, Mike Eckman has an [excellent write-up](https://mikeeckman.com/2021/02
 
 ### Rollei 35 S Photo Samples
 
-![000289480015](54890024.webp)
+<img src="webp/54890024.webp" lqip="lqip/54890024.webp" alt="000289480015">
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="54890022.webp" alt="">
+        <img src="webp/54890022.webp" lqip="lqip/54890022.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="54890020.webp" alt="">
+        <img src="webp/54890020.webp" lqip="lqip/54890020.webp" alt="">
     </div>
     <div class="caption">Nov 2017, Kodak 400 t-max, Chicago, IL</div>
     <div class="caption">Nov 2017, Kodak 400 t-max, Chicago, IL</div>
@@ -1513,10 +1513,10 @@ As usual, Mike Eckman has an [excellent write-up](https://mikeeckman.com/2021/02
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213217.webp" alt="">
+        <img src="webp/20250219_213217.webp" lqip="lqip/20250219_213217.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_213239.webp" alt="">
+        <img src="webp/20250219_213239.webp" lqip="lqip/20250219_213239.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1529,10 +1529,10 @@ This is an astonishingly weird camera. Originally used for aerial photography, i
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000239390001 (3).webp" alt="">
+        <img src="webp/000239390001 (3).webp" lqip="lqip/000239390001 (3).webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000239390007 (1).webp" alt="">
+        <img src="webp/000239390007 (1).webp" lqip="lqip/000239390007 (1).webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1542,10 +1542,10 @@ This is an astonishingly weird camera. Originally used for aerial photography, i
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_214123.webp" alt="">
+        <img src="webp/20250219_214123.webp" lqip="lqip/20250219_214123.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_214143.webp" alt="">
+        <img src="webp/20250219_214143.webp" lqip="lqip/20250219_214143.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1588,28 +1588,28 @@ I sort of thought that the max aperture of f/4 would be a challenge, but for the
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289480004 (1).webp" alt="">
+        <img src="webp/000289480004 (1).webp" lqip="lqip/000289480004 (1).webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289480003 (2).webp" alt="">
+        <img src="webp/000289480003 (2).webp" lqip="lqip/000289480003 (2).webp" alt="">
     </div>
     <div class="caption">Narrow Alley, 2025</div>
     <div class="caption">Street Eating, 2025</div>
 </div>
 
 
-![000289480002](000289480002.webp)
-![000289470007](000289470007.webp)
+<img src="webp/000289480002.webp" lqip="lqip/000289480002.webp" alt="000289480002">
+<img src="webp/000289470007.webp" lqip="lqip/000289470007.webp" alt="000289470007">
 
-![000289480015](000289480015.webp)
+<img src="webp/000289480015.webp" lqip="lqip/000289480015.webp" alt="000289480015">
 
 ## Fuji GW690ii
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250510_100742.webp" alt="">
+        <img src="webp/20250510_100742.webp" lqip="lqip/20250510_100742.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250510_100802.webp" alt="">
+        <img src="webp/20250510_100802.webp" lqip="lqip/20250510_100802.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1648,10 +1648,10 @@ it came with a broken light meter and the seller gave me back 200 for a total co
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="fuji_1.webp" alt="">
+        <img src="webp/fuji_1.webp" lqip="lqip/fuji_1.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="fuji_2.webp" alt="">
+        <img src="webp/fuji_2.webp" lqip="lqip/fuji_2.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1660,26 +1660,26 @@ it came with a broken light meter and the seller gave me back 200 for a total co
 ### Fuji GW690ii Example Photos
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000311630004+(1).webp" alt="">
+        <img src="webp/000311630004+(1).webp" lqip="lqip/000311630004+(1).webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000311630006.webp" alt="">
+        <img src="webp/000311630006.webp" lqip="lqip/000311630006.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption">you can get really punchy results out of this lens</div>
 </div>
 
-![000311630002.webp](000311630002.webp)
+<img src="webp/000311630002.webp" lqip="lqip/000311630002.webp" alt="000311630002.webp">
 
 
 ## Fujica GS645 Pro
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20250219_213850.webp" alt="">
+        <img src="webp/20250219_213850.webp" lqip="lqip/20250219_213850.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250219_213921.webp" alt="">
+        <img src="webp/20250219_213921.webp" lqip="lqip/20250219_213921.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1723,10 +1723,10 @@ Sadly, the light meter really was broken, and no amount of opening the camera, a
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20210120_015814.webp" alt="">
+        <img src="webp/20210120_015814.webp" lqip="lqip/20210120_015814.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20210120_105407.webp" alt="">
+        <img src="webp/20210120_105407.webp" lqip="lqip/20210120_105407.webp" alt="">
     </div>
     <div class="caption">notice the silver round thing in the lid, and the corresponding hole in the body</div>
     <div class="caption">iirc, the two wires in the middle of the frame make the lightmeter contact</div>
@@ -1734,10 +1734,10 @@ Sadly, the light meter really was broken, and no amount of opening the camera, a
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="20210120_110121.webp" alt="">
+        <img src="webp/20210120_110121.webp" lqip="lqip/20210120_110121.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20210120_113456.webp" alt="">
+        <img src="webp/20210120_113456.webp" lqip="lqip/20210120_113456.webp" alt="">
     </div>
     <div class="caption">when the silver tab contacts the black prong, the circut is completed</div>
     <div class="caption">bent contact</div>
@@ -1795,21 +1795,10 @@ If there is one negative, it's that they have crammed all the controls within 1m
 ### Fujica GS645 Pro Photo Samples
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img049.webp" alt="">
+        <img src="webp/img049.webp" lqip="lqip/img049.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img056-3.webp" alt="">
-    </div>
-    <div class="caption"></div>
-    <div class="caption"></div>
-</div>
-
-<div class="grid-container grid-2x2">
-    <div class="image-div">
-        <img src="arsimg054.webp" alt="">
-    </div>
-    <div class="image-div">
-        <img src="img055-2.webp" alt="">
+        <img src="webp/img056-3.webp" lqip="lqip/img056-3.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1817,10 +1806,21 @@ If there is one negative, it's that they have crammed all the controls within 1m
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="1000022027.webp" alt="">
+        <img src="webp/arsimg054.webp" lqip="lqip/arsimg054.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289500002 (1).webp" alt="">
+        <img src="webp/img055-2.webp" lqip="lqip/img055-2.webp" alt="">
+    </div>
+    <div class="caption"></div>
+    <div class="caption"></div>
+</div>
+
+<div class="grid-container grid-2x2">
+    <div class="image-div">
+        <img src="webp/1000022027.webp" lqip="lqip/1000022027.webp" alt="">
+    </div>
+    <div class="image-div">
+        <img src="webp/000289500002 (1).webp" lqip="lqip/000289500002 (1).webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1831,13 +1831,13 @@ If there is one negative, it's that they have crammed all the controls within 1m
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
-        <img src="20250313_183008.webp" alt="">
+        <img src="webp/20250313_183008.webp" lqip="lqip/20250313_183008.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250313_183019.webp" alt="">
+        <img src="webp/20250313_183019.webp" lqip="lqip/20250313_183019.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250313_183048.webp" alt="">
+        <img src="webp/20250313_183048.webp" lqip="lqip/20250313_183048.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1866,19 +1866,19 @@ God only knows.
 
 ### Haze
 
-![20250303_162408.webp](20250303_162408.webp)
+<img src="webp/20250303_162408.webp" lqip="lqip/20250303_162408.webp" alt="20250303_162408.webp">
 
 Yep, there she is. This level of haze would absolutely affect the final photos, ruining the contrast and sharpness. It looks to be underneath the front element.
 
 <div class="grid-container grid-3x2">
     <div class="image-div">
-        <img src="20250303_170230.webp" alt="">
+        <img src="webp/20250303_170230.webp" lqip="lqip/20250303_170230.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250303_164508.webp" alt="">
+        <img src="webp/20250303_164508.webp" lqip="lqip/20250303_164508.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="20250303_165415.webp" alt="">
+        <img src="webp/20250303_165415.webp" lqip="lqip/20250303_165415.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption">Notice the mark made by the manufacturer that outlines the tab location.</div>
@@ -1893,7 +1893,7 @@ I think it would be possible to misinstall it in at least 6 different ways, once
 
 It is definitely possible to screw it back in incorrectly. I had to try 3 times before I caught the threads correctly and ended up back in my starting position.
 
-![20250303_165342.webp](20250303_165342.webp)
+<img src="webp/20250303_165342.webp" lqip="lqip/20250303_165342.webp" alt="20250303_165342.webp">
 
 Thankfully, there was only haze on the back of the front element, and it cleaned off easily with a glasses wipe and a Q-tip.
 
@@ -1925,11 +1925,11 @@ I will say that the minimum focusing distance is a *brutal* 1.5 meters, so this 
 
 ### Zeiss Super Ikonta 531/2 Photo Samples
 
-![000295660007+(1).webp](000295660007+(1).webp)
+<img src="webp/000295660007 (1).webp" lqip="lqip/000295660007 (1).webp" alt="000295660007+(1).webp">
 
-![000289480015](000295660008+(2).webp)
+<img src="webp/000295660008 (2).webp" lqip="lqip/000295660008 (2).webp" alt="000289480015">
 
-![Screenshot_20250305_150229_Lightroom.webp](Screenshot_20250305_150229_Lightroom.webp)
+<img src="webp/Screenshot_20250305_150229_Lightroom.webp" lqip="lqip/Screenshot_20250305_150229_Lightroom.webp" alt="Screenshot_20250305_150229_Lightroom.webp">
 
 <!-- 
 ## Removed 
@@ -1937,30 +1937,30 @@ I removed these pictures as not good enough for the post. Let me know if you thi
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img076-2.webp" alt="">
+        <img src="webp/img076-2.webp" lqip="lqip/img076-2.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="000289560010.webp" alt="">
+        <img src="webp/000289560010.webp" lqip="lqip/000289560010.webp" alt="">
     </div>
     <div class="caption">click on this one to see it full size</div>
     <div class="caption"></div>
 </div>
 
-![img010.webp](img010.webp)
-![000289480015](000289510007+(1).webp)
+<img src="webp/img010.webp" lqip="lqip/img010.webp" alt="img010.webp">
+<img src="webp/000289510007 (1).webp" lqip="lqip/000289510007 (1).webp" alt="000289480015">
 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="000289500007 (1).webp" alt="">
+        <img src="webp/000289500007 (1).webp" lqip="lqip/000289500007 (1).webp" alt="">
     </div>
     <div class="image-div">
-        <img src="1000022025.webp" alt="">
+        <img src="webp/1000022025.webp" lqip="lqip/1000022025.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
 </div>
-![arst](1000022029.webp)
+<img src="webp/1000022029.webp" lqip="lqip/1000022029.webp" alt="arst">
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
@@ -1976,10 +1976,10 @@ I removed these pictures as not good enough for the post. Let me know if you thi
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="img007_1.webp" alt="">
+        <img src="webp/img007_1.webp" lqip="lqip/img007_1.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="img008_1.webp" alt="">
+        <img src="webp/img008_1.webp" lqip="lqip/img008_1.webp" alt="">
     </div>
     <div class="caption"></div>
     <div class="caption"></div>
@@ -1997,28 +1997,28 @@ I removed these pictures as not good enough for the post. Let me know if you thi
 </div>
 
 
-![000289470011](000289470011.webp)
+<img src="webp/000289470011.webp" lqip="lqip/000289470011.webp" alt="000289470011">
 
 
 <div class="grid-container grid-2x2">
     <div class="image-div">
-        <img src="98530003.webp" alt="">
+        <img src="webp/98530003.webp" lqip="lqip/98530003.webp" alt="">
     </div>
     <div class="image-div">
-        <img src="98530026.webp" alt="">
+        <img src="webp/98530026.webp" lqip="lqip/98530026.webp" alt="">
     </div>
     <div class="caption">fm...Huntsville, 2016?</div>
     <div class="caption">Huntsville, 2016?</div>
 </div> -->
 
 
-<!-- ![000289470011](img010.webp) -->
-<!-- ![000289470011](000289510010.webp)
-![000289470011](000289510009.webp)
-![000289470011](1000022028.webp)
-![000289470011](img053-2.webp)
-![000289470001](000289470001.webp) -->
-<!-- ![000289470011](img062-2.webp) -->
+<!-- <img src="webp/img010.webp" lqip="lqip/img010.webp" alt="000289470011"> -->
+<!-- <img src="webp/000289510010.webp" lqip="lqip/000289510010.webp" alt="000289470011">
+<img src="webp/000289510009.webp" lqip="lqip/000289510009.webp" alt="000289470011">
+<img src="webp/1000022028.webp" lqip="lqip/1000022028.webp" alt="000289470011">
+<img src="webp/img053-2.webp" lqip="lqip/img053-2.webp" alt="000289470011">
+<img src="webp/000289470001.webp" lqip="lqip/000289470001.webp" alt="000289470001"> -->
+<!-- <img src="webp/img062-2.webp" lqip="lqip/img062-2.webp" alt="000289470011"> -->
 
 
 
@@ -2031,7 +2031,7 @@ I removed these pictures as not good enough for the post. Let me know if you thi
 20250219_214229.webp zeiss ikon side -->
 
 <!-- <div class="image-div">
-    <img src="RolleiAd-4.jpg" alt="stand alone rollei add">
+    <img src="webp/RolleiAd-4.webp" lqip="lqip/RolleiAd-4.webp" alt="stand alone rollei add">
 </div> -->
 
 <!-- From a text with greg: actual prices:
