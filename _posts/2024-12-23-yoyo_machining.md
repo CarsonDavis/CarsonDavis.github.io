@@ -14,3 +14,6 @@ guy doing some machining of actual high performance yoyos
 
 https://www.youtube.com/watch?v=5_P_82qJZ5I
 
+slant yoyo in al
+
+https://www.youtube.com/watch?v=i2eIAHLCEuQ
