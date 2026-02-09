@@ -200,7 +200,8 @@ def migrate_content(content: str) -> tuple[str, int]:
 
     # Migrate Markdown images: ![alt](src)
     # Must come after HTML migration to avoid double-processing
-    markdown_img_pattern = re.compile(r"!\[([^\]]*)\]\(([^)]+)\)")
+    # Allows one level of balanced parentheses in filenames, e.g. file (1).webp
+    markdown_img_pattern = re.compile(r"!\[([^\]]*)\]\(((?:[^()]*|\([^()]*\))+)\)")
 
     def count_md_migration(m):
         nonlocal changes
