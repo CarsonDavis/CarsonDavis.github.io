@@ -51,7 +51,7 @@ def convert_to_webp(source_path: str, destination_path: str) -> None:
         [
             "cwebp",
             "-q",
-            "70",
+            "60",
             "-metadata",
             "icc",  # Preserve ICC profile
             "-mt",  # Enable multi-threading
@@ -106,7 +106,7 @@ def convert_images_to_webp(source_folder: str) -> None:
     destination_folder = create_output_directory(source_folder)
 
     for filename in os.listdir(source_folder):
-        if filename.lower().endswith((".jpeg", ".jpg")):
+        if filename.lower().endswith((".jpeg", ".jpg", ".png", ".tiff", ".tif")):
             source_path = os.path.join(source_folder, filename)
             destination_path = os.path.join(
                 destination_folder, f"{os.path.splitext(filename)[0]}.webp"
