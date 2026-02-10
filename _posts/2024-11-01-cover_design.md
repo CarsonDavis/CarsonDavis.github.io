@@ -59,6 +59,8 @@ I've made around a half dozen covers in Affinity, and it feels like every time I
 
 In this post, I've tried to consolidate a rough overview of my process, with some tips and tricks along the way...to hopefully finally break me out of the relearning cycle.
 
+If you want to see finished covers made with this process, check out my [Bookbinding Projects Log]({% link _posts/2024-11-02-bookbinding_projects.md %}).
+
 If you are _completely_ new to Affinity and Silhouette, it's probably a good idea to at least watch a couple tutorials online. I personally really enjoyed working through the videos by [Design Made Simple](https://www.youtube.com/watch?v=tAiAOprFNtU).
 
 

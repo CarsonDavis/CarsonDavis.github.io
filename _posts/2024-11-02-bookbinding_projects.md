@@ -59,6 +59,12 @@ I've been binding books on and off for a little under two years now. I've watche
 It's been a lot of fun, and I honestly feel like I still haven't even scratched the surface. There are an endless amount of techniques to learn and master, and centuries worth of knowledge to absorb.
 
 
+>**Related Posts:** 
+- To see how I design and cut the cover art, check out my [Book Cover Design]({% link _posts/2024-11-01-cover_design.md %}) post.
+- For all the tools and equipment, see [Bookbinding Tools]({% link _posts/2024-10-29-bookbinding_tools.md %}).
+{: .prompt-info }
+
+
 ## Bookbinding Projects
 ### Project #1: Tiny Book
 <div class="grid-container grid-2x2">
