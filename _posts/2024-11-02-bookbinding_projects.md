@@ -61,7 +61,7 @@ It's been a lot of fun, and I honestly feel like I still haven't even scratched 
 
 >**Related Posts:** 
 - To see how I design and cut the cover art, check out my [Book Cover Design]({% link _posts/2024-11-01-cover_design.md %}) post.
-- For all the tools and equipment, see [Bookbinding Tools]({% link _posts/2024-10-29-bookbinding_tools.md %}).
+- For all the tools and equipment, see [Bookbinding Equipment]({% link _posts/2023-08-26-bookbinding_equipment.md %}).
 {: .prompt-info }
 
 
