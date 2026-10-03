@@ -211,7 +211,7 @@ With this evidence, I'm not sure. If I get a bit of time, I'll pick maybe 3 samp
 ## Final Translations
 The final translations are, at best, ok. The main text is typically very good, but the highly abbreviated and often truncated annotations are a bit of a mess. Thankfully, whenever an annotation is particularly long, as in page 30 above, the printer has placed it in the main body of the page. 
 
-The full side-by-side transcription and translation lives at [translations.codebycarson.com/martin-guerre](https://translations.codebycarson.com/martin-guerre/), all 162 pages are up, and the translation is still under review, so expect corrections.
+The full side-by-side transcription and translation lives at [translations.codebycarson.com/martin-guerre](https://translations.codebycarson.com/martin-guerre/). All 162 pages are up, and the translation is still under review, so expect corrections.
 
 <iframe src="https://translations.codebycarson.com/martin-guerre/?embed=1#p004" title="Arrest memorable (1572): page scans with transcription and translation" loading="lazy" width="100%" height="680" style="width: 100%; height: 680px; border: 0;"></iframe>
 
