@@ -1,7 +1,7 @@
 ---
 title: Troublesome Translations
 date: 2025-03-10
-last_modified_at: 2025-03-12
+last_modified_at: 2026-10-03
 categories: [coding, ocr]
 tags: []
 description: Attempting to translate a 16th-century French text with OCR
@@ -52,6 +52,7 @@ published: True
         color: #6d6c6c;
     }
 </style>
+
 
 ## Background
 ### Martin Guerre
@@ -211,11 +212,55 @@ With this evidence, I'm not sure. If I get a bit of time, I'll pick maybe 3 samp
 ## Final Translations
 The final translations are, at best, ok. The main text is typically very good, but the highly abbreviated and often truncated annotations are a bit of a mess. Thankfully, whenever an annotation is particularly long, as in page 30 above, the printer has placed it in the main body of the page. 
 
+## 2026 Update!
+
+When I wrote this post back in early 2025, translating a book like this was right at the edge AI capabilities. I spent hours deciding how the translation should work, babysat every step, ran many much of the code by hand, and at the end of it all I was... moderately pleased. The main text was good. The annotations less so.
+
+I honestly never actually fully translated and posted the whole book. Now, a year and a half has gone by, and models are *way* better. Not just better at 1500s French. Better at planning, delegating, designing pipelines, working autonously, making independ decision...eveything. So I did the whole thing again with Fable 5.1 and Opus 5.5.
+
+The difference is kind of absurd. I opened the old repo, pointed Fable at it, and it read my entire half-finished process, found the inefficiencies, and proposed a better one on its own. My "technique" this time was mostly putting in headphones, dictating a rough plan, and reviewing what came back. Most of my actual effort went into stopping it from burning tokens. The first night I let it spawn whatever it wanted, and I woke up to find it had used about 80% of my weekly budget in one eight-hour session. Good work, mind you. Just not cheap work. So I typed one sentence asking it to go analyze its own token usage and find a cheaper path, and it did. Most of the optimization in the second pass was the model fixing the model.
+
+To give you a flavor of modern capabilities, partway through I had two Opus agents producing two slightly different transcriptions of every page and no good way to pick between them, short of feeding everything to Fable and losing my tokens for the week. So I said, more or less, "build me a website where I can click through the disagreements." A few minutes later I had one. Keyboard shortcuts, cropped snippets of the disputed word, hover to see the whole page, auto-advance to the next item. In the 2025 post I was impressed that it could write me a download script. These days I barely notice when it writes production ready tools on the fly.
+
+Anyway, AI is fucking awesome.
+
+### How it actually worked
+
+```mermaid
+flowchart TD
+  S[162 page scans] --> A[Opus reader A]
+  S --> B[Opus reader B]
+  A --> D[diff: ~300 disagreements,<br/>both readings kept inline]
+  B --> D
+  D --> T[Fable translator,<br/>12 sections at a time]
+  T --> F[French transcription<br/>with the chosen reading]
+  T --> E[English + 949 citation notes]
+  F --> R[Fable review:<br/>5 whole-book passes, in sequence]
+  E --> R
+  R --> P[edit plan, applied by a script]
+  P --> O1[Opus sweep for<br/>dropped clauses and flipped negations]
+  P --> O2[Opus checks 46 suspected<br/>misreadings against the scans]
+  O1 --> W[side-by-side site]
+  O2 --> W
+```
+
+1. **Two readers per page.** Two Opus agents transcribe each page independently, one pass, no zooming. They agree 94 to 100% of the time.
+2. **Disagreements go to the translator, not to me.** Wherever the readers differ, both readings stay in the French with a marker, and the translator picks the one that makes sense in context. Its choice gets written back into the transcription, tagged as the translator's call, so it can be overridden later.
+3. **Translation in batches.** Fable translates twelve sections at a time with the whole French as context, and identifies every marginal citation: Digest, Decretum, Cicero, Ovid, Augustine, the lot. There are 949 of them.
+4. **Review by reading the whole book.** Five Fable passes, one after another. Each reads the entire book plus a running glossary, fixes consistency and fidelity for its quarter, and logs its decisions so the next pass inherits them. Each pass costs about half a million tokens, and almost all of that is just reading the book in.
+5. **Opus checks the checkers.** A mechanical sweep for dropped clauses and flipped negations (it caught two the reviewers had introduced), and a pass that holds the 46 words the reviewers thought were misread up against the actual scans. The print was wrong every single time. The readers were right.
+6. **A site that shows its work.** Every contested word is underlined, and hovering tells you both readings and who decided: the editor, the translation model, or nobody yet.
+
+For scale: the only previous English translation, from 1982, covered the court record, about 8,000 words. This one covers the court record, all 111 annotations, and every citation. About 53,000 words of English and another 95,000 words of notes.
+
+The whole pipeline is in the repo at [github.com/CarsonDavis/ocr_translation](https://github.com/CarsonDavis/ocr_translation). If you've got an old book of your own with Latin in the margins, `PIPELINE.md` is written for a Claude Code session to read and run, and `2026/docs/playbook.md` is the human version of the same thing. Scan it, describe it in a paragraph, hand it over.
+
 The full side-by-side transcription and translation lives at [translations.codebycarson.com/martin-guerre](https://translations.codebycarson.com/martin-guerre/). All 162 pages are transcribed and translated, with every marginal citation expanded as a sidenote.
 
-<iframe src="https://translations.codebycarson.com/martin-guerre/?embed=1#p004" title="Arrest memorable (1572): page scans with transcription and translation" loading="lazy" width="100%" height="680" style="width: 100%; height: 680px; border: 0;"></iframe>
+[![viewer_2026.webp](viewer_2026.webp)](https://translations.codebycarson.com/martin-guerre/)
+_Page 40: the scan, the English, and a sidenote identifying the Seneca citation. [Open the full viewer ↗](https://translations.codebycarson.com/martin-guerre/)_
 
-_Page 4 of the 1572 edition. [Open the full viewer ↗](https://translations.codebycarson.com/martin-guerre/)_
+**[Read the full translation at translations.codebycarson.com/martin-guerre →](https://translations.codebycarson.com/martin-guerre/)**
 
 ![return_engraving.jpg](return_engraving.jpg)
 _Engraving from 1871 in 'Histoire Des Cocus Celebres' by Henry de Kock_
