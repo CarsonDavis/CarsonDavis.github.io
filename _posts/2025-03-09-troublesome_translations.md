@@ -257,9 +257,6 @@ The whole pipeline is in the repo at [github.com/CarsonDavis/ocr_translation](ht
 
 The full side-by-side transcription and translation lives at [translations.codebycarson.com/martin-guerre](https://translations.codebycarson.com/martin-guerre/). All 162 pages are transcribed and translated, with every marginal citation expanded as a sidenote.
 
-[![viewer_2026.webp](viewer_2026.webp)](https://translations.codebycarson.com/martin-guerre/)
-_Page 40: the scan, the English, and a sidenote identifying the Seneca citation. [Open the full viewer ↗](https://translations.codebycarson.com/martin-guerre/)_
-
 **[Read the full translation at translations.codebycarson.com/martin-guerre →](https://translations.codebycarson.com/martin-guerre/)**
 
 ![return_engraving.jpg](return_engraving.jpg)
